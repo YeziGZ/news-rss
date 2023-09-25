@@ -3,7 +3,7 @@
 </p>
 <div align="center">
  
-# LeekHub News
+# Media News
 
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable-next-line MD036 -->
@@ -43,7 +43,3 @@
 ## 相关网页
 
 - [LeekHub News](https://news.leekhub.com/)
-
-## License
-
-MIT
