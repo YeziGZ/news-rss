@@ -1,0 +1,22 @@
+[
+  {
+    "tag": "AIGC",
+    "filename": "aigc",
+    "keywords": "AIGC|aigc|gpt|文心一言|通义千问|Stable|Diffusion|Stable Diffusion|Midjourney|Hugging Face|Hugging|Face|openai|OpenAI|Open AI|prompt|Prompt|DALL|Dall|Bard|LLM|llm|大模型|模型|Hugging Face"
+  },
+  {
+    "tag": "新媒体",
+    "filename": "media",
+    "keywords": "新媒体|社群|短视频|"
+  },
+  {
+    "tag": "职场",
+    "filename": "zhichang",
+    "keywords": "职场|薪资|升职|"
+  },
+  {
+    "tag": "其它",
+    "filename": "other",
+    "keywords": ""
+  }
+]
