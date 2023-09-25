@@ -1,20 +1,20 @@
 <p align="center">
-  <img width="100" src="https://raw.githubusercontents.com/LeekHub/leek-fund/master/screenshot/leek-logo.png" />
+  <img width="100" src="https://rsshub.app/logo.png" />
 </p>
 <div align="center">
  
-# LeekHub News
+# Media News
 
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable-next-line MD036 -->
-✨ 定时抓取金融资讯文章 ✨
+✨ 定时抓取新媒体资讯文章 ✨
 <!-- prettier-ignore-end -->
 
 <p align="center">
-  <img src="https://img.shields.io/github/v/release/LeekHub/leekhub-news?display_name=tag" />
-  <img src="https://img.shields.io/github/stars/LeekHub/leekhub-news" />
-  <img src="https://img.shields.io/github/forks/LeekHub/leekhub-news" />
-  <img src="https://img.shields.io/github/issues/LeekHub/leekhub-news" />
+  <img src="https://img.shields.io/github/v/release/YeziGZ/news-rss?display_name=tag" />
+  <img src="https://img.shields.io/github/stars/YeziGZ/news-rss" />
+  <img src="https://img.shields.io/github/forks/YeziGZ/news-rss" />
+  <img src="https://img.shields.io/github/issues/YeziGZ/news-rss" />
   <img src="https://img.shields.io/badge/license-Apache%20-yellow.svg" />
 </p>
 
@@ -22,13 +22,13 @@
 
 ##
 
-在线浏览：[https://news.leekhub.com/](https://news.leekhub.com/)
+在线浏览：[https://news.isanote.com/](https://news.isanote.com/)
 
-备用网站：[https://leekhub-news.vercel.app/](https://leekhub-news.vercel.app/)
+备用网站：[https://isa-news.vercel.app/](https://isa-news.vercel.app/)
 
-:alarm_clock: 更新时间: 2023-09-25 16:22:41
+:alarm_clock: 更新时间: 2023-09-25 23:55:43
 
-:rocket: 更新条数: +35 - ![](/assets/dot.png) 表示有更新
+:rocket: 更新条数: +20 - ![](/assets/dot.png) 表示有更新
 
 ## 查看文章
 
@@ -38,18 +38,8 @@
 
 ## 功能概览
 
-- 采用 Vue3 与 Vant UI 组件库，支持 PC 端/移动端 适配，支持搜索、筛选功能
+- 每日定时更新文章
 
-- 采用 Node.js 定时任务，每日定时更新文章
+## 相关网页
 
-## 贡献指南
-
-如果你有高质量的 `金融` 相关的公众号、订阅号推荐，请提出 [Issue](https://github.com/LeekHub/leekhub-news/issues)，我会及时进行更新，感谢分享！
-
-## 特别鸣谢
-
-感谢 [RSSHub](https://github.com/DIYgod/RSSHub) 提供的微信公众号 RSS 链接
-
-## License
-
-MIT
+- [LeekHub News](https://news.leekhub.com/)
