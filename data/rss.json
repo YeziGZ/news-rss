@@ -6,5 +6,9 @@
   {
     "title": "QuestMobile",
     "rss": "https://rsshub.app/questmobile/report/0/0"
+  },
+  {
+    "title": "艾瑞",
+    "rss": "https://rsshub.app/iresearch/report"
   }
 ]
