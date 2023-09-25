@@ -12,7 +12,12 @@
   {
     "tag": "职场",
     "filename": "zhichang",
-    "keywords": "职场|薪资|升职|"
+    "keywords": "职场|薪资|升职|培训"
+  },
+  {
+    "tag": "报告",
+    "filename": "report",
+    "keywords": "报告|月报"
   },
   {
     "tag": "其它",
