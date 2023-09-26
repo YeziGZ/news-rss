@@ -16,8 +16,8 @@ jobs:
 
       - name: Git config 🔧
         run: |
-          git config --global user.name "giscafer"
-          git config --global user.email "giscafer@outlook.com"
+          git config --global user.name "YeziGZ"
+          git config --global user.email "yezi@bpteach.com"
 
       - name: Update news
         run: |
