@@ -93,6 +93,6 @@ module.exports = {
     }
   },
   async getHomePage() {
-    return 'https://news.leekhub.com/'
+    return 'https://news.isanote.com/'
   }
 }
