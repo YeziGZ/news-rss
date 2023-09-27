@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-09-26 23:35:51。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-09-27 01:32:50。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## AIGC
 
@@ -7,4 +7,5 @@
 
 
 
+- [2023-09-27-券商晨会精华：多模态大模型推动AI迈向“通感”时代-算力需求将大幅提升](https://www.cls.cn/detail/1473761) 
 - [2023-08-22-2023年中国AIGC产业全景报告](https://report.iresearch.cn/report/202308/4227.shtml) 
