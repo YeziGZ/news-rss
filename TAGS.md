@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-10-08 23:35:40。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-10-09 01:33:13。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -24,8 +24,8 @@
 
 
 - [【36kr】OpenAI开发者大会将至，人工智能产业趋势加速，可关注标的一览](https://www.cls.cn/detail/1474896)
-- [【36kr】美油创13个月以来新高-ChatGPT再迎重磅升级-|-环球市场](https://www.cls.cn/detail/1474834)
 - [【36kr】券商晨会精华：多模态大模型推动AI迈向“通感”时代-算力需求将大幅提升](https://www.cls.cn/detail/1473761)
+- [【36kr】美油创13个月以来新高-ChatGPT再迎重磅升级-|-环球市场](https://www.cls.cn/detail/1474834)
 - [【艾瑞】2023年中国AIGC产业全景报告](https://report.iresearch.cn/report/202308/4227.shtml)
 - [......【查看更多】......](/details/tags/aigc.md)
 
@@ -43,26 +43,26 @@
 
 
 
-- [【36kr】巴以冲突愈演愈烈-石油交易商紧盯伊朗](https://www.cls.cn/detail/1479243)
-- [【36kr】许家印被采取强制措施后-新战投纽顿集团发问恒大汽车](https://www.cls.cn/detail/1479241)
-- [【36kr】加沙地带再起战火-阿盟秘书长赴俄讨论巴以局势](https://www.cls.cn/detail/1479225)
-- [【36kr】国家主席习近平任免驻外大使](https://www.cls.cn/detail/1479205)
-- [【36kr】如何看恒大在美申请破产保护？-专家：通过争取海外资产不被无序分割-来推动企业债务重组顺利进行](https://www.cls.cn/detail/1479184)
-- [【36kr】5亿票房营收仅5万，投了个寂寞？华谊兄弟：公告数据按规则披露](https://www.cls.cn/detail/1479172)
-- [【36kr】中资房企在美申请“破产保护”，并非引向破产清算，而是提供债务重组机会](https://www.cls.cn/detail/1479170)
-- [【36kr】卖不动！白酒双节消费降档明显-节后渠道库存仍高企|行业动态](https://www.cls.cn/detail/1479143)
-- [【36kr】巴以冲突致中东股市巨震-以色列基准股指一度暴跌超7%](https://www.cls.cn/detail/1479142)
-- [【36kr】河南地产龙头被造谣破产，建业集团声明传言不实](https://www.cls.cn/detail/1478999)
-- [【36kr】美国新议长下周拉开选举序幕-援乌支出或成为决胜关键命题](https://www.cls.cn/detail/1478978)
-- [【36kr】非农经不起细挖？美国就业市场红火背后-仍暗藏“冰冷一面”](https://www.cls.cn/detail/1478907)
-- [【36kr】十大券商策略：海外风险反复-A股却可以逐渐乐观起来](https://www.cls.cn/detail/1479082)
-- [【36kr】以总理警告：以色列面临一场漫长而艰难的战争](https://www.cls.cn/detail/1479065)
-- [【36kr】不动产投资提速-三大险企斥资122亿加码布局-业内预测未来整体收益率有望超8%](https://www.cls.cn/detail/1479047)
-- [【36kr】如何看A股10月开门走势？多项数据传递出积极信号](https://www.cls.cn/detail/1479042)
-- [【36kr】美债有望受提振？分析师：以色列遇袭或提升黄金等避险资产吸引力](https://www.cls.cn/detail/1478955)
-- [【36kr】巴以冲突升级-50年前的全球石油危机会重演吗？](https://www.cls.cn/detail/1478930)
-- [【36kr】追寻“稳稳的幸福”！高红利策略或成中长期配置主线，留意以下机会方向](https://www.cls.cn/detail/1478905)
-- [【36kr】业绩行情陆续展开！两大赛道频现“预喜”股，季报披露时间梳理，这些方向将率先“交卷”](https://www.cls.cn/detail/1478898)
+- [【36kr】巴以冲突持续升级！国际油价迎来“血色助攻”-WTI原油一度涨超4%](https://www.cls.cn/detail/1479354)
+- [【36kr】中信证券：美债利率料将持续高位运行，短期难言见顶](https://www.cls.cn/detail/1479365)
+- [【36kr】10月9日投资避雷针：巴以爆发数年来最大规模武装冲突-避险情绪升温-黄金原油周一大幅高开](https://www.cls.cn/detail/1479368)
+- [【36kr】巴以冲突激发避险需求-美元携黄金周一双双跳空高开](https://www.cls.cn/detail/1479390)
+- [【36kr】【数读IPO】浙江国祥IPO被紧急叫停-今日1只新股申购](https://www.cls.cn/detail/1479315)
+- [【36kr】【早报】巴以冲突升级，外交部：呼吁有关各方立即停火，保护平民](https://www.cls.cn/detail/1479318)
+- [【36kr】酒店满房频出、景区客流新高！上市酒旅企业双节“狂欢”-H2预判却谨慎](https://www.cls.cn/detail/1479169)
+- [【36kr】美国金融市场不容忽视的风险：高利率将更多大公司推向破产边缘](https://www.cls.cn/detail/1479136)
+- [【36kr】欧佩克领导人为化石燃料辩护：不应该污名化-世界仍然需要石油和天然气](https://www.cls.cn/detail/1479193)
+- [【36kr】稀土精矿价格年内首次上调，涨幅不及预期-业内：或与北方稀土业绩承压有关](https://www.cls.cn/detail/1479192)
+- [【36kr】销量同比下降超四成！800亿华为汽车概念股发布9月产销快报|盘后公告集锦](https://www.cls.cn/detail/1479176)
+- [【36kr】中国中免翻身了？Q3净利增逾九成-离岛免税还能“旺”多久|财报解读](https://www.cls.cn/detail/1479152)
+- [【36kr】超募16亿IPO被紧急叫停，谁在报高价？浙江国祥高发行市盈率背后有多家公募捧场](https://www.cls.cn/detail/1479106)
+- [【36kr】恒大汽车：公司股票10月9日起恢复交易](https://www.cls.cn/detail/1479101)
+- [【36kr】北交所企业可依规启动转板了！五大亮点看北交所转板新指南](https://www.cls.cn/detail/1479079)
+- [【36kr】石油专家谈巴以冲突：油价会条件反射式飙升-但影响应该有限](https://www.cls.cn/detail/1479014)
+- [【36kr】三部门：加强审计报告查验工作](https://www.cls.cn/detail/1478992)
+- [【36kr】中信证券：三底已过，蓄势待发](https://www.cls.cn/detail/1478968)
+- [【36kr】微软明年将推出搭载AI的Win12？英特尔：用户是时候换电脑了](https://www.cls.cn/detail/1478903)
+- [【36kr】紧随美联储步伐？拉加德：欧央行将维持现行政策抗通胀-但并不想制造衰退](https://www.cls.cn/detail/1478790)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
