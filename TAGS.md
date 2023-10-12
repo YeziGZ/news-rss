@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-10-12 12:51:53。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-10-12 13:36:49。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -26,8 +26,8 @@
 - [【36kr】AIGC热点持续提振！美图公司发布旗下新款大模型-股价涨幅超9%](https://www.cls.cn/detail/1480718)
 - [【36kr】ChatGPT下载榜排名大幅回暖-算力需求带动光模块景气度提升](https://www.cls.cn/detail/1480534)
 - [【36kr】OpenAI开发者大会将至，人工智能产业趋势加速，可关注标的一览](https://www.cls.cn/detail/1474896)
-- [【36kr】券商晨会精华：多模态大模型推动AI迈向“通感”时代-算力需求将大幅提升](https://www.cls.cn/detail/1473761)
 - [【36kr】美油创13个月以来新高-ChatGPT再迎重磅升级-|-环球市场](https://www.cls.cn/detail/1474834)
+- [【36kr】券商晨会精华：多模态大模型推动AI迈向“通感”时代-算力需求将大幅提升](https://www.cls.cn/detail/1473761)
 - [【艾瑞】2023年中国AIGC产业全景报告](https://report.iresearch.cn/report/202308/4227.shtml)
 - [......【查看更多】......](/details/tags/aigc.md)
 
@@ -45,26 +45,26 @@
 
 
 
-- [【36kr】涨幅史上第三！汇金出手四大行次日涨幅喜人，这一波提振有多强？16家基金公司深度解读](https://www.cls.cn/detail/1483681)
-- [【36kr】“解放军击落美军巡逻机”？钧正平辟谣](https://www.cls.cn/detail/1448665)
-- [【36kr】卫星“冲浪”不远了？SpaceX推出星链直连手机业务-锚定四项目标](https://www.cls.cn/detail/1483666)
-- [【36kr】25省化学发光试剂集采！首次组套报价、50%保底降幅-企业态度踊跃关注最高限价](https://www.cls.cn/detail/1483655)
-- [【36kr】超大特大城市城中村改造已入库162个项目-释放出哪些重要信息？](https://www.cls.cn/detail/1483621)
-- [【36kr】押注锂行业？全球最大铜生产商据称收购澳洲锂业公司快要成功了](https://www.cls.cn/detail/1483539)
-- [【36kr】欧洲电力系统又迎来“噩耗”：电力最大出口国的电厂罢工了](https://www.cls.cn/detail/1483416)
-- [【36kr】【焦点复盘】大金融强势拉升，沪指放量收复3100点，新能源赛道卷土重来](https://www.cls.cn/detail/1483553)
-- [【36kr】北向转为流入扫货！融资客也连日布局，两路资金节后表现梳理，这些板块、个股同被盯上](https://www.cls.cn/detail/1483545)
-- [【36kr】商务部等9部门联合发布《关于推动汽车后市场高质量发展的指导意见》](https://www.cls.cn/detail/1483537)
-- [【36kr】【每日收评】新能源汽车产业链全面爆发，大金融板块活跃，本轮指数反弹还能持续多久？](https://www.cls.cn/detail/1483440)
-- [【36kr】沙特阿美继续扩张在华下游业务：拟收购山东裕龙石化10%股份](https://www.cls.cn/detail/1483173)
-- [【36kr】加入国际税收体系-阿联酋依然是全球税收洼地](https://www.cls.cn/detail/1483156)
-- [【36kr】一键配置A股工具即将面世，首只跟踪中证A股指数ETF获批，对A股覆盖率超96%](https://www.cls.cn/detail/1483113)
-- [【36kr】汇金增持A股叠加增发国债传言，十年国债利率2.7%整数关口破防](https://www.cls.cn/detail/1483090)
-- [【36kr】留存涉密资料，辽宁省政协经济委员会原主任王英被开除党籍](https://www.cls.cn/detail/1483201)
-- [【36kr】美军机过航台湾海峡-东部战区发声](https://www.cls.cn/detail/1483170)
-- [【36kr】国家卫健委：2022年出生人口956万人-二孩占比为38.9%](https://www.cls.cn/detail/1483190)
-- [【36kr】第一大客户为走账做业绩？浙江国祥：为收购土地新设公司，交易真实合理](https://www.cls.cn/detail/1483159)
-- [【36kr】【财联社午报】三大指数全线上涨，新能源汽车产业链迎集体爆发](https://www.cls.cn/detail/1483069)
+- [【36kr】美国9月CPI超预期-核心CPI连续六个月下降-|-今夜看点](https://www.cls.cn/detail/1483791)
+- [【36kr】德国央行行长反驳：德国不是“欧洲病夫”-不过经济形势确实不好](https://www.cls.cn/detail/1483756)
+- [【36kr】以色列空袭叙利亚两座机场](https://www.cls.cn/detail/1483707)
+- [【36kr】【明日主题前瞻】实现6G万物互联的关键，这类资源已成为必争之地](https://www.cls.cn/detail/1483472)
+- [【36kr】多位知名基金经理调仓！傅鹏博、何帅、赵诣等动向曝光](https://www.cls.cn/detail/1483710)
+- [【36kr】IMF总裁警告：巴以冲突给全球经济蒙上新的阴影](https://www.cls.cn/detail/1483708)
+- [【36kr】碳酸锂期货全线涨停，上市以来首次！为何迅速反弹？空间还有多大？](https://www.cls.cn/detail/1483690)
+- [【36kr】印度真会如IMF预期那样迅速增长？经济学家警告：过程颠簸](https://www.cls.cn/detail/1483415)
+- [【36kr】【数据看盘】北向资金抢筹锂矿股-机构、量化多空对决张江高科](https://www.cls.cn/detail/1483592)
+- [【36kr】巴以冲突令石油交易商如坐针毡-IEA官员透露一条重要消息](https://www.cls.cn/detail/1483543)
+- [【36kr】与第一大客户走账做业绩？浙江国祥给出最新解释](https://www.cls.cn/detail/1483521)
+- [【36kr】城投发债审核趋严，投行反馈“借新还旧”要求有变，需地方政府出函？](https://www.cls.cn/detail/1483188)
+- [【36kr】美议员鼓动打压中芯国际和华为-商务部回应](https://www.cls.cn/detail/1483353)
+- [【36kr】外交部：已确认有3名中国公民在巴以冲突中不幸遇难-2人失联](https://www.cls.cn/detail/1483323)
+- [【36kr】东风小康汽车公司更名为赛力斯](https://www.cls.cn/detail/1483309)
+- [【36kr】全新产品放弃中国市场-斯柯达在华去留成疑](https://www.cls.cn/detail/1483147)
+- [【36kr】汇金增持A股四大行引市场关注-港股是否存在类似机制？](https://www.cls.cn/detail/1483120)
+- [【36kr】沙特真就富人遍地走？未来10年利雅得亿万富翁增长85%-但杭州和深圳更快](https://www.cls.cn/detail/1483028)
+- [【36kr】最高奖励50万元！公安机关公开通缉2名电诈集团头目](https://www.cls.cn/detail/1483119)
+- [【36kr】现总统将候选人告上法庭？阿根廷大选乱象迭生-金融市场风雨飘摇](https://www.cls.cn/detail/1482996)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
