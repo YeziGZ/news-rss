@@ -1,12 +1,12 @@
 ##
 
-:alarm_clock: 更新时间: 2023-10-30 07:35:24，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-10-30 08:35:59，:rocket: 更新条数: +6， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [36kr](#36kr)![](/assets/dot.png)   
 - [QuestMobile](#questmobile)  
-- [艾瑞](#艾瑞)  
+- [艾瑞](#艾瑞)![](/assets/dot.png)   
 
 ## 文章链接
 
@@ -16,26 +16,26 @@
 </summary>
 
 
-- [2023-10-30-财政部：引导保险资金长期稳健投资、加强国有商业保险公司长周期考核](https://www.cls.cn/detail/1501103)  
-- [2023-10-30-长城汽车三季度营收净利同比增超30%-H股一度涨超7%](https://www.cls.cn/detail/1500972)  
-- [2023-10-30-PD-1获FDA批准！君实生物H股一度涨超11%-机构怎么看？](https://www.cls.cn/detail/1500921)  
-- [2023-10-30-人民日报：扎扎实实把金融工作做好](https://www.cls.cn/detail/1500999)  
-- [2023-10-30-从8亿立方英尺降到0！埃及天然气进口断了-欧洲担不担心？](https://www.cls.cn/detail/1500970)  
-- [2023-10-30-景顺基金：日股一大利好即将消除-抓紧抄底中国股票！](https://www.cls.cn/detail/1500953)  
-- [2023-10-30-四张图道破：美国“债务大山”如何加剧债市崩溃？](https://www.cls.cn/detail/1500851)  
-- [2023-10-30-强烈回应！俄罗斯国家杜马主席：欧盟若收暴利税-俄就没收欧洲资产](https://www.cls.cn/detail/1500842)  
-- [2023-10-30-财联社汽车早报【10月30日】](https://www.cls.cn/detail/1500822)  
-- [2023-10-30-美国汽车大罢工进展：UAW领导人批准福特合同-通用谈判仍陷僵局](https://www.cls.cn/detail/1500812)  
-- [2023-10-30-券商晨会精华：统筹发展与安全-水利投资正当时](https://www.cls.cn/detail/1500819)  
-- [2023-10-30-美股迎来“关键一周：FED决议VS苹果财报，投资者更关注什么？](https://www.cls.cn/detail/1500794)  
-- [2023-10-30-以色列总理办公室发言人称以方“坚决拒绝”停火](https://www.cls.cn/detail/1500785)  
-- [2023-10-30-中信建投：股票供求关系有望改善，市场有望见底企稳](https://www.cls.cn/detail/1500787)  
-- [2023-10-30-货币政策如何应对国债增发？中信证券：预计年内或将降准0.25pct](https://www.cls.cn/detail/1500809)  
-- [2023-10-30-10月30日投资避雷针：减肥药原料龙头第三季度净亏损1.46亿元](https://www.cls.cn/detail/1500806)  
-- [2023-10-30-注定惊心动魄的一周：本周还有比美联储决议更重要的事？](https://www.cls.cn/detail/1500834)  
-- [2023-10-30-财联社债市早参10月30日-|-本周逆回购到期超2.8万亿，今日到期8080亿元；“15远洋05”今日开市起复牌](https://www.cls.cn/detail/1500811)  
-- [2023-10-30-量能稳步提升下，本周“权重搭台、题材唱戏”的局面或有望延续](https://www.cls.cn/detail/1500845)  
+- [2023-10-30-明星基金经理3季度重仓银行股曝光-青岛、齐鲁银行等新进偏股型基金持股名单-银行板块仓位环比提升](https://www.cls.cn/detail/1501097)  
+- [2023-10-30-最新调查：美国实际中性利率已翻番-美债和科技股“苦日子”尚未到头](https://www.cls.cn/detail/1500886)  
+- [2023-10-30-【财联社午报】创业板指放量涨超2%，医药、消费电子等概念股领涨两市](https://www.cls.cn/detail/1501035)  
+- [2023-10-30-宋志平：上市公司高质量发展是资本市场信心的源泉](https://www.cls.cn/detail/1501014)  
 - [2023-10-30-摩根大通：随着巴以冲突升级-以色列经济四季度恐将大幅萎缩11%](https://www.cls.cn/detail/1500908)  
+- [2023-10-30-量能稳步提升下，本周“权重搭台、题材唱戏”的局面或有望延续](https://www.cls.cn/detail/1500845)  
+- [2023-10-30-财联社债市早参10月30日-|-本周逆回购到期超2.8万亿，今日到期8080亿元；“15远洋05”今日开市起复牌](https://www.cls.cn/detail/1500811)  
+- [2023-10-30-注定惊心动魄的一周：本周还有比美联储决议更重要的事？](https://www.cls.cn/detail/1500834)  
+- [2023-10-30-10月30日投资避雷针：减肥药原料龙头第三季度净亏损1.46亿元](https://www.cls.cn/detail/1500806)  
+- [2023-10-30-货币政策如何应对国债增发？中信证券：预计年内或将降准0.25pct](https://www.cls.cn/detail/1500809)  
+- [2023-10-30-中信建投：股票供求关系有望改善，市场有望见底企稳](https://www.cls.cn/detail/1500787)  
+- [2023-10-30-以色列总理办公室发言人称以方“坚决拒绝”停火](https://www.cls.cn/detail/1500785)  
+- [2023-10-30-美股迎来“关键一周：FED决议VS苹果财报，投资者更关注什么？](https://www.cls.cn/detail/1500794)  
+- [2023-10-30-券商晨会精华：统筹发展与安全-水利投资正当时](https://www.cls.cn/detail/1500819)  
+- [2023-10-30-美国汽车大罢工进展：UAW领导人批准福特合同-通用谈判仍陷僵局](https://www.cls.cn/detail/1500812)  
+- [2023-10-30-财联社汽车早报【10月30日】](https://www.cls.cn/detail/1500822)  
+- [2023-10-30-强烈回应！俄罗斯国家杜马主席：欧盟若收暴利税-俄就没收欧洲资产](https://www.cls.cn/detail/1500842)  
+- [2023-10-30-四张图道破：美国“债务大山”如何加剧债市崩溃？](https://www.cls.cn/detail/1500851)  
+- [2023-10-30-景顺基金：日股一大利好即将消除-抓紧抄底中国股票！](https://www.cls.cn/detail/1500953)  
+- [2023-10-30-从8亿立方英尺降到0！埃及天然气进口断了-欧洲担不担心？](https://www.cls.cn/detail/1500970)  
 - [......【查看更多】......](/details/36kr.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -73,11 +73,12 @@
 </summary>
 
 
+- [2023-10-30-2023年中国直播内容营销白皮书](https://report.iresearch.cn/report/202310/4250.shtml) ![](/assets/new.png)  
 - [2023-10-21-2023年中国泛母婴人群网络行为洞察](https://report.iresearch.cn/report/202310/4248.shtml)  
 - [2023-10-19-大学生群体5A景区旅游活跃度盘点月报---2023年8月](https://report.iresearch.cn/report/202310/4247.shtml)  
 - [2023-10-12-2023年中国折叠屏手机用户洞察报告](https://report.iresearch.cn/report/202310/4245.shtml)  
-- [2023-10-11-2023年美妆及日化家清行业网络营销监测报告](https://report.iresearch.cn/report/202310/4246.shtml)  
 - [2023-10-11-2023年中国银行营销数字化行业研究报告](https://report.iresearch.cn/report/202310/4244.shtml)  
+- [2023-10-11-2023年美妆及日化家清行业网络营销监测报告](https://report.iresearch.cn/report/202310/4246.shtml)  
 - [2023-10-08-云服务行业动态及热点研究月报---2023年9月](https://report.iresearch.cn/report/202310/4243.shtml)  
 - [2023-10-07-2023年中国眼镜行业白皮书](https://report.iresearch.cn/report/202310/4242.shtml)  
 - [2023-09-28-2023年中国数字疗法行业研究报告](https://report.iresearch.cn/report/202309/4241.shtml)  
@@ -88,11 +89,10 @@
 - [2023-09-14-2023年中国跨境婴童功能护肤行业趋势报告](https://report.iresearch.cn/report/202309/4236.shtml)  
 - [2023-09-12-艾瞰系列-5A景区旅游活跃度盘点月报---2023年7月](https://report.iresearch.cn/report/202309/4235.shtml)  
 - [2023-09-11-2023年中国跨境出口电商行业研究报告](https://report.iresearch.cn/report/202309/4234.shtml)  
-- [2023-09-06-2023年中国MarTech市场研究报告---行业洞察篇](https://report.iresearch.cn/report/202309/4231.shtml)  
 - [2023-09-06-云服务行业动态及热点研究月报---2023年8月](https://report.iresearch.cn/report/202309/4232.shtml)  
+- [2023-09-06-2023年中国MarTech市场研究报告---行业洞察篇](https://report.iresearch.cn/report/202309/4231.shtml)  
 - [2023-09-01-2023年中国婴幼儿早教消费洞察：解读90后妈妈的心里话—科学陪伴，松弛育儿](https://report.iresearch.cn/report/202309/4230.shtml)  
 - [2023-08-28-视频会议用户洞察白皮书](https://report.iresearch.cn/report/202308/4229.shtml)  
-- [2023-08-23-2023年H1中国移动互联网流量半年报告](https://report.iresearch.cn/report/202308/4228.shtml)  
 - [......【查看更多】......](/details/艾瑞.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
