@@ -1,12 +1,12 @@
 ##
 
-:alarm_clock: 更新时间: 2023-11-08 11:35:28，:rocket: 更新条数: +17， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-11-08 12:49:53，:rocket: 更新条数: +11， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [36kr](#36kr)![](/assets/dot.png)   
 - [QuestMobile](#questmobile)  
-- [艾瑞](#艾瑞)  
+- [艾瑞](#艾瑞)![](/assets/dot.png)   
 
 ## 文章链接
 
@@ -16,26 +16,26 @@
 </summary>
 
 
-- [2023-11-08-优化上市企业再融资！五方面从严从紧](https://www.cls.cn/detail/1511230)  
-- [2023-11-08-沪深交易所：适当收紧上市公司再融资](https://www.cls.cn/detail/1511213)  
-- [2023-11-08-中国平安收购碧桂园？最新回应来了](https://www.cls.cn/detail/1511183)  
-- [2023-11-08-【每日收评】短线炒作分歧加剧！“龙飞凤舞”行情延续，天龙股份尾盘上演天地板](https://www.cls.cn/detail/1511174)  
-- [2023-11-08-监管出手！这些保险宣传语不能再用了！](https://www.cls.cn/detail/1511146)  
-- [2023-11-08-地球“高烧不退”！10月全球气温再度爆表-2023年势将成为史上最热一年](https://www.cls.cn/detail/1511132)  
-- [2023-11-08-沙特SPPC签定两光伏项目购电协议-晶科电力领衔财团夺得一项目的承建和运营权](https://www.cls.cn/detail/1510986)  
-- [2023-11-08-美联储鹰声不断利空金价-港股黄金板块11月以来持续跑输大盘](https://www.cls.cn/detail/1510996)  
-- [2023-11-08-牛市将近？汇丰：若美国实现软着陆-全球股市有望涨超10%](https://www.cls.cn/detail/1510871)  
-- [2023-11-08-IP电影或是“下一桶金”！任天堂将打造真人电影“塞尔达传说”](https://www.cls.cn/detail/1510860)  
-- [2023-11-08-磷矿石价格高位盘踞-有企业正申请“产能翻倍”变更|行业动态](https://www.cls.cn/detail/1510903)  
-- [2023-11-08-10年期美国国债收益率下跌7.7个基点报4.5665%%|-全球主要大类资产表现汇总20231108](https://www.cls.cn/detail/1510800)  
-- [2023-11-08-易会满重磅发声：资本市场要重典治本！加强公安司法协作、持续重拳“打假”](https://www.cls.cn/detail/1510919)  
-- [2023-11-08-国际油价三日跌超6%-中国海洋石油盘中一度跌3%](https://www.cls.cn/detail/1510807)  
-- [2023-11-08-密西西比河干涸危机之中-美国小麦出口创下历史新低](https://www.cls.cn/detail/1510737)  
-- [2023-11-08-数千人等待接受手术！马斯克脑机公司明年将启动人体实验](https://www.cls.cn/detail/1510837)  
-- [2023-11-08-易会满：对量化高频交易加强跟踪研判-加快培育境内“聪明资金”](https://www.cls.cn/detail/1510796)  
-- [2023-11-08-信息量巨大！关于货币政策、房地产、人民币汇率、地方债……-央行行长潘功胜最新发声](https://www.cls.cn/detail/1510793)  
-- [2023-11-08-拜登连任之路堪忧！最新民调：支持率已下滑至4月以来最低](https://www.cls.cn/detail/1510780)  
-- [2023-11-08-155毫米炮弹库存紧张！美陆军：需要国会批准31亿美元采购并扩大产能](https://www.cls.cn/detail/1510726)  
+- [2023-11-08-斥资85亿抢来的地块变“毒地”-陆家嘴向苏钢集团索赔100亿](https://www.cls.cn/detail/1511499)  
+- [2023-11-08-打击非法金融活动为何重要？最新案例曝光：担保公司实控人开出年息15%-20%庞氏骗局，非吸近6000万](https://www.cls.cn/detail/1511493)  
+- [2023-11-08-独家｜四部委召集房企开会聊了些啥？关键内容来了](https://www.cls.cn/detail/1511472)  
+- [2023-11-08-如何做好五篇新金融大文章？专家：科技金融最为重要，传统金融转型势在必行](https://www.cls.cn/detail/1511418)  
+- [2023-11-08-如何助力金融强国建设？央行金融市场司发声-三个方面推动金融市场高质量发展](https://www.cls.cn/detail/1511362)  
+- [2023-11-08-【数据看盘】“凤字辈”概念股遭机构甩卖-三家一线游资携手抢筹中文在线](https://www.cls.cn/detail/1511376)  
+- [2023-11-08-有钱了，提前兑付不成，天津这家城投“怒砸”18.5亿元溢价回购3只债券|聚焦城投债⑱](https://www.cls.cn/detail/1511244)  
+- [2023-11-08-城投短债抢购疯狂，投标下限“过山车”，1天陡降200BP，昆明这家城投乐了|聚焦城投债⑰](https://www.cls.cn/detail/1511185)  
+- [2023-11-08-中央金融工作会议后-三大监管部门掌门人齐聚一堂最新发声-透露建设金融强国发力方向](https://www.cls.cn/detail/1511355)  
+- [2023-11-08-跟随“龙字”起舞！北交所“凤凰”30cm涨停，北证指数连日反攻，这两个方向牛股频出](https://www.cls.cn/detail/1511292)  
+- [2023-11-08-拼多多还在狂飙！华尔街纷纷看好：或成双十一最大赢家](https://www.cls.cn/detail/1511229)  
+- [2023-11-08-【焦点复盘】高标龙惊现长阴断板，“龙凤呈祥”玄学炒作能否延续?](https://www.cls.cn/detail/1511287)  
+- [2023-11-08-两部门：规范实施政府和社会资本合作新机制-坚决遏制新增地方政府隐性债务](https://www.cls.cn/detail/1511239)  
+- [2023-11-08-IMF：欧洲央行需要将高利率维持一整年-过早降息代价会更大](https://www.cls.cn/detail/1511052)  
+- [2023-11-08-澳大利亚经历20多年来最干旱10月-小麦等农产品产量恐锐减](https://www.cls.cn/detail/1511222)  
+- [2023-11-08-【VIP机会日报】沪指震荡调整-短剧概念逆势大涨-这家人气公司4日涨超70%](https://www.cls.cn/detail/1511201)  
+- [2023-11-08-港股三大指数集体收跌-地产股午后逆势大涨](https://www.cls.cn/detail/1511159)  
+- [2023-11-08-主打一个玄学？A股“另类概念”炒作疯狂：龙飞凤舞、龙凤呈祥](https://www.cls.cn/detail/1511076)  
+- [2023-11-08-中美领导人将于本月15日在旧金山举行会谈？外交部回应](https://www.cls.cn/detail/1511102)  
+- [2023-11-08-一头羊价格不到160块！澳大利亚绵羊产业遭遇血腥动荡](https://www.cls.cn/detail/1511011)  
 - [......【查看更多】......](/details/36kr.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -73,26 +73,26 @@
 </summary>
 
 
+- [2023-11-08-互利共赢，重振增长---分期免息工具价值研究白皮书](https://report.iresearch.cn/report/202311/4257.shtml) ![](/assets/new.png)  
 - [2023-11-07-2023年中国线下消费市场创业洞察白皮书](https://report.iresearch.cn/report/202311/4258.shtml)  
 - [2023-11-06-2023年手机即时零售行业研究报告](https://report.iresearch.cn/report/202311/4256.shtml)  
-- [2023-11-03-云服务行业动态及热点研究月报---2023年10月](https://report.iresearch.cn/report/202311/4253.shtml)  
 - [2023-11-03-2023年奶咖市场发展白皮书](https://report.iresearch.cn/report/202311/4254.shtml)  
-- [2023-10-31-2023年中国SaaS厂商生态发展白皮书](https://report.iresearch.cn/report/202310/4249.shtml)  
+- [2023-11-03-云服务行业动态及热点研究月报---2023年10月](https://report.iresearch.cn/report/202311/4253.shtml)  
 - [2023-10-31-2023年中国被芯白皮书](https://report.iresearch.cn/report/202310/4252.shtml)  
-- [2023-10-30-2023年中国直播内容营销白皮书](https://report.iresearch.cn/report/202310/4250.shtml)  
+- [2023-10-31-2023年中国SaaS厂商生态发展白皮书](https://report.iresearch.cn/report/202310/4249.shtml)  
 - [2023-10-30-2023年体外诊断IVD行业研究报告](https://report.iresearch.cn/report/202310/4251.shtml)  
+- [2023-10-30-2023年中国直播内容营销白皮书](https://report.iresearch.cn/report/202310/4250.shtml)  
 - [2023-10-21-2023年中国泛母婴人群网络行为洞察](https://report.iresearch.cn/report/202310/4248.shtml)  
 - [2023-10-19-大学生群体5A景区旅游活跃度盘点月报---2023年8月](https://report.iresearch.cn/report/202310/4247.shtml)  
 - [2023-10-12-2023年中国折叠屏手机用户洞察报告](https://report.iresearch.cn/report/202310/4245.shtml)  
-- [2023-10-11-2023年美妆及日化家清行业网络营销监测报告](https://report.iresearch.cn/report/202310/4246.shtml)  
 - [2023-10-11-2023年中国银行营销数字化行业研究报告](https://report.iresearch.cn/report/202310/4244.shtml)  
+- [2023-10-11-2023年美妆及日化家清行业网络营销监测报告](https://report.iresearch.cn/report/202310/4246.shtml)  
 - [2023-10-08-云服务行业动态及热点研究月报---2023年9月](https://report.iresearch.cn/report/202310/4243.shtml)  
 - [2023-10-07-2023年中国眼镜行业白皮书](https://report.iresearch.cn/report/202310/4242.shtml)  
 - [2023-09-28-2023年中国数字疗法行业研究报告](https://report.iresearch.cn/report/202309/4241.shtml)  
 - [2023-09-27-2023年中国第三方支付行业研究报告](https://report.iresearch.cn/report/202309/4240.shtml)  
 - [2023-09-26-2023年中国轻越野生活出行趋势报告](https://report.iresearch.cn/report/202309/4239.shtml)  
 - [2023-09-25-2023年兴趣社区价值延展探索研究报告](https://report.iresearch.cn/report/202309/4238.shtml)  
-- [2023-09-15-2023年精准护肤趋势报告](https://report.iresearch.cn/report/202309/4237.shtml)  
 - [......【查看更多】......](/details/艾瑞.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
