@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-11-08 23:35:58。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-11-09 01:35:03。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -23,23 +23,24 @@
 
 
 
-- [【36kr】“车手”再“联姻”！比亚迪为OPPO发预热海报-双方合作或涉大模型上车](https://www.cls.cn/detail/1509871)
+- [【36kr】“ChatGPT崩了”引热议-礼来减肥药获美FDA批准-|-环球市场](https://www.cls.cn/detail/1511888)
 - [【36kr】专访格灵深瞳副总裁罗楷：行为分析大模型已在银行实现落地应用](https://www.cls.cn/detail/1509426)
+- [【36kr】“车手”再“联姻”！比亚迪为OPPO发预热海报-双方合作或涉大模型上车](https://www.cls.cn/detail/1509871)
 - [【36kr】特斯拉盘前一度上涨3%-OpenAI首届开发者大会来袭](https://www.cls.cn/detail/1509045)
 - [【36kr】马斯克：xAI明天将发布首个AI模型-在某些重要方面超过同行](https://www.cls.cn/detail/1507229)
 - [【36kr】【明日主题前瞻】首个基于时空信息产业大模型发布，“数据爆炸”时代下这一细分产业应势而生](https://www.cls.cn/detail/1504567)
-- [【36kr】期货金价重回2000美元-拜登签署AIGC监管行政令-|-环球市场](https://www.cls.cn/detail/1502650)
-- [【36kr】美量化巨头遭交易丑闻：研究员违规调校模型-旗下基金业绩“脱轨”](https://www.cls.cn/detail/1501241)
 - [【36kr】美联储内部正在激辩：传统经济模型已不再适用？](https://www.cls.cn/detail/1501457)
-- [【36kr】华策影视Q3营利双位数增长-AIGC新应用5分钟评估剧本|财报解读](https://www.cls.cn/detail/1494928)
-- [【36kr】又一基金重仓股跌停，认知大模型发布利好，反而“熄灭”科大讯飞股价？哪些公募又受伤了](https://www.cls.cn/detail/1494385)
+- [【36kr】美量化巨头遭交易丑闻：研究员违规调校模型-旗下基金业绩“脱轨”](https://www.cls.cn/detail/1501241)
+- [【36kr】期货金价重回2000美元-拜登签署AIGC监管行政令-|-环球市场](https://www.cls.cn/detail/1502650)
 - [【36kr】券商晨会精华：AI大模型发力-助力人形机器人快速落地](https://www.cls.cn/detail/1493669)
+- [【36kr】又一基金重仓股跌停，认知大模型发布利好，反而“熄灭”科大讯飞股价？哪些公募又受伤了](https://www.cls.cn/detail/1494385)
+- [【36kr】华策影视Q3营利双位数增长-AIGC新应用5分钟评估剧本|财报解读](https://www.cls.cn/detail/1494928)
 - [【36kr】OpenAI今年营收有望同比翻46倍-美国融券信披规则将迎大修-|-环球市场](https://www.cls.cn/detail/1484040)
 - [【36kr】AIGC热点持续提振！美图公司发布旗下新款大模型-股价涨幅超9%](https://www.cls.cn/detail/1480718)
 - [【36kr】ChatGPT下载榜排名大幅回暖-算力需求带动光模块景气度提升](https://www.cls.cn/detail/1480534)
 - [【36kr】OpenAI开发者大会将至，人工智能产业趋势加速，可关注标的一览](https://www.cls.cn/detail/1474896)
-- [【36kr】美油创13个月以来新高-ChatGPT再迎重磅升级-|-环球市场](https://www.cls.cn/detail/1474834)
 - [【36kr】券商晨会精华：多模态大模型推动AI迈向“通感”时代-算力需求将大幅提升](https://www.cls.cn/detail/1473761)
+- [【36kr】美油创13个月以来新高-ChatGPT再迎重磅升级-|-环球市场](https://www.cls.cn/detail/1474834)
 - [【艾瑞】2023年中国AIGC产业全景报告](https://report.iresearch.cn/report/202308/4227.shtml)
 - [......【查看更多】......](/details/tags/aigc.md)
 
@@ -57,26 +58,26 @@
 
 
 
-- [【36kr】游戏行业深夜沸腾！全球狂卖4亿份的《GTA》系列新作官宣下月露脸](https://www.cls.cn/detail/1511812)
-- [【36kr】美联储“内参部门”成立百年纪念-鲍威尔强调经济预测要灵活](https://www.cls.cn/detail/1511761)
-- [【36kr】保险中介牌照开闸？两家外资保险经纪公司获金融监管总局批复-业内称扩大金融开放有助我国加快保险强国建设](https://www.cls.cn/detail/1511638)
-- [【36kr】两家消费金融公司因催收管理问题被罚，业内：监管标准并未更严，机构应提升合规意识](https://www.cls.cn/detail/1511603)
-- [【36kr】中国生物制药出售三家子公司股权-越秀地产10月销售同比下滑逾两成｜港股11月8日公告精选](https://www.cls.cn/detail/1511643)
-- [【36kr】观望情绪浓厚恒指震荡回落-短剧概念发酵影视股全面爆发｜港股风向标](https://www.cls.cn/detail/1511531)
-- [【36kr】“90后”月光族在国外间谍指导下考上公务员，泄密获刑](https://www.cls.cn/detail/1511589)
-- [【36kr】爷青回？《GTA6》被曝最快本周官宣-公司股价一度暴涨两位数](https://www.cls.cn/detail/1511593)
-- [【36kr】无布局真人互动短剧、游戏领域的考虑-47亿零售股发布澄清公告|盘后公告集锦](https://www.cls.cn/detail/1511588)
-- [【36kr】【明日主题前瞻】小米汽车有新动作！智能驾驶和小米生态将是核心竞争力](https://www.cls.cn/detail/1511474)
-- [【36kr】转融通出借之下，高瓴被质疑借道减持，消失的0.87%持股哪去了？市场等待答案](https://www.cls.cn/detail/1511573)
-- [【36kr】旺季不旺-10月猪企月报“出炉”：出栏放缓-产能有去化但不多|行业动态](https://www.cls.cn/detail/1511543)
-- [【36kr】“民间小视频”中小鹏AEB表现不佳，何小鹏再发声：友商辛苦了](https://www.cls.cn/detail/1511528)
-- [【36kr】克宫：西方展现出侵略性-但俄罗斯将坚持自己的核原则](https://www.cls.cn/detail/1511533)
-- [【36kr】173亿美元资产“清零”事件后-瑞银集团首次发行AT1债券](https://www.cls.cn/detail/1511500)
-- [【36kr】稳步扩大资本市场制度型开放，五大举措看北交所下步工作](https://www.cls.cn/detail/1511491)
-- [【36kr】优化上市企业再融资！五方面从严从紧](https://www.cls.cn/detail/1511230)
-- [【36kr】沪深交易所：适当收紧上市公司再融资](https://www.cls.cn/detail/1511213)
-- [【36kr】中国平安收购碧桂园？最新回应来了](https://www.cls.cn/detail/1511183)
-- [【36kr】【每日收评】短线炒作分歧加剧！“龙飞凤舞”行情延续，天龙股份尾盘上演天地板](https://www.cls.cn/detail/1511174)
+- [【36kr】44家券商资管谁更强？Q3收入更显马太效应，新政鼓励投资端发力，资管渐成更重要业务](https://www.cls.cn/detail/1511899)
+- [【36kr】美银CEO锐评美经济：已走向软着陆，FED还会加息一次！](https://www.cls.cn/detail/1511890)
+- [【36kr】11月9日投资避雷针：多家公司公布短剧布局情况-丽尚国潮澄清无布局真人互动短剧](https://www.cls.cn/detail/1511907)
+- [【36kr】券商晨会精华：非银景气回升、可攻可守](https://www.cls.cn/detail/1511915)
+- [【36kr】银河证券：“短剧+游戏”爆款出圈，关注重点手游后续上线表现](https://www.cls.cn/detail/1511922)
+- [【36kr】美联储加息近尾声该买啥？顶级经济学家：最佳投资当属30年期美债](https://www.cls.cn/detail/1511916)
+- [【36kr】市场分歧逐步加剧，警惕中高位股方向补跌风险](https://www.cls.cn/detail/1511967)
+- [【36kr】监管调查！高瓴案“细节中的魔鬼”：公告里故意少说这半句话](https://www.cls.cn/detail/1511852)
+- [【36kr】【早报】沪深交易所：适当收紧上市公司再融资](https://www.cls.cn/detail/1511854)
+- [【36kr】美股收盘：纳指勉强维持“九连涨”-减肥药、游戏产业都传出重磅消息](https://www.cls.cn/detail/1511842)
+- [【36kr】独家｜今日起券商DMA、场外个股融券规模受限，真相如何？看三点解读](https://www.cls.cn/detail/1511829)
+- [【36kr】行业巨震！礼来减肥药获美FDA批准-正式进入“两强争霸”](https://www.cls.cn/detail/1511792)
+- [【36kr】马斯克据称将会见印度商务部长-讨论特斯拉在当地建厂事宜](https://www.cls.cn/detail/1511701)
+- [【36kr】“一声不吭”减持隆基绿能，高瓴旗下HHLR被调查！A股最新持仓曝光](https://www.cls.cn/detail/1511660)
+- [【36kr】鲍威尔重磅登场-美股连涨势头能否延续？|-今夜看点](https://www.cls.cn/detail/1511648)
+- [【36kr】江淮汽车遭巨额融券砸盘，一日暴增2737倍，究竟谁在卖出？](https://www.cls.cn/detail/1511637)
+- [【36kr】完蛋！火烧到了百亿短剧市场？数十家上市公司密集回应相关“爽剧”布局！](https://www.cls.cn/detail/1511616)
+- [【36kr】南向资金11月8日流出超13亿：连续流入小米集团及中芯国际-大幅抛售中海油和小鹏汽车](https://www.cls.cn/detail/1511604)
+- [【36kr】斥资85亿抢来的地块变“毒地”-陆家嘴向苏钢集团索赔100亿](https://www.cls.cn/detail/1511499)
+- [【36kr】打击非法金融活动为何重要？最新案例曝光：担保公司实控人开出年息15%-20%庞氏骗局，非吸近6000万](https://www.cls.cn/detail/1511493)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
