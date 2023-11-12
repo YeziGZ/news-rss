@@ -1,12 +1,12 @@
 ##
 
-:alarm_clock: 更新时间: 2023-11-12 05:35:42，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-11-12 08:35:38，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [36kr](#36kr)![](/assets/dot.png)   
+- [36kr](#36kr)  
 - [QuestMobile](#questmobile)  
-- [艾瑞](#艾瑞)  
+- [艾瑞](#艾瑞)![](/assets/dot.png)   
 
 ## 文章链接
 
@@ -16,8 +16,8 @@
 </summary>
 
 
-- [2023-11-12-卫星互联网点燃A股“通天”浪潮：华力创通、硕贝德和龙洲股份先后上演6天股价翻倍“奇迹”，SpaceX卷入手机直连开启低轨卫星争夺战](https://www.cls.cn/detail/1513655) ![](/assets/new.png)  
-- [2023-11-12-常州一企业董事长跳楼自杀-发文否认接受落马官员800万存款和现金行贿](https://www.cls.cn/detail/1514545) ![](/assets/new.png)  
+- [2023-11-12-卫星互联网点燃A股“通天”浪潮：华力创通、硕贝德和龙洲股份先后上演6天股价翻倍“奇迹”，SpaceX卷入手机直连开启低轨卫星争夺战](https://www.cls.cn/detail/1513655)  
+- [2023-11-12-常州一企业董事长跳楼自杀-发文否认接受落马官员800万存款和现金行贿](https://www.cls.cn/detail/1514545)  
 - [2023-11-11-金融拍案|兰州银行一支行行长违法放贷2700万，还伙同贷款人“分赃”，终获刑5年多被终身禁业](https://www.cls.cn/detail/1514499)  
 - [2023-11-11-又是网络攻击！澳大利亚第二大港口运营商大面积服务中断](https://www.cls.cn/detail/1514497)  
 - [2023-11-11-国家金融监督管理总局：积极配合化解地方债务风险-促进金融与房地产良性循环](https://www.cls.cn/detail/1514469)  
@@ -35,7 +35,7 @@
 - [2023-11-11-又有银行股权受热捧！3方出手多轮竞价-齐鲁银行3500万股股权拍出1.34亿元](https://www.cls.cn/detail/1514450)  
 - [2023-11-11-本周减仓近80亿！北向资金逆势“盯上”华为汽车概念股](https://www.cls.cn/detail/1514484)  
 - [2023-11-11-仅成立不到八个月-沙特航司被曝下周可能加购100架波音飞机](https://www.cls.cn/detail/1514481)  
-- [2023-11-11-构建数实融合新模式-产学研专家建议充分释放数据要素价值-深化科技、产业、金融三位一体融合](https://www.cls.cn/detail/1514414) ![](/assets/new.png)  
+- [2023-11-11-构建数实融合新模式-产学研专家建议充分释放数据要素价值-深化科技、产业、金融三位一体融合](https://www.cls.cn/detail/1514414)  
 - [......【查看更多】......](/details/36kr.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -73,26 +73,26 @@
 </summary>
 
 
+- [2023-11-12-2023年中国金融信创行业研究报告](https://report.iresearch.cn/report/202311/4260.shtml) ![](/assets/new.png)  
 - [2023-11-09-2023年Q3中国移动互联网流量季度报告](https://report.iresearch.cn/report/202311/4259.shtml)  
 - [2023-11-08-互利共赢，重振增长---分期免息工具价值研究白皮书](https://report.iresearch.cn/report/202311/4257.shtml)  
 - [2023-11-07-2023年中国线下消费市场创业洞察白皮书](https://report.iresearch.cn/report/202311/4258.shtml)  
 - [2023-11-06-2023年手机即时零售行业研究报告](https://report.iresearch.cn/report/202311/4256.shtml)  
-- [2023-11-03-云服务行业动态及热点研究月报---2023年10月](https://report.iresearch.cn/report/202311/4253.shtml)  
 - [2023-11-03-2023年奶咖市场发展白皮书](https://report.iresearch.cn/report/202311/4254.shtml)  
-- [2023-10-31-2023年中国SaaS厂商生态发展白皮书](https://report.iresearch.cn/report/202310/4249.shtml)  
+- [2023-11-03-云服务行业动态及热点研究月报---2023年10月](https://report.iresearch.cn/report/202311/4253.shtml)  
 - [2023-10-31-2023年中国被芯白皮书](https://report.iresearch.cn/report/202310/4252.shtml)  
-- [2023-10-30-2023年中国直播内容营销白皮书](https://report.iresearch.cn/report/202310/4250.shtml)  
+- [2023-10-31-2023年中国SaaS厂商生态发展白皮书](https://report.iresearch.cn/report/202310/4249.shtml)  
 - [2023-10-30-2023年体外诊断IVD行业研究报告](https://report.iresearch.cn/report/202310/4251.shtml)  
+- [2023-10-30-2023年中国直播内容营销白皮书](https://report.iresearch.cn/report/202310/4250.shtml)  
 - [2023-10-21-2023年中国泛母婴人群网络行为洞察](https://report.iresearch.cn/report/202310/4248.shtml)  
 - [2023-10-19-大学生群体5A景区旅游活跃度盘点月报---2023年8月](https://report.iresearch.cn/report/202310/4247.shtml)  
 - [2023-10-12-2023年中国折叠屏手机用户洞察报告](https://report.iresearch.cn/report/202310/4245.shtml)  
-- [2023-10-11-2023年美妆及日化家清行业网络营销监测报告](https://report.iresearch.cn/report/202310/4246.shtml)  
 - [2023-10-11-2023年中国银行营销数字化行业研究报告](https://report.iresearch.cn/report/202310/4244.shtml)  
+- [2023-10-11-2023年美妆及日化家清行业网络营销监测报告](https://report.iresearch.cn/report/202310/4246.shtml)  
 - [2023-10-08-云服务行业动态及热点研究月报---2023年9月](https://report.iresearch.cn/report/202310/4243.shtml)  
 - [2023-10-07-2023年中国眼镜行业白皮书](https://report.iresearch.cn/report/202310/4242.shtml)  
 - [2023-09-28-2023年中国数字疗法行业研究报告](https://report.iresearch.cn/report/202309/4241.shtml)  
 - [2023-09-27-2023年中国第三方支付行业研究报告](https://report.iresearch.cn/report/202309/4240.shtml)  
-- [2023-09-26-2023年中国轻越野生活出行趋势报告](https://report.iresearch.cn/report/202309/4239.shtml)  
 - [......【查看更多】......](/details/艾瑞.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
