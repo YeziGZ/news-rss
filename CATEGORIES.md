@@ -1,12 +1,12 @@
 ##
 
-:alarm_clock: 更新时间: 2023-11-20 10:38:21，:rocket: 更新条数: +7， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-11-20 11:35:42，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [36kr](#36kr)![](/assets/dot.png)   
+- [36kr](#36kr)  
 - [QuestMobile](#questmobile)  
-- [艾瑞](#艾瑞)  
+- [艾瑞](#艾瑞)![](/assets/dot.png)   
 
 ## 文章链接
 
@@ -74,6 +74,7 @@
 
 
 - [2023-11-20-2023年央国企数字化升级研究报告](https://report.iresearch.cn/report/202311/4261.shtml)  
+- [2023-11-20-艾瞰系列-2023年9月-抖音直播间用户洞察报告](https://report.iresearch.cn/report/202311/4264.shtml) ![](/assets/new.png)  
 - [2023-11-17-2023年电商营销趋势及增长策略](https://report.iresearch.cn/report/202311/4263.shtml)  
 - [2023-11-13-2023年中国企业AutoPaaS白皮书](https://report.iresearch.cn/report/202311/4262.shtml)  
 - [2023-11-12-2023年中国金融信创行业研究报告](https://report.iresearch.cn/report/202311/4260.shtml)  
@@ -81,18 +82,17 @@
 - [2023-11-08-互利共赢，重振增长---分期免息工具价值研究白皮书](https://report.iresearch.cn/report/202311/4257.shtml)  
 - [2023-11-07-2023年中国线下消费市场创业洞察白皮书](https://report.iresearch.cn/report/202311/4258.shtml)  
 - [2023-11-06-2023年手机即时零售行业研究报告](https://report.iresearch.cn/report/202311/4256.shtml)  
-- [2023-11-03-云服务行业动态及热点研究月报---2023年10月](https://report.iresearch.cn/report/202311/4253.shtml)  
 - [2023-11-03-2023年奶咖市场发展白皮书](https://report.iresearch.cn/report/202311/4254.shtml)  
-- [2023-10-31-2023年中国SaaS厂商生态发展白皮书](https://report.iresearch.cn/report/202310/4249.shtml)  
+- [2023-11-03-云服务行业动态及热点研究月报---2023年10月](https://report.iresearch.cn/report/202311/4253.shtml)  
 - [2023-10-31-2023年中国被芯白皮书](https://report.iresearch.cn/report/202310/4252.shtml)  
-- [2023-10-30-2023年中国直播内容营销白皮书](https://report.iresearch.cn/report/202310/4250.shtml)  
+- [2023-10-31-2023年中国SaaS厂商生态发展白皮书](https://report.iresearch.cn/report/202310/4249.shtml)  
 - [2023-10-30-2023年体外诊断IVD行业研究报告](https://report.iresearch.cn/report/202310/4251.shtml)  
+- [2023-10-30-2023年中国直播内容营销白皮书](https://report.iresearch.cn/report/202310/4250.shtml)  
 - [2023-10-21-2023年中国泛母婴人群网络行为洞察](https://report.iresearch.cn/report/202310/4248.shtml)  
 - [2023-10-19-大学生群体5A景区旅游活跃度盘点月报---2023年8月](https://report.iresearch.cn/report/202310/4247.shtml)  
 - [2023-10-12-2023年中国折叠屏手机用户洞察报告](https://report.iresearch.cn/report/202310/4245.shtml)  
-- [2023-10-11-2023年美妆及日化家清行业网络营销监测报告](https://report.iresearch.cn/report/202310/4246.shtml)  
 - [2023-10-11-2023年中国银行营销数字化行业研究报告](https://report.iresearch.cn/report/202310/4244.shtml)  
-- [2023-10-08-云服务行业动态及热点研究月报---2023年9月](https://report.iresearch.cn/report/202310/4243.shtml)  
+- [2023-10-11-2023年美妆及日化家清行业网络营销监测报告](https://report.iresearch.cn/report/202310/4246.shtml)  
 - [......【查看更多】......](/details/艾瑞.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
