@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-11-20 22:36:07。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-11-21 01:40:56。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -23,26 +23,26 @@
 
 
 
-- [【36kr】OpenAI“内斗”始作俑者不是你？苏茨克维公开忏悔-反手逼宫董事会](https://www.cls.cn/detail/1522347)
 - [【36kr】OpenAI面临严峻人才危机-美债标售数据扰动又至-|-今夜看点](https://www.cls.cn/detail/1522297)
+- [【36kr】OpenAI“内斗”始作俑者不是你？苏茨克维公开忏悔-反手逼宫董事会](https://www.cls.cn/detail/1522347)
+- [【36kr】OpenAI“宫斗”大戏持续上演-阿联酋将在2024年提高原油产量-|-环球市场](https://www.cls.cn/detail/1522501)
 - [【36kr】这场OpenAI“政变”终将以奥特曼获胜告终？公司高管透出好消息](https://www.cls.cn/detail/1521155)
-- [【36kr】国产Chiplet大模型推理芯片发布-国内供应链公司成长潜力有望释放](https://www.cls.cn/detail/1519436)
 - [【36kr】OpenAI奥特曼突然离职震惊市场-欧佩克+或考虑额外减产提振油价-|-环球市场](https://www.cls.cn/detail/1520565)
+- [【36kr】国产Chiplet大模型推理芯片发布-国内供应链公司成长潜力有望释放](https://www.cls.cn/detail/1519436)
 - [【36kr】7000亿美元主权投资机构掌门：AIGC浪潮下更值得加倍押注科技巨头](https://www.cls.cn/detail/1516820)
 - [【36kr】“ChatGPT崩了”引热议-礼来减肥药获美FDA批准-|-环球市场](https://www.cls.cn/detail/1511888)
-- [【36kr】专访格灵深瞳副总裁罗楷：行为分析大模型已在银行实现落地应用](https://www.cls.cn/detail/1509426)
 - [【36kr】“车手”再“联姻”！比亚迪为OPPO发预热海报-双方合作或涉大模型上车](https://www.cls.cn/detail/1509871)
+- [【36kr】专访格灵深瞳副总裁罗楷：行为分析大模型已在银行实现落地应用](https://www.cls.cn/detail/1509426)
 - [【36kr】特斯拉盘前一度上涨3%-OpenAI首届开发者大会来袭](https://www.cls.cn/detail/1509045)
 - [【36kr】马斯克：xAI明天将发布首个AI模型-在某些重要方面超过同行](https://www.cls.cn/detail/1507229)
 - [【36kr】【明日主题前瞻】首个基于时空信息产业大模型发布，“数据爆炸”时代下这一细分产业应势而生](https://www.cls.cn/detail/1504567)
-- [【36kr】美联储内部正在激辩：传统经济模型已不再适用？](https://www.cls.cn/detail/1501457)
-- [【36kr】美量化巨头遭交易丑闻：研究员违规调校模型-旗下基金业绩“脱轨”](https://www.cls.cn/detail/1501241)
 - [【36kr】期货金价重回2000美元-拜登签署AIGC监管行政令-|-环球市场](https://www.cls.cn/detail/1502650)
-- [【36kr】券商晨会精华：AI大模型发力-助力人形机器人快速落地](https://www.cls.cn/detail/1493669)
-- [【36kr】又一基金重仓股跌停，认知大模型发布利好，反而“熄灭”科大讯飞股价？哪些公募又受伤了](https://www.cls.cn/detail/1494385)
+- [【36kr】美量化巨头遭交易丑闻：研究员违规调校模型-旗下基金业绩“脱轨”](https://www.cls.cn/detail/1501241)
+- [【36kr】美联储内部正在激辩：传统经济模型已不再适用？](https://www.cls.cn/detail/1501457)
 - [【36kr】华策影视Q3营利双位数增长-AIGC新应用5分钟评估剧本|财报解读](https://www.cls.cn/detail/1494928)
+- [【36kr】又一基金重仓股跌停，认知大模型发布利好，反而“熄灭”科大讯飞股价？哪些公募又受伤了](https://www.cls.cn/detail/1494385)
+- [【36kr】券商晨会精华：AI大模型发力-助力人形机器人快速落地](https://www.cls.cn/detail/1493669)
 - [【36kr】OpenAI今年营收有望同比翻46倍-美国融券信披规则将迎大修-|-环球市场](https://www.cls.cn/detail/1484040)
-- [【36kr】AIGC热点持续提振！美图公司发布旗下新款大模型-股价涨幅超9%](https://www.cls.cn/detail/1480718)
 - [......【查看更多】......](/details/tags/aigc.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】“拜登经济学”不得人心-美财长耶伦：食品和房租价格高企是主因](https://www.cls.cn/detail/1522453)
-- [【36kr】美汽车业罢工危机落幕！工会称三大车企的工人批准了新合同](https://www.cls.cn/detail/1522429)
-- [【36kr】涉嫌“财务造假”长达6年-金通灵领“百万级”处罚通知书-多名时任高管卷入](https://www.cls.cn/detail/1522322)
-- [【36kr】“减肥神药”口服片或成明年新风口-各大药厂的试验进度如何？](https://www.cls.cn/detail/1522356)
-- [【36kr】融创90亿美元境外债务重组正式生效-整体化解债务风险约900亿元](https://www.cls.cn/detail/1522354)
-- [【36kr】当选总统只是开始-等待米莱的是噩梦级别的挑战](https://www.cls.cn/detail/1522352)
-- [【36kr】首见“小作文”罚款！造假者篡改俩字遭罚20万，假消息不再是法外地，最高10倍罚款](https://www.cls.cn/detail/1522291)
-- [【36kr】【明日主题前瞻】OpenCV正式接纳openEuler，openEuler社区生态伙伴超800家](https://www.cls.cn/detail/1522231)
-- [【36kr】【数据看盘】HBM概念股遭机构大幅卖出-实力游资超亿元抢筹两股](https://www.cls.cn/detail/1522060)
-- [【36kr】新质生产力观察|模拟处理设备误差，工业大数据算法赛聚焦产业需求](https://www.cls.cn/detail/1522018)
-- [【36kr】拍卖圈火爆！拿破仑帽子、百年威士忌现天价-球星卡冲击千万美元](https://www.cls.cn/detail/1521946)
-- [【36kr】国资出手收购二手房！太仓为稳楼市出奇招-试行升级版“以旧换新”](https://www.cls.cn/detail/1522009)
-- [【36kr】美众议长蜜月期结束！强硬派共和党人正在酝酿新“大招”](https://www.cls.cn/detail/1521873)
-- [【36kr】港股迎多重利好！科技指数领涨三大指数-房地产和保险股表现居前](https://www.cls.cn/detail/1521883)
-- [【36kr】民航旅客运输量10月同比增252%-航空港股集体上扬中国国航涨3%](https://www.cls.cn/detail/1521697)
-- [【36kr】敏感时刻喊话！白宫首席能源顾问：相信阿拉伯国家不会将石油武器化](https://www.cls.cn/detail/1521547)
-- [【36kr】三部门强调支持房企融资-融创中国升近7%领涨内房股](https://www.cls.cn/detail/1521364)
-- [【36kr】巴以冲突旋涡危及全球关键航线？也门胡塞武装在红海扣留一艘货船](https://www.cls.cn/detail/1521361)
-- [【36kr】“原地调头”哪家强？奔驰纯电大G将首搭新电机PK仰望“易四方”-车企卷向电驱技术](https://www.cls.cn/detail/1521342)
-- [【36kr】11月LPR“按兵不动”符合市场预期-业内预计未来5年期以上LPR存30-40BP下行空间](https://www.cls.cn/detail/1521475)
+- [【36kr】中金：本轮人民币汇率的回升行情很可能还没有结束](https://www.cls.cn/detail/1522531)
+- [【36kr】人民日报钟声：做伙伴才是面向未来的正确选择](https://www.cls.cn/detail/1522544)
+- [【36kr】11月21日投资避雷针：HBM概念人气股连夜澄清-目前颗粒状环氧塑封料尚处于验证阶段](https://www.cls.cn/detail/1522546)
+- [【36kr】券商晨会精华：微软召开Ignite技术大会，AI变革与商业化全面加速](https://www.cls.cn/detail/1522555)
+- [【36kr】平安又“踩雷”房企境外债-因清偿率问题与中国奥园闹矛盾](https://www.cls.cn/detail/1522561)
+- [【36kr】美股收盘：三大指数齐涨-纳指涨超1%-微软、英伟达创新高](https://www.cls.cn/detail/1522481)
+- [【36kr】历史性时刻！科学家警钟敲响：2摄氏度升温极限已被短暂突破](https://www.cls.cn/detail/1522432)
+- [【36kr】中国华融拟30亿元收购招商公路股权-腾讯时隔一月后重启回购｜港股11月20日公告精选](https://www.cls.cn/detail/1522282)
+- [【36kr】可承受几十万次折叠！我国首条一次成型超薄柔性电子玻璃生产线正式投产](https://www.cls.cn/detail/1522324)
+- [【36kr】南向资金11月20日净流出逾61亿：买入小鹏汽车及中芯国际-大幅抛售腾讯和美团](https://www.cls.cn/detail/1522221)
+- [【36kr】“海尔系”家居品牌博洛尼广佛经销商被指卷款千万跑路，公安和监管部门已介入调查](https://www.cls.cn/detail/1522132)
+- [【36kr】基本面转暖多个板块现复苏行情-医保谈判关注升温催化生物医药概念｜港股风向标](https://www.cls.cn/detail/1522156)
+- [【36kr】贵州茅台：拟每股派发现金红利19.106元-合计派发240亿元](https://www.cls.cn/detail/1522240)
+- [【36kr】公司未生产、销售光刻胶-9天8板牛股发布异动公告|盘后公告集锦](https://www.cls.cn/detail/1522207)
+- [【36kr】李强主持召开中央金融委员会会议-深入学习贯彻习近平总书记在中央金融工作会议上的重要讲话精神-审议推动金融高质量发展相关重点任务分工方案](https://www.cls.cn/detail/1522198)
+- [【36kr】阿拉伯、伊斯兰国家外长组团斡旋巴以冲突，为何第一站直奔北京？](https://www.cls.cn/detail/1522196)
+- [【36kr】事关400万从业者！保险代理人资质分级标准征求意见-拟设4个等级-一级可开展非保险金融业务](https://www.cls.cn/detail/1522194)
+- [【36kr】马斯克“反犹风波”后续：X平台CEO遭大量友人“劝辞职”](https://www.cls.cn/detail/1522186)
+- [【36kr】噩耗接连不断-德国医药巨头拜耳股价创历史最大单日跌幅](https://www.cls.cn/detail/1522188)
+- [【36kr】人民币国际化新进展！中国与沙特签署500亿人民币双边本币互换协议](https://www.cls.cn/detail/1522136)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
