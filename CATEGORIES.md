@@ -1,12 +1,12 @@
 ##
 
-:alarm_clock: 更新时间: 2023-11-27 05:35:27，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-11-27 08:37:38，:rocket: 更新条数: +9， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [36kr](#36kr)![](/assets/dot.png)   
 - [QuestMobile](#questmobile)  
-- [艾瑞](#艾瑞)  
+- [艾瑞](#艾瑞)![](/assets/dot.png)   
 
 ## 文章链接
 
@@ -16,26 +16,26 @@
 </summary>
 
 
-- [2023-11-27-【财联社午报】一字涨停！长安汽车引领智能汽车概念走强，北交所行情持续火爆，这只个股7天涨超500%](https://www.cls.cn/detail/1528032)  
-- [2023-11-27-概念动态-|-财联社主题库新增“长安汽车概念”](https://www.cls.cn/detail/1528007)  
-- [2023-11-27-当疯抢便宜货的美国人引爆“黑五”：美国经济真的岁月静好吗？](https://www.cls.cn/detail/1527993)  
-- [2023-11-27-对美国经济缺乏信心！最新民调：仅36%选民仍相信“美国梦”](https://www.cls.cn/detail/1527987)  
-- [2023-11-27-马航MH370乘客家属索赔案今天开庭审理](https://www.cls.cn/detail/1527972)  
-- [2023-11-27-印度仍在煤炭上“坚持”：计划将地下采煤增加两倍-或引发国际热议](https://www.cls.cn/detail/1527968)  
-- [2023-11-27-人民币重回升势！分析师：季节性需求或支撑汇率升回7元大关](https://www.cls.cn/detail/1527938)  
-- [2023-11-27-科威特暂停出口废弃油脂-推动本地生物燃油产业发展](https://www.cls.cn/detail/1527945)  
-- [2023-11-27-转运时刻将至？大摩：美国楼市明年有望“解冻”-联储6月或开始降息](https://www.cls.cn/detail/1527865)  
-- [2023-11-27-加沙停火之际-又有两艘以色列船舶在中东附近海域遇袭](https://www.cls.cn/detail/1527843)  
-- [2023-11-27-财联社债市早参11月27日-|-国务院国资委会议要求带头偿还拖欠企业账款；本周央行公开市场将有21670亿元逆回购到期](https://www.cls.cn/detail/1527810)  
-- [2023-11-27-美债市场年底已“满血复活”-本周哪些宏观消息面大事不容错过？](https://www.cls.cn/detail/1527824)  
-- [2023-11-27-衰退警钟再次敲响！专家：企业破产违约潮或动摇美国经济](https://www.cls.cn/detail/1527794)  
-- [2023-11-27-券商晨会精华：多重因素助力北交所近期表现](https://www.cls.cn/detail/1527799)  
-- [2023-11-27-11月27日投资避雷针：2连板医药人气股提示风险-公司没有治疗支原体肺炎的药品](https://www.cls.cn/detail/1527795)  
-- [2023-11-27-经济日报：“或有收费”影响审计独立性](https://www.cls.cn/detail/1527780)  
-- [2023-11-27-首批3只消费基础设施REITs获批，华夏基金、中金基金尝鲜，万亿市场的星星之火已经燎原？](https://www.cls.cn/detail/1527788)  
-- [2023-11-27-看涨队伍愈发壮大！RBC：标普500明年料涨至5000点-再创新高](https://www.cls.cn/detail/1527783)  
-- [2023-11-27-财联社汽车早报【11月27日】](https://www.cls.cn/detail/1527823)  
+- [2023-11-27-北交所加强交易监管-凯华材料、志晟信息等涨幅回落](https://www.cls.cn/detail/1527946)  
+- [2023-11-27-发生了什么？开拓药业股价下跌超30%](https://www.cls.cn/detail/1528019)  
+- [2023-11-27-港股汽车股延续调整-小鹏下挫超5%领跌其板块](https://www.cls.cn/detail/1527942)  
+- [2023-11-27-升龙羊城旧改危局-广州知识城汤村再传停工半年](https://www.cls.cn/detail/1527873)  
+- [2023-11-27-证监会：防范以“清退回款”等名义实施诈骗的行为](https://www.cls.cn/detail/1527949)  
+- [2023-11-27-八部门提出支持民营经济25条具体举措：合理满足民营房企金融需求](https://www.cls.cn/detail/1527907)  
+- [2023-11-27-爆款短剧8天收入过亿？流量成本超九成，到手利润仅几百万](https://www.cls.cn/detail/1527885)  
+- [2023-11-27-统计局：10月份规模以上工业企业实现利润同比增长2.7%](https://www.cls.cn/detail/1527877)  
 - [2023-11-27-华为与长安汽车强强联合，能否成为短线题材新风口？](https://www.cls.cn/detail/1527857)  
+- [2023-11-27-财联社汽车早报【11月27日】](https://www.cls.cn/detail/1527823)  
+- [2023-11-27-看涨队伍愈发壮大！RBC：标普500明年料涨至5000点-再创新高](https://www.cls.cn/detail/1527783)  
+- [2023-11-27-首批3只消费基础设施REITs获批，华夏基金、中金基金尝鲜，万亿市场的星星之火已经燎原？](https://www.cls.cn/detail/1527788)  
+- [2023-11-27-经济日报：“或有收费”影响审计独立性](https://www.cls.cn/detail/1527780)  
+- [2023-11-27-11月27日投资避雷针：2连板医药人气股提示风险-公司没有治疗支原体肺炎的药品](https://www.cls.cn/detail/1527795)  
+- [2023-11-27-券商晨会精华：多重因素助力北交所近期表现](https://www.cls.cn/detail/1527799)  
+- [2023-11-27-衰退警钟再次敲响！专家：企业破产违约潮或动摇美国经济](https://www.cls.cn/detail/1527794)  
+- [2023-11-27-美债市场年底已“满血复活”-本周哪些宏观消息面大事不容错过？](https://www.cls.cn/detail/1527824)  
+- [2023-11-27-财联社债市早参11月27日-|-国务院国资委会议要求带头偿还拖欠企业账款；本周央行公开市场将有21670亿元逆回购到期](https://www.cls.cn/detail/1527810)  
+- [2023-11-27-加沙停火之际-又有两艘以色列船舶在中东附近海域遇袭](https://www.cls.cn/detail/1527843)  
+- [2023-11-27-转运时刻将至？大摩：美国楼市明年有望“解冻”-联储6月或开始降息](https://www.cls.cn/detail/1527865)  
 - [......【查看更多】......](/details/36kr.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -73,10 +73,11 @@
 </summary>
 
 
-- [2023-11-21-中国方便速食行业研究报告](https://report.iresearch.cn/report/202311/4265.shtml)  
+- [2023-11-27-2023年中国户外运动鞋服行业研究报告](https://report.iresearch.cn/report/202311/4268.shtml) ![](/assets/new.png)  
 - [2023-11-21-2023年中国采购数字化平台行业研究报告](https://report.iresearch.cn/report/202311/4266.shtml)  
-- [2023-11-20-艾瞰系列-2023年9月-抖音直播间用户洞察报告](https://report.iresearch.cn/report/202311/4264.shtml)  
+- [2023-11-21-中国方便速食行业研究报告](https://report.iresearch.cn/report/202311/4265.shtml)  
 - [2023-11-20-2023年央国企数字化升级研究报告](https://report.iresearch.cn/report/202311/4261.shtml)  
+- [2023-11-20-艾瞰系列-2023年9月-抖音直播间用户洞察报告](https://report.iresearch.cn/report/202311/4264.shtml)  
 - [2023-11-17-2023年电商营销趋势及增长策略](https://report.iresearch.cn/report/202311/4263.shtml)  
 - [2023-11-13-2023年中国企业AutoPaaS白皮书](https://report.iresearch.cn/report/202311/4262.shtml)  
 - [2023-11-12-2023年中国金融信创行业研究报告](https://report.iresearch.cn/report/202311/4260.shtml)  
@@ -84,15 +85,14 @@
 - [2023-11-08-互利共赢，重振增长---分期免息工具价值研究白皮书](https://report.iresearch.cn/report/202311/4257.shtml)  
 - [2023-11-07-2023年中国线下消费市场创业洞察白皮书](https://report.iresearch.cn/report/202311/4258.shtml)  
 - [2023-11-06-2023年手机即时零售行业研究报告](https://report.iresearch.cn/report/202311/4256.shtml)  
-- [2023-11-03-云服务行业动态及热点研究月报---2023年10月](https://report.iresearch.cn/report/202311/4253.shtml)  
 - [2023-11-03-2023年奶咖市场发展白皮书](https://report.iresearch.cn/report/202311/4254.shtml)  
-- [2023-10-31-2023年中国SaaS厂商生态发展白皮书](https://report.iresearch.cn/report/202310/4249.shtml)  
+- [2023-11-03-云服务行业动态及热点研究月报---2023年10月](https://report.iresearch.cn/report/202311/4253.shtml)  
 - [2023-10-31-2023年中国被芯白皮书](https://report.iresearch.cn/report/202310/4252.shtml)  
-- [2023-10-30-2023年中国直播内容营销白皮书](https://report.iresearch.cn/report/202310/4250.shtml)  
+- [2023-10-31-2023年中国SaaS厂商生态发展白皮书](https://report.iresearch.cn/report/202310/4249.shtml)  
 - [2023-10-30-2023年体外诊断IVD行业研究报告](https://report.iresearch.cn/report/202310/4251.shtml)  
+- [2023-10-30-2023年中国直播内容营销白皮书](https://report.iresearch.cn/report/202310/4250.shtml)  
 - [2023-10-21-2023年中国泛母婴人群网络行为洞察](https://report.iresearch.cn/report/202310/4248.shtml)  
 - [2023-10-19-大学生群体5A景区旅游活跃度盘点月报---2023年8月](https://report.iresearch.cn/report/202310/4247.shtml)  
-- [2023-10-12-2023年中国折叠屏手机用户洞察报告](https://report.iresearch.cn/report/202310/4245.shtml)  
 - [......【查看更多】......](/details/艾瑞.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
