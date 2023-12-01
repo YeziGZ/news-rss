@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-11-30 23:36:16。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-12-01 02:45:08。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -23,26 +23,26 @@
 
 
 
-- [【36kr】【明日主题前瞻】华为云推出首个大模型混合云，全球加速云计算战略部署](https://www.cls.cn/detail/1531728)
 - [【36kr】特斯拉Cybertruck即将交付-微软获得OpenAI董事会席位-|-今夜看点](https://www.cls.cn/detail/1532116)
+- [【36kr】【明日主题前瞻】华为云推出首个大模型混合云，全球加速云计算战略部署](https://www.cls.cn/detail/1531728)
 - [【36kr】OpenAI“700壮士威压董事会”背后：AI工程师的议价能力有多强？](https://www.cls.cn/detail/1525594)
 - [【36kr】OpenAI官宣奥特曼重回公司担任CEO-董事会启动“重置”](https://www.cls.cn/detail/1524101)
-- [【36kr】OpenAI闹剧仍在延续-美联储、英伟达也有大消息-|-今夜看点](https://www.cls.cn/detail/1523510)
 - [【36kr】币安CEO赵长鹏宣布辞职-奥特曼重返OpenAI一事出现转机-|-环球市场](https://www.cls.cn/detail/1523718)
-- [【36kr】OpenAI面临严峻人才危机-美债标售数据扰动又至-|-今夜看点](https://www.cls.cn/detail/1522297)
-- [【36kr】OpenAI“内斗”始作俑者不是你？苏茨克维公开忏悔-反手逼宫董事会](https://www.cls.cn/detail/1522347)
+- [【36kr】OpenAI闹剧仍在延续-美联储、英伟达也有大消息-|-今夜看点](https://www.cls.cn/detail/1523510)
 - [【36kr】OpenAI“宫斗”大戏持续上演-阿联酋将在2024年提高原油产量-|-环球市场](https://www.cls.cn/detail/1522501)
+- [【36kr】OpenAI“内斗”始作俑者不是你？苏茨克维公开忏悔-反手逼宫董事会](https://www.cls.cn/detail/1522347)
+- [【36kr】OpenAI面临严峻人才危机-美债标售数据扰动又至-|-今夜看点](https://www.cls.cn/detail/1522297)
 - [【36kr】这场OpenAI“政变”终将以奥特曼获胜告终？公司高管透出好消息](https://www.cls.cn/detail/1521155)
-- [【36kr】OpenAI奥特曼突然离职震惊市场-欧佩克+或考虑额外减产提振油价-|-环球市场](https://www.cls.cn/detail/1520565)
 - [【36kr】国产Chiplet大模型推理芯片发布-国内供应链公司成长潜力有望释放](https://www.cls.cn/detail/1519436)
+- [【36kr】OpenAI奥特曼突然离职震惊市场-欧佩克+或考虑额外减产提振油价-|-环球市场](https://www.cls.cn/detail/1520565)
 - [【36kr】7000亿美元主权投资机构掌门：AIGC浪潮下更值得加倍押注科技巨头](https://www.cls.cn/detail/1516820)
 - [【36kr】“ChatGPT崩了”引热议-礼来减肥药获美FDA批准-|-环球市场](https://www.cls.cn/detail/1511888)
-- [【36kr】“车手”再“联姻”！比亚迪为OPPO发预热海报-双方合作或涉大模型上车](https://www.cls.cn/detail/1509871)
 - [【36kr】专访格灵深瞳副总裁罗楷：行为分析大模型已在银行实现落地应用](https://www.cls.cn/detail/1509426)
+- [【36kr】“车手”再“联姻”！比亚迪为OPPO发预热海报-双方合作或涉大模型上车](https://www.cls.cn/detail/1509871)
 - [【36kr】特斯拉盘前一度上涨3%-OpenAI首届开发者大会来袭](https://www.cls.cn/detail/1509045)
 - [【36kr】马斯克：xAI明天将发布首个AI模型-在某些重要方面超过同行](https://www.cls.cn/detail/1507229)
 - [【36kr】【明日主题前瞻】首个基于时空信息产业大模型发布，“数据爆炸”时代下这一细分产业应势而生](https://www.cls.cn/detail/1504567)
-- [【36kr】期货金价重回2000美元-拜登签署AIGC监管行政令-|-环球市场](https://www.cls.cn/detail/1502650)
+- [【36kr】美联储内部正在激辩：传统经济模型已不再适用？](https://www.cls.cn/detail/1501457)
 - [......【查看更多】......](/details/tags/aigc.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】欧佩克+宣布大幅减产、还将加入重磅成员，为何油价还是跌了……](https://www.cls.cn/detail/1532279)
-- [【36kr】多家国际巨头扎堆来华布局私募，上海成为聚集地，这些机构正做哪些布局？](https://www.cls.cn/detail/1532014)
-- [【36kr】北交所两只人气股归来！凯华材料、志晟信息明起复牌](https://www.cls.cn/detail/1532162)
-- [【36kr】这家房企因涉嫌非法集资被立案调查-开发商理财产品如何定性成关注焦点](https://www.cls.cn/detail/1532158)
-- [【36kr】美国10月PCE通胀跌至“两年半新低”-名记提醒：FED快接近目标了](https://www.cls.cn/detail/1532152)
-- [【36kr】卖不掉的券商股权：第五次挂牌价格打对折，是何原因让小券商股权转让如此尴尬？](https://www.cls.cn/detail/1532052)
-- [【36kr】突发！这家公司与英伟达中国区精英级合作伙伴签署合作协议|盘后公告集锦](https://www.cls.cn/detail/1532050)
-- [【36kr】欧佩克+据称达成初步协议-将进一步减产超过100万桶/日](https://www.cls.cn/detail/1532028)
-- [【36kr】瑞银：去年“富二代”继承的财富远超“富一代”创造的财富](https://www.cls.cn/detail/1532010)
-- [【36kr】习近平主持召开深入推进长三角一体化发展座谈会强调-推动长三角一体化发展取得新的重大突破-在中国式现代化中更好发挥引领示范作用](https://www.cls.cn/detail/1532001)
-- [【36kr】恒大集团在苏州相城区一宗宅地将被拍卖，起拍价18.5亿元](https://www.cls.cn/detail/1531958)
-- [【36kr】台风暴雨下港股可能不再休市了！港交所就此展开咨询](https://www.cls.cn/detail/1531945)
-- [【36kr】新规已满1年，4000万元个人养老金理财收益表现如何？近半年收益率1.14%不及预期-|银行理财观察㉞](https://www.cls.cn/detail/1531899)
-- [【36kr】图解11月大事件：北交所行情火爆-小米汽车拿到“准生证”](https://www.cls.cn/detail/1531814)
-- [【36kr】谨慎行事为好！日本央行委员：要更长时间来调整超宽松政策](https://www.cls.cn/detail/1531906)
-- [【36kr】中银绒业转入“战略静观”：特种石墨业务将是聚焦方向，8万吨/年酸铁锂项目面临行业产能过剩局面|公司调研](https://www.cls.cn/detail/1531890)
-- [【36kr】宝龙地产再违约，超1500万美元利息无法支付，上半年营业利润同比缩水8亿](https://www.cls.cn/detail/1531825)
-- [【36kr】直击链博会｜全面展示数字科技成果，参展企业现场提交专利和商标申请](https://www.cls.cn/detail/1531889)
-- [【36kr】【VIP机会日报】科技陷入调整-医药板块持续活跃-这家中药焦点公司涨超7%（解读）](https://www.cls.cn/detail/1531853)
-- [【36kr】“煤老板”再次杀入楼市-豪掷逾41亿收购上海陆家嘴三栋豪宅](https://www.cls.cn/detail/1531759)
+- [【36kr】上海市长龚正学习时报撰文：加快建设具有世界影响力的社会主义现代化国际大都市](https://www.cls.cn/detail/1532351)
+- [【36kr】美财长耶伦：FED无需再加息-通胀已下降经济能“软着陆”！](https://www.cls.cn/detail/1532344)
+- [【36kr】美经济明显降温！ING预测：美联储明年将至少降息6次](https://www.cls.cn/detail/1532357)
+- [【36kr】券商晨会精华：新能源车中游拐点渐近，关注新技术和国产化机遇](https://www.cls.cn/detail/1532368)
+- [【36kr】12月1日投资避雷针：快手近期将切断第三方微短剧小程序的商业推广和投放](https://www.cls.cn/detail/1532363)
+- [【36kr】财联社债市早参12月1日-|-上交所组织召开沪市房企座谈会；宝龙地产再违约；中资美元债市场反弹](https://www.cls.cn/detail/1532372)
+- [【36kr】拟巨额定增募资超70亿-新希望：用于升级猪场、收购子公司股权、偿还债务](https://www.cls.cn/detail/1532388)
+- [【36kr】种业大会即将举办，转基因产业化推进，相关受益标的一览](https://www.cls.cn/detail/1532391)
+- [【36kr】财联社汽车早报【12月1日】](https://www.cls.cn/detail/1532389)
+- [【36kr】市场情绪有望逐步回暖，以下方向或有望率先迎来资金修复](https://www.cls.cn/detail/1532415)
+- [【36kr】公司前员工上班三个月-巨额索赔15.6亿元？*ST正邦：预计对公司影响较小](https://www.cls.cn/detail/1532407)
+- [【36kr】载入史册的11月：美债创近40年来最佳月度表现-全球股债市值猛增11万亿美元](https://www.cls.cn/detail/1532413)
+- [【36kr】马斯克“大嘴”又闯祸！炮轰广告金主后-分析师：他正在“杀死”X](https://www.cls.cn/detail/1532446)
+- [【36kr】【早报】重大部署来了！事关长三角一体化；港交所建议：台风、暴雨等恶劣天气不再休市](https://www.cls.cn/detail/1532319)
+- [【36kr】美股收盘：特斯拉“野兽”明年来临-道指收于近22个月高位](https://www.cls.cn/detail/1532312)
+- [【36kr】又一位“顶梁柱”式基金经理离任，下一站仍在公募，年内离任已近300位，年底更见离职高发](https://www.cls.cn/detail/1532189)
+- [【36kr】拜登政府又一项“烧钱大工程”提速：数百亿美元换掉全国铅水管](https://www.cls.cn/detail/1532261)
+- [【36kr】美联储权威官员暗示“加息已经结束”-他在货币政策上的份量仅次于鲍威尔](https://www.cls.cn/detail/1532247)
+- [【36kr】上交所举办房地产行业座谈会](https://www.cls.cn/detail/1532147)
+- [【36kr】国家统计局点名：有市县党政领导尚未认识统计造假的极端危害性](https://www.cls.cn/detail/1532118)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
