@@ -1,12 +1,12 @@
 ##
 
-:alarm_clock: 更新时间: 2023-12-13 09:35:57，:rocket: 更新条数: +12， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-12-13 11:35:33，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [36kr](#36kr)![](/assets/dot.png)   
+- [36kr](#36kr)  
 - [QuestMobile](#questmobile)  
-- [艾瑞](#艾瑞)  
+- [艾瑞](#艾瑞)![](/assets/dot.png)   
 
 ## 文章链接
 
@@ -73,8 +73,9 @@
 </summary>
 
 
-- [2023-12-12-2023年中国开源基础软件产业研究白皮书](https://report.iresearch.cn/report/202312/4275.shtml)  
+- [2023-12-13-2023年中国制造业数字化转型路径实践](https://report.iresearch.cn/report/202312/4277.shtml) ![](/assets/new.png)  
 - [2023-12-12-2023年中国零担行业研究报告](https://report.iresearch.cn/report/202312/4276.shtml)  
+- [2023-12-12-2023年中国开源基础软件产业研究白皮书](https://report.iresearch.cn/report/202312/4275.shtml)  
 - [2023-12-07-云服务行业动态及热点研究月报---2023年11月](https://report.iresearch.cn/report/202312/4274.shtml)  
 - [2023-12-06-2023年粤港澳大湾区文化产业投资趋势研究](https://report.iresearch.cn/report/202312/4273.shtml)  
 - [2023-12-05-2023年中国三维CAD国产化研究报告](https://report.iresearch.cn/report/202311/4267.shtml)  
@@ -82,17 +83,16 @@
 - [2023-11-29-2023年中国收藏卡市场研究报告](https://report.iresearch.cn/report/202311/4270.shtml)  
 - [2023-11-28-2023年中国企业出海用云实践研究报告](https://report.iresearch.cn/report/202311/4269.shtml)  
 - [2023-11-27-2023年中国户外运动鞋服行业研究报告](https://report.iresearch.cn/report/202311/4268.shtml)  
-- [2023-11-21-中国方便速食行业研究报告](https://report.iresearch.cn/report/202311/4265.shtml)  
 - [2023-11-21-2023年中国采购数字化平台行业研究报告](https://report.iresearch.cn/report/202311/4266.shtml)  
-- [2023-11-20-艾瞰系列-2023年9月-抖音直播间用户洞察报告](https://report.iresearch.cn/report/202311/4264.shtml)  
+- [2023-11-21-中国方便速食行业研究报告](https://report.iresearch.cn/report/202311/4265.shtml)  
 - [2023-11-20-2023年央国企数字化升级研究报告](https://report.iresearch.cn/report/202311/4261.shtml)  
+- [2023-11-20-艾瞰系列-2023年9月-抖音直播间用户洞察报告](https://report.iresearch.cn/report/202311/4264.shtml)  
 - [2023-11-17-2023年电商营销趋势及增长策略](https://report.iresearch.cn/report/202311/4263.shtml)  
 - [2023-11-13-2023年中国企业AutoPaaS白皮书](https://report.iresearch.cn/report/202311/4262.shtml)  
 - [2023-11-12-2023年中国金融信创行业研究报告](https://report.iresearch.cn/report/202311/4260.shtml)  
 - [2023-11-09-2023年Q3中国移动互联网流量季度报告](https://report.iresearch.cn/report/202311/4259.shtml)  
 - [2023-11-08-互利共赢，重振增长---分期免息工具价值研究白皮书](https://report.iresearch.cn/report/202311/4257.shtml)  
 - [2023-11-07-2023年中国线下消费市场创业洞察白皮书](https://report.iresearch.cn/report/202311/4258.shtml)  
-- [2023-11-06-2023年手机即时零售行业研究报告](https://report.iresearch.cn/report/202311/4256.shtml)  
 - [......【查看更多】......](/details/艾瑞.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
