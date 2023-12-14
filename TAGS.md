@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-12-14 09:36:09。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-12-14 14:36:11。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -32,17 +32,17 @@
 - [【36kr】【VIP机会日报】指数探底回升-AI概念上演王者归来-这家AIGC概念人气公司20cm涨停](https://www.cls.cn/detail/1537859)
 - [【36kr】公司未与Pika有任何业务往来-3连板AIGC概念股发布交易风险提示公告|盘后公告集锦](https://www.cls.cn/detail/1534683)
 - [【36kr】港股IPO周报：智能机器人公司优必选通过聆讯-AIGC概念股出门问问再度递表](https://www.cls.cn/detail/1533603)
-- [【36kr】特斯拉Cybertruck即将交付-微软获得OpenAI董事会席位-|-今夜看点](https://www.cls.cn/detail/1532116)
 - [【36kr】【明日主题前瞻】华为云推出首个大模型混合云，全球加速云计算战略部署](https://www.cls.cn/detail/1531728)
+- [【36kr】特斯拉Cybertruck即将交付-微软获得OpenAI董事会席位-|-今夜看点](https://www.cls.cn/detail/1532116)
 - [【36kr】OpenAI“700壮士威压董事会”背后：AI工程师的议价能力有多强？](https://www.cls.cn/detail/1525594)
 - [【36kr】OpenAI官宣奥特曼重回公司担任CEO-董事会启动“重置”](https://www.cls.cn/detail/1524101)
-- [【36kr】币安CEO赵长鹏宣布辞职-奥特曼重返OpenAI一事出现转机-|-环球市场](https://www.cls.cn/detail/1523718)
 - [【36kr】OpenAI闹剧仍在延续-美联储、英伟达也有大消息-|-今夜看点](https://www.cls.cn/detail/1523510)
-- [【36kr】OpenAI“宫斗”大戏持续上演-阿联酋将在2024年提高原油产量-|-环球市场](https://www.cls.cn/detail/1522501)
-- [【36kr】OpenAI“内斗”始作俑者不是你？苏茨克维公开忏悔-反手逼宫董事会](https://www.cls.cn/detail/1522347)
+- [【36kr】币安CEO赵长鹏宣布辞职-奥特曼重返OpenAI一事出现转机-|-环球市场](https://www.cls.cn/detail/1523718)
 - [【36kr】OpenAI面临严峻人才危机-美债标售数据扰动又至-|-今夜看点](https://www.cls.cn/detail/1522297)
+- [【36kr】OpenAI“内斗”始作俑者不是你？苏茨克维公开忏悔-反手逼宫董事会](https://www.cls.cn/detail/1522347)
+- [【36kr】OpenAI“宫斗”大戏持续上演-阿联酋将在2024年提高原油产量-|-环球市场](https://www.cls.cn/detail/1522501)
 - [【36kr】这场OpenAI“政变”终将以奥特曼获胜告终？公司高管透出好消息](https://www.cls.cn/detail/1521155)
-- [【36kr】国产Chiplet大模型推理芯片发布-国内供应链公司成长潜力有望释放](https://www.cls.cn/detail/1519436)
+- [【36kr】OpenAI奥特曼突然离职震惊市场-欧佩克+或考虑额外减产提振油价-|-环球市场](https://www.cls.cn/detail/1520565)
 - [......【查看更多】......](/details/tags/aigc.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】财联社总编辑杨大泉：聚焦“变革与成长”-共同探讨破局之路](https://www.cls.cn/detail/1543562)
-- [【36kr】4万亿沙特主权基金来华，合作再升温，中金、中信等国内多家券商也正双向奔赴](https://www.cls.cn/detail/1543694)
-- [【36kr】不得以任何形式买卖人体器官-《人体器官捐献和移植条例》全文发布](https://www.cls.cn/detail/1543741)
-- [【36kr】从中央经济工作会议看明年A股投资机会，公募锚定TMT和大消费](https://www.cls.cn/detail/1543729)
-- [【36kr】纳斯达克系统出现Bug！数千股票交易指令受影响-部分被取消](https://www.cls.cn/detail/1543676)
-- [【36kr】老百姓如何投资越南？答案是QDII，3年规模增长超23倍](https://www.cls.cn/detail/1543683)
-- [【36kr】拜登支持率创新低-以史为鉴：这对美股来说或是个好兆头](https://www.cls.cn/detail/1543652)
-- [【36kr】茅台落，微盘起，核心资产迎来最后一跌？公募基金重仓股筹码或是时候松动了](https://www.cls.cn/detail/1543601)
-- [【36kr】财联社汽车早报【12月14日】](https://www.cls.cn/detail/1543579)
-- [【36kr】减肥药热潮下股价狂飙！亿万富翁投资者：礼来将成史上首家万亿美元药企](https://www.cls.cn/detail/1543568)
-- [【36kr】美国党争再升级！众议院正式授权弹劾调查拜登](https://www.cls.cn/detail/1543563)
-- [【36kr】中信证券：美联储首次降息时点或在明年年中前后](https://www.cls.cn/detail/1543559)
-- [【36kr】12月14日投资避雷针：突发！这只小米概念人气股董事长遭刑拘](https://www.cls.cn/detail/1543546)
-- [【36kr】又见银行高管“未经核准实际履职”，浙江海宁农商行被重罚415万，年内至少12家机构因此被罚](https://www.cls.cn/detail/1543557)
-- [【36kr】中金：美国货币政策变数或加剧市场波动](https://www.cls.cn/detail/1543537)
-- [【36kr】港股IPO早播报：澜沧古茶、集海资源和君圣泰医药今起招股](https://www.cls.cn/detail/1543553)
-- [【36kr】券商晨会精华：12月FOMC落幕，美联储开始转向](https://www.cls.cn/detail/1543565)
-- [【36kr】财联社债市早参12月14日-|-央行：11月末M2余额291.2万亿元-同比增长10%；美债收益率全线走低，截止发稿时，美国10年期国债收益率自8月以来首次跌破4%](https://www.cls.cn/detail/1543567)
-- [【36kr】华尔街分析师：“科技七巨头”就像互联网泡沫，美股明年将暴跌！](https://www.cls.cn/detail/1543599)
-- [【36kr】市场环境再度趋弱下高位抱团风格再起，留意短线题材内部分化加剧风险](https://www.cls.cn/detail/1543608)
+- [【36kr】“红通人员”、原山西省质监局局长常高才回国投案](https://www.cls.cn/detail/1544141)
+- [【36kr】北京调整优化购房政策：首套房首付比例降至3成、二套房最低4成](https://www.cls.cn/detail/1544122)
+- [【36kr】独家|京东、苏宁并未参与珠海万达商管上市对赌协议-王健林30亿赎回碧桂园所持股权](https://www.cls.cn/detail/1544118)
+- [【36kr】【每日收评】三大指数冲高回落集体收跌，分歧加剧下警惕高位股再度退潮风险](https://www.cls.cn/detail/1544088)
+- [【36kr】高利率“大坝”已决堤？10年期美债收益率跌破4%-美元指数创四个月新低](https://www.cls.cn/detail/1544027)
+- [【36kr】陕西文旅厅辟谣喊话董宇辉：是否回陕西要尊重其个人选择，网传不实信息给多方带来不便](https://www.cls.cn/detail/1544081)
+- [【36kr】红海要道风险陡增：美国欲联合盟友保护商船-伊朗回应榻侧岂容他人](https://www.cls.cn/detail/1544025)
+- [【36kr】国防部：美方不要用零和博弈思维臆测中国](https://www.cls.cn/detail/1544064)
+- [【36kr】这家发债企业财务造假，涉虚假陈述案件至今多达405起，曾两年虚增利润2.4亿元](https://www.cls.cn/detail/1543904)
+- [【36kr】德国政府就2024年预算达成一致-气候转型补贴被大幅削减！](https://www.cls.cn/detail/1543880)
+- [【36kr】连最悲观的空头都改口了！华尔街调查：明年日股还要再涨15%](https://www.cls.cn/detail/1543850)
+- [【36kr】沙特4万亿主权基金如何投中国？想象空间打开，互投升温，追踪沙特ETF产品正上报](https://www.cls.cn/detail/1543906)
+- [【36kr】票据短端利率“贴地飞行”，1个月转贴现率近乎归0，是否预示12月信贷不乐观？](https://www.cls.cn/detail/1543876)
+- [【36kr】黄金港股集体走高招金矿业涨超4%-金价重回2000美元机构称仍有上涨空间](https://www.cls.cn/detail/1543883)
+- [【36kr】卡在海路咽喉，胡塞武装频频打击涉以商船！波及航运市场，部分船东征收相关附加费](https://www.cls.cn/detail/1543795)
+- [【36kr】牛津经济研究院：阿联酋2024年GDP增速预计将达4.8%，较今年翻一番](https://www.cls.cn/detail/1543754)
+- [【36kr】【财联社午报】两市迎修复反弹！国企改革概念持续走强，这只个股上演“地天板”](https://www.cls.cn/detail/1543800)
+- [【36kr】俄乌冲突局势生变：欧美军援迟迟不到位-乌克兰军政还搞内讧](https://www.cls.cn/detail/1543748)
+- [【36kr】“股神”又出手！再次加仓西方石油-持股比例升至27%](https://www.cls.cn/detail/1543777)
+- [【36kr】东方甄选“小作文”引市场关注-机构称直播间矩阵或成为未来方向](https://www.cls.cn/detail/1543763)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
