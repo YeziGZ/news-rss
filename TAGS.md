@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-12-15 09:35:53。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-12-15 10:37:19。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -32,17 +32,17 @@
 - [【36kr】【VIP机会日报】指数探底回升-AI概念上演王者归来-这家AIGC概念人气公司20cm涨停](https://www.cls.cn/detail/1537859)
 - [【36kr】公司未与Pika有任何业务往来-3连板AIGC概念股发布交易风险提示公告|盘后公告集锦](https://www.cls.cn/detail/1534683)
 - [【36kr】港股IPO周报：智能机器人公司优必选通过聆讯-AIGC概念股出门问问再度递表](https://www.cls.cn/detail/1533603)
-- [【36kr】特斯拉Cybertruck即将交付-微软获得OpenAI董事会席位-|-今夜看点](https://www.cls.cn/detail/1532116)
 - [【36kr】【明日主题前瞻】华为云推出首个大模型混合云，全球加速云计算战略部署](https://www.cls.cn/detail/1531728)
+- [【36kr】特斯拉Cybertruck即将交付-微软获得OpenAI董事会席位-|-今夜看点](https://www.cls.cn/detail/1532116)
 - [【36kr】OpenAI“700壮士威压董事会”背后：AI工程师的议价能力有多强？](https://www.cls.cn/detail/1525594)
 - [【36kr】OpenAI官宣奥特曼重回公司担任CEO-董事会启动“重置”](https://www.cls.cn/detail/1524101)
-- [【36kr】币安CEO赵长鹏宣布辞职-奥特曼重返OpenAI一事出现转机-|-环球市场](https://www.cls.cn/detail/1523718)
 - [【36kr】OpenAI闹剧仍在延续-美联储、英伟达也有大消息-|-今夜看点](https://www.cls.cn/detail/1523510)
-- [【36kr】OpenAI“宫斗”大戏持续上演-阿联酋将在2024年提高原油产量-|-环球市场](https://www.cls.cn/detail/1522501)
-- [【36kr】OpenAI“内斗”始作俑者不是你？苏茨克维公开忏悔-反手逼宫董事会](https://www.cls.cn/detail/1522347)
+- [【36kr】币安CEO赵长鹏宣布辞职-奥特曼重返OpenAI一事出现转机-|-环球市场](https://www.cls.cn/detail/1523718)
 - [【36kr】OpenAI面临严峻人才危机-美债标售数据扰动又至-|-今夜看点](https://www.cls.cn/detail/1522297)
+- [【36kr】OpenAI“内斗”始作俑者不是你？苏茨克维公开忏悔-反手逼宫董事会](https://www.cls.cn/detail/1522347)
+- [【36kr】OpenAI“宫斗”大戏持续上演-阿联酋将在2024年提高原油产量-|-环球市场](https://www.cls.cn/detail/1522501)
 - [【36kr】这场OpenAI“政变”终将以奥特曼获胜告终？公司高管透出好消息](https://www.cls.cn/detail/1521155)
-- [【36kr】国产Chiplet大模型推理芯片发布-国内供应链公司成长潜力有望释放](https://www.cls.cn/detail/1519436)
+- [【36kr】OpenAI奥特曼突然离职震惊市场-欧佩克+或考虑额外减产提振油价-|-环球市场](https://www.cls.cn/detail/1520565)
 - [......【查看更多】......](/details/tags/aigc.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】李迅雷：投资端或为新一轮改革重心，提升投资者获得感将是重要议题](https://www.cls.cn/detail/1545060)
-- [【36kr】北京地铁事故：515人送医，骨折102人，初步原因查明](https://www.cls.cn/detail/1544995)
-- [【36kr】红海商船遇袭事件不断增多！马士基油轮通知船队：绕道而行](https://www.cls.cn/detail/1544952)
-- [【36kr】部分银行提前落地开门红储备项目-12月信贷会翘尾收官吗？](https://www.cls.cn/detail/1544882)
-- [【36kr】东方甄选：近期舆论爆发暴露网红模式和产品路线两种模式冲突，坚守产品路线是最好选择](https://www.cls.cn/detail/1544898)
-- [【36kr】华尔街“铁证”拷打鲍威尔：转鸽看的是哪门子数据-莫不是拜登支持率？](https://www.cls.cn/detail/1544880)
-- [【36kr】李斌回应引发热议-蔚来盘中一度涨近7%](https://www.cls.cn/detail/1544845)
-- [【36kr】国家统计局：房地产市场形势有望进一步趋于改善](https://www.cls.cn/detail/1544876)
-- [【36kr】1-11月城镇固定资产投资同比增长2.9%-与1-10月份持平](https://www.cls.cn/detail/1544808)
-- [【36kr】11月社会消费品零售总额同比增长10.1%](https://www.cls.cn/detail/1544823)
-- [【36kr】距“美版微信”更近了？马斯克旗下X获美国13州汇款许可证](https://www.cls.cn/detail/1544795)
-- [【36kr】财联社汽车早报【12月15日】](https://www.cls.cn/detail/1544727)
-- [【36kr】财联社债市早参12月15日-|-兴业银行召集10家房企座谈，万科、绿地等房企参会；碧桂园：30.7亿元出售珠海万达商管1.79%股权予万达](https://www.cls.cn/detail/1544711)
-- [【36kr】中金：北上优化地产政策，调整效果未来可期](https://www.cls.cn/detail/1544675)
-- [【36kr】北京、上海同日优化房地产政策-市场活跃度提升或将助力行业恢复](https://www.cls.cn/detail/1544677)
-- [【36kr】美债跌破关键关口！“新债王”：经济警报已拉响-美联储明年将降息200基点](https://www.cls.cn/detail/1544692)
-- [【36kr】12月15日投资避雷针：6天4板人气股提示风险-公司不涉及“数据要素”相关业务](https://www.cls.cn/detail/1544697)
-- [【36kr】中信证券：政策减小地产市场下行斜率-期待预期来年走稳](https://www.cls.cn/detail/1544691)
-- [【36kr】英国对俄金属制裁引发恐慌：钯金飙升近12%-铜价创11个月来最大涨幅](https://www.cls.cn/detail/1544723)
-- [【36kr】国企改革概念股呈现高低切态势-这一方向有望迎来新催化](https://www.cls.cn/detail/1544743)
+- [【36kr】【焦点复盘】三大指数均逼近年内新低，创指创周线五连阴，游戏、传媒板块再获热捧](https://www.cls.cn/detail/1545362)
+- [【36kr】东方甄选周跌22%，“中欧系”集体踩坑？还有这只ETF有点“无辜”](https://www.cls.cn/detail/1545338)
+- [【36kr】财联社2023年十大海外新闻](https://www.cls.cn/detail/1542798)
+- [【36kr】降准何时会来？](https://www.cls.cn/detail/1545318)
+- [【36kr】央行：稳妥有效防范化解重点领域金融风险-加快金融稳定保障基金建设](https://www.cls.cn/detail/1545291)
+- [【36kr】美国敦促以色列在军事行动中更加谨慎行事-减少平民伤亡](https://www.cls.cn/detail/1545272)
+- [【36kr】【每日收评】-深成指再创年内新低，北向资金午后大幅净卖出，跌跌不休行情何时止？](https://www.cls.cn/detail/1545226)
+- [【36kr】厄尔尼诺威胁粮食安全-印尼下令军方帮助农民提高大米产量](https://www.cls.cn/detail/1545196)
+- [【36kr】财政部：1-11月证券交易印花税1697亿元-同比下降33.4%](https://www.cls.cn/detail/1545215)
+- [【36kr】最贵ST股连续3日20cm跌停，股价5个月暴跌67%！发生了什么？](https://www.cls.cn/detail/1545128)
+- [【36kr】美国财长耶伦呼吁中国转变经济政策，外交部回应](https://www.cls.cn/detail/1545177)
+- [【36kr】上市公司高质量发展战略：创新、品质与社会责任](https://www.cls.cn/detail/1545132)
+- [【36kr】习近平：在二十届中央机构编制委员会第一次会议上的讲话](https://www.cls.cn/detail/1545129)
+- [【36kr】“年度量化黑马”马芳如何调仓？与中信证券一道，同进两只微盘股](https://www.cls.cn/detail/1545101)
+- [【36kr】实控人被立案，鸿达转债明日进入回售期，超过25%的持有收益率能否博弈？](https://www.cls.cn/detail/1545079)
+- [【36kr】“小作文”致东方甄选股价创近5个月新低-约9亿港元团队股权激励价值缩水](https://www.cls.cn/detail/1545081)
+- [【36kr】国家外汇局：在上海市、江苏省、广东省、北京市、浙江省、海南省全域扩大实施跨境贸易投资高水平开放政策试点](https://www.cls.cn/detail/1545087)
+- [【36kr】恒大6.63亿转让上海北外滩一地块30%股权-出险两年仅处置70余个地产项目](https://www.cls.cn/detail/1545075)
+- [【36kr】MLF单月净投放创历史最高水平，年末各机构偏好配置哪些品种？](https://www.cls.cn/detail/1545027)
+- [【36kr】【财联社午报】三大指数集体小幅收涨，传媒概念股再度引爆两市](https://www.cls.cn/detail/1544982)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
