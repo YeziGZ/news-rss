@@ -1,12 +1,12 @@
 ##
 
-:alarm_clock: 更新时间: 2023-12-15 03:35:52，:rocket: 更新条数: +9， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-12-15 04:36:41，:rocket: 更新条数: +9， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [36kr](#36kr)![](/assets/dot.png)   
 - [QuestMobile](#questmobile)  
-- [艾瑞](#艾瑞)  
+- [艾瑞](#艾瑞)![](/assets/dot.png)   
 
 ## 文章链接
 
@@ -16,26 +16,26 @@
 </summary>
 
 
-- [2023-12-15-1-11月房地产开发投资同比下降9.4%](https://www.cls.cn/detail/1544829)  
-- [2023-12-15-中国11月规模以上工业增加值同比增长6.6%](https://www.cls.cn/detail/1544821)  
-- [2023-12-15-统计局：11月份商品住宅销售价格环比总体下降-同比有涨有降](https://www.cls.cn/detail/1544792)  
-- [2023-12-15-商务部：认定台湾地区对大陆贸易限制措施构成贸易壁垒](https://www.cls.cn/detail/1544773)  
-- [2023-12-15-央行今日通过MLF净投放8000亿元-为有纪录以来的单月最大](https://www.cls.cn/detail/1544776)  
-- [2023-12-15-国企改革概念股呈现高低切态势-这一方向有望迎来新催化](https://www.cls.cn/detail/1544743)  
-- [2023-12-15-英国对俄金属制裁引发恐慌：钯金飙升近12%-铜价创11个月来最大涨幅](https://www.cls.cn/detail/1544723)  
-- [2023-12-15-中信证券：政策减小地产市场下行斜率-期待预期来年走稳](https://www.cls.cn/detail/1544691)  
-- [2023-12-15-12月15日投资避雷针：6天4板人气股提示风险-公司不涉及“数据要素”相关业务](https://www.cls.cn/detail/1544697)  
-- [2023-12-15-美债跌破关键关口！“新债王”：经济警报已拉响-美联储明年将降息200基点](https://www.cls.cn/detail/1544692)  
-- [2023-12-15-北京、上海同日优化房地产政策-市场活跃度提升或将助力行业恢复](https://www.cls.cn/detail/1544677)  
+- [2023-12-15-东方甄选：近期舆论爆发暴露网红模式和产品路线两种模式冲突，坚守产品路线是最好选择](https://www.cls.cn/detail/1544898)  
+- [2023-12-15-华尔街“铁证”拷打鲍威尔：转鸽看的是哪门子数据-莫不是拜登支持率？](https://www.cls.cn/detail/1544880)  
+- [2023-12-15-李斌回应引发热议-蔚来盘中一度涨近7%](https://www.cls.cn/detail/1544845)  
+- [2023-12-15-国家统计局：房地产市场形势有望进一步趋于改善](https://www.cls.cn/detail/1544876)  
+- [2023-12-15-1-11月城镇固定资产投资同比增长2.9%-与1-10月份持平](https://www.cls.cn/detail/1544808)  
+- [2023-12-15-11月社会消费品零售总额同比增长10.1%](https://www.cls.cn/detail/1544823)  
+- [2023-12-15-距“美版微信”更近了？马斯克旗下X获美国13州汇款许可证](https://www.cls.cn/detail/1544795)  
+- [2023-12-15-财联社汽车早报【12月15日】](https://www.cls.cn/detail/1544727)  
+- [2023-12-15-财联社债市早参12月15日-|-兴业银行召集10家房企座谈，万科、绿地等房企参会；碧桂园：30.7亿元出售珠海万达商管1.79%股权予万达](https://www.cls.cn/detail/1544711)  
 - [2023-12-15-中金：北上优化地产政策，调整效果未来可期](https://www.cls.cn/detail/1544675)  
-- [2023-12-15-财联社债市早参12月15日-|-兴业银行召集10家房企座谈，万科、绿地等房企参会；碧桂园：30.7亿元出售珠海万达商管1.79%股权予万达](https://www.cls.cn/detail/1544711) ![](/assets/new.png)  
-- [2023-12-15-财联社汽车早报【12月15日】](https://www.cls.cn/detail/1544727) ![](/assets/new.png)  
-- [2023-12-15-距“美版微信”更近了？马斯克旗下X获美国13州汇款许可证](https://www.cls.cn/detail/1544795) ![](/assets/new.png)  
-- [2023-12-15-11月社会消费品零售总额同比增长10.1%](https://www.cls.cn/detail/1544823) ![](/assets/new.png)  
-- [2023-12-15-1-11月城镇固定资产投资同比增长2.9%-与1-10月份持平](https://www.cls.cn/detail/1544808) ![](/assets/new.png)  
-- [2023-12-15-国家统计局：房地产市场形势有望进一步趋于改善](https://www.cls.cn/detail/1544876) ![](/assets/new.png)  
-- [2023-12-15-李斌回应引发热议-蔚来盘中一度涨近7%](https://www.cls.cn/detail/1544845) ![](/assets/new.png)  
-- [2023-12-15-华尔街“铁证”拷打鲍威尔：转鸽看的是哪门子数据-莫不是拜登支持率？](https://www.cls.cn/detail/1544880) ![](/assets/new.png)  
+- [2023-12-15-北京、上海同日优化房地产政策-市场活跃度提升或将助力行业恢复](https://www.cls.cn/detail/1544677)  
+- [2023-12-15-美债跌破关键关口！“新债王”：经济警报已拉响-美联储明年将降息200基点](https://www.cls.cn/detail/1544692)  
+- [2023-12-15-12月15日投资避雷针：6天4板人气股提示风险-公司不涉及“数据要素”相关业务](https://www.cls.cn/detail/1544697)  
+- [2023-12-15-中信证券：政策减小地产市场下行斜率-期待预期来年走稳](https://www.cls.cn/detail/1544691)  
+- [2023-12-15-英国对俄金属制裁引发恐慌：钯金飙升近12%-铜价创11个月来最大涨幅](https://www.cls.cn/detail/1544723)  
+- [2023-12-15-国企改革概念股呈现高低切态势-这一方向有望迎来新催化](https://www.cls.cn/detail/1544743)  
+- [2023-12-15-央行今日通过MLF净投放8000亿元-为有纪录以来的单月最大](https://www.cls.cn/detail/1544776)  
+- [2023-12-15-商务部：认定台湾地区对大陆贸易限制措施构成贸易壁垒](https://www.cls.cn/detail/1544773)  
+- [2023-12-15-统计局：11月份商品住宅销售价格环比总体下降-同比有涨有降](https://www.cls.cn/detail/1544792)  
+- [2023-12-15-中国11月规模以上工业增加值同比增长6.6%](https://www.cls.cn/detail/1544821)  
 - [......【查看更多】......](/details/36kr.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -78,9 +78,11 @@
 </summary>
 
 
+- [2023-12-15-艾瑞观潮-食品饮料行业七大风向（2023）](https://report.iresearch.cn/report/202312/4278.shtml) ![](/assets/new.png)  
+- [2023-12-15-第三方支付行业平台活跃研究](https://report.iresearch.cn/report/202312/4279.shtml) ![](/assets/new.png)  
 - [2023-12-13-2023年中国制造业数字化转型路径实践](https://report.iresearch.cn/report/202312/4277.shtml)  
-- [2023-12-12-2023年中国零担行业研究报告](https://report.iresearch.cn/report/202312/4276.shtml)  
 - [2023-12-12-2023年中国开源基础软件产业研究白皮书](https://report.iresearch.cn/report/202312/4275.shtml)  
+- [2023-12-12-2023年中国零担行业研究报告](https://report.iresearch.cn/report/202312/4276.shtml)  
 - [2023-12-07-云服务行业动态及热点研究月报---2023年11月](https://report.iresearch.cn/report/202312/4274.shtml)  
 - [2023-12-06-2023年粤港澳大湾区文化产业投资趋势研究](https://report.iresearch.cn/report/202312/4273.shtml)  
 - [2023-12-05-2023年中国三维CAD国产化研究报告](https://report.iresearch.cn/report/202311/4267.shtml)  
@@ -88,16 +90,14 @@
 - [2023-11-29-2023年中国收藏卡市场研究报告](https://report.iresearch.cn/report/202311/4270.shtml)  
 - [2023-11-28-2023年中国企业出海用云实践研究报告](https://report.iresearch.cn/report/202311/4269.shtml)  
 - [2023-11-27-2023年中国户外运动鞋服行业研究报告](https://report.iresearch.cn/report/202311/4268.shtml)  
-- [2023-11-21-2023年中国采购数字化平台行业研究报告](https://report.iresearch.cn/report/202311/4266.shtml)  
 - [2023-11-21-中国方便速食行业研究报告](https://report.iresearch.cn/report/202311/4265.shtml)  
-- [2023-11-20-2023年央国企数字化升级研究报告](https://report.iresearch.cn/report/202311/4261.shtml)  
+- [2023-11-21-2023年中国采购数字化平台行业研究报告](https://report.iresearch.cn/report/202311/4266.shtml)  
 - [2023-11-20-艾瞰系列-2023年9月-抖音直播间用户洞察报告](https://report.iresearch.cn/report/202311/4264.shtml)  
+- [2023-11-20-2023年央国企数字化升级研究报告](https://report.iresearch.cn/report/202311/4261.shtml)  
 - [2023-11-17-2023年电商营销趋势及增长策略](https://report.iresearch.cn/report/202311/4263.shtml)  
 - [2023-11-13-2023年中国企业AutoPaaS白皮书](https://report.iresearch.cn/report/202311/4262.shtml)  
 - [2023-11-12-2023年中国金融信创行业研究报告](https://report.iresearch.cn/report/202311/4260.shtml)  
 - [2023-11-09-2023年Q3中国移动互联网流量季度报告](https://report.iresearch.cn/report/202311/4259.shtml)  
-- [2023-11-08-互利共赢，重振增长---分期免息工具价值研究白皮书](https://report.iresearch.cn/report/202311/4257.shtml)  
-- [2023-11-07-2023年中国线下消费市场创业洞察白皮书](https://report.iresearch.cn/report/202311/4258.shtml)  
 - [......【查看更多】......](/details/艾瑞.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
