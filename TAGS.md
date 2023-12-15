@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-12-15 13:36:04。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-12-15 17:35:38。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -32,17 +32,17 @@
 - [【36kr】【VIP机会日报】指数探底回升-AI概念上演王者归来-这家AIGC概念人气公司20cm涨停](https://www.cls.cn/detail/1537859)
 - [【36kr】公司未与Pika有任何业务往来-3连板AIGC概念股发布交易风险提示公告|盘后公告集锦](https://www.cls.cn/detail/1534683)
 - [【36kr】港股IPO周报：智能机器人公司优必选通过聆讯-AIGC概念股出门问问再度递表](https://www.cls.cn/detail/1533603)
-- [【36kr】特斯拉Cybertruck即将交付-微软获得OpenAI董事会席位-|-今夜看点](https://www.cls.cn/detail/1532116)
 - [【36kr】【明日主题前瞻】华为云推出首个大模型混合云，全球加速云计算战略部署](https://www.cls.cn/detail/1531728)
+- [【36kr】特斯拉Cybertruck即将交付-微软获得OpenAI董事会席位-|-今夜看点](https://www.cls.cn/detail/1532116)
 - [【36kr】OpenAI“700壮士威压董事会”背后：AI工程师的议价能力有多强？](https://www.cls.cn/detail/1525594)
 - [【36kr】OpenAI官宣奥特曼重回公司担任CEO-董事会启动“重置”](https://www.cls.cn/detail/1524101)
-- [【36kr】币安CEO赵长鹏宣布辞职-奥特曼重返OpenAI一事出现转机-|-环球市场](https://www.cls.cn/detail/1523718)
 - [【36kr】OpenAI闹剧仍在延续-美联储、英伟达也有大消息-|-今夜看点](https://www.cls.cn/detail/1523510)
-- [【36kr】OpenAI“宫斗”大戏持续上演-阿联酋将在2024年提高原油产量-|-环球市场](https://www.cls.cn/detail/1522501)
-- [【36kr】OpenAI“内斗”始作俑者不是你？苏茨克维公开忏悔-反手逼宫董事会](https://www.cls.cn/detail/1522347)
+- [【36kr】币安CEO赵长鹏宣布辞职-奥特曼重返OpenAI一事出现转机-|-环球市场](https://www.cls.cn/detail/1523718)
 - [【36kr】OpenAI面临严峻人才危机-美债标售数据扰动又至-|-今夜看点](https://www.cls.cn/detail/1522297)
+- [【36kr】OpenAI“内斗”始作俑者不是你？苏茨克维公开忏悔-反手逼宫董事会](https://www.cls.cn/detail/1522347)
+- [【36kr】OpenAI“宫斗”大戏持续上演-阿联酋将在2024年提高原油产量-|-环球市场](https://www.cls.cn/detail/1522501)
 - [【36kr】这场OpenAI“政变”终将以奥特曼获胜告终？公司高管透出好消息](https://www.cls.cn/detail/1521155)
-- [【36kr】国产Chiplet大模型推理芯片发布-国内供应链公司成长潜力有望释放](https://www.cls.cn/detail/1519436)
+- [【36kr】OpenAI奥特曼突然离职震惊市场-欧佩克+或考虑额外减产提振油价-|-环球市场](https://www.cls.cn/detail/1520565)
 - [......【查看更多】......](/details/tags/aigc.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】独家|北方非洲猪瘟疫情发酵-四川畜牧业协会提交《近期非瘟发生情况汇报与建议》](https://www.cls.cn/detail/1545662)
-- [【36kr】证券交易印花税减半征收3个月免税229亿，频频利好加持正待市场复苏，高盛称维持高配A股](https://www.cls.cn/detail/1545641)
-- [【36kr】没有“传感器”相关业务的收入-三连板机器人概念股披露风险提示公告|盘后公告集锦](https://www.cls.cn/detail/1545633)
-- [【36kr】IMF总裁警告：不要盲目跟从美联储-各国央行应坚持抗击通胀](https://www.cls.cn/detail/1545623)
-- [【36kr】证监会：尽可能提高回购便利度-严防“忽悠式回购”](https://www.cls.cn/detail/1545596)
-- [【36kr】证监会：加强对异常高比例分红企业的约束，引导合理分红](https://www.cls.cn/detail/1545583)
-- [【36kr】恒指反弹逼近万七关口-周期类板块全线上扬｜港股风向标](https://www.cls.cn/detail/1545578)
-- [【36kr】董事长华士超专访—财联社](https://www.cls.cn/detail/1545550)
-- [【36kr】第30家！华福证券资管子公司获批](https://www.cls.cn/detail/1545558)
-- [【36kr】聚焦中国股权投资年度论坛，投资人的硬科技投资逻辑是什么？](https://www.cls.cn/detail/1545506)
-- [【36kr】【图解牛熊股】国企改革概念股“大放异彩”-算力板块多股遭主力大笔甩卖](https://www.cls.cn/detail/1545370)
-- [【36kr】央行MLF净投放创单月最高纪录-年内还有可能降准吗？](https://www.cls.cn/detail/1545493)
-- [【36kr】重整方案出炉，退市风险解除！这家违约民企旗下上市公司两日涨幅达7.6%](https://www.cls.cn/detail/1545374)
-- [【36kr】【数据看盘】游资活跃度逆势提升-传媒、国企改革股成重点抢筹对象](https://www.cls.cn/detail/1545449)
-- [【36kr】华为鸿蒙、头部三朵云“卷”到现场！AI和云计算成游戏业发展深层动力|直击游戏产业年会](https://www.cls.cn/detail/1545415)
-- [【36kr】连续3个一字跌停！“最牛ST”遭亿元封单，年内退市标的回顾，这些个股仍面临大考](https://www.cls.cn/detail/1545412)
-- [【36kr】【VIP机会日报】指数冲高回落-AI应用端逆势大涨-这家传媒人气公司4日最高涨超31%](https://www.cls.cn/detail/1545300)
-- [【36kr】外汇局：合理引导外汇市场预期，防范跨境资金异常流动风险](https://www.cls.cn/detail/1545385)
-- [【36kr】社保基金会：支持资本市场稳预期、稳信心](https://www.cls.cn/detail/1545373)
-- [【36kr】中国证券业协会召开会议-与会专家建议明年中央财政可适度提高赤字率](https://www.cls.cn/detail/1545371)
+- [【36kr】美股三大期指集体上扬-道指有望再创新高-|-今夜看点](https://www.cls.cn/detail/1545704)
+- [【36kr】匈牙利“一票否决”欧盟500亿援乌财政案-剩余26国考虑迂回选项](https://www.cls.cn/detail/1545663)
+- [【36kr】南向资金本周累计流出近百亿：买入美团及中海油-大幅抛售腾讯和两只ETF](https://www.cls.cn/detail/1545645)
+- [【36kr】2023券业并购第一单来了！网友沸腾：国联与民生合并后如何改名？](https://www.cls.cn/detail/1545563)
+- [【36kr】一线城市楼市松绑力度谁最大？这里有你想知道的答案](https://www.cls.cn/detail/1545534)
+- [【36kr】京沪房贷利率今日下调-首套房最低降至4.2%、4.1%-业内：减负效应明显-料将刺激购房需求释放](https://www.cls.cn/detail/1545521)
+- [【36kr】“南京前首富”袁亚非之女将出任南京新百副总裁，“95后”企二代正式登台](https://www.cls.cn/detail/1545484)
+- [【36kr】北方连续大雪-焦企顺势发起第四轮提涨！业内称落地概率不大](https://www.cls.cn/detail/1545494)
+- [【36kr】跌幅两三成，这些次新基金加错了仓？9只跌幅超30%，84只跌幅超过20%](https://www.cls.cn/detail/1545448)
+- [【36kr】贵州城投“豪爽”出手，贵安发展52亿兑付议案通过，还有32亿债券拟提前偿还|聚焦城投债⑳](https://www.cls.cn/detail/1545445)
+- [【36kr】【焦点复盘】三大指数均逼近年内新低，创指创周线五连阴，游戏、传媒板块再获热捧](https://www.cls.cn/detail/1545362)
+- [【36kr】东方甄选周跌22%，“中欧系”集体踩坑？还有这只ETF有点“无辜”](https://www.cls.cn/detail/1545338)
+- [【36kr】财联社2023年十大海外新闻](https://www.cls.cn/detail/1542798)
+- [【36kr】降准何时会来？](https://www.cls.cn/detail/1545318)
+- [【36kr】央行：稳妥有效防范化解重点领域金融风险-加快金融稳定保障基金建设](https://www.cls.cn/detail/1545291)
+- [【36kr】美国敦促以色列在军事行动中更加谨慎行事-减少平民伤亡](https://www.cls.cn/detail/1545272)
+- [【36kr】【每日收评】-深成指再创年内新低，北向资金午后大幅净卖出，跌跌不休行情何时止？](https://www.cls.cn/detail/1545226)
+- [【36kr】厄尔尼诺威胁粮食安全-印尼下令军方帮助农民提高大米产量](https://www.cls.cn/detail/1545196)
+- [【36kr】财政部：1-11月证券交易印花税1697亿元-同比下降33.4%](https://www.cls.cn/detail/1545215)
+- [【36kr】最贵ST股连续3日20cm跌停，股价5个月暴跌67%！发生了什么？](https://www.cls.cn/detail/1545128)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
