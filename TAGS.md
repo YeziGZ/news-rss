@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-12-18 02:41:52。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-12-18 03:36:34。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -33,15 +33,15 @@
 - [【36kr】【VIP机会日报】指数探底回升-AI概念上演王者归来-这家AIGC概念人气公司20cm涨停](https://www.cls.cn/detail/1537859)
 - [【36kr】公司未与Pika有任何业务往来-3连板AIGC概念股发布交易风险提示公告|盘后公告集锦](https://www.cls.cn/detail/1534683)
 - [【36kr】港股IPO周报：智能机器人公司优必选通过聆讯-AIGC概念股出门问问再度递表](https://www.cls.cn/detail/1533603)
-- [【36kr】特斯拉Cybertruck即将交付-微软获得OpenAI董事会席位-|-今夜看点](https://www.cls.cn/detail/1532116)
 - [【36kr】【明日主题前瞻】华为云推出首个大模型混合云，全球加速云计算战略部署](https://www.cls.cn/detail/1531728)
+- [【36kr】特斯拉Cybertruck即将交付-微软获得OpenAI董事会席位-|-今夜看点](https://www.cls.cn/detail/1532116)
 - [【36kr】OpenAI“700壮士威压董事会”背后：AI工程师的议价能力有多强？](https://www.cls.cn/detail/1525594)
 - [【36kr】OpenAI官宣奥特曼重回公司担任CEO-董事会启动“重置”](https://www.cls.cn/detail/1524101)
-- [【36kr】币安CEO赵长鹏宣布辞职-奥特曼重返OpenAI一事出现转机-|-环球市场](https://www.cls.cn/detail/1523718)
 - [【36kr】OpenAI闹剧仍在延续-美联储、英伟达也有大消息-|-今夜看点](https://www.cls.cn/detail/1523510)
-- [【36kr】OpenAI“宫斗”大戏持续上演-阿联酋将在2024年提高原油产量-|-环球市场](https://www.cls.cn/detail/1522501)
-- [【36kr】OpenAI“内斗”始作俑者不是你？苏茨克维公开忏悔-反手逼宫董事会](https://www.cls.cn/detail/1522347)
+- [【36kr】币安CEO赵长鹏宣布辞职-奥特曼重返OpenAI一事出现转机-|-环球市场](https://www.cls.cn/detail/1523718)
 - [【36kr】OpenAI面临严峻人才危机-美债标售数据扰动又至-|-今夜看点](https://www.cls.cn/detail/1522297)
+- [【36kr】OpenAI“内斗”始作俑者不是你？苏茨克维公开忏悔-反手逼宫董事会](https://www.cls.cn/detail/1522347)
+- [【36kr】OpenAI“宫斗”大戏持续上演-阿联酋将在2024年提高原油产量-|-环球市场](https://www.cls.cn/detail/1522501)
 - [【36kr】这场OpenAI“政变”终将以奥特曼获胜告终？公司高管透出好消息](https://www.cls.cn/detail/1521155)
 - [......【查看更多】......](/details/tags/aigc.md)
 
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】港股12月18日早报：董宇辉成东方甄选高级合伙人-阿里计划减持小鹏汽车套现近4亿美元](https://www.cls.cn/detail/1546438)
-- [【36kr】特朗普反移民言论遭拜登炮轰：他在模仿希特勒！](https://www.cls.cn/detail/1546464)
-- [【36kr】大选年=降息年！美联储极限转鸽利好拜登-但鲍威尔将为此背上骂名？](https://www.cls.cn/detail/1546481)
-- [【36kr】中信建投：建议投资者守住筹码-积极考虑逢低布局](https://www.cls.cn/detail/1546453)
-- [【36kr】券商晨会精华：顶层设计加速完善，数据要素乘数效应逐步显现](https://www.cls.cn/detail/1546447)
-- [【36kr】降息前景又被“泼冷水”！FDIC前主席：美联储引发非理性乐观情绪](https://www.cls.cn/detail/1546457)
-- [【36kr】FED鸽派票委“放鹰”：降不降息还要看本周公布的CPI数据！](https://www.cls.cn/detail/1546446)
-- [【36kr】12月18日投资避雷针：3连板机器人概念人气股澄清-目前没有“传感器”相关业务的收入](https://www.cls.cn/detail/1546458)
-- [【36kr】财联社债市早参12月18日-|-中央财办：要优化地方政府专项债券投向和额度分配；城投债迎“提前兑付潮”](https://www.cls.cn/detail/1546466)
-- [【36kr】支付机构新规影响几何？中信证券：避免监管套利和促进公平竞争](https://www.cls.cn/detail/1546471)
-- [【36kr】短线投机性炒作持续活跃，以下方向或仍具结构性机会](https://www.cls.cn/detail/1546501)
-- [【36kr】财联社汽车早报【12月18日】](https://www.cls.cn/detail/1546486)
-- [【36kr】船只改道威胁过境费！苏伊士运河管理局：正密切监控红海紧张局势](https://www.cls.cn/detail/1546516)
-- [【36kr】今年中央财政增发1万亿元国债-首批国债资金预算2379亿元已下达](https://www.cls.cn/detail/1546528)
 - [【36kr】当美联储降息预期叠加油价大跌：投资新兴市场的好机会来了？](https://www.cls.cn/detail/1546538)
-- [【36kr】雷军：第一辆车投了3400名工程师-整个研发投入超过100亿](https://www.cls.cn/detail/1546444)
-- [【36kr】如何看待中国经济走势？如何做好2024年经济工作？中央财办回应经济热点问题](https://www.cls.cn/detail/1546413)
-- [【36kr】联合国官员：加沙地带90%以上人口流离失所](https://www.cls.cn/detail/1546414)
-- [【36kr】【数读IPO】激光测量设备“小巨人”今日申购-国产传感器领军企业上市](https://www.cls.cn/detail/1546412)
-- [【36kr】基石资本张维：注册制是发展硬科技的关键一步，中国企业需要“网景时刻”](https://www.cls.cn/detail/1546387)
+- [【36kr】今年中央财政增发1万亿元国债-首批国债资金预算2379亿元已下达](https://www.cls.cn/detail/1546528)
+- [【36kr】船只改道威胁过境费！苏伊士运河管理局：正密切监控红海紧张局势](https://www.cls.cn/detail/1546516)
+- [【36kr】财联社汽车早报【12月18日】](https://www.cls.cn/detail/1546486)
+- [【36kr】短线投机性炒作持续活跃，以下方向或仍具结构性机会](https://www.cls.cn/detail/1546501)
+- [【36kr】支付机构新规影响几何？中信证券：避免监管套利和促进公平竞争](https://www.cls.cn/detail/1546471)
+- [【36kr】财联社债市早参12月18日-|-中央财办：要优化地方政府专项债券投向和额度分配；城投债迎“提前兑付潮”](https://www.cls.cn/detail/1546466)
+- [【36kr】12月18日投资避雷针：3连板机器人概念人气股澄清-目前没有“传感器”相关业务的收入](https://www.cls.cn/detail/1546458)
+- [【36kr】FED鸽派票委“放鹰”：降不降息还要看本周公布的CPI数据！](https://www.cls.cn/detail/1546446)
+- [【36kr】降息前景又被“泼冷水”！FDIC前主席：美联储引发非理性乐观情绪](https://www.cls.cn/detail/1546457)
+- [【36kr】券商晨会精华：顶层设计加速完善，数据要素乘数效应逐步显现](https://www.cls.cn/detail/1546447)
+- [【36kr】中信建投：建议投资者守住筹码-积极考虑逢低布局](https://www.cls.cn/detail/1546453)
+- [【36kr】大选年=降息年！美联储极限转鸽利好拜登-但鲍威尔将为此背上骂名？](https://www.cls.cn/detail/1546481)
+- [【36kr】特朗普反移民言论遭拜登炮轰：他在模仿希特勒！](https://www.cls.cn/detail/1546464)
+- [【36kr】港股12月18日早报：董宇辉成东方甄选高级合伙人-阿里计划减持小鹏汽车套现近4亿美元](https://www.cls.cn/detail/1546438)
+- [【36kr】中东主权基金再出手-与阿塞拜疆主权基金组建10亿美元投资平台](https://www.cls.cn/detail/1546517)
+- [【36kr】国海证券：航运大动脉或再阻塞，运价上行风险陡增](https://www.cls.cn/detail/1546554)
+- [【36kr】东方甄选“内斗”迎来大结局-股价盘中一度大涨近18%](https://www.cls.cn/detail/1546547)
+- [【36kr】美股投资者别开心太早！华尔街列举2024年一众风险……](https://www.cls.cn/detail/1546566)
+- [【36kr】为什么有人背着粮食登上去韩国的国际航班？](https://www.cls.cn/detail/1546598)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
