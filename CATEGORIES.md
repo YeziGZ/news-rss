@@ -1,12 +1,12 @@
 ##
 
-:alarm_clock: 更新时间: 2023-12-26 10:35:41，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-12-27 11:35:22，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [36kr](#36kr)  
-- [QuestMobile](#questmobile)![](/assets/dot.png)   
-- [艾瑞](#艾瑞)  
+- [QuestMobile](#questmobile)  
+- [艾瑞](#艾瑞)![](/assets/dot.png)   
 
 ## 文章链接
 
@@ -47,7 +47,7 @@
 </summary>
 
 
-- [2023-12-26-QuestMobile-2023年营销热点事件盘点：“三步并行”特征突出，“五大模式”异军突起](https://www.questmobile.com.cn/research/report/1739542485808549889) ![](/assets/new.png)  
+- [2023-12-26-QuestMobile-2023年营销热点事件盘点：“三步并行”特征突出，“五大模式”异军突起](https://www.questmobile.com.cn/research/report/1739542485808549889)  
 - [2023-12-19-QuestMobile-2023中国互联网核心趋势年度报告（精华版）：12.24亿用户每月上网160小时，15大巨头月活破4亿](https://www.questmobile.com.cn/research/report/1737028262113153026)  
 - [2023-12-13-QuestMobile2023品牌私域流量发展洞察：私域用户粘性、消费力高于公域，食品饮品私域规模近1.9亿，三大差异化玩法形成](https://www.questmobile.com.cn/research/report/1731878554344460289)  
 - [2023-12-13-QuestMobile2023智能终端半年报告：安卓与iOS-“二八效应”持续，高端市场苹果超9成，折叠屏、电竞屏成小众突围方向](https://www.questmobile.com.cn/research/report/1688802572197007361)  
@@ -78,13 +78,14 @@
 </summary>
 
 
+- [2023-12-27-2023年中国人力资源数字化研究报告](https://report.iresearch.cn/report/202312/4282.shtml) ![](/assets/new.png)  
 - [2023-12-25-2023年中国大视听市场趋势洞察报告](https://report.iresearch.cn/report/202312/4281.shtml)  
 - [2023-12-21-2023年中国家装行业研究报告](https://report.iresearch.cn/report/202312/4280.shtml)  
-- [2023-12-15-艾瑞观潮-食品饮料行业七大风向（2023）](https://report.iresearch.cn/report/202312/4278.shtml)  
 - [2023-12-15-第三方支付行业平台活跃研究](https://report.iresearch.cn/report/202312/4279.shtml)  
+- [2023-12-15-艾瑞观潮-食品饮料行业七大风向（2023）](https://report.iresearch.cn/report/202312/4278.shtml)  
 - [2023-12-13-2023年中国制造业数字化转型路径实践](https://report.iresearch.cn/report/202312/4277.shtml)  
-- [2023-12-12-2023年中国开源基础软件产业研究白皮书](https://report.iresearch.cn/report/202312/4275.shtml)  
 - [2023-12-12-2023年中国零担行业研究报告](https://report.iresearch.cn/report/202312/4276.shtml)  
+- [2023-12-12-2023年中国开源基础软件产业研究白皮书](https://report.iresearch.cn/report/202312/4275.shtml)  
 - [2023-12-07-云服务行业动态及热点研究月报---2023年11月](https://report.iresearch.cn/report/202312/4274.shtml)  
 - [2023-12-06-2023年粤港澳大湾区文化产业投资趋势研究](https://report.iresearch.cn/report/202312/4273.shtml)  
 - [2023-12-05-2023年中国三维CAD国产化研究报告](https://report.iresearch.cn/report/202311/4267.shtml)  
@@ -92,12 +93,11 @@
 - [2023-11-29-2023年中国收藏卡市场研究报告](https://report.iresearch.cn/report/202311/4270.shtml)  
 - [2023-11-28-2023年中国企业出海用云实践研究报告](https://report.iresearch.cn/report/202311/4269.shtml)  
 - [2023-11-27-2023年中国户外运动鞋服行业研究报告](https://report.iresearch.cn/report/202311/4268.shtml)  
-- [2023-11-21-中国方便速食行业研究报告](https://report.iresearch.cn/report/202311/4265.shtml)  
 - [2023-11-21-2023年中国采购数字化平台行业研究报告](https://report.iresearch.cn/report/202311/4266.shtml)  
-- [2023-11-20-艾瞰系列-2023年9月-抖音直播间用户洞察报告](https://report.iresearch.cn/report/202311/4264.shtml)  
+- [2023-11-21-中国方便速食行业研究报告](https://report.iresearch.cn/report/202311/4265.shtml)  
 - [2023-11-20-2023年央国企数字化升级研究报告](https://report.iresearch.cn/report/202311/4261.shtml)  
+- [2023-11-20-艾瞰系列-2023年9月-抖音直播间用户洞察报告](https://report.iresearch.cn/report/202311/4264.shtml)  
 - [2023-11-17-2023年电商营销趋势及增长策略](https://report.iresearch.cn/report/202311/4263.shtml)  
-- [2023-11-13-2023年中国企业AutoPaaS白皮书](https://report.iresearch.cn/report/202311/4262.shtml)  
 - [......【查看更多】......](/details/艾瑞.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
