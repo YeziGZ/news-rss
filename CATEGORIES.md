@@ -1,11 +1,11 @@
 ##
 
-:alarm_clock: 更新时间: 2024-01-03 07:36:12，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-01-03 17:35:23，:rocket: 更新条数: +20， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [36kr](#36kr)  
-- [QuestMobile](#questmobile)![](/assets/dot.png)   
+- [36kr](#36kr)![](/assets/dot.png)   
+- [QuestMobile](#questmobile)  
 - [艾瑞](#艾瑞)  
 
 ## 文章链接
@@ -16,26 +16,26 @@
 </summary>
 
 
-- [2023-12-18-当美联储降息预期叠加油价大跌：投资新兴市场的好机会来了？](https://www.cls.cn/detail/1546538)  
-- [2023-12-18-今年中央财政增发1万亿元国债-首批国债资金预算2379亿元已下达](https://www.cls.cn/detail/1546528)  
-- [2023-12-18-船只改道威胁过境费！苏伊士运河管理局：正密切监控红海紧张局势](https://www.cls.cn/detail/1546516)  
-- [2023-12-18-财联社汽车早报【12月18日】](https://www.cls.cn/detail/1546486)  
-- [2023-12-18-短线投机性炒作持续活跃，以下方向或仍具结构性机会](https://www.cls.cn/detail/1546501)  
-- [2023-12-18-支付机构新规影响几何？中信证券：避免监管套利和促进公平竞争](https://www.cls.cn/detail/1546471)  
-- [2023-12-18-财联社债市早参12月18日-|-中央财办：要优化地方政府专项债券投向和额度分配；城投债迎“提前兑付潮”](https://www.cls.cn/detail/1546466)  
-- [2023-12-18-12月18日投资避雷针：3连板机器人概念人气股澄清-目前没有“传感器”相关业务的收入](https://www.cls.cn/detail/1546458)  
-- [2023-12-18-FED鸽派票委“放鹰”：降不降息还要看本周公布的CPI数据！](https://www.cls.cn/detail/1546446)  
-- [2023-12-18-降息前景又被“泼冷水”！FDIC前主席：美联储引发非理性乐观情绪](https://www.cls.cn/detail/1546457)  
-- [2023-12-18-券商晨会精华：顶层设计加速完善，数据要素乘数效应逐步显现](https://www.cls.cn/detail/1546447)  
-- [2023-12-18-中信建投：建议投资者守住筹码-积极考虑逢低布局](https://www.cls.cn/detail/1546453)  
-- [2023-12-18-大选年=降息年！美联储极限转鸽利好拜登-但鲍威尔将为此背上骂名？](https://www.cls.cn/detail/1546481)  
-- [2023-12-18-特朗普反移民言论遭拜登炮轰：他在模仿希特勒！](https://www.cls.cn/detail/1546464)  
-- [2023-12-18-港股12月18日早报：董宇辉成东方甄选高级合伙人-阿里计划减持小鹏汽车套现近4亿美元](https://www.cls.cn/detail/1546438)  
-- [2023-12-18-中东主权基金再出手-与阿塞拜疆主权基金组建10亿美元投资平台](https://www.cls.cn/detail/1546517)  
-- [2023-12-18-国海证券：航运大动脉或再阻塞，运价上行风险陡增](https://www.cls.cn/detail/1546554)  
-- [2023-12-18-东方甄选“内斗”迎来大结局-股价盘中一度大涨近18%](https://www.cls.cn/detail/1546547)  
-- [2023-12-18-美股投资者别开心太早！华尔街列举2024年一众风险……](https://www.cls.cn/detail/1546566)  
-- [2023-12-18-为什么有人背着粮食登上去韩国的国际航班？](https://www.cls.cn/detail/1546598)  
+- [2024-01-03-新签9亿大单却同时称AI服务器交付存不确定性-锦鸡股份如何兑现万P算力“大饼”？](https://www.cls.cn/detail/1561082) ![](/assets/new.png)  
+- [2024-01-03-基金经理限薪登上热搜，传闻四起，更多观点：公募史上最大力度薪酬改革已来](https://www.cls.cn/detail/1561095) ![](/assets/new.png)  
+- [2024-01-03-李强：在关键核心技术攻关上实现更大突破-为国家高水平科技自立自强多作贡献](https://www.cls.cn/detail/1561131) ![](/assets/new.png)  
+- [2024-01-03-【明日主题前瞻】抖音直播交易额同比增近6倍](https://www.cls.cn/detail/1560891) ![](/assets/new.png)  
+- [2024-01-03-在手订单中不涉及可控核聚变业务-3连板核电概念股发布股票交易风险提示公告|盘后公告集锦](https://www.cls.cn/detail/1561138) ![](/assets/new.png)  
+- [2024-01-03-常熟银行、苏农银行等上市农商行跟进调整定存挂牌利率-下调期限及降幅存差异-最高降25BP](https://www.cls.cn/detail/1561155) ![](/assets/new.png)  
+- [2024-01-03-除了2649个商业银行网点，这些资金互助社、财务公司、贷款公司、农村合作银行网点也没能“迈入”2024](https://www.cls.cn/detail/1561148) ![](/assets/new.png)  
+- [2024-01-03-国家数据局：加快构建全国一体化算力网，完善算力券、数据中心REITs等政策工具设计](https://www.cls.cn/detail/1561158) ![](/assets/new.png)  
+- [2024-01-03-核电发电量降至四十多年来最低水平-英国净零排放战略步履维艰](https://www.cls.cn/detail/1561160) ![](/assets/new.png)  
+- [2024-01-03-伊朗克尔曼城发生连环爆炸事件-已致20人死亡](https://www.cls.cn/detail/1561169) ![](/assets/new.png)  
+- [2024-01-03-美股三大期指悉数走低-加密货币普遍下跌-|-今夜看点](https://www.cls.cn/detail/1561197) ![](/assets/new.png)  
+- [2024-01-03-疯狂2024之第三日：苏莱曼尼墓地附近发生爆炸已造成100多人死亡](https://www.cls.cn/detail/1561202) ![](/assets/new.png)  
+- [2024-01-03-超预期，一季度焦煤长协涨价200元-煤企又成了“香饽饽”？](https://www.cls.cn/detail/1561223) ![](/assets/new.png)  
+- [2024-01-03-铀价加速上涨创17年新高-核电回暖矿端供需缺口扩大|行业观察](https://www.cls.cn/detail/1561242) ![](/assets/new.png)  
+- [2024-01-03-印度官员：购买俄油不存在付款问题-进口下降是因为价格缺乏吸引力](https://www.cls.cn/detail/1561243) ![](/assets/new.png)  
+- [2024-01-03-四代技术激活，核电有望迎第二春！国内“双头”格局短期难撼动|行业观察](https://www.cls.cn/detail/1561261) ![](/assets/new.png)  
+- [2024-01-03-核聚变概念受捧-A股相关公司却忙“撇清”-利柏特等三连板后提示风险](https://www.cls.cn/detail/1561269) ![](/assets/new.png)  
+- [2024-01-03-达飞否认船只遇袭，“CMA-CGM-TAGE”正驶往埃及港口-业内称重返红海计划难有实质进展](https://www.cls.cn/detail/1561273) ![](/assets/new.png)  
+- [2024-01-03-美联储票委率先“放鹰”：软着陆并非一定发生-仍有可能继续加息](https://www.cls.cn/detail/1561286) ![](/assets/new.png)  
+- [2024-01-03-SpaceX发射首批手机直连卫星-短期内只提供短信服务](https://www.cls.cn/detail/1561296) ![](/assets/new.png)  
 - [......【查看更多】......](/details/36kr.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -47,7 +47,7 @@
 </summary>
 
 
-- [2024-01-03-QuestMobile-2023全景生态流量年度报告：“五大应用”模块筑牢流量城堡，内容价值站上峰顶，品牌私域玩法初步成型……](https://www.questmobile.com.cn/research/report/1742448355718565889) ![](/assets/new.png)  
+- [2024-01-03-QuestMobile-2023全景生态流量年度报告：“五大应用”模块筑牢流量城堡，内容价值站上峰顶，品牌私域玩法初步成型……](https://www.questmobile.com.cn/research/report/1742448355718565889)  
 - [2023-12-26-QuestMobile-2023年营销热点事件盘点：“三步并行”特征突出，“五大模式”异军突起](https://www.questmobile.com.cn/research/report/1739542485808549889)  
 - [2023-12-19-QuestMobile-2023中国互联网核心趋势年度报告（精华版）：12.24亿用户每月上网160小时，15大巨头月活破4亿](https://www.questmobile.com.cn/research/report/1737028262113153026)  
 - [2023-12-13-QuestMobile2023智慧文旅报告：旅游服务APP月活近1.4亿，数字化促“服务-管理-营销”闭环，迪士尼月活破125万](https://www.questmobile.com.cn/research/report/1658308043211902977)  
