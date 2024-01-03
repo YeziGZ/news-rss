@@ -1,12 +1,12 @@
 ##
 
-:alarm_clock: 更新时间: 2023-12-29 11:35:12，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-01-03 07:36:12，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [36kr](#36kr)  
-- [QuestMobile](#questmobile)  
-- [艾瑞](#艾瑞)![](/assets/dot.png)   
+- [QuestMobile](#questmobile)![](/assets/dot.png)   
+- [艾瑞](#艾瑞)  
 
 ## 文章链接
 
@@ -47,26 +47,26 @@
 </summary>
 
 
+- [2024-01-03-QuestMobile-2023全景生态流量年度报告：“五大应用”模块筑牢流量城堡，内容价值站上峰顶，品牌私域玩法初步成型……](https://www.questmobile.com.cn/research/report/1742448355718565889) ![](/assets/new.png)  
 - [2023-12-26-QuestMobile-2023年营销热点事件盘点：“三步并行”特征突出，“五大模式”异军突起](https://www.questmobile.com.cn/research/report/1739542485808549889)  
 - [2023-12-19-QuestMobile-2023中国互联网核心趋势年度报告（精华版）：12.24亿用户每月上网160小时，15大巨头月活破4亿](https://www.questmobile.com.cn/research/report/1737028262113153026)  
-- [2023-12-13-QuestMobile2023品牌私域流量发展洞察：私域用户粘性、消费力高于公域，食品饮品私域规模近1.9亿，三大差异化玩法形成](https://www.questmobile.com.cn/research/report/1731878554344460289)  
-- [2023-12-13-QuestMobile2023智能终端半年报告：安卓与iOS-“二八效应”持续，高端市场苹果超9成，折叠屏、电竞屏成小众突围方向](https://www.questmobile.com.cn/research/report/1688802572197007361)  
-- [2023-12-13-QuestMobile-2023全景生态流量秋季报告：351个应用月活超千万，小程序加持中小玩家变现，平台拼杀“内生+外扩”模式](https://www.questmobile.com.cn/research/report/1716711576407478273)  
-- [2023-12-13-QuestMobile-2023宠物消费市场洞察：3.23亿用户撑起宠物经济，小众应用高速增长，“街猫”四个月用户破百万……](https://www.questmobile.com.cn/research/report/1714170293138853889)  
-- [2023-12-13-QuestMobile-2023OTT行业研究报告：双轮驱动催热大屏，多合一产业链成型，设备“五虎将”、应用“四天王”血海鏖战…](https://www.questmobile.com.cn/research/report/1711577929052426241)  
-- [2023-12-13-QuestMobile2023年双十一洞察报告：行业峰值日活7.9亿，商家回归“理性消费”初心，“全网最低价”取代“花哨玩法”](https://www.questmobile.com.cn/research/report/1725464796608958465)  
-- [2023-12-13-QuestMobile-2023暑期营销洞察报告：文旅市场供需两旺，国产力量全面崛起，“线上线下多元联动”成致胜关键……](https://www.questmobile.com.cn/research/report/1696433167492288514)  
-- [2023-12-13-QuestMobile-2023年本地生活服务行业洞察：外卖用户2亿，“到家服务”战火燃起，京东、抖音、阿里系三方鏖战美团](https://www.questmobile.com.cn/research/report/1660909185993379841)  
-- [2023-12-13-QuestMobile2023兴趣圈层洞察报告：“用户圈层”精细化，不同标签用户差异巨大，带来平台和品牌运营思路巨变](https://www.questmobile.com.cn/research/report/1729406519202648065)  
-- [2023-12-13-QuestMobile2023男性消费洞察报告：全网男性用户6.11亿，男性月人均时长及线上消费超千元分别增长1%、1.7%](https://www.questmobile.com.cn/research/report/1665969019180650497)  
-- [2023-12-13-QuestMobile-2023-“AIGC兴趣用户”洞察报告：AI绘画用户超千万，大厂创业者争抢布局，移动互联网新风口已至](https://www.questmobile.com.cn/research/report/1645677910684700674)  
-- [2023-12-13-QuestMobile2023银发经济洞察报告：3.25亿银发用户掀起多个领域的消费热潮，在线旅游行业同比增长70%……](https://www.questmobile.com.cn/research/report/1721777249575866370)  
-- [2023-12-13-QuestMobile2023手机游戏行业洞察报告：手游用户规模6亿+，流量超百万游戏企业占17.6%，买量倾向短期快速投放策略](https://www.questmobile.com.cn/research/report/1693835831083634689)  
-- [2023-12-13-QuestMobile-2023年夏日经济之防晒市场洞察：女性占比超八成，婴童市场持续崛起，四大营销特性逐渐成型](https://www.questmobile.com.cn/research/report/1668534408926302210)  
-- [2023-12-13-QuestMobile-2023年新线市场用户洞察：新线城市用户规模4.68亿，消费潜力持续爆发，5000元终端占比24.1%](https://www.questmobile.com.cn/research/report/1681244468009865218)  
-- [2023-12-13-QuestMobile-2023家居家装行业趋势洞察：潜在用户达1.03亿，行业用户突破2000万，行业分散且用户需求亟待满足](https://www.questmobile.com.cn/research/report/1704046678015840257)  
-- [2023-12-13-QuestMobile2023消费市场特征盘点：理性消费成为潮流，舒适、健康生活的心态全面影响吃穿用……](https://www.questmobile.com.cn/research/report/1734421757811593217)  
-- [2023-12-13-QuestMobile2022-移动互联网发展年鉴（行业篇-下）：数字营销成营销赛道支柱，2022年互联网广告将突破6800亿元](https://www.questmobile.com.cn/research/report/1607619125026328578)  
+- [2023-12-13-QuestMobile2023智慧文旅报告：旅游服务APP月活近1.4亿，数字化促“服务-管理-营销”闭环，迪士尼月活破125万](https://www.questmobile.com.cn/research/report/1658308043211902977)  
+- [2023-12-13-QuestMobile2023“00后人群”洞察：月活1.5亿的“原生数字生活模型”，月人均使用173小时，二线以上占50.6%](https://www.questmobile.com.cn/research/report/1663445275258228738)  
+- [2023-12-13-QuestMobile2022中国互联网广告市场洞察：总量突破6600亿元，头部平台强化流量内转化，AIGC等技术持续搅动市场](https://www.questmobile.com.cn/research/report/1640626113196691458)  
+- [2023-12-13-QuestMobile2023年新媒体生态洞察：行业用户规模10.88亿，用户流转、分流进入新阶段，平台以两大途径谋增长、冲变现](https://www.questmobile.com.cn/research/report/1726888249161519105)  
+- [2023-12-13-QuestMobile-2023小家电行业营销效果评估：小家电赛道内容营销崛起，泛娱乐化、生活场景化等表达形态突破“次元壁”](https://www.questmobile.com.cn/research/report/1635485940087623682)  
+- [2023-12-13-QuestMobile-2023新中产人群洞察报告：2.45亿新中产用户每月花197个小时线上工作、娱乐、购物，90后已成主力](https://www.questmobile.com.cn/research/report/1701481302954446849)  
+- [2023-12-13-QuestMobile2023中国移动互联网半年大报告：大厂重回快速增长，11家去重用户破5亿，行业新动能显现，人群差异特性明显](https://www.questmobile.com.cn/research/report/1686624886410285058)  
+- [2023-12-13-QuestMobile-2023汽车行业营销生态洞察：新能源车持续攀升至汽车总销量的2成，哪两大趋势撬动了汽车内容营销变局？](https://www.questmobile.com.cn/research/report/1648209711860912130)  
+- [2023-12-13-QuestMobile2023年节日营销洞察报告：“三大趋势”重塑营销方向，从预热到促购链路闭环，美妆已杀红了眼……](https://www.questmobile.com.cn/research/report/1625381298964107265)  
+- [2023-12-13-QuestMobile-2022年营销热点事件盘点：节点和渠道推动营销变革，新玩法成突围年轻群体关键](https://www.questmobile.com.cn/research/report/1610521020606812161)  
+- [2023-12-13-QuestMobile-2023中国移动互联网春季大报告：银发群体助推总用户同比再增长2%，线上高消费群体中90后、00后破4成](https://www.questmobile.com.cn/research/report/1650755531067985922)  
+- [2023-12-13-QuestMobile-2023中国移动互联网秋季大报告：全网用户稳定增长，三大特点支撑回暖，00后与60后持续增长](https://www.questmobile.com.cn/research/report/1719277873330753538)  
+- [2023-12-13-QuestMobile-2023年618洞察报告：综合电商防分流、内容平台抢用户，品牌商搞私域，“合纵连横”大戏上演](https://www.questmobile.com.cn/research/report/1673587792406482946)  
+- [2023-12-13-QuestMobile2022中国移动互联网年度大报告：总用户超12亿、51岁以上占比1/4，五大刺激点开启“移动智能钻石时代”](https://www.questmobile.com.cn/research/report/1627881652360417282)  
+- [2023-12-13-QuestMobile2022-中国移动互联网发展年鉴（行业篇-上）：线上+线下，“五大商业模式”重构用户生活、消费体系](https://www.questmobile.com.cn/research/report/1605048980592496642)  
+- [2023-12-13-QuestMobile2023全景生态流量春季报告：APP入场难，小程序、新媒体官号、跨终端加速扩张，如何抓住用户第二增长曲线？](https://www.questmobile.com.cn/research/report/1638022399369777153)  
+- [2023-12-13-QuestMobile2023夏日经济之现制咖啡&茶饮市场洞察：总用户1.51亿，瑞幸、蜜雪冰城小程序用户2500万、3000万](https://www.questmobile.com.cn/research/report/1691340082190061570)  
 - [......【查看更多】......](/details/QuestMobile.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -78,7 +78,7 @@
 </summary>
 
 
-- [2023-12-29-2023年中国女性私处护理白皮书](https://report.iresearch.cn/report/202312/4284.shtml) ![](/assets/new.png)  
+- [2023-12-29-2023年中国女性私处护理白皮书](https://report.iresearch.cn/report/202312/4284.shtml)  
 - [2023-12-28-2023年汽车行业网络营销监测报告](https://report.iresearch.cn/report/202312/4283.shtml)  
 - [2023-12-27-2023年中国人力资源数字化研究报告](https://report.iresearch.cn/report/202312/4282.shtml)  
 - [2023-12-25-2023年中国大视听市场趋势洞察报告](https://report.iresearch.cn/report/202312/4281.shtml)  
