@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-01-04 07:35:53。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-01-04 08:36:30。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -33,15 +33,15 @@
 - [【36kr】【VIP机会日报】指数探底回升-AI概念上演王者归来-这家AIGC概念人气公司20cm涨停](https://www.cls.cn/detail/1537859)
 - [【36kr】公司未与Pika有任何业务往来-3连板AIGC概念股发布交易风险提示公告|盘后公告集锦](https://www.cls.cn/detail/1534683)
 - [【36kr】港股IPO周报：智能机器人公司优必选通过聆讯-AIGC概念股出门问问再度递表](https://www.cls.cn/detail/1533603)
-- [【36kr】特斯拉Cybertruck即将交付-微软获得OpenAI董事会席位-|-今夜看点](https://www.cls.cn/detail/1532116)
 - [【36kr】【明日主题前瞻】华为云推出首个大模型混合云，全球加速云计算战略部署](https://www.cls.cn/detail/1531728)
+- [【36kr】特斯拉Cybertruck即将交付-微软获得OpenAI董事会席位-|-今夜看点](https://www.cls.cn/detail/1532116)
 - [【36kr】OpenAI“700壮士威压董事会”背后：AI工程师的议价能力有多强？](https://www.cls.cn/detail/1525594)
 - [【36kr】OpenAI官宣奥特曼重回公司担任CEO-董事会启动“重置”](https://www.cls.cn/detail/1524101)
-- [【36kr】币安CEO赵长鹏宣布辞职-奥特曼重返OpenAI一事出现转机-|-环球市场](https://www.cls.cn/detail/1523718)
 - [【36kr】OpenAI闹剧仍在延续-美联储、英伟达也有大消息-|-今夜看点](https://www.cls.cn/detail/1523510)
-- [【36kr】OpenAI“宫斗”大戏持续上演-阿联酋将在2024年提高原油产量-|-环球市场](https://www.cls.cn/detail/1522501)
-- [【36kr】OpenAI“内斗”始作俑者不是你？苏茨克维公开忏悔-反手逼宫董事会](https://www.cls.cn/detail/1522347)
+- [【36kr】币安CEO赵长鹏宣布辞职-奥特曼重返OpenAI一事出现转机-|-环球市场](https://www.cls.cn/detail/1523718)
 - [【36kr】OpenAI面临严峻人才危机-美债标售数据扰动又至-|-今夜看点](https://www.cls.cn/detail/1522297)
+- [【36kr】OpenAI“内斗”始作俑者不是你？苏茨克维公开忏悔-反手逼宫董事会](https://www.cls.cn/detail/1522347)
+- [【36kr】OpenAI“宫斗”大戏持续上演-阿联酋将在2024年提高原油产量-|-环球市场](https://www.cls.cn/detail/1522501)
 - [【36kr】这场OpenAI“政变”终将以奥特曼获胜告终？公司高管透出好消息](https://www.cls.cn/detail/1521155)
 - [......【查看更多】......](/details/tags/aigc.md)
 
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】全国民航工作会议：推进中美直航航班大幅增加，推动C919走出国门](https://www.cls.cn/detail/1561764)
-- [【36kr】新年第一顶流“尔滨”火到A股：多只概念股齐涨停](https://www.cls.cn/detail/1561740)
-- [【36kr】教育部：寒假要严打以家政服务、游学研学等名义进行违规培训](https://www.cls.cn/detail/1561688)
-- [【36kr】最新！李在明左侧颈内静脉60%被切断](https://www.cls.cn/detail/1561722)
-- [【36kr】年终盘点之“价格战”：从年初到年尾-2023中国汽车卷出3000万辆历史新高](https://www.cls.cn/detail/1561700)
-- [【36kr】银行理财子去年罚单数量与金额双升：5家理财子合计被罚2875万，首现千万罚单](https://www.cls.cn/detail/1561701)
-- [【36kr】迪拜成立新国企全权管理境内所有停车场-意在何为？](https://www.cls.cn/detail/1561670)
-- [【36kr】【财联社午报】三大指数再度全线下挫，光伏等新能源赛道方向领跌，鸿蒙概念股逆势活跃](https://www.cls.cn/detail/1561686)
-- [【36kr】地缘冲突难以长期支撑油价？华尔街多数看跌油气板块前景](https://www.cls.cn/detail/1561664)
-- [【36kr】缩表真到尾声了？美联储纪要暗藏一处不容忽视的关键“细节”](https://www.cls.cn/detail/1561650)
-- [【36kr】扎克伯格两个月内套现逾4亿美金-科技企业高管提前撤了？](https://www.cls.cn/detail/1561649)
-- [【36kr】公安部：下更大气力严打电信网络诈骗、跨境赌博等违法犯罪](https://www.cls.cn/detail/1561640)
-- [【36kr】经济软着陆可能性被高估！麦格理“泼冷水”：别指望美联储很快降息](https://www.cls.cn/detail/1561645)
-- [【36kr】大选闹剧白热化！特朗普反击：要求联邦最高法院介入“初选被逐案”](https://www.cls.cn/detail/1561601)
-- [【36kr】日本撞机风波更多细节揭露！日航估计造成约150亿日元损失](https://www.cls.cn/detail/1561602)
-- [【36kr】一则利好消息推动部分教育股走强-新高教集团涨近5%领先市场](https://www.cls.cn/detail/1561597)
-- [【36kr】福布斯中东100强CEO榜单出炉！沙特阿美大老板连续三年登顶榜一](https://www.cls.cn/detail/1561577)
-- [【36kr】2024财险业前瞻丨车险市场格局愈发固化-降本增效和风险减量打开盈利空间](https://www.cls.cn/detail/1561581)
-- [【36kr】既是道义又是利益：17名白宫竞选助手呼吁拜登结束对以援助](https://www.cls.cn/detail/1561524)
+- [【36kr】雷军为小米工程师们颁发百万美金年度技术大奖](https://www.cls.cn/detail/1561797)
+- [【36kr】魔力消失？美股“七巨头”连跌四日-苹果市值蒸发逾3800亿美元](https://www.cls.cn/detail/1561574)
+- [【36kr】90美元在望！能源专家：中东局势无缓和迹象-油价或再涨15%](https://www.cls.cn/detail/1561511)
+- [【36kr】PSL重启的5点理解](https://www.cls.cn/detail/1561480)
+- [【36kr】MR概念现退潮疑虑，市场热点快速轮动，留意领涨新主线](https://www.cls.cn/detail/1561494)
+- [【36kr】中信证券：核能将成为未来能源结构关键一极](https://www.cls.cn/detail/1561474)
+- [【36kr】财联社汽车早报【1月4日】](https://www.cls.cn/detail/1561468)
+- [【36kr】低空经济再获政策利好，行业迎来发展临界点，这些标的或可关注](https://www.cls.cn/detail/1561462)
+- [【36kr】财联社债市早参1月4日-|-今年提前批地方债额度预下达，地方需在1月份尽快发行；旭辉控股境外债务重组提案出炉](https://www.cls.cn/detail/1561448)
+- [【36kr】1月4日投资避雷针：3连板核电人气股提示风险-在手订单中不涉及“可控核聚变”业务](https://www.cls.cn/detail/1561430)
+- [【36kr】美国破产数量2023年激增18%-预计2024年将继续增加](https://www.cls.cn/detail/1561431)
+- [【36kr】2023美股大涨谁赚钱了？美银：对冲基金赢麻了，散户失之交臂！](https://www.cls.cn/detail/1561424)
+- [【36kr】比特币再现日内巨震-多重因素推动油价反弹-|-环球市场](https://www.cls.cn/detail/1561434)
+- [【36kr】多地晒元旦旅游成绩单：5省份揽客超千万，哈尔滨游客、收入达峰值](https://www.cls.cn/detail/1561423)
+- [【36kr】军事打击要来？美国等国警告胡塞武装：继续袭击将面临后果](https://www.cls.cn/detail/1561441)
+- [【36kr】1月18日华为将举办鸿蒙重要活动-生态伙伴有望得到持续催化](https://www.cls.cn/detail/1561414)
+- [【36kr】券商晨会精华：新一代MR将发布，空间计算助力虛拟现实](https://www.cls.cn/detail/1561432)
 - [【36kr】10年期美债收益率一度升穿4%-2024年大举降息预期面临质疑？](https://www.cls.cn/detail/1561479)
+- [【36kr】既是道义又是利益：17名白宫竞选助手呼吁拜登结束对以援助](https://www.cls.cn/detail/1561524)
+- [【36kr】2024财险业前瞻丨车险市场格局愈发固化-降本增效和风险减量打开盈利空间](https://www.cls.cn/detail/1561581)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
