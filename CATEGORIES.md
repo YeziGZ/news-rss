@@ -1,12 +1,12 @@
 ##
 
-:alarm_clock: 更新时间: 2024-01-04 06:37:29，:rocket: 更新条数: +19， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-01-04 07:35:53，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [36kr](#36kr)![](/assets/dot.png)   
 - [QuestMobile](#questmobile)  
-- [艾瑞](#艾瑞)  
+- [艾瑞](#艾瑞)![](/assets/dot.png)   
 
 ## 文章链接
 
@@ -16,26 +16,26 @@
 </summary>
 
 
-- [2024-01-04-魔力消失？美股“七巨头”连跌四日-苹果市值蒸发逾3800亿美元](https://www.cls.cn/detail/1561574)  
-- [2024-01-04-90美元在望！能源专家：中东局势无缓和迹象-油价或再涨15%](https://www.cls.cn/detail/1561511)  
-- [2024-01-04-PSL重启的5点理解](https://www.cls.cn/detail/1561480)  
-- [2024-01-04-MR概念现退潮疑虑，市场热点快速轮动，留意领涨新主线](https://www.cls.cn/detail/1561494)  
-- [2024-01-04-中信证券：核能将成为未来能源结构关键一极](https://www.cls.cn/detail/1561474)  
-- [2024-01-04-财联社汽车早报【1月4日】](https://www.cls.cn/detail/1561468)  
-- [2024-01-04-低空经济再获政策利好，行业迎来发展临界点，这些标的或可关注](https://www.cls.cn/detail/1561462)  
-- [2024-01-04-财联社债市早参1月4日-|-今年提前批地方债额度预下达，地方需在1月份尽快发行；旭辉控股境外债务重组提案出炉](https://www.cls.cn/detail/1561448)  
-- [2024-01-04-1月4日投资避雷针：3连板核电人气股提示风险-在手订单中不涉及“可控核聚变”业务](https://www.cls.cn/detail/1561430)  
-- [2024-01-04-美国破产数量2023年激增18%-预计2024年将继续增加](https://www.cls.cn/detail/1561431)  
-- [2024-01-04-2023美股大涨谁赚钱了？美银：对冲基金赢麻了，散户失之交臂！](https://www.cls.cn/detail/1561424)  
-- [2024-01-04-比特币再现日内巨震-多重因素推动油价反弹-|-环球市场](https://www.cls.cn/detail/1561434)  
-- [2024-01-04-多地晒元旦旅游成绩单：5省份揽客超千万，哈尔滨游客、收入达峰值](https://www.cls.cn/detail/1561423)  
-- [2024-01-04-军事打击要来？美国等国警告胡塞武装：继续袭击将面临后果](https://www.cls.cn/detail/1561441)  
-- [2024-01-04-1月18日华为将举办鸿蒙重要活动-生态伙伴有望得到持续催化](https://www.cls.cn/detail/1561414)  
-- [2024-01-04-券商晨会精华：新一代MR将发布，空间计算助力虛拟现实](https://www.cls.cn/detail/1561432)  
+- [2024-01-04-全国民航工作会议：推进中美直航航班大幅增加，推动C919走出国门](https://www.cls.cn/detail/1561764)  
+- [2024-01-04-新年第一顶流“尔滨”火到A股：多只概念股齐涨停](https://www.cls.cn/detail/1561740)  
+- [2024-01-04-教育部：寒假要严打以家政服务、游学研学等名义进行违规培训](https://www.cls.cn/detail/1561688)  
+- [2024-01-04-最新！李在明左侧颈内静脉60%被切断](https://www.cls.cn/detail/1561722)  
+- [2024-01-04-年终盘点之“价格战”：从年初到年尾-2023中国汽车卷出3000万辆历史新高](https://www.cls.cn/detail/1561700)  
+- [2024-01-04-银行理财子去年罚单数量与金额双升：5家理财子合计被罚2875万，首现千万罚单](https://www.cls.cn/detail/1561701)  
+- [2024-01-04-迪拜成立新国企全权管理境内所有停车场-意在何为？](https://www.cls.cn/detail/1561670)  
+- [2024-01-04-【财联社午报】三大指数再度全线下挫，光伏等新能源赛道方向领跌，鸿蒙概念股逆势活跃](https://www.cls.cn/detail/1561686)  
+- [2024-01-04-地缘冲突难以长期支撑油价？华尔街多数看跌油气板块前景](https://www.cls.cn/detail/1561664)  
+- [2024-01-04-缩表真到尾声了？美联储纪要暗藏一处不容忽视的关键“细节”](https://www.cls.cn/detail/1561650)  
+- [2024-01-04-扎克伯格两个月内套现逾4亿美金-科技企业高管提前撤了？](https://www.cls.cn/detail/1561649)  
+- [2024-01-04-公安部：下更大气力严打电信网络诈骗、跨境赌博等违法犯罪](https://www.cls.cn/detail/1561640)  
+- [2024-01-04-经济软着陆可能性被高估！麦格理“泼冷水”：别指望美联储很快降息](https://www.cls.cn/detail/1561645)  
+- [2024-01-04-大选闹剧白热化！特朗普反击：要求联邦最高法院介入“初选被逐案”](https://www.cls.cn/detail/1561601)  
+- [2024-01-04-日本撞机风波更多细节揭露！日航估计造成约150亿日元损失](https://www.cls.cn/detail/1561602)  
+- [2024-01-04-一则利好消息推动部分教育股走强-新高教集团涨近5%领先市场](https://www.cls.cn/detail/1561597)  
+- [2024-01-04-福布斯中东100强CEO榜单出炉！沙特阿美大老板连续三年登顶榜一](https://www.cls.cn/detail/1561577)  
+- [2024-01-04-2024财险业前瞻丨车险市场格局愈发固化-降本增效和风险减量打开盈利空间](https://www.cls.cn/detail/1561581)  
+- [2024-01-04-既是道义又是利益：17名白宫竞选助手呼吁拜登结束对以援助](https://www.cls.cn/detail/1561524)  
 - [2024-01-04-10年期美债收益率一度升穿4%-2024年大举降息预期面临质疑？](https://www.cls.cn/detail/1561479)  
-- [2024-01-04-既是道义又是利益：17名白宫竞选助手呼吁拜登结束对以援助](https://www.cls.cn/detail/1561524) ![](/assets/new.png)  
-- [2024-01-04-2024财险业前瞻丨车险市场格局愈发固化-降本增效和风险减量打开盈利空间](https://www.cls.cn/detail/1561581) ![](/assets/new.png)  
-- [2024-01-04-福布斯中东100强CEO榜单出炉！沙特阿美大老板连续三年登顶榜一](https://www.cls.cn/detail/1561577) ![](/assets/new.png)  
 - [......【查看更多】......](/details/36kr.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -78,16 +78,17 @@
 </summary>
 
 
+- [2024-01-04-润物有声V——2023年中国互联网科技产业发展趋势报告](https://report.iresearch.cn/report/202401/4285.shtml) ![](/assets/new.png)  
 - [2023-12-29-2023年中国女性私处护理白皮书](https://report.iresearch.cn/report/202312/4284.shtml)  
 - [2023-12-28-2023年汽车行业网络营销监测报告](https://report.iresearch.cn/report/202312/4283.shtml)  
 - [2023-12-27-2023年中国人力资源数字化研究报告](https://report.iresearch.cn/report/202312/4282.shtml)  
 - [2023-12-25-2023年中国大视听市场趋势洞察报告](https://report.iresearch.cn/report/202312/4281.shtml)  
 - [2023-12-21-2023年中国家装行业研究报告](https://report.iresearch.cn/report/202312/4280.shtml)  
-- [2023-12-15-第三方支付行业平台活跃研究](https://report.iresearch.cn/report/202312/4279.shtml)  
 - [2023-12-15-艾瑞观潮-食品饮料行业七大风向（2023）](https://report.iresearch.cn/report/202312/4278.shtml)  
+- [2023-12-15-第三方支付行业平台活跃研究](https://report.iresearch.cn/report/202312/4279.shtml)  
 - [2023-12-13-2023年中国制造业数字化转型路径实践](https://report.iresearch.cn/report/202312/4277.shtml)  
-- [2023-12-12-2023年中国零担行业研究报告](https://report.iresearch.cn/report/202312/4276.shtml)  
 - [2023-12-12-2023年中国开源基础软件产业研究白皮书](https://report.iresearch.cn/report/202312/4275.shtml)  
+- [2023-12-12-2023年中国零担行业研究报告](https://report.iresearch.cn/report/202312/4276.shtml)  
 - [2023-12-07-云服务行业动态及热点研究月报---2023年11月](https://report.iresearch.cn/report/202312/4274.shtml)  
 - [2023-12-06-2023年粤港澳大湾区文化产业投资趋势研究](https://report.iresearch.cn/report/202312/4273.shtml)  
 - [2023-12-05-2023年中国三维CAD国产化研究报告](https://report.iresearch.cn/report/202311/4267.shtml)  
@@ -95,9 +96,8 @@
 - [2023-11-29-2023年中国收藏卡市场研究报告](https://report.iresearch.cn/report/202311/4270.shtml)  
 - [2023-11-28-2023年中国企业出海用云实践研究报告](https://report.iresearch.cn/report/202311/4269.shtml)  
 - [2023-11-27-2023年中国户外运动鞋服行业研究报告](https://report.iresearch.cn/report/202311/4268.shtml)  
-- [2023-11-21-2023年中国采购数字化平台行业研究报告](https://report.iresearch.cn/report/202311/4266.shtml)  
 - [2023-11-21-中国方便速食行业研究报告](https://report.iresearch.cn/report/202311/4265.shtml)  
-- [2023-11-20-2023年央国企数字化升级研究报告](https://report.iresearch.cn/report/202311/4261.shtml)  
+- [2023-11-21-2023年中国采购数字化平台行业研究报告](https://report.iresearch.cn/report/202311/4266.shtml)  
 - [......【查看更多】......](/details/艾瑞.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
