@@ -1,12 +1,12 @@
 ##
 
-:alarm_clock: 更新时间: 2024-01-12 02:42:41，:rocket: 更新条数: +6， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-01-12 05:35:36，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [36kr](#36kr)![](/assets/dot.png)   
+- [36kr](#36kr)  
 - [QuestMobile](#questmobile)  
-- [艾瑞](#艾瑞)  
+- [艾瑞](#艾瑞)![](/assets/dot.png)   
 
 ## 文章链接
 
@@ -21,10 +21,10 @@
 - [2024-01-12-减持套现53亿不算完，“减持惯犯”又将40亿元股份划给前妻，三季度何帅、万民远等重仓](https://www.cls.cn/detail/1568780)  
 - [2024-01-12-美英对也门胡塞武装目标发动空袭-萨那等地传出爆炸声](https://www.cls.cn/detail/1568779)  
 - [2024-01-12-1月12日投资避雷针：“药茅”长春高新二股东离婚-女方分走超40亿元股票](https://www.cls.cn/detail/1568762)  
-- [2024-01-12-诡异一幕！美国通胀数据超预期上升-降息预期却不降反升](https://www.cls.cn/detail/1568789) ![](/assets/new.png)  
-- [2024-01-12-《繁花》成新招商王？单集最高11个广告-投资者喊话上市公司“找宝总代言”](https://www.cls.cn/detail/1568819) ![](/assets/new.png)  
-- [2024-01-12-统计局：12月CPI同比下降0.3%-PPI同比下降2.7%](https://www.cls.cn/detail/1568853) ![](/assets/new.png)  
-- [2024-01-12-以美元计价-中国2023年12月出口同比增长2.3%](https://www.cls.cn/detail/1568900) ![](/assets/new.png)  
+- [2024-01-12-诡异一幕！美国通胀数据超预期上升-降息预期却不降反升](https://www.cls.cn/detail/1568789)  
+- [2024-01-12-《繁花》成新招商王？单集最高11个广告-投资者喊话上市公司“找宝总代言”](https://www.cls.cn/detail/1568819)  
+- [2024-01-12-统计局：12月CPI同比下降0.3%-PPI同比下降2.7%](https://www.cls.cn/detail/1568853)  
+- [2024-01-12-以美元计价-中国2023年12月出口同比增长2.3%](https://www.cls.cn/detail/1568900)  
 - [2024-01-11-中金：通胀超预期，美联储降息紧迫性下降](https://www.cls.cn/detail/1568756)  
 - [2024-01-11-下游覆盖“人形机器人+飞行汽车”-3D打印技术已处在产业化拐点](https://www.cls.cn/detail/1568748)  
 - [2024-01-11-英美准备对胡塞武装进行空袭-特斯拉柏林工厂将停产两周-|-环球市场](https://www.cls.cn/detail/1568740)  
@@ -78,26 +78,26 @@
 </summary>
 
 
-- [2024-01-11-2023年中国商贸零售企业ESG观察报告](https://report.iresearch.cn/report/202401/4292.shtml)  
+- [2024-01-12-2023年AIGC场景应用展望研究报告](https://report.iresearch.cn/report/202401/4294.shtml) ![](/assets/new.png)  
 - [2024-01-11-2024年中国数字世界平台创新趋势发展研究报告](https://report.iresearch.cn/report/202401/4293.shtml)  
+- [2024-01-11-2023年中国商贸零售企业ESG观察报告](https://report.iresearch.cn/report/202401/4292.shtml)  
 - [2024-01-10-绿色数字经济-2023年企业级低代码平台构建白皮书](https://report.iresearch.cn/report/202401/4291.shtml)  
-- [2024-01-09-2023年中国演出票务行业研究报告](https://report.iresearch.cn/report/202401/4289.shtml)  
-- [2024-01-09-云服务行业动态及热点研究月报-2023年12月](https://report.iresearch.cn/report/202401/4288.shtml)  
 - [2024-01-09-2023年中国洗碗机市场洞察报告](https://report.iresearch.cn/report/202401/4290.shtml)  
-- [2024-01-04-2023年在线旅游平台用户洞察研究报告](https://report.iresearch.cn/report/202401/4286.shtml)  
-- [2024-01-04-润物有声V——2023年中国互联网科技产业发展趋势报告](https://report.iresearch.cn/report/202401/4285.shtml)  
+- [2024-01-09-云服务行业动态及热点研究月报-2023年12月](https://report.iresearch.cn/report/202401/4288.shtml)  
+- [2024-01-09-2023年中国演出票务行业研究报告](https://report.iresearch.cn/report/202401/4289.shtml)  
 - [2024-01-04-润物有声V-2023年中国互联网科技产业发展趋势报告](https://report.iresearch.cn/report/202401/4287.shtml)  
+- [2024-01-04-润物有声V——2023年中国互联网科技产业发展趋势报告](https://report.iresearch.cn/report/202401/4285.shtml)  
+- [2024-01-04-2023年在线旅游平台用户洞察研究报告](https://report.iresearch.cn/report/202401/4286.shtml)  
 - [2023-12-29-2023年中国女性私处护理白皮书](https://report.iresearch.cn/report/202312/4284.shtml)  
 - [2023-12-28-2023年汽车行业网络营销监测报告](https://report.iresearch.cn/report/202312/4283.shtml)  
 - [2023-12-27-2023年中国人力资源数字化研究报告](https://report.iresearch.cn/report/202312/4282.shtml)  
 - [2023-12-25-2023年中国大视听市场趋势洞察报告](https://report.iresearch.cn/report/202312/4281.shtml)  
 - [2023-12-21-2023年中国家装行业研究报告](https://report.iresearch.cn/report/202312/4280.shtml)  
-- [2023-12-15-艾瑞观潮-食品饮料行业七大风向（2023）](https://report.iresearch.cn/report/202312/4278.shtml)  
 - [2023-12-15-第三方支付行业平台活跃研究](https://report.iresearch.cn/report/202312/4279.shtml)  
+- [2023-12-15-艾瑞观潮-食品饮料行业七大风向（2023）](https://report.iresearch.cn/report/202312/4278.shtml)  
 - [2023-12-13-2023年中国制造业数字化转型路径实践](https://report.iresearch.cn/report/202312/4277.shtml)  
-- [2023-12-12-2023年中国开源基础软件产业研究白皮书](https://report.iresearch.cn/report/202312/4275.shtml)  
 - [2023-12-12-2023年中国零担行业研究报告](https://report.iresearch.cn/report/202312/4276.shtml)  
-- [2023-12-07-云服务行业动态及热点研究月报---2023年11月](https://report.iresearch.cn/report/202312/4274.shtml)  
+- [2023-12-12-2023年中国开源基础软件产业研究白皮书](https://report.iresearch.cn/report/202312/4275.shtml)  
 - [......【查看更多】......](/details/艾瑞.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
