@@ -1,10 +1,10 @@
 ##
 
-:alarm_clock: 更新时间: 2024-01-12 05:35:36，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-01-12 10:37:19，:rocket: 更新条数: +21， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [36kr](#36kr)  
+- [36kr](#36kr)![](/assets/dot.png)   
 - [QuestMobile](#questmobile)  
 - [艾瑞](#艾瑞)![](/assets/dot.png)   
 
@@ -16,26 +16,26 @@
 </summary>
 
 
-- [2024-01-12-美国通胀意外反弹！美联储票委：3月降息还为时过早](https://www.cls.cn/detail/1568776)  
-- [2024-01-12-券商晨会精华：通胀超预期，美联储降息紧迫性下降](https://www.cls.cn/detail/1568236)  
-- [2024-01-12-减持套现53亿不算完，“减持惯犯”又将40亿元股份划给前妻，三季度何帅、万民远等重仓](https://www.cls.cn/detail/1568780)  
-- [2024-01-12-美英对也门胡塞武装目标发动空袭-萨那等地传出爆炸声](https://www.cls.cn/detail/1568779)  
-- [2024-01-12-1月12日投资避雷针：“药茅”长春高新二股东离婚-女方分走超40亿元股票](https://www.cls.cn/detail/1568762)  
-- [2024-01-12-诡异一幕！美国通胀数据超预期上升-降息预期却不降反升](https://www.cls.cn/detail/1568789)  
-- [2024-01-12-《繁花》成新招商王？单集最高11个广告-投资者喊话上市公司“找宝总代言”](https://www.cls.cn/detail/1568819)  
-- [2024-01-12-统计局：12月CPI同比下降0.3%-PPI同比下降2.7%](https://www.cls.cn/detail/1568853)  
 - [2024-01-12-以美元计价-中国2023年12月出口同比增长2.3%](https://www.cls.cn/detail/1568900)  
-- [2024-01-11-中金：通胀超预期，美联储降息紧迫性下降](https://www.cls.cn/detail/1568756)  
-- [2024-01-11-下游覆盖“人形机器人+飞行汽车”-3D打印技术已处在产业化拐点](https://www.cls.cn/detail/1568748)  
-- [2024-01-11-英美准备对胡塞武装进行空袭-特斯拉柏林工厂将停产两周-|-环球市场](https://www.cls.cn/detail/1568740)  
-- [2024-01-11-【早报】中共中央、国务院：全面推进美丽中国建设；教育部等多部门：坚决打击违规“黑竞赛”](https://www.cls.cn/detail/1568743)  
-- [2024-01-11-OpenAI创始人奥尔特曼结婚了？神秘的他是谁](https://www.cls.cn/detail/1568582)  
-- [2024-01-11-规模最大的ETF分红了，选红利、高股息仍是正解？去年大派红包的ETF多集中在此](https://www.cls.cn/detail/1568579)  
-- [2024-01-11-又一家外商独资险企将诞生-意大利忠利保险拟7.74亿取中意财险51%股权-造血能力不足难题如何解？](https://www.cls.cn/detail/1568557)  
-- [2024-01-11-中共中央、国务院：全面推进美丽中国建设](https://www.cls.cn/detail/1568389)  
-- [2024-01-11-教育部等多部门：坚决打击违规“黑竞赛”](https://www.cls.cn/detail/1568350)  
-- [2024-01-11-土耳其等国将在黑海扫雷-有望提振乌克兰粮食出口](https://www.cls.cn/detail/1568338)  
-- [2024-01-11-“定期给付，到期兑付”是噱头？首支创新型理财产品今上市，净值波动下仍需关注被动赎回风险|银行理财观察㊳](https://www.cls.cn/detail/1568167)  
+- [2024-01-12-统计局：12月CPI同比下降0.3%-PPI同比下降2.7%](https://www.cls.cn/detail/1568853)  
+- [2024-01-12-《繁花》成新招商王？单集最高11个广告-投资者喊话上市公司“找宝总代言”](https://www.cls.cn/detail/1568819)  
+- [2024-01-12-诡异一幕！美国通胀数据超预期上升-降息预期却不降反升](https://www.cls.cn/detail/1568789)  
+- [2024-01-12-1月12日投资避雷针：“药茅”长春高新二股东离婚-女方分走超40亿元股票](https://www.cls.cn/detail/1568762)  
+- [2024-01-12-美英对也门胡塞武装目标发动空袭-萨那等地传出爆炸声](https://www.cls.cn/detail/1568779)  
+- [2024-01-12-减持套现53亿不算完，“减持惯犯”又将40亿元股份划给前妻，三季度何帅、万民远等重仓](https://www.cls.cn/detail/1568780)  
+- [2024-01-12-券商晨会精华：通胀超预期，美联储降息紧迫性下降](https://www.cls.cn/detail/1568236)  
+- [2024-01-12-美国通胀意外反弹！美联储票委：3月降息还为时过早](https://www.cls.cn/detail/1568776)  
+- [2024-01-12-国防部：全军掀起新年度练兵备战热潮](https://www.cls.cn/detail/1569184) ![](/assets/new.png)  
+- [2024-01-12-国家发改委印发《中央预算内投资项目监督管理办法》](https://www.cls.cn/detail/1569172) ![](/assets/new.png)  
+- [2024-01-12-金融监管总局：支持初创期科技型企业成长壮大-鼓励银行机构在防控风险的基础上加大信用贷款投放力度](https://www.cls.cn/detail/1569205) ![](/assets/new.png)  
+- [2024-01-12-国家医保局：全面建立医疗服务价格动态调整机制](https://www.cls.cn/detail/1569224) ![](/assets/new.png)  
+- [2024-01-12-任职两年多次“救火”，证监会第二任主席周道炯去世，任期沪指涨幅82%](https://www.cls.cn/detail/1569249) ![](/assets/new.png)  
+- [2024-01-12-外交部：中方斡旋下，缅北正式停火](https://www.cls.cn/detail/1569297) ![](/assets/new.png)  
+- [2024-01-12-【每日收评】两市炸板率超50%！北证50指数重挫6%，光伏板块再度逆势活跃](https://www.cls.cn/detail/1569305) ![](/assets/new.png)  
+- [2024-01-12-港股三大指数本周集体下挫-煤炭股逆势大涨引关注](https://www.cls.cn/detail/1569307) ![](/assets/new.png)  
+- [2024-01-12-“美丽中国”政策吹东风-环保板块集体飘红-节能铁汉、东珠生态等公司回应：市场机会有望增加](https://www.cls.cn/detail/1569308) ![](/assets/new.png)  
+- [2024-01-12-BBA在华“交卷”2023：宝马、奔驰纯电销量翻番-奥迪增幅最大](https://www.cls.cn/detail/1569330) ![](/assets/new.png)  
+- [2024-01-12-优也科技傅源：做碳中和时代的“卖铲人”|连线创始人](https://www.cls.cn/detail/1569347) ![](/assets/new.png)  
 - [......【查看更多】......](/details/36kr.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -78,25 +78,25 @@
 </summary>
 
 
-- [2024-01-12-2023年AIGC场景应用展望研究报告](https://report.iresearch.cn/report/202401/4294.shtml) ![](/assets/new.png)  
-- [2024-01-11-2024年中国数字世界平台创新趋势发展研究报告](https://report.iresearch.cn/report/202401/4293.shtml)  
+- [2024-01-12-2023年AIGC场景应用展望研究报告](https://report.iresearch.cn/report/202401/4294.shtml)  
+- [2024-01-12-2023年中国中小微商户数字化升级服务行业研究报告](https://report.iresearch.cn/report/202401/4295.shtml) ![](/assets/new.png)  
 - [2024-01-11-2023年中国商贸零售企业ESG观察报告](https://report.iresearch.cn/report/202401/4292.shtml)  
+- [2024-01-11-2024年中国数字世界平台创新趋势发展研究报告](https://report.iresearch.cn/report/202401/4293.shtml)  
 - [2024-01-10-绿色数字经济-2023年企业级低代码平台构建白皮书](https://report.iresearch.cn/report/202401/4291.shtml)  
-- [2024-01-09-2023年中国洗碗机市场洞察报告](https://report.iresearch.cn/report/202401/4290.shtml)  
-- [2024-01-09-云服务行业动态及热点研究月报-2023年12月](https://report.iresearch.cn/report/202401/4288.shtml)  
 - [2024-01-09-2023年中国演出票务行业研究报告](https://report.iresearch.cn/report/202401/4289.shtml)  
-- [2024-01-04-润物有声V-2023年中国互联网科技产业发展趋势报告](https://report.iresearch.cn/report/202401/4287.shtml)  
-- [2024-01-04-润物有声V——2023年中国互联网科技产业发展趋势报告](https://report.iresearch.cn/report/202401/4285.shtml)  
+- [2024-01-09-云服务行业动态及热点研究月报-2023年12月](https://report.iresearch.cn/report/202401/4288.shtml)  
+- [2024-01-09-2023年中国洗碗机市场洞察报告](https://report.iresearch.cn/report/202401/4290.shtml)  
 - [2024-01-04-2023年在线旅游平台用户洞察研究报告](https://report.iresearch.cn/report/202401/4286.shtml)  
+- [2024-01-04-润物有声V——2023年中国互联网科技产业发展趋势报告](https://report.iresearch.cn/report/202401/4285.shtml)  
+- [2024-01-04-润物有声V-2023年中国互联网科技产业发展趋势报告](https://report.iresearch.cn/report/202401/4287.shtml)  
 - [2023-12-29-2023年中国女性私处护理白皮书](https://report.iresearch.cn/report/202312/4284.shtml)  
 - [2023-12-28-2023年汽车行业网络营销监测报告](https://report.iresearch.cn/report/202312/4283.shtml)  
 - [2023-12-27-2023年中国人力资源数字化研究报告](https://report.iresearch.cn/report/202312/4282.shtml)  
 - [2023-12-25-2023年中国大视听市场趋势洞察报告](https://report.iresearch.cn/report/202312/4281.shtml)  
 - [2023-12-21-2023年中国家装行业研究报告](https://report.iresearch.cn/report/202312/4280.shtml)  
-- [2023-12-15-第三方支付行业平台活跃研究](https://report.iresearch.cn/report/202312/4279.shtml)  
 - [2023-12-15-艾瑞观潮-食品饮料行业七大风向（2023）](https://report.iresearch.cn/report/202312/4278.shtml)  
+- [2023-12-15-第三方支付行业平台活跃研究](https://report.iresearch.cn/report/202312/4279.shtml)  
 - [2023-12-13-2023年中国制造业数字化转型路径实践](https://report.iresearch.cn/report/202312/4277.shtml)  
-- [2023-12-12-2023年中国零担行业研究报告](https://report.iresearch.cn/report/202312/4276.shtml)  
 - [2023-12-12-2023年中国开源基础软件产业研究白皮书](https://report.iresearch.cn/report/202312/4275.shtml)  
 - [......【查看更多】......](/details/艾瑞.md)
 
