@@ -1,12 +1,12 @@
 ##
 
-:alarm_clock: 更新时间: 2024-01-16 07:35:40，:rocket: 更新条数: +9， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-01-16 08:37:29，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [36kr](#36kr)![](/assets/dot.png)   
+- [36kr](#36kr)  
 - [QuestMobile](#questmobile)  
-- [艾瑞](#艾瑞)  
+- [艾瑞](#艾瑞)![](/assets/dot.png)   
 
 ## 文章链接
 
@@ -78,26 +78,26 @@
 </summary>
 
 
-- [2024-01-12-2023年AIGC场景应用展望研究报告](https://report.iresearch.cn/report/202401/4294.shtml)  
+- [2024-01-16-2023年中国儿童DHA市场白皮书](https://report.iresearch.cn/report/202401/4296.shtml) ![](/assets/new.png)  
 - [2024-01-12-2023年中国中小微商户数字化升级服务行业研究报告](https://report.iresearch.cn/report/202401/4295.shtml)  
-- [2024-01-11-2023年中国商贸零售企业ESG观察报告](https://report.iresearch.cn/report/202401/4292.shtml)  
+- [2024-01-12-2023年AIGC场景应用展望研究报告](https://report.iresearch.cn/report/202401/4294.shtml)  
 - [2024-01-11-2024年中国数字世界平台创新趋势发展研究报告](https://report.iresearch.cn/report/202401/4293.shtml)  
+- [2024-01-11-2023年中国商贸零售企业ESG观察报告](https://report.iresearch.cn/report/202401/4292.shtml)  
 - [2024-01-10-绿色数字经济-2023年企业级低代码平台构建白皮书](https://report.iresearch.cn/report/202401/4291.shtml)  
-- [2024-01-09-2023年中国演出票务行业研究报告](https://report.iresearch.cn/report/202401/4289.shtml)  
-- [2024-01-09-云服务行业动态及热点研究月报-2023年12月](https://report.iresearch.cn/report/202401/4288.shtml)  
 - [2024-01-09-2023年中国洗碗机市场洞察报告](https://report.iresearch.cn/report/202401/4290.shtml)  
-- [2024-01-04-2023年在线旅游平台用户洞察研究报告](https://report.iresearch.cn/report/202401/4286.shtml)  
-- [2024-01-04-润物有声V——2023年中国互联网科技产业发展趋势报告](https://report.iresearch.cn/report/202401/4285.shtml)  
+- [2024-01-09-云服务行业动态及热点研究月报-2023年12月](https://report.iresearch.cn/report/202401/4288.shtml)  
+- [2024-01-09-2023年中国演出票务行业研究报告](https://report.iresearch.cn/report/202401/4289.shtml)  
 - [2024-01-04-润物有声V-2023年中国互联网科技产业发展趋势报告](https://report.iresearch.cn/report/202401/4287.shtml)  
+- [2024-01-04-润物有声V——2023年中国互联网科技产业发展趋势报告](https://report.iresearch.cn/report/202401/4285.shtml)  
+- [2024-01-04-2023年在线旅游平台用户洞察研究报告](https://report.iresearch.cn/report/202401/4286.shtml)  
 - [2023-12-29-2023年中国女性私处护理白皮书](https://report.iresearch.cn/report/202312/4284.shtml)  
 - [2023-12-28-2023年汽车行业网络营销监测报告](https://report.iresearch.cn/report/202312/4283.shtml)  
 - [2023-12-27-2023年中国人力资源数字化研究报告](https://report.iresearch.cn/report/202312/4282.shtml)  
 - [2023-12-25-2023年中国大视听市场趋势洞察报告](https://report.iresearch.cn/report/202312/4281.shtml)  
 - [2023-12-21-2023年中国家装行业研究报告](https://report.iresearch.cn/report/202312/4280.shtml)  
-- [2023-12-15-艾瑞观潮-食品饮料行业七大风向（2023）](https://report.iresearch.cn/report/202312/4278.shtml)  
 - [2023-12-15-第三方支付行业平台活跃研究](https://report.iresearch.cn/report/202312/4279.shtml)  
+- [2023-12-15-艾瑞观潮-食品饮料行业七大风向（2023）](https://report.iresearch.cn/report/202312/4278.shtml)  
 - [2023-12-13-2023年中国制造业数字化转型路径实践](https://report.iresearch.cn/report/202312/4277.shtml)  
-- [2023-12-12-2023年中国开源基础软件产业研究白皮书](https://report.iresearch.cn/report/202312/4275.shtml)  
 - [......【查看更多】......](/details/艾瑞.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
