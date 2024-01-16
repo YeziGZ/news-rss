@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-01-16 02:42:16。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-01-16 03:35:49。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -34,15 +34,15 @@
 - [【36kr】【VIP机会日报】指数探底回升-AI概念上演王者归来-这家AIGC概念人气公司20cm涨停](https://www.cls.cn/detail/1537859)
 - [【36kr】公司未与Pika有任何业务往来-3连板AIGC概念股发布交易风险提示公告|盘后公告集锦](https://www.cls.cn/detail/1534683)
 - [【36kr】港股IPO周报：智能机器人公司优必选通过聆讯-AIGC概念股出门问问再度递表](https://www.cls.cn/detail/1533603)
-- [【36kr】特斯拉Cybertruck即将交付-微软获得OpenAI董事会席位-|-今夜看点](https://www.cls.cn/detail/1532116)
 - [【36kr】【明日主题前瞻】华为云推出首个大模型混合云，全球加速云计算战略部署](https://www.cls.cn/detail/1531728)
+- [【36kr】特斯拉Cybertruck即将交付-微软获得OpenAI董事会席位-|-今夜看点](https://www.cls.cn/detail/1532116)
 - [【36kr】OpenAI“700壮士威压董事会”背后：AI工程师的议价能力有多强？](https://www.cls.cn/detail/1525594)
 - [【36kr】OpenAI官宣奥特曼重回公司担任CEO-董事会启动“重置”](https://www.cls.cn/detail/1524101)
-- [【36kr】币安CEO赵长鹏宣布辞职-奥特曼重返OpenAI一事出现转机-|-环球市场](https://www.cls.cn/detail/1523718)
 - [【36kr】OpenAI闹剧仍在延续-美联储、英伟达也有大消息-|-今夜看点](https://www.cls.cn/detail/1523510)
-- [【36kr】OpenAI“宫斗”大戏持续上演-阿联酋将在2024年提高原油产量-|-环球市场](https://www.cls.cn/detail/1522501)
-- [【36kr】OpenAI“内斗”始作俑者不是你？苏茨克维公开忏悔-反手逼宫董事会](https://www.cls.cn/detail/1522347)
+- [【36kr】币安CEO赵长鹏宣布辞职-奥特曼重返OpenAI一事出现转机-|-环球市场](https://www.cls.cn/detail/1523718)
 - [【36kr】OpenAI面临严峻人才危机-美债标售数据扰动又至-|-今夜看点](https://www.cls.cn/detail/1522297)
+- [【36kr】OpenAI“内斗”始作俑者不是你？苏茨克维公开忏悔-反手逼宫董事会](https://www.cls.cn/detail/1522347)
+- [【36kr】OpenAI“宫斗”大戏持续上演-阿联酋将在2024年提高原油产量-|-环球市场](https://www.cls.cn/detail/1522501)
 - [......【查看更多】......](/details/tags/aigc.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】普华永道调查：越来越多CEO担心企业难以在未来十年“存活”下来](https://www.cls.cn/detail/1571502)
-- [【36kr】涉及多名政要、名人！“爱泼斯坦名单”公开，案件细节曝光](https://www.cls.cn/detail/1571500)
-- [【36kr】叫板实力强大的美国军队，胡塞武装实力如何？](https://www.cls.cn/detail/1571494)
-- [【36kr】1月16日投资避雷针：3连板鸿蒙概念人气股澄清-相关业务主要为销售华为会议平板](https://www.cls.cn/detail/1571478)
-- [【36kr】国办推动培育银发经济领域龙头企业-养老产业投资价值凸显](https://www.cls.cn/detail/1571465)
-- [【36kr】绕行好望角反而更划算？战争险保费飙升加剧红海贸易混乱](https://www.cls.cn/detail/1571482)
-- [【36kr】逾250家上市公司跟审计机构“分手”：非标股票要警惕，是否购买审计意见遭关注](https://www.cls.cn/detail/1571480)
-- [【36kr】券商晨会精华：低轨通信卫星可以类比5G时代基站，2024年国内将进入密集发射元年](https://www.cls.cn/detail/1571484)
 - [【36kr】潮水褪去才发现“华点”：美国对胡塞打击竟在虚张声势？](https://www.cls.cn/detail/1571560)
-- [【36kr】红海危机影响尚未真正浮现？欧盟经济专员：未来几周很重要！](https://www.cls.cn/detail/1571473)
-- [【36kr】朝鲜废除祖国和平统一委员会等对南机构](https://www.cls.cn/detail/1571466)
-- [【36kr】中国电信力推手机直连卫星-机构称将带来全新增量市场](https://www.cls.cn/detail/1571456)
-- [【36kr】国家安全部：《反分裂国家法》利剑高悬](https://www.cls.cn/detail/1571461)
-- [【36kr】港股1月16日早报：我国银发经济支持政策出台-百度发布澄清公告](https://www.cls.cn/detail/1571446)
-- [【36kr】【数读IPO】产品广泛应用于汽车电子等行业-精密结构件“小巨人”今日上市](https://www.cls.cn/detail/1571449)
-- [【36kr】【早报】国办：发展银发经济，增进老年人福祉；多家中小银行开年逆势上调存款利率](https://www.cls.cn/detail/1571448)
-- [【36kr】二战以来首次-德国或将在波兰境内部署军队](https://www.cls.cn/detail/1571376)
-- [【36kr】拜登据称对以色列总理逐渐失去耐心-美国大部分要求都被拒绝](https://www.cls.cn/detail/1571374)
-- [【36kr】美国货船在也门遭遇反舰导弹袭击-船只起火无人员受伤报告](https://www.cls.cn/detail/1571369)
-- [【36kr】流感神药难“速达”：线下药店缺货、线上平台涨价！罗氏回应“正紧急备货”](https://www.cls.cn/detail/1571320)
+- [【36kr】券商晨会精华：低轨通信卫星可以类比5G时代基站，2024年国内将进入密集发射元年](https://www.cls.cn/detail/1571484)
+- [【36kr】逾250家上市公司跟审计机构“分手”：非标股票要警惕，是否购买审计意见遭关注](https://www.cls.cn/detail/1571480)
+- [【36kr】绕行好望角反而更划算？战争险保费飙升加剧红海贸易混乱](https://www.cls.cn/detail/1571482)
+- [【36kr】国办推动培育银发经济领域龙头企业-养老产业投资价值凸显](https://www.cls.cn/detail/1571465)
+- [【36kr】1月16日投资避雷针：3连板鸿蒙概念人气股澄清-相关业务主要为销售华为会议平板](https://www.cls.cn/detail/1571478)
+- [【36kr】叫板实力强大的美国军队，胡塞武装实力如何？](https://www.cls.cn/detail/1571494)
+- [【36kr】涉及多名政要、名人！“爱泼斯坦名单”公开，案件细节曝光](https://www.cls.cn/detail/1571500)
+- [【36kr】普华永道调查：越来越多CEO担心企业难以在未来十年“存活”下来](https://www.cls.cn/detail/1571502)
+- [【36kr】财联社债市早参1月16日-|-远洋集团7只境内信用债展期方案确定；降息“落空”不改债市火热](https://www.cls.cn/detail/1571489)
+- [【36kr】财联社汽车早报【1月16日】](https://www.cls.cn/detail/1571513)
+- [【36kr】市场延续震荡磨底，重点留意板块轮动中的结构性机会](https://www.cls.cn/detail/1571531)
+- [【36kr】“大选年”美股何去何从？以史为鉴：这几个月表现最佳！](https://www.cls.cn/detail/1571535)
+- [【36kr】华福证券：预计2024年旅游仍具韧性，关注哪些标的？](https://www.cls.cn/detail/1571574)
+- [【36kr】国家知识产权局：我国在数字技术领域保持了较高的创新热度](https://www.cls.cn/detail/1571622)
+- [【36kr】飞行汽车何时“起飞”？全球市场规模2050年将达9万亿美元](https://www.cls.cn/detail/1571623)
+- [【36kr】日股市场大动作！660家主板公司登上东交所首份“光荣榜”](https://www.cls.cn/detail/1571629)
+- [【36kr】港股大市缩量下行-机构担忧蓝筹股走低打击市场信心](https://www.cls.cn/detail/1571069)
+- [【36kr】胡塞武装袭击美国货船-智利上调今年铜价预测-|-环球市场](https://www.cls.cn/detail/1571435)
+- [【36kr】涨势有望延续-全球最大生产国上调今年铜价预测](https://www.cls.cn/detail/1571419)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
