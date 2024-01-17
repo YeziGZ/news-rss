@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-01-17 01:39:22。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-01-17 02:42:25。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -23,8 +23,8 @@
 
 
 
-- [【36kr】金融监管效率如何提升？毕马威最新报告：大模型或成新利器，辅助行为监管和穿透式监管](https://www.cls.cn/detail/1571739)
 - [【36kr】百度澄清文心一言相关报道-股价应声回暖涨超3%](https://www.cls.cn/detail/1571610)
+- [【36kr】金融监管效率如何提升？毕马威最新报告：大模型或成新利器，辅助行为监管和穿透式监管](https://www.cls.cn/detail/1571739)
 - [【36kr】OpenAI创始人奥尔特曼结婚了？神秘的他是谁](https://www.cls.cn/detail/1568582)
 - [【36kr】腾讯云金融云贾飞：大模型对金融机构机遇与挑战并存](https://www.cls.cn/detail/1546268)
 - [【36kr】【明日主题前瞻】里程碑合作，OpenAI将付费使用出版巨头的内容](https://www.cls.cn/detail/1544072)
@@ -36,13 +36,13 @@
 - [【36kr】【VIP机会日报】指数探底回升-AI概念上演王者归来-这家AIGC概念人气公司20cm涨停](https://www.cls.cn/detail/1537859)
 - [【36kr】公司未与Pika有任何业务往来-3连板AIGC概念股发布交易风险提示公告|盘后公告集锦](https://www.cls.cn/detail/1534683)
 - [【36kr】港股IPO周报：智能机器人公司优必选通过聆讯-AIGC概念股出门问问再度递表](https://www.cls.cn/detail/1533603)
-- [【36kr】【明日主题前瞻】华为云推出首个大模型混合云，全球加速云计算战略部署](https://www.cls.cn/detail/1531728)
 - [【36kr】特斯拉Cybertruck即将交付-微软获得OpenAI董事会席位-|-今夜看点](https://www.cls.cn/detail/1532116)
+- [【36kr】【明日主题前瞻】华为云推出首个大模型混合云，全球加速云计算战略部署](https://www.cls.cn/detail/1531728)
 - [【36kr】OpenAI“700壮士威压董事会”背后：AI工程师的议价能力有多强？](https://www.cls.cn/detail/1525594)
 - [【36kr】OpenAI官宣奥特曼重回公司担任CEO-董事会启动“重置”](https://www.cls.cn/detail/1524101)
-- [【36kr】OpenAI闹剧仍在延续-美联储、英伟达也有大消息-|-今夜看点](https://www.cls.cn/detail/1523510)
 - [【36kr】币安CEO赵长鹏宣布辞职-奥特曼重返OpenAI一事出现转机-|-环球市场](https://www.cls.cn/detail/1523718)
-- [【36kr】OpenAI面临严峻人才危机-美债标售数据扰动又至-|-今夜看点](https://www.cls.cn/detail/1522297)
+- [【36kr】OpenAI闹剧仍在延续-美联储、英伟达也有大消息-|-今夜看点](https://www.cls.cn/detail/1523510)
+- [【36kr】OpenAI“宫斗”大戏持续上演-阿联酋将在2024年提高原油产量-|-环球市场](https://www.cls.cn/detail/1522501)
 - [......【查看更多】......](/details/tags/aigc.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】华夏基金就日经225ETF基金交易价格溢价发布风险提示并临时停牌](https://www.cls.cn/detail/1572620)
-- [【36kr】1月17日投资避雷针：8天5板固态电池人气股遭实控人配偶大比例减持](https://www.cls.cn/detail/1572619)
-- [【36kr】中金：日股短期不建议过度追高-中期结构性变化预期尤在](https://www.cls.cn/detail/1572624)
-- [【36kr】券商晨会精华：手机“通天”时代来临，低轨卫星布局加速](https://www.cls.cn/detail/1572637)
 - [【36kr】假期过后华尔街出师不利！10年期美债收益率升破4%-降息预期遭打击](https://www.cls.cn/detail/1572660)
-- [【36kr】美军对胡塞武装发动新一轮袭击-欧盟初步支持推进红海护航行动-|-环球市场](https://www.cls.cn/detail/1572595)
-- [【36kr】【早报】国资委：努力实现一季度“开门红”；护盘资金或又出动，沪深300ETF显著放量](https://www.cls.cn/detail/1572588)
-- [【36kr】中国太保去年原保费收入超4200亿-中信资源年度净利润下滑逾5成｜港股1月16日公告精选](https://www.cls.cn/detail/1572349)
-- [【36kr】危机持续升级！又一家能源巨头无限期暂停红海石油运输](https://www.cls.cn/detail/1572514)
-- [【36kr】国产汽车出海“造福”上游供应链-均胜电子去年Q4扣非净利创新高|财报解读](https://www.cls.cn/detail/1572415)
-- [【36kr】山东部分风光项目指标被废除-新能源指标“空转”为哪般？|行业动态](https://www.cls.cn/detail/1572407)
-- [【36kr】696万户投资者参与北交所，银河、东财、广发累计开户居前三，北证50大涨超5%再回暖](https://www.cls.cn/detail/1572303)
-- [【36kr】长安汽车董事长怒斥行业广告无底线：几十万的车非要说上千万](https://www.cls.cn/detail/1572424)
-- [【36kr】2.69万亿元！A股五大险企2023年战绩出炉-寿险全面正增长-财险增速减缓](https://www.cls.cn/detail/1572406)
-- [【36kr】李强出席世界经济论坛2024年年会并发表特别致辞](https://www.cls.cn/detail/1572361)
-- [【36kr】又两家头部券商被罚！开年投行业务屡见强监管，半月来6家投行处罚在列](https://www.cls.cn/detail/1572340)
-- [【36kr】南向资金1月16日净流入超29亿：大幅加仓中国移动-流出中芯国际及理想汽车](https://www.cls.cn/detail/1572302)
-- [【36kr】同花顺大跌上热搜，盘中融资爆仓流言四起，真相如何？去年三季度102只基金重仓](https://www.cls.cn/detail/1572229)
-- [【36kr】“一共送出200颗”！文旅热带动培育钻石“出圈”-超硬材料再引热议|行业动态](https://www.cls.cn/detail/1572167)
-- [【36kr】为挑战拜登-民主党候选人许诺：或会提名马斯克担任内阁职务](https://www.cls.cn/detail/1572082)
+- [【36kr】券商晨会精华：手机“通天”时代来临，低轨卫星布局加速](https://www.cls.cn/detail/1572637)
+- [【36kr】中金：日股短期不建议过度追高-中期结构性变化预期尤在](https://www.cls.cn/detail/1572624)
+- [【36kr】1月17日投资避雷针：8天5板固态电池人气股遭实控人配偶大比例减持](https://www.cls.cn/detail/1572619)
+- [【36kr】华夏基金就日经225ETF基金交易价格溢价发布风险提示并临时停牌](https://www.cls.cn/detail/1572620)
+- [【36kr】美国创纪录寒潮致数万户停电-北达科他州油气产量减半](https://www.cls.cn/detail/1572635)
+- [【36kr】财联社汽车早报【1月17日】](https://www.cls.cn/detail/1572659)
+- [【36kr】昨日“V”型反弹或有助市场信心提振，超跌修复仍是当前盘面主要风格](https://www.cls.cn/detail/1572691)
+- [【36kr】个别干部以代持获巨额分红，中纪报：斩断违规持股背后利益链](https://www.cls.cn/detail/1572698)
+- [【36kr】国家统计局：2023年12月份各线城市商品住宅销售价格环比下降-同比有涨有降](https://www.cls.cn/detail/1572713)
+- [【36kr】2023年全年国内生产总值1260582亿，比上年增长5.2%](https://www.cls.cn/detail/1572737)
+- [【36kr】2023年12月份社会消费品零售总额增长7.4%](https://www.cls.cn/detail/1572746)
+- [【36kr】2023年全国房地产开发投资110913亿元-比上年下降9.6%](https://www.cls.cn/detail/1572747)
+- [【36kr】国家统计局：2023年全国城镇固定值资产投资503036亿元-比上年增长3.0%](https://www.cls.cn/detail/1572762)
+- [【36kr】华为发布2024数据中心能源十大趋势-液冷有望迎来大规模部署](https://www.cls.cn/detail/1572602)
+- [【36kr】经济日报金观平：有效保障房企合理融资需求](https://www.cls.cn/detail/1572599)
+- [【36kr】【数读IPO】去年净利预增80%-这只光伏与储能概念股今日申购](https://www.cls.cn/detail/1572589)
+- [【36kr】大摩单季净利润同比下降超三成-全年数据竟不及小摩五分之一](https://www.cls.cn/detail/1572501)
+- [【36kr】聚焦超高净值客户的战略奏效！高盛四季报利润暴增51%](https://www.cls.cn/detail/1572493)
+- [【36kr】下一个胜华波？实控人100%持股-捷翼科技被疑IPO募资填“掏空式”分红的坑](https://www.cls.cn/detail/1572470)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
