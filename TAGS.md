@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-01-18 01:38:27。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-01-18 02:42:39。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -23,8 +23,8 @@
 
 
 
-- [【36kr】金融监管效率如何提升？毕马威最新报告：大模型或成新利器，辅助行为监管和穿透式监管](https://www.cls.cn/detail/1571739)
 - [【36kr】百度澄清文心一言相关报道-股价应声回暖涨超3%](https://www.cls.cn/detail/1571610)
+- [【36kr】金融监管效率如何提升？毕马威最新报告：大模型或成新利器，辅助行为监管和穿透式监管](https://www.cls.cn/detail/1571739)
 - [【36kr】OpenAI创始人奥尔特曼结婚了？神秘的他是谁](https://www.cls.cn/detail/1568582)
 - [【36kr】腾讯云金融云贾飞：大模型对金融机构机遇与挑战并存](https://www.cls.cn/detail/1546268)
 - [【36kr】【明日主题前瞻】里程碑合作，OpenAI将付费使用出版巨头的内容](https://www.cls.cn/detail/1544072)
@@ -36,13 +36,13 @@
 - [【36kr】【VIP机会日报】指数探底回升-AI概念上演王者归来-这家AIGC概念人气公司20cm涨停](https://www.cls.cn/detail/1537859)
 - [【36kr】公司未与Pika有任何业务往来-3连板AIGC概念股发布交易风险提示公告|盘后公告集锦](https://www.cls.cn/detail/1534683)
 - [【36kr】港股IPO周报：智能机器人公司优必选通过聆讯-AIGC概念股出门问问再度递表](https://www.cls.cn/detail/1533603)
-- [【36kr】【明日主题前瞻】华为云推出首个大模型混合云，全球加速云计算战略部署](https://www.cls.cn/detail/1531728)
 - [【36kr】特斯拉Cybertruck即将交付-微软获得OpenAI董事会席位-|-今夜看点](https://www.cls.cn/detail/1532116)
+- [【36kr】【明日主题前瞻】华为云推出首个大模型混合云，全球加速云计算战略部署](https://www.cls.cn/detail/1531728)
 - [【36kr】OpenAI“700壮士威压董事会”背后：AI工程师的议价能力有多强？](https://www.cls.cn/detail/1525594)
 - [【36kr】OpenAI官宣奥特曼重回公司担任CEO-董事会启动“重置”](https://www.cls.cn/detail/1524101)
-- [【36kr】OpenAI闹剧仍在延续-美联储、英伟达也有大消息-|-今夜看点](https://www.cls.cn/detail/1523510)
 - [【36kr】币安CEO赵长鹏宣布辞职-奥特曼重返OpenAI一事出现转机-|-环球市场](https://www.cls.cn/detail/1523718)
-- [【36kr】OpenAI面临严峻人才危机-美债标售数据扰动又至-|-今夜看点](https://www.cls.cn/detail/1522297)
+- [【36kr】OpenAI闹剧仍在延续-美联储、英伟达也有大消息-|-今夜看点](https://www.cls.cn/detail/1523510)
+- [【36kr】OpenAI“宫斗”大戏持续上演-阿联酋将在2024年提高原油产量-|-环球市场](https://www.cls.cn/detail/1522501)
 - [......【查看更多】......](/details/tags/aigc.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】红海局势持续紧张！马士基CEO：料全球航运中断“至少数月”](https://www.cls.cn/detail/1573742)
-- [【36kr】1月18日投资避雷针：去年超级牛股捷荣技术-100多位员工被通知“放长假”](https://www.cls.cn/detail/1573740)
 - [【36kr】排列5开出“55555”、中奖金额高达5亿元！中国体彩最新开奖结果出炉](https://www.cls.cn/detail/1573767)
-- [【36kr】美国将胡塞武装列为“恐怖组织”-三星发布S24系列手机-|-环球市场](https://www.cls.cn/detail/1573719)
-- [【36kr】【早报】新华社：金融持续发力支持实体经济健康发展；五部门联合开展智能网联汽车“车路云一体化”应用试点工作](https://www.cls.cn/detail/1573713)
-- [【36kr】船只纷纷绕行非洲-苏伊士运河吞吐量降至近三年来最低水平](https://www.cls.cn/detail/1573677)
-- [【36kr】WTO总干事警告：红海局势持续紧张-今年全球贸易不太乐观](https://www.cls.cn/detail/1573641)
-- [【36kr】活跃外资新招数？东证所将要求主板上市公司进行双语信披](https://www.cls.cn/detail/1573628)
-- [【36kr】丑闻没完没了！波音又出严重故障-致使布林肯被困达沃斯](https://www.cls.cn/detail/1573656)
-- [【36kr】“戒掉”炒股，聚焦主业-昔日“股神”云南白药今年不投二级市场了](https://www.cls.cn/detail/1573609)
-- [【36kr】欧佩克维持今年全球石油需求预测不变-称油价疲软源于投机活动](https://www.cls.cn/detail/1573588)
-- [【36kr】中国中铁近期中标20项重大工程-阳光保险去年原保费收入超千亿｜港股1月17日公告精选](https://www.cls.cn/detail/1573511)
-- [【36kr】获2亿酒厂拆迁收益-古越龙山2023年净利约4亿-“只此青玉”销售增5成|财报解读](https://www.cls.cn/detail/1573445)
-- [【36kr】李强同爱尔兰总理瓦拉德卡会谈：中方将给予爱尔兰单方面免签待遇](https://www.cls.cn/detail/1573561)
-- [【36kr】伯克希尔出手押注旅游经济-中概造车新势力股价重挫-|-今夜看点](https://www.cls.cn/detail/1573514)
-- [【36kr】杭州银行第一大股东由杭州市财政局变更为杭州财开集团-背后是何考量？](https://www.cls.cn/detail/1573508)
-- [【36kr】南向资金1月17日净流入超59亿：大幅流入建行及美团-抛售小鹏汽车](https://www.cls.cn/detail/1573481)
-- [【36kr】新华时评：信心来自中国经济基本面](https://www.cls.cn/detail/1573488)
-- [【36kr】同比最高大增超29倍-40亿纸业龙头发布年报预告|盘后公告集锦](https://www.cls.cn/detail/1573478)
-- [【36kr】【明日主题前瞻】3月1日起施行！全国首部该领域地方性法规通过](https://www.cls.cn/detail/1573114)
+- [【36kr】1月18日投资避雷针：去年超级牛股捷荣技术-100多位员工被通知“放长假”](https://www.cls.cn/detail/1573740)
+- [【36kr】红海局势持续紧张！马士基CEO：料全球航运中断“至少数月”](https://www.cls.cn/detail/1573742)
+- [【36kr】3月降息真悬了？美国“恐怖数据”再掀大风浪-华尔街连遭股债双杀](https://www.cls.cn/detail/1573782)
+- [【36kr】日股“狂飙”引海外热捧：外资上周净流入规模创三个月新高](https://www.cls.cn/detail/1573778)
+- [【36kr】我国找锂重大突破，探获锂资源近百万吨！](https://www.cls.cn/detail/1573799)
+- [【36kr】虚假宣传！任泽平宣称能生发防脱的洗护产品被处罚](https://www.cls.cn/detail/1573816)
+- [【36kr】4倍雪球爆仓刷屏，业内称雪球敲入不会放大跌幅但“伤客”，呼吁提高投资者适当性准入](https://www.cls.cn/detail/1573870)
+- [【36kr】A股持续震荡最大受益是招商银行？这类理财产品余额已突破1万亿元，占27万亿理财江湖近4%份额](https://www.cls.cn/detail/1573738)
+- [【36kr】王文涛：实施好已出台的稳外贸政策-适时推动出台新政策](https://www.cls.cn/detail/1573734)
+- [【36kr】国安部披露案例：一人冒充国安“侦察处长”行骗，被抓获](https://www.cls.cn/detail/1573720)
+- [【36kr】经济日报：证券集体诉讼和解案影响深远](https://www.cls.cn/detail/1573712)
+- [【36kr】【数读IPO】实控人为广州市政府-垃圾焚烧发电区域龙头今日上市](https://www.cls.cn/detail/1573709)
+- [【36kr】美股收盘：降息预期再度受挫-三大指数齐跌-热门中概股普跌](https://www.cls.cn/detail/1573696)
+- [【36kr】美联储褐皮书：经济活动几乎没变化-消费支出强劲-就业市场降温](https://www.cls.cn/detail/1573682)
+- [【36kr】沙特阿美CEO：红海危机将导致油轮紧缺-石油供需将趋于紧张](https://www.cls.cn/detail/1573630)
+- [【36kr】被美国正式定性为恐怖分子-胡塞武装回应：将继续袭击](https://www.cls.cn/detail/1573635)
+- [【36kr】冰雪项目收入占比较小！12天9板东北旅游龙头发布异动公告，“拉萨天团”霸屏龙虎榜](https://www.cls.cn/detail/1573523)
+- [【36kr】真热还是虚火？有机硅龙头3天3板！业内称“饥饿营销”引发个别细分领域订单激增|行业动态](https://www.cls.cn/detail/1573579)
+- [【36kr】恒指下探沽空资金大幅加码-部分小盘能源股仍在上涨｜港股风向标](https://www.cls.cn/detail/1573456)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
