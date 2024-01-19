@@ -1,12 +1,12 @@
 ##
 
-:alarm_clock: 更新时间: 2024-01-19 02:43:13，:rocket: 更新条数: +6， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-01-19 04:37:21，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [36kr](#36kr)![](/assets/dot.png)   
+- [36kr](#36kr)  
 - [QuestMobile](#questmobile)  
-- [艾瑞](#艾瑞)  
+- [艾瑞](#艾瑞)![](/assets/dot.png)   
 
 ## 文章链接
 
@@ -24,12 +24,12 @@
 - [2024-01-19-华西证券：复盘历史几轮A股磨底行情的特征](https://www.cls.cn/detail/1574851)  
 - [2024-01-19-人民币取代美元-成俄罗斯交易所第一大交易货币](https://www.cls.cn/detail/1574853)  
 - [2024-01-19-1月19日投资避雷针：6天5板鸿蒙概念股公告-公司股票存在非理性炒作风险](https://www.cls.cn/detail/1574844)  
-- [2024-01-19-财联社汽车早报【1月19日】](https://www.cls.cn/detail/1574868) ![](/assets/new.png)  
-- [2024-01-19-国泰君安：雪球受市场关注，头部券商受益格局优化](https://www.cls.cn/detail/1574878) ![](/assets/new.png)  
-- [2024-01-19-深圳房产中介龙头的困惑：客户要求房子既便宜又抗跌](https://www.cls.cn/detail/1574913) ![](/assets/new.png)  
-- [2024-01-19-指数惊天逆袭后，短线反弹能否延续？关注短线情绪修复强度](https://www.cls.cn/detail/1574923) ![](/assets/new.png)  
-- [2024-01-19-商务部部长王文涛：2024年中方将与美方加强对话、管控分歧，努力为两国企业提供稳定预期](https://www.cls.cn/detail/1574936) ![](/assets/new.png)  
-- [2024-01-19-刀刃向内！中纪委又公布5名“内鬼”被查、被处分消息](https://www.cls.cn/detail/1574973) ![](/assets/new.png)  
+- [2024-01-19-财联社汽车早报【1月19日】](https://www.cls.cn/detail/1574868)  
+- [2024-01-19-国泰君安：雪球受市场关注，头部券商受益格局优化](https://www.cls.cn/detail/1574878)  
+- [2024-01-19-深圳房产中介龙头的困惑：客户要求房子既便宜又抗跌](https://www.cls.cn/detail/1574913)  
+- [2024-01-19-指数惊天逆袭后，短线反弹能否延续？关注短线情绪修复强度](https://www.cls.cn/detail/1574923)  
+- [2024-01-19-商务部部长王文涛：2024年中方将与美方加强对话、管控分歧，努力为两国企业提供稳定预期](https://www.cls.cn/detail/1574936)  
+- [2024-01-19-刀刃向内！中纪委又公布5名“内鬼”被查、被处分消息](https://www.cls.cn/detail/1574973)  
 - [2024-01-18-鸿蒙生态设备数已达到8亿台+-机构称开源鸿蒙市场空间打开](https://www.cls.cn/detail/1574827)  
 - [2024-01-18-“双减”后课外素质教育体系如何重建？民革上海市委这样建议](https://www.cls.cn/detail/1574835)  
 - [2024-01-18-港股1月19日早报：美国国会通过短期支出法案-热门中概股多数下跌](https://www.cls.cn/detail/1573946)  
@@ -78,25 +78,25 @@
 </summary>
 
 
+- [2024-01-19-2024年中国交易数字化智能平台趋势报告](https://report.iresearch.cn/report/202401/4298.shtml) ![](/assets/new.png)  
 - [2024-01-17-2023年中国商旅管理行业研究报告](https://report.iresearch.cn/report/202401/4297.shtml)  
 - [2024-01-16-2023年中国儿童DHA市场白皮书](https://report.iresearch.cn/report/202401/4296.shtml)  
-- [2024-01-12-2023年AIGC场景应用展望研究报告](https://report.iresearch.cn/report/202401/4294.shtml)  
 - [2024-01-12-2023年中国中小微商户数字化升级服务行业研究报告](https://report.iresearch.cn/report/202401/4295.shtml)  
-- [2024-01-11-2023年中国商贸零售企业ESG观察报告](https://report.iresearch.cn/report/202401/4292.shtml)  
+- [2024-01-12-2023年AIGC场景应用展望研究报告](https://report.iresearch.cn/report/202401/4294.shtml)  
 - [2024-01-11-2024年中国数字世界平台创新趋势发展研究报告](https://report.iresearch.cn/report/202401/4293.shtml)  
+- [2024-01-11-2023年中国商贸零售企业ESG观察报告](https://report.iresearch.cn/report/202401/4292.shtml)  
 - [2024-01-10-绿色数字经济-2023年企业级低代码平台构建白皮书](https://report.iresearch.cn/report/202401/4291.shtml)  
-- [2024-01-09-2023年中国演出票务行业研究报告](https://report.iresearch.cn/report/202401/4289.shtml)  
-- [2024-01-09-云服务行业动态及热点研究月报-2023年12月](https://report.iresearch.cn/report/202401/4288.shtml)  
 - [2024-01-09-2023年中国洗碗机市场洞察报告](https://report.iresearch.cn/report/202401/4290.shtml)  
-- [2024-01-04-2023年在线旅游平台用户洞察研究报告](https://report.iresearch.cn/report/202401/4286.shtml)  
-- [2024-01-04-润物有声V——2023年中国互联网科技产业发展趋势报告](https://report.iresearch.cn/report/202401/4285.shtml)  
+- [2024-01-09-云服务行业动态及热点研究月报-2023年12月](https://report.iresearch.cn/report/202401/4288.shtml)  
+- [2024-01-09-2023年中国演出票务行业研究报告](https://report.iresearch.cn/report/202401/4289.shtml)  
 - [2024-01-04-润物有声V-2023年中国互联网科技产业发展趋势报告](https://report.iresearch.cn/report/202401/4287.shtml)  
+- [2024-01-04-润物有声V——2023年中国互联网科技产业发展趋势报告](https://report.iresearch.cn/report/202401/4285.shtml)  
+- [2024-01-04-2023年在线旅游平台用户洞察研究报告](https://report.iresearch.cn/report/202401/4286.shtml)  
 - [2023-12-29-2023年中国女性私处护理白皮书](https://report.iresearch.cn/report/202312/4284.shtml)  
 - [2023-12-28-2023年汽车行业网络营销监测报告](https://report.iresearch.cn/report/202312/4283.shtml)  
 - [2023-12-27-2023年中国人力资源数字化研究报告](https://report.iresearch.cn/report/202312/4282.shtml)  
 - [2023-12-25-2023年中国大视听市场趋势洞察报告](https://report.iresearch.cn/report/202312/4281.shtml)  
 - [2023-12-21-2023年中国家装行业研究报告](https://report.iresearch.cn/report/202312/4280.shtml)  
-- [2023-12-15-艾瑞观潮-食品饮料行业七大风向（2023）](https://report.iresearch.cn/report/202312/4278.shtml)  
 - [2023-12-15-第三方支付行业平台活跃研究](https://report.iresearch.cn/report/202312/4279.shtml)  
 - [......【查看更多】......](/details/艾瑞.md)
 
