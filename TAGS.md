@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-01-23 20:35:53。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-01-23 22:36:29。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -25,8 +25,8 @@
 
 - [【36kr】【明日主题前瞻】马斯克大模型产品迅速迭代升级，Grok1.5有望在下个月发布](https://www.cls.cn/detail/1578345)
 - [【36kr】政策利好提振港股ChatGPT概念-百度集团一度涨超4%](https://www.cls.cn/detail/1574046)
-- [【36kr】金融监管效率如何提升？毕马威最新报告：大模型或成新利器，辅助行为监管和穿透式监管](https://www.cls.cn/detail/1571739)
 - [【36kr】百度澄清文心一言相关报道-股价应声回暖涨超3%](https://www.cls.cn/detail/1571610)
+- [【36kr】金融监管效率如何提升？毕马威最新报告：大模型或成新利器，辅助行为监管和穿透式监管](https://www.cls.cn/detail/1571739)
 - [【36kr】OpenAI创始人奥尔特曼结婚了？神秘的他是谁](https://www.cls.cn/detail/1568582)
 - [【36kr】腾讯云金融云贾飞：大模型对金融机构机遇与挑战并存](https://www.cls.cn/detail/1546268)
 - [【36kr】【明日主题前瞻】里程碑合作，OpenAI将付费使用出版巨头的内容](https://www.cls.cn/detail/1544072)
@@ -38,11 +38,11 @@
 - [【36kr】【VIP机会日报】指数探底回升-AI概念上演王者归来-这家AIGC概念人气公司20cm涨停](https://www.cls.cn/detail/1537859)
 - [【36kr】公司未与Pika有任何业务往来-3连板AIGC概念股发布交易风险提示公告|盘后公告集锦](https://www.cls.cn/detail/1534683)
 - [【36kr】港股IPO周报：智能机器人公司优必选通过聆讯-AIGC概念股出门问问再度递表](https://www.cls.cn/detail/1533603)
-- [【36kr】【明日主题前瞻】华为云推出首个大模型混合云，全球加速云计算战略部署](https://www.cls.cn/detail/1531728)
 - [【36kr】特斯拉Cybertruck即将交付-微软获得OpenAI董事会席位-|-今夜看点](https://www.cls.cn/detail/1532116)
+- [【36kr】【明日主题前瞻】华为云推出首个大模型混合云，全球加速云计算战略部署](https://www.cls.cn/detail/1531728)
 - [【36kr】OpenAI“700壮士威压董事会”背后：AI工程师的议价能力有多强？](https://www.cls.cn/detail/1525594)
 - [【36kr】OpenAI官宣奥特曼重回公司担任CEO-董事会启动“重置”](https://www.cls.cn/detail/1524101)
-- [【36kr】OpenAI闹剧仍在延续-美联储、英伟达也有大消息-|-今夜看点](https://www.cls.cn/detail/1523510)
+- [【36kr】币安CEO赵长鹏宣布辞职-奥特曼重返OpenAI一事出现转机-|-环球市场](https://www.cls.cn/detail/1523718)
 - [......【查看更多】......](/details/tags/aigc.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】比特币一度跌破3.9万美元-现货ETF上市后下跌了逾20%](https://www.cls.cn/detail/1578561)
-- [【36kr】李强总理主持召开的这场座谈会-参会发言的8人分别是谁？](https://www.cls.cn/detail/1578482)
-- [【36kr】哈佛再爆学术造假丑闻！正式撤回6篇论文-数十篇论文需要更正](https://www.cls.cn/detail/1578479)
-- [【36kr】跌破2800点时踩点回购，大摩被指“精准抄底”A股，背后是何玄机](https://www.cls.cn/detail/1578477)
-- [【36kr】保持近200亿净利，中信证券业绩也亮相了，18家已亮相，上年基数里有乾坤](https://www.cls.cn/detail/1578473)
-- [【36kr】比特币跌破3.9万美元-美股三大期指涨跌不一-|-今夜看点](https://www.cls.cn/detail/1578468)
-- [【36kr】长城汽车去年营收超1700亿元-潍柴动力年度净利润增逾七成｜港股1月23日公告精选](https://www.cls.cn/detail/1578442)
-- [【36kr】极度悲观后港股反攻，持续回暖还差什么？拐点仍需大力政策支持](https://www.cls.cn/detail/1578448)
-- [【36kr】机构蜂拥买长债压平利率曲线，10年期国债收益率仍徘徊2.5%一线，与30年国债利差创05年以来新低](https://www.cls.cn/detail/1578433)
-- [【36kr】“减肥神药”新星：诺和诺德与礼来并非不可超越-其他公司有希望赢得竞争](https://www.cls.cn/detail/1578395)
-- [【36kr】证监会：将充实应对市场波动的政策工具-及时做好风险对冲](https://www.cls.cn/detail/1578330)
-- [【36kr】医药生物被买成公募头号重仓，葛兰、赵蓓、吴兴武、杨桢霄最新调仓披露](https://www.cls.cn/detail/1578319)
-- [【36kr】流量镰刀，砍向下行猪周期|深度调查](https://www.cls.cn/detail/1578283)
-- [【36kr】北京率先试点3900万专项债提前偿付，各省财力不同，恐难普遍推广](https://www.cls.cn/detail/1578161)
-- [【36kr】【数据看盘】北向资金大幅加仓科大讯飞-机构近亿元抢筹游戏股](https://www.cls.cn/detail/1578192)
-- [【36kr】美联储高官“内幕交易丑闻”调查报告：吃相难看-但不犯法](https://www.cls.cn/detail/1578092)
-- [【36kr】红海危机冲击全球经济：这两大行业远比能源行业更“受伤”……](https://www.cls.cn/detail/1578062)
-- [【36kr】噩梦般的处境：美国商业地产正经历半个世纪来最惨跌幅](https://www.cls.cn/detail/1578029)
-- [【36kr】特朗普：若再次入主白宫-德桑蒂斯在政府中任职的可能性极小](https://www.cls.cn/detail/1578028)
-- [【36kr】恒生科技指数迎近两个月最强反弹-房地产和光伏股表现居前](https://www.cls.cn/detail/1577963)
+- [【36kr】全球最大军工企业预警：订单创下纪录新高-但供应链中断将拖累业绩](https://www.cls.cn/detail/1578591)
+- [【36kr】四场诉讼涉案28亿！部分债权难执行-这家银行难题该如何破解？](https://www.cls.cn/detail/1578551)
+- [【36kr】大举进军直播领域！奈飞斥资50亿美元拿下WWE-Raw多国独家转播权](https://www.cls.cn/detail/1578547)
+- [【36kr】又是“猴子”惹的祸？昭衍新药预计去年净利润大幅下滑](https://www.cls.cn/detail/1578530)
+- [【36kr】业绩预增超24%-蓝晓科技：去年盐湖提锂新签订单4亿-5亿元](https://www.cls.cn/detail/1578512)
+- [【36kr】重卡回暖潍柴动力业绩大增-2024重卡市场仍获看好](https://www.cls.cn/detail/1578463)
+- [【36kr】沧州银行迎来地方国资增持，去年曾辟谣恒大欠款风波，投资者向二股东发问：何时上市？](https://www.cls.cn/detail/1578405)
+- [【36kr】南向资金1月23日净流出逾53亿港元：买入港交所-大幅抛售腾讯及盈富基金](https://www.cls.cn/detail/1578375)
+- [【36kr】公募基金权益仓位提升背后：谁在被抛弃，谁在被疯狂买入？](https://www.cls.cn/detail/1578437)
+- [【36kr】证监会：把资本市场稳定运行放在更加突出的位置-着力稳市场、稳信心](https://www.cls.cn/detail/1578431)
+- [【36kr】同比大增超64倍！50亿旅游概念股发布年报预告|盘后公告集锦](https://www.cls.cn/detail/1578391)
+- [【36kr】升至“全球第四大市场”仅待一天-印度股市周二再现千点调整](https://www.cls.cn/detail/1578369)
+- [【36kr】互联网巨头频现房地产市场-腾讯豪掷64亿北京再拿地](https://www.cls.cn/detail/1578355)
+- [【36kr】恒指大反攻沽空资金仍未退却-消息面催化手游股再度活跃｜港股风向标](https://www.cls.cn/detail/1578326)
+- [【36kr】以色列据称向哈马斯提议停火两个月-以换取所有人质获释](https://www.cls.cn/detail/1578171)
+- [【36kr】公募管理规模最新排名亮相，谁在逆势起规模？](https://www.cls.cn/detail/1578276)
+- [【36kr】【VIP机会日报】光通信板块持续活跃-专家会议+资讯解读-焦点公司3日收获2板](https://www.cls.cn/detail/1578181)
+- [【36kr】沙特SABIC完成福建石化项目最终决策-项目总投资64亿美元](https://www.cls.cn/detail/1577999)
+- [【36kr】【焦点复盘】AI、大金融双双发力，创业板指缩量涨超1%，上海本地股异军突起](https://www.cls.cn/detail/1578156)
+- [【36kr】最高法：促进全面加强金融监管，明确行为规则、维护市场秩序](https://www.cls.cn/detail/1578071)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
