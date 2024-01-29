@@ -1,12 +1,12 @@
 ##
 
-:alarm_clock: 更新时间: 2024-01-29 08:36:26，:rocket: 更新条数: +20， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-01-29 10:35:28，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [36kr](#36kr)![](/assets/dot.png)   
+- [36kr](#36kr)  
 - [QuestMobile](#questmobile)  
-- [艾瑞](#艾瑞)  
+- [艾瑞](#艾瑞)![](/assets/dot.png)   
 
 ## 文章链接
 
@@ -25,17 +25,17 @@
 - [2024-01-29-美伊关系紧张升级！3名美国士兵死于无人机袭击，拜登誓言报复](https://www.cls.cn/detail/1582792)  
 - [2024-01-29-中信证券：融券改革持续推进-有效强化市场公平性](https://www.cls.cn/detail/1582818)  
 - [2024-01-29-1月29日投资避雷针：五连板人气股23年净利预亏2.2-3亿元](https://www.cls.cn/detail/1582799)  
-- [2024-01-29-标普：若战火蔓延至加沙以外地区-或下调以色列评级](https://www.cls.cn/detail/1582949) ![](/assets/new.png)  
-- [2024-01-29-实探“新年第一妖股”深中华A，员工称不知为何大涨，“神秘人”提前布局](https://www.cls.cn/detail/1582988) ![](/assets/new.png)  
-- [2024-01-29-拜登VS特朗普几近定局-大选结果对美股各板块影响有何不同？](https://www.cls.cn/detail/1582950) ![](/assets/new.png)  
-- [2024-01-29-危！特朗普财富遇严重考验-若败诉赔款可能高达4.5亿美元](https://www.cls.cn/detail/1582993) ![](/assets/new.png)  
-- [2024-01-29-为乌克兰加入欧盟作努力？泽连斯基首次公布个人收入-力求根除贪腐](https://www.cls.cn/detail/1583011) ![](/assets/new.png)  
-- [2024-01-29-备受瞩目的美股IPO将诞生！“美国贴吧”Reddit估值逾50亿美元](https://www.cls.cn/detail/1583013) ![](/assets/new.png)  
-- [2024-01-29-恒大系3股下挫后盘中停牌背后-中国恒大被香港法院颁布清盘令](https://www.cls.cn/detail/1583033) ![](/assets/new.png)  
-- [2024-01-29-次新行情大幅发酵！13股融券控盘比超1%，融券余额近年回落，这些方向仍高占比](https://www.cls.cn/detail/1583051) ![](/assets/new.png)  
-- [2024-01-29-【财联社午报】市场再现二八分化，中字头个股持续爆发，光伏、AI集体重挫](https://www.cls.cn/detail/1583063) ![](/assets/new.png)  
-- [2024-01-29-装载俄油的船都被打！业内担忧：红海危机真可能要撼动油市了？](https://www.cls.cn/detail/1583067) ![](/assets/new.png)  
-- [2024-01-29-资管周报：信达、东方、长城三家AMC将并入中投公司；“跨境理财通2.0”来袭](https://www.cls.cn/detail/1583089) ![](/assets/new.png)  
+- [2024-01-29-标普：若战火蔓延至加沙以外地区-或下调以色列评级](https://www.cls.cn/detail/1582949)  
+- [2024-01-29-实探“新年第一妖股”深中华A，员工称不知为何大涨，“神秘人”提前布局](https://www.cls.cn/detail/1582988)  
+- [2024-01-29-拜登VS特朗普几近定局-大选结果对美股各板块影响有何不同？](https://www.cls.cn/detail/1582950)  
+- [2024-01-29-危！特朗普财富遇严重考验-若败诉赔款可能高达4.5亿美元](https://www.cls.cn/detail/1582993)  
+- [2024-01-29-为乌克兰加入欧盟作努力？泽连斯基首次公布个人收入-力求根除贪腐](https://www.cls.cn/detail/1583011)  
+- [2024-01-29-备受瞩目的美股IPO将诞生！“美国贴吧”Reddit估值逾50亿美元](https://www.cls.cn/detail/1583013)  
+- [2024-01-29-恒大系3股下挫后盘中停牌背后-中国恒大被香港法院颁布清盘令](https://www.cls.cn/detail/1583033)  
+- [2024-01-29-次新行情大幅发酵！13股融券控盘比超1%，融券余额近年回落，这些方向仍高占比](https://www.cls.cn/detail/1583051)  
+- [2024-01-29-【财联社午报】市场再现二八分化，中字头个股持续爆发，光伏、AI集体重挫](https://www.cls.cn/detail/1583063)  
+- [2024-01-29-装载俄油的船都被打！业内担忧：红海危机真可能要撼动油市了？](https://www.cls.cn/detail/1583067)  
+- [2024-01-29-资管周报：信达、东方、长城三家AMC将并入中投公司；“跨境理财通2.0”来袭](https://www.cls.cn/detail/1583089)  
 - [......【查看更多】......](/details/36kr.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -78,26 +78,26 @@
 </summary>
 
 
-- [2024-01-26-2023年中国低/零代码行业研究报告](https://report.iresearch.cn/report/202401/4301.shtml)  
+- [2024-01-29-2024年中国医疗健康产业十大趋势](https://report.iresearch.cn/report/202401/4303.shtml) ![](/assets/new.png)  
 - [2024-01-26-2023年中国电商市场研究报告](https://report.iresearch.cn/report/202401/4302.shtml)  
+- [2024-01-26-2023年中国低/零代码行业研究报告](https://report.iresearch.cn/report/202401/4301.shtml)  
 - [2024-01-25-2023年中国网络广告市场研究——垂直行业广告主投放调查](https://report.iresearch.cn/report/202401/4300.shtml)  
 - [2024-01-19-2024年中国交易数字化智能平台趋势报告](https://report.iresearch.cn/report/202401/4298.shtml)  
 - [2024-01-17-2023年中国商旅管理行业研究报告](https://report.iresearch.cn/report/202401/4297.shtml)  
 - [2024-01-16-2023年中国儿童DHA市场白皮书](https://report.iresearch.cn/report/202401/4296.shtml)  
-- [2024-01-12-2023年中国中小微商户数字化升级服务行业研究报告](https://report.iresearch.cn/report/202401/4295.shtml)  
 - [2024-01-12-2023年AIGC场景应用展望研究报告](https://report.iresearch.cn/report/202401/4294.shtml)  
-- [2024-01-11-2024年中国数字世界平台创新趋势发展研究报告](https://report.iresearch.cn/report/202401/4293.shtml)  
+- [2024-01-12-2023年中国中小微商户数字化升级服务行业研究报告](https://report.iresearch.cn/report/202401/4295.shtml)  
 - [2024-01-11-2023年中国商贸零售企业ESG观察报告](https://report.iresearch.cn/report/202401/4292.shtml)  
+- [2024-01-11-2024年中国数字世界平台创新趋势发展研究报告](https://report.iresearch.cn/report/202401/4293.shtml)  
 - [2024-01-10-绿色数字经济-2023年企业级低代码平台构建白皮书](https://report.iresearch.cn/report/202401/4291.shtml)  
-- [2024-01-09-2023年中国洗碗机市场洞察报告](https://report.iresearch.cn/report/202401/4290.shtml)  
-- [2024-01-09-云服务行业动态及热点研究月报-2023年12月](https://report.iresearch.cn/report/202401/4288.shtml)  
 - [2024-01-09-2023年中国演出票务行业研究报告](https://report.iresearch.cn/report/202401/4289.shtml)  
-- [2024-01-04-润物有声V-2023年中国互联网科技产业发展趋势报告](https://report.iresearch.cn/report/202401/4287.shtml)  
-- [2024-01-04-润物有声V——2023年中国互联网科技产业发展趋势报告](https://report.iresearch.cn/report/202401/4285.shtml)  
+- [2024-01-09-云服务行业动态及热点研究月报-2023年12月](https://report.iresearch.cn/report/202401/4288.shtml)  
+- [2024-01-09-2023年中国洗碗机市场洞察报告](https://report.iresearch.cn/report/202401/4290.shtml)  
 - [2024-01-04-2023年在线旅游平台用户洞察研究报告](https://report.iresearch.cn/report/202401/4286.shtml)  
+- [2024-01-04-润物有声V——2023年中国互联网科技产业发展趋势报告](https://report.iresearch.cn/report/202401/4285.shtml)  
+- [2024-01-04-润物有声V-2023年中国互联网科技产业发展趋势报告](https://report.iresearch.cn/report/202401/4287.shtml)  
 - [2023-12-29-2023年中国女性私处护理白皮书](https://report.iresearch.cn/report/202312/4284.shtml)  
 - [2023-12-28-2023年汽车行业网络营销监测报告](https://report.iresearch.cn/report/202312/4283.shtml)  
-- [2023-12-27-2023年中国人力资源数字化研究报告](https://report.iresearch.cn/report/202312/4282.shtml)  
 - [......【查看更多】......](/details/艾瑞.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
