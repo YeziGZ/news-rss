@@ -1,12 +1,12 @@
 ##
 
-:alarm_clock: 更新时间: 2024-02-01 02:37:39，:rocket: 更新条数: +15， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-02-01 04:35:28，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [36kr](#36kr)![](/assets/dot.png)   
+- [36kr](#36kr)  
 - [QuestMobile](#questmobile)  
-- [艾瑞](#艾瑞)  
+- [艾瑞](#艾瑞)![](/assets/dot.png)   
 
 ## 文章链接
 
@@ -16,14 +16,14 @@
 </summary>
 
 
-- [2024-02-01-苏州、苏农等7家上市银行1月获33次调研-机构：信贷开门红进展良好-细分领域风险仍需关注](https://www.cls.cn/detail/1587097) ![](/assets/new.png)  
-- [2024-02-01-招商证券：美联储年内降息预期或将一降再降](https://www.cls.cn/detail/1587086) ![](/assets/new.png)  
-- [2024-02-01-2月1日投资避雷针：温氏股份、金科股份等三家公司2023年亏损或超40亿](https://www.cls.cn/detail/1587076) ![](/assets/new.png)  
-- [2024-02-01-世界黄金协会：2023年国内金饰消费金额创历史新高](https://www.cls.cn/detail/1587098) ![](/assets/new.png)  
-- [2024-02-01-美国银行业再度传出雷声-派拉蒙环球收购战打响-|-环球市场](https://www.cls.cn/detail/1587100) ![](/assets/new.png)  
-- [2024-02-01-鲍威尔带走了“金发姑娘”？“新债王”：美国经济前景更加严峻](https://www.cls.cn/detail/1587087) ![](/assets/new.png)  
-- [2024-02-01-券商晨会精华：多地政策频出，商业航天与卫星互联网产业进程加速](https://www.cls.cn/detail/1587110) ![](/assets/new.png)  
-- [2024-02-01-欧洲农民集体出动！周四欧盟领导人峰会惨成“拖拉机大会”](https://www.cls.cn/detail/1587172) ![](/assets/new.png)  
+- [2024-02-01-苏州、苏农等7家上市银行1月获33次调研-机构：信贷开门红进展良好-细分领域风险仍需关注](https://www.cls.cn/detail/1587097)  
+- [2024-02-01-招商证券：美联储年内降息预期或将一降再降](https://www.cls.cn/detail/1587086)  
+- [2024-02-01-2月1日投资避雷针：温氏股份、金科股份等三家公司2023年亏损或超40亿](https://www.cls.cn/detail/1587076)  
+- [2024-02-01-世界黄金协会：2023年国内金饰消费金额创历史新高](https://www.cls.cn/detail/1587098)  
+- [2024-02-01-美国银行业再度传出雷声-派拉蒙环球收购战打响-|-环球市场](https://www.cls.cn/detail/1587100)  
+- [2024-02-01-鲍威尔带走了“金发姑娘”？“新债王”：美国经济前景更加严峻](https://www.cls.cn/detail/1587087)  
+- [2024-02-01-券商晨会精华：多地政策频出，商业航天与卫星互联网产业进程加速](https://www.cls.cn/detail/1587110)  
+- [2024-02-01-欧洲农民集体出动！周四欧盟领导人峰会惨成“拖拉机大会”](https://www.cls.cn/detail/1587172)  
 - [2024-01-31-接盘去年“暴雷银行”的美国区域银行-财报暴雷后骤跌40%](https://www.cls.cn/detail/1586968)  
 - [2024-01-31-美联储如期按兵不动-声明强调降息前要有“通胀回归目标”的底气](https://www.cls.cn/detail/1586959)  
 - [2024-01-31-航运巨头警告：红海危机短期内不会结束-不得不继续避开红海航线](https://www.cls.cn/detail/1586932)  
@@ -78,26 +78,26 @@
 </summary>
 
 
-- [2024-01-31-2023年城市基础及公共服务类APP流量监测报告](https://report.iresearch.cn/report/202401/4305.shtml)  
+- [2024-02-01-润物有声V-2023年中国互联网科技产业发展趋势报告](https://report.iresearch.cn/report/202402/4307.shtml) ![](/assets/new.png)  
 - [2024-01-31-2024年中国车企数字化转型趋势系列报告之供应链数字化篇](https://report.iresearch.cn/report/202401/4306.shtml)  
+- [2024-01-31-2023年城市基础及公共服务类APP流量监测报告](https://report.iresearch.cn/report/202401/4305.shtml)  
 - [2024-01-30-2023年中国隐私计算行业研究报告](https://report.iresearch.cn/report/202401/4304.shtml)  
 - [2024-01-29-2024年中国医疗健康产业十大趋势](https://report.iresearch.cn/report/202401/4303.shtml)  
-- [2024-01-26-2023年中国低/零代码行业研究报告](https://report.iresearch.cn/report/202401/4301.shtml)  
 - [2024-01-26-2023年中国电商市场研究报告](https://report.iresearch.cn/report/202401/4302.shtml)  
+- [2024-01-26-2023年中国低/零代码行业研究报告](https://report.iresearch.cn/report/202401/4301.shtml)  
 - [2024-01-25-2023年中国网络广告市场研究——垂直行业广告主投放调查](https://report.iresearch.cn/report/202401/4300.shtml)  
 - [2024-01-19-2024年中国交易数字化智能平台趋势报告](https://report.iresearch.cn/report/202401/4298.shtml)  
 - [2024-01-17-2023年中国商旅管理行业研究报告](https://report.iresearch.cn/report/202401/4297.shtml)  
 - [2024-01-16-2023年中国儿童DHA市场白皮书](https://report.iresearch.cn/report/202401/4296.shtml)  
-- [2024-01-12-2023年中国中小微商户数字化升级服务行业研究报告](https://report.iresearch.cn/report/202401/4295.shtml)  
 - [2024-01-12-2023年AIGC场景应用展望研究报告](https://report.iresearch.cn/report/202401/4294.shtml)  
-- [2024-01-11-2024年中国数字世界平台创新趋势发展研究报告](https://report.iresearch.cn/report/202401/4293.shtml)  
+- [2024-01-12-2023年中国中小微商户数字化升级服务行业研究报告](https://report.iresearch.cn/report/202401/4295.shtml)  
 - [2024-01-11-2023年中国商贸零售企业ESG观察报告](https://report.iresearch.cn/report/202401/4292.shtml)  
+- [2024-01-11-2024年中国数字世界平台创新趋势发展研究报告](https://report.iresearch.cn/report/202401/4293.shtml)  
 - [2024-01-10-绿色数字经济-2023年企业级低代码平台构建白皮书](https://report.iresearch.cn/report/202401/4291.shtml)  
-- [2024-01-09-2023年中国洗碗机市场洞察报告](https://report.iresearch.cn/report/202401/4290.shtml)  
-- [2024-01-09-云服务行业动态及热点研究月报-2023年12月](https://report.iresearch.cn/report/202401/4288.shtml)  
 - [2024-01-09-2023年中国演出票务行业研究报告](https://report.iresearch.cn/report/202401/4289.shtml)  
-- [2024-01-04-润物有声V-2023年中国互联网科技产业发展趋势报告](https://report.iresearch.cn/report/202401/4287.shtml)  
-- [2024-01-04-润物有声V——2023年中国互联网科技产业发展趋势报告](https://report.iresearch.cn/report/202401/4285.shtml)  
+- [2024-01-09-云服务行业动态及热点研究月报-2023年12月](https://report.iresearch.cn/report/202401/4288.shtml)  
+- [2024-01-09-2023年中国洗碗机市场洞察报告](https://report.iresearch.cn/report/202401/4290.shtml)  
+- [2024-01-04-2023年在线旅游平台用户洞察研究报告](https://report.iresearch.cn/report/202401/4286.shtml)  
 - [......【查看更多】......](/details/艾瑞.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
