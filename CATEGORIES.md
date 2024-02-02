@@ -1,12 +1,12 @@
 ##
 
-:alarm_clock: 更新时间: 2024-02-02 05:35:10，:rocket: 更新条数: +12， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-02-02 06:35:35，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [36kr](#36kr)![](/assets/dot.png)   
 - [QuestMobile](#questmobile)  
-- [艾瑞](#艾瑞)  
+- [艾瑞](#艾瑞)![](/assets/dot.png)   
 
 ## 文章链接
 
@@ -16,26 +16,26 @@
 </summary>
 
 
-- [2024-02-02-超300家上市公司同日发布回购及增持公告：宁德时代已完成回购17亿元](https://www.cls.cn/detail/1588256)  
-- [2024-02-02-但斌一天狂推211条微博，回归大众视线，从IPO到融券、被起诉等讲了个够](https://www.cls.cn/detail/1588260)  
-- [2024-02-02-中信建投：2024年政策展望](https://www.cls.cn/detail/1588222)  
+- [2024-02-02-不要了？这家村镇银行已被监管核准的股权转让告吹，过去三年类似案例仅有2起](https://www.cls.cn/detail/1588480)  
+- [2024-02-02-【财联社午报】创业板跌近2%续创阶段新低，地产、旅游板块逆势活跃，光伏、大金融再陷整理](https://www.cls.cn/detail/1588477)  
+- [2024-02-02-近4个月再现破发！N海昇首日一度跌11%，“打新躺赢”时代结束，基本面仍是关键点](https://www.cls.cn/detail/1588470)  
+- [2024-02-02-“董秘和股民一起哭”的美联新材市值蒸发近百亿，却见华商、建信基金旗下产品坚定持有](https://www.cls.cn/detail/1588421)  
+- [2024-02-02-上交所内部文件重申：保荐机构对再次申报IPO要针对性核查三大事项](https://www.cls.cn/detail/1588448)  
+- [2024-02-02-为什么？李泽楷拟售一家管理资产逾万亿港元的资管公司股权](https://www.cls.cn/detail/1588416)  
+- [2024-02-02-Meta史上首次派息！财报迎接“开门红”-扎克伯格分得7亿美元](https://www.cls.cn/detail/1588394)  
+- [2024-02-02-多重利好消息提振游戏股-腾讯控股大涨近5%](https://www.cls.cn/detail/1588378)  
+- [2024-02-02-新春大礼包！32款进口游戏获批版号-“大厂IP力作”成看点](https://www.cls.cn/detail/1588382)  
+- [2024-02-02-降不降息鲍威尔说了不算？顶级分析师指出意外变量：特朗普](https://www.cls.cn/detail/1588367)  
+- [2024-02-02-市场逐步显现转暖信号，中字头与AI、光伏之间或将呈现跷跷板行情](https://www.cls.cn/detail/1588287)  
+- [2024-02-02-港股2月2日早报：恒大地产到期未偿债务已近3000亿-九龙建业拟约14亿港元出售上海一项目股权](https://www.cls.cn/detail/1588224)  
 - [2024-02-02-2月2日投资避雷针：3天2板脑机接口概念股澄清-相关产品尚未产生业务收入](https://www.cls.cn/detail/1588219)  
-- [2024-02-02-港股2月2日早报：恒大地产到期未偿债务已近3000亿-九龙建业拟约14亿港元出售上海一项目股权](https://www.cls.cn/detail/1588224) ![](/assets/new.png)  
-- [2024-02-02-市场逐步显现转暖信号，中字头与AI、光伏之间或将呈现跷跷板行情](https://www.cls.cn/detail/1588287) ![](/assets/new.png)  
-- [2024-02-02-降不降息鲍威尔说了不算？顶级分析师指出意外变量：特朗普](https://www.cls.cn/detail/1588367) ![](/assets/new.png)  
-- [2024-02-02-新春大礼包！32款进口游戏获批版号-“大厂IP力作”成看点](https://www.cls.cn/detail/1588382) ![](/assets/new.png)  
-- [2024-02-02-多重利好消息提振游戏股-腾讯控股大涨近5%](https://www.cls.cn/detail/1588378) ![](/assets/new.png)  
-- [2024-02-02-Meta史上首次派息！财报迎接“开门红”-扎克伯格分得7亿美元](https://www.cls.cn/detail/1588394) ![](/assets/new.png)  
-- [2024-02-02-为什么？李泽楷拟售一家管理资产逾万亿港元的资管公司股权](https://www.cls.cn/detail/1588416) ![](/assets/new.png)  
-- [2024-02-02-上交所内部文件重申：保荐机构对再次申报IPO要针对性核查三大事项](https://www.cls.cn/detail/1588448) ![](/assets/new.png)  
-- [2024-02-02-“董秘和股民一起哭”的美联新材市值蒸发近百亿，却见华商、建信基金旗下产品坚定持有](https://www.cls.cn/detail/1588421) ![](/assets/new.png)  
-- [2024-02-02-近4个月再现破发！N海昇首日一度跌11%，“打新躺赢”时代结束，基本面仍是关键点](https://www.cls.cn/detail/1588470) ![](/assets/new.png)  
-- [2024-02-02-【财联社午报】创业板跌近2%续创阶段新低，地产、旅游板块逆势活跃，光伏、大金融再陷整理](https://www.cls.cn/detail/1588477) ![](/assets/new.png)  
-- [2024-02-02-不要了？这家村镇银行已被监管核准的股权转让告吹，过去三年类似案例仅有2起](https://www.cls.cn/detail/1588480) ![](/assets/new.png)  
-- [2024-02-01-鲍威尔亮相周末黄金档节目-Meta追加500亿美元回购-|-环球市场](https://www.cls.cn/detail/1588217)  
-- [2024-02-01-春运民航旅客运输量或创历史新高-民航业盈利中枢上升可期](https://www.cls.cn/detail/1588201)  
-- [2024-02-01-华为下月即将重大发布-5G-A商用化元年开启](https://www.cls.cn/detail/1588204)  
-- [2024-02-01-多地将辅助生殖纳入医保-市场空间有望进一步打开](https://www.cls.cn/detail/1588207)  
+- [2024-02-02-中信建投：2024年政策展望](https://www.cls.cn/detail/1588222)  
+- [2024-02-02-但斌一天狂推211条微博，回归大众视线，从IPO到融券、被起诉等讲了个够](https://www.cls.cn/detail/1588260)  
+- [2024-02-02-超300家上市公司同日发布回购及增持公告：宁德时代已完成回购17亿元](https://www.cls.cn/detail/1588256)  
+- [2024-02-02-财联社汽车早报【2月2日】](https://www.cls.cn/detail/1588259) ![](/assets/new.png)  
+- [2024-02-02-茅台原董事长高卫东一审被判无期：受贿1.1亿余元-其中4656万余元未实际取得](https://www.cls.cn/detail/1588494) ![](/assets/new.png)  
+- [2024-02-02-抛出10亿元回购“杯水车薪”？药明康德再跌停-近一周市值跌去近700亿](https://www.cls.cn/detail/1588550) ![](/assets/new.png)  
+- [2024-02-01-【早报】易纲：要千方百计增加全社会的资本金投资；美将一些中国芯片公司列入“中国军方企业名单”，外交部回应](https://www.cls.cn/detail/1588195)  
 - [......【查看更多】......](/details/36kr.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -78,26 +78,26 @@
 </summary>
 
 
+- [2024-02-02-2024年中国游戏社交创作者生态创新研究报告](https://report.iresearch.cn/report/202402/4308.shtml) ![](/assets/new.png)  
 - [2024-02-01-润物有声V-2023年中国互联网科技产业发展趋势报告](https://report.iresearch.cn/report/202402/4307.shtml)  
-- [2024-01-31-2024年中国车企数字化转型趋势系列报告之供应链数字化篇](https://report.iresearch.cn/report/202401/4306.shtml)  
 - [2024-01-31-2023年城市基础及公共服务类APP流量监测报告](https://report.iresearch.cn/report/202401/4305.shtml)  
+- [2024-01-31-2024年中国车企数字化转型趋势系列报告之供应链数字化篇](https://report.iresearch.cn/report/202401/4306.shtml)  
 - [2024-01-30-2023年中国隐私计算行业研究报告](https://report.iresearch.cn/report/202401/4304.shtml)  
 - [2024-01-29-2024年中国医疗健康产业十大趋势](https://report.iresearch.cn/report/202401/4303.shtml)  
-- [2024-01-26-2023年中国电商市场研究报告](https://report.iresearch.cn/report/202401/4302.shtml)  
 - [2024-01-26-2023年中国低/零代码行业研究报告](https://report.iresearch.cn/report/202401/4301.shtml)  
+- [2024-01-26-2023年中国电商市场研究报告](https://report.iresearch.cn/report/202401/4302.shtml)  
 - [2024-01-25-2023年中国网络广告市场研究——垂直行业广告主投放调查](https://report.iresearch.cn/report/202401/4300.shtml)  
 - [2024-01-19-2024年中国交易数字化智能平台趋势报告](https://report.iresearch.cn/report/202401/4298.shtml)  
 - [2024-01-17-2023年中国商旅管理行业研究报告](https://report.iresearch.cn/report/202401/4297.shtml)  
 - [2024-01-16-2023年中国儿童DHA市场白皮书](https://report.iresearch.cn/report/202401/4296.shtml)  
-- [2024-01-12-2023年AIGC场景应用展望研究报告](https://report.iresearch.cn/report/202401/4294.shtml)  
 - [2024-01-12-2023年中国中小微商户数字化升级服务行业研究报告](https://report.iresearch.cn/report/202401/4295.shtml)  
-- [2024-01-11-2023年中国商贸零售企业ESG观察报告](https://report.iresearch.cn/report/202401/4292.shtml)  
+- [2024-01-12-2023年AIGC场景应用展望研究报告](https://report.iresearch.cn/report/202401/4294.shtml)  
 - [2024-01-11-2024年中国数字世界平台创新趋势发展研究报告](https://report.iresearch.cn/report/202401/4293.shtml)  
+- [2024-01-11-2023年中国商贸零售企业ESG观察报告](https://report.iresearch.cn/report/202401/4292.shtml)  
 - [2024-01-10-绿色数字经济-2023年企业级低代码平台构建白皮书](https://report.iresearch.cn/report/202401/4291.shtml)  
-- [2024-01-09-2023年中国演出票务行业研究报告](https://report.iresearch.cn/report/202401/4289.shtml)  
-- [2024-01-09-云服务行业动态及热点研究月报-2023年12月](https://report.iresearch.cn/report/202401/4288.shtml)  
 - [2024-01-09-2023年中国洗碗机市场洞察报告](https://report.iresearch.cn/report/202401/4290.shtml)  
-- [2024-01-04-2023年在线旅游平台用户洞察研究报告](https://report.iresearch.cn/report/202401/4286.shtml)  
+- [2024-01-09-云服务行业动态及热点研究月报-2023年12月](https://report.iresearch.cn/report/202401/4288.shtml)  
+- [2024-01-09-2023年中国演出票务行业研究报告](https://report.iresearch.cn/report/202401/4289.shtml)  
 - [......【查看更多】......](/details/艾瑞.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
