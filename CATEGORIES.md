@@ -1,12 +1,12 @@
 ##
 
-:alarm_clock: 更新时间: 2024-02-05 08:37:42，:rocket: 更新条数: +8， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-02-05 09:35:33，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [36kr](#36kr)![](/assets/dot.png)   
+- [36kr](#36kr)  
 - [QuestMobile](#questmobile)  
-- [艾瑞](#艾瑞)  
+- [艾瑞](#艾瑞)![](/assets/dot.png)   
 
 ## 文章链接
 
@@ -78,26 +78,26 @@
 </summary>
 
 
-- [2024-02-04-2023年绿色出行旅行者趋势报告](https://report.iresearch.cn/report/202402/4311.shtml)  
+- [2024-02-05-云服务行业动态及热点研究月报-2024年1月](https://report.iresearch.cn/report/202402/4313.shtml) ![](/assets/new.png)  
+- [2024-02-05-2024年中国折叠屏手机市场消费洞察报告](https://report.iresearch.cn/report/202402/4314.shtml) ![](/assets/new.png)  
 - [2024-02-04-2024年AIGC+教育行业报告](https://report.iresearch.cn/report/202402/4312.shtml)  
-- [2024-02-02-2023年元宇宙文化消费市场研究白皮书](https://report.iresearch.cn/report/202402/4310.shtml)  
+- [2024-02-04-2023年绿色出行旅行者趋势报告](https://report.iresearch.cn/report/202402/4311.shtml)  
 - [2024-02-02-2024年中国游戏社交创作者生态创新研究报告](https://report.iresearch.cn/report/202402/4308.shtml)  
+- [2024-02-02-2023年元宇宙文化消费市场研究白皮书](https://report.iresearch.cn/report/202402/4310.shtml)  
 - [2024-02-01-润物有声V-2023年中国互联网科技产业发展趋势报告](https://report.iresearch.cn/report/202402/4307.shtml)  
-- [2024-01-31-2023年城市基础及公共服务类APP流量监测报告](https://report.iresearch.cn/report/202401/4305.shtml)  
 - [2024-01-31-2024年中国车企数字化转型趋势系列报告之供应链数字化篇](https://report.iresearch.cn/report/202401/4306.shtml)  
+- [2024-01-31-2023年城市基础及公共服务类APP流量监测报告](https://report.iresearch.cn/report/202401/4305.shtml)  
 - [2024-01-30-2023年中国隐私计算行业研究报告](https://report.iresearch.cn/report/202401/4304.shtml)  
 - [2024-01-29-2024年中国医疗健康产业十大趋势](https://report.iresearch.cn/report/202401/4303.shtml)  
-- [2024-01-26-2023年中国低/零代码行业研究报告](https://report.iresearch.cn/report/202401/4301.shtml)  
 - [2024-01-26-2023年中国电商市场研究报告](https://report.iresearch.cn/report/202401/4302.shtml)  
+- [2024-01-26-2023年中国低/零代码行业研究报告](https://report.iresearch.cn/report/202401/4301.shtml)  
 - [2024-01-25-2023年中国网络广告市场研究——垂直行业广告主投放调查](https://report.iresearch.cn/report/202401/4300.shtml)  
 - [2024-01-19-2024年中国交易数字化智能平台趋势报告](https://report.iresearch.cn/report/202401/4298.shtml)  
 - [2024-01-17-2023年中国商旅管理行业研究报告](https://report.iresearch.cn/report/202401/4297.shtml)  
 - [2024-01-16-2023年中国儿童DHA市场白皮书](https://report.iresearch.cn/report/202401/4296.shtml)  
-- [2024-01-12-2023年中国中小微商户数字化升级服务行业研究报告](https://report.iresearch.cn/report/202401/4295.shtml)  
 - [2024-01-12-2023年AIGC场景应用展望研究报告](https://report.iresearch.cn/report/202401/4294.shtml)  
-- [2024-01-11-2024年中国数字世界平台创新趋势发展研究报告](https://report.iresearch.cn/report/202401/4293.shtml)  
+- [2024-01-12-2023年中国中小微商户数字化升级服务行业研究报告](https://report.iresearch.cn/report/202401/4295.shtml)  
 - [2024-01-11-2023年中国商贸零售企业ESG观察报告](https://report.iresearch.cn/report/202401/4292.shtml)  
-- [2024-01-10-绿色数字经济-2023年企业级低代码平台构建白皮书](https://report.iresearch.cn/report/202401/4291.shtml)  
 - [......【查看更多】......](/details/艾瑞.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
