@@ -1,12 +1,12 @@
 ##
 
-:alarm_clock: 更新时间: 2024-02-06 02:35:56，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-02-06 04:35:15，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [36kr](#36kr)![](/assets/dot.png)   
 - [QuestMobile](#questmobile)  
-- [艾瑞](#艾瑞)  
+- [艾瑞](#艾瑞)![](/assets/dot.png)   
 
 ## 文章链接
 
@@ -16,26 +16,26 @@
 </summary>
 
 
-- [2024-02-06-美债抛售堪比加息最疯狂之时：10年期收益率创1年半来最大两日涨幅](https://www.cls.cn/detail/1591259)  
-- [2024-02-06-护盘资金打明牌，250亿资金砸向微盘ETF，市场期待今日“持续救援”](https://www.cls.cn/detail/1591237)  
+- [2024-02-06-财联社C50风向指数调查：1月信贷预计实现开门红-社融新增规模略低于去年同期-一季度内仍有降息窗口](https://www.cls.cn/detail/1591375)  
+- [2024-02-06-证监会：将继续协调引导公募基金、私募基金等各类机构投资者更大力度入市](https://www.cls.cn/detail/1591356)  
+- [2024-02-06-中央汇金：已于近日扩大ETF增持范围-并将持续加大增持力度、扩大增持规模](https://www.cls.cn/detail/1591331)  
+- [2024-02-06-券商晨会精华：2024年理财市场有望迎来规模的进一步修复](https://www.cls.cn/detail/1590159)  
 - [2024-02-06-2月6日投资避雷针：300亿防水龙头实控人于2月5日减持690万股](https://www.cls.cn/detail/1591229)  
-- [2024-02-06-券商晨会精华：2024年理财市场有望迎来规模的进一步修复](https://www.cls.cn/detail/1590159) ![](/assets/new.png)  
-- [2024-02-06-中央汇金：已于近日扩大ETF增持范围-并将持续加大增持力度、扩大增持规模](https://www.cls.cn/detail/1591331) ![](/assets/new.png)  
-- [2024-02-06-证监会：将继续协调引导公募基金、私募基金等各类机构投资者更大力度入市](https://www.cls.cn/detail/1591356) ![](/assets/new.png)  
-- [2024-02-06-财联社C50风向指数调查：1月信贷预计实现开门红-社融新增规模略低于去年同期-一季度内仍有降息窗口](https://www.cls.cn/detail/1591375) ![](/assets/new.png)  
-- [2024-02-05-中东冲突风险外溢！麦当劳和星巴克业务受到“重大冲击”](https://www.cls.cn/detail/1591140)  
-- [2024-02-05-克宫警告西方：任何利用被冻结俄资产的企图都是非法的](https://www.cls.cn/detail/1591109)  
-- [2024-02-05-美股收盘：三月降息希望破灭-三大指数集体收跌-英伟达续创新高](https://www.cls.cn/detail/1591182)  
-- [2024-02-05-又一家！SAP将特斯拉移出汽车供应商名单-因无法忍受频繁降价](https://www.cls.cn/detail/1591134)  
-- [2024-02-05-几分钱净值私募陆续出现，多家百亿私募旗下产品触及预警线，平仓压力正在显现](https://www.cls.cn/detail/1591036)  
-- [2024-02-05-已有券商调整平仓线由130%至120%，业务负责人称经历2015年以来压力最大的一天，证监会晚间表态](https://www.cls.cn/detail/1591035)  
-- [2024-02-05-证监会：积极推动地方政府把推动上市公司高质量发展的工作目标任务纳入地方政府绩效考核](https://www.cls.cn/detail/1591029)  
-- [2024-02-05-诺和诺德将收购三座灌装工厂-以提高“减肥神药”Wegovy产能](https://www.cls.cn/detail/1591027)  
-- [2024-02-05-熬不住亏损，香港首富之子李泽楷欲出售柏瑞投资，会否影响华泰柏瑞基金？](https://www.cls.cn/detail/1590940)  
-- [2024-02-05-【明日主题前瞻】“新质生产力”成为热词-该领域是发展新质生产力的主要阵地](https://www.cls.cn/detail/1590506)  
-- [2024-02-05-招行原行长田惠宇一审被判死缓，涉案逾5亿内幕消息非法获利2.9亿，金融领域仍有数“虎”未宣判](https://www.cls.cn/detail/1590850)  
-- [2024-02-05-年终奖去哪|大额存单获持续热推-农商行3年期可至3.45%-有大行大额存款利率节前现上浮](https://www.cls.cn/detail/1590713)  
-- [2024-02-05-资本充足率罕见为负，今年首家银行公告不赎回永续债，河南新郑农商行“压力山大”](https://www.cls.cn/detail/1590672)  
+- [2024-02-06-护盘资金打明牌，250亿资金砸向微盘ETF，市场期待今日“持续救援”](https://www.cls.cn/detail/1591237)  
+- [2024-02-06-美债抛售堪比加息最疯狂之时：10年期收益率创1年半来最大两日涨幅](https://www.cls.cn/detail/1591259)  
+- [2024-02-06-财联社汽车早报【2月6日】](https://www.cls.cn/detail/1591258) ![](/assets/new.png)  
+- [2024-02-06-泥沙俱下行情下各大宽基指数ETF逆势活跃，权重股或有望率先迎来修复](https://www.cls.cn/detail/1591277) ![](/assets/new.png)  
+- [2024-02-06-今年全球市场最易受哪些影响？小摩调查：通胀和美国大选！](https://www.cls.cn/detail/1591401) ![](/assets/new.png)  
+- [2024-02-05-经合组织上调全球增速但分化严重-警告红海局势或大幅推升通胀](https://www.cls.cn/detail/1591119)  
+- [2024-02-05-减肥药双雄继续狂飙-以色列威胁开辟新战线-|-环球市场](https://www.cls.cn/detail/1591197)  
+- [2024-02-05-美联储卡什卡利：经济非常强劲-没必要急着降息](https://www.cls.cn/detail/1591171)  
+- [2024-02-05-英国王室声明：国王查尔斯三世确诊癌症](https://www.cls.cn/detail/1591158)  
+- [2024-02-05-俄罗斯最大科技公司52亿美元卖身-接盘者为俄私人财团](https://www.cls.cn/detail/1591114)  
+- [2024-02-05-是否存在股票质押风险？20余家上市公司互动平台密集回应，近一个月A股新增质押股数前20个股名单一览](https://www.cls.cn/detail/1591075)  
+- [2024-02-05-A股加码回购增持潮！29家上市公司拟回购或增持金额上限达2亿元，药明康德斥资10亿累计回购2027万股](https://www.cls.cn/detail/1591063)  
+- [2024-02-05-从股权质押到两融，证监会一日两提“平仓线弹性”，严惩操纵市场恶意作空](https://www.cls.cn/detail/1591065)  
+- [2024-02-05-罕见！证监会两天发布10条推文-事关恶意做空、两融、股票质押等问题](https://www.cls.cn/detail/1591045)  
+- [2024-02-05-药明康德回购10亿元A股股份-远洋集团1月合同销售下滑超6成｜港股2月5日公告精选](https://www.cls.cn/detail/1590933)  
 - [......【查看更多】......](/details/36kr.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -78,26 +78,26 @@
 </summary>
 
 
-- [2024-02-05-云服务行业动态及热点研究月报-2024年1月](https://report.iresearch.cn/report/202402/4313.shtml)  
+- [2024-02-06-2023年中国少女发育内衣行业发展白皮书](https://report.iresearch.cn/report/202402/4315.shtml) ![](/assets/new.png)  
 - [2024-02-05-2024年中国折叠屏手机市场消费洞察报告](https://report.iresearch.cn/report/202402/4314.shtml)  
-- [2024-02-04-2024年AIGC+教育行业报告](https://report.iresearch.cn/report/202402/4312.shtml)  
+- [2024-02-05-云服务行业动态及热点研究月报-2024年1月](https://report.iresearch.cn/report/202402/4313.shtml)  
 - [2024-02-04-2023年绿色出行旅行者趋势报告](https://report.iresearch.cn/report/202402/4311.shtml)  
-- [2024-02-02-2024年中国游戏社交创作者生态创新研究报告](https://report.iresearch.cn/report/202402/4308.shtml)  
+- [2024-02-04-2024年AIGC+教育行业报告](https://report.iresearch.cn/report/202402/4312.shtml)  
 - [2024-02-02-2023年元宇宙文化消费市场研究白皮书](https://report.iresearch.cn/report/202402/4310.shtml)  
+- [2024-02-02-2024年中国游戏社交创作者生态创新研究报告](https://report.iresearch.cn/report/202402/4308.shtml)  
 - [2024-02-01-润物有声V-2023年中国互联网科技产业发展趋势报告](https://report.iresearch.cn/report/202402/4307.shtml)  
-- [2024-01-31-2024年中国车企数字化转型趋势系列报告之供应链数字化篇](https://report.iresearch.cn/report/202401/4306.shtml)  
 - [2024-01-31-2023年城市基础及公共服务类APP流量监测报告](https://report.iresearch.cn/report/202401/4305.shtml)  
+- [2024-01-31-2024年中国车企数字化转型趋势系列报告之供应链数字化篇](https://report.iresearch.cn/report/202401/4306.shtml)  
 - [2024-01-30-2023年中国隐私计算行业研究报告](https://report.iresearch.cn/report/202401/4304.shtml)  
 - [2024-01-29-2024年中国医疗健康产业十大趋势](https://report.iresearch.cn/report/202401/4303.shtml)  
-- [2024-01-26-2023年中国电商市场研究报告](https://report.iresearch.cn/report/202401/4302.shtml)  
 - [2024-01-26-2023年中国低/零代码行业研究报告](https://report.iresearch.cn/report/202401/4301.shtml)  
+- [2024-01-26-2023年中国电商市场研究报告](https://report.iresearch.cn/report/202401/4302.shtml)  
 - [2024-01-25-2023年中国网络广告市场研究——垂直行业广告主投放调查](https://report.iresearch.cn/report/202401/4300.shtml)  
 - [2024-01-19-2024年中国交易数字化智能平台趋势报告](https://report.iresearch.cn/report/202401/4298.shtml)  
 - [2024-01-17-2023年中国商旅管理行业研究报告](https://report.iresearch.cn/report/202401/4297.shtml)  
 - [2024-01-16-2023年中国儿童DHA市场白皮书](https://report.iresearch.cn/report/202401/4296.shtml)  
-- [2024-01-12-2023年AIGC场景应用展望研究报告](https://report.iresearch.cn/report/202401/4294.shtml)  
 - [2024-01-12-2023年中国中小微商户数字化升级服务行业研究报告](https://report.iresearch.cn/report/202401/4295.shtml)  
-- [2024-01-11-2023年中国商贸零售企业ESG观察报告](https://report.iresearch.cn/report/202401/4292.shtml)  
+- [2024-01-12-2023年AIGC场景应用展望研究报告](https://report.iresearch.cn/report/202401/4294.shtml)  
 - [......【查看更多】......](/details/艾瑞.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
