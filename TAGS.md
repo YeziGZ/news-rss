@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-02-20 09:35:28。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-02-20 10:35:36。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -23,20 +23,20 @@
 
 
 
-- [【36kr】券商晨会精华：Sora大模型的发布将进一步拉大算力缺口](https://www.cls.cn/detail/1598524)
 - [【36kr】马芳、冯明远四季度首度重仓Sora概念股，能否复制ChatGPT火爆行情？券商建议关注算力产业链](https://www.cls.cn/detail/1598545)
-- [【36kr】文生视频大模型Sora引发市场关注-美图公司和商汤一度涨超4%](https://www.cls.cn/detail/1597521)
+- [【36kr】券商晨会精华：Sora大模型的发布将进一步拉大算力缺口](https://www.cls.cn/detail/1598524)
 - [【36kr】AI大模型应用层面爆发-支付宝正经历第二次技术迭代](https://www.cls.cn/detail/1597865)
-- [【36kr】【早报】OpenAI推出文生视频模型Sora；2024春节档创造新纪录](https://www.cls.cn/detail/1597347)
+- [【36kr】文生视频大模型Sora引发市场关注-美图公司和商汤一度涨超4%](https://www.cls.cn/detail/1597521)
 - [【36kr】AI大模型加速迭代-智能算力市场或将持续供不应求](https://www.cls.cn/detail/1597370)
+- [【36kr】【早报】OpenAI推出文生视频模型Sora；2024春节档创造新纪录](https://www.cls.cn/detail/1597347)
 - [【36kr】谷歌股价一度跌近4%-搜索业务或面临OpenAI挑战](https://www.cls.cn/detail/1596295)
 - [【36kr】“ChatGPT之父”赞扬苹果头显技术-知名爆料人称作为原型机已足够出色](https://www.cls.cn/detail/1595341)
 - [【36kr】传英伟达与OpenAI有新动作-标普再向5000点大关冲锋-|-今夜看点](https://www.cls.cn/detail/1594759)
 - [【36kr】胡润世界500强：苹果蝉联第一，33家中国企业上榜，OpenAI首次入围](https://www.cls.cn/detail/1586782)
 - [【36kr】【明日主题前瞻】马斯克大模型产品迅速迭代升级，Grok1.5有望在下个月发布](https://www.cls.cn/detail/1578345)
 - [【36kr】政策利好提振港股ChatGPT概念-百度集团一度涨超4%](https://www.cls.cn/detail/1574046)
-- [【36kr】金融监管效率如何提升？毕马威最新报告：大模型或成新利器，辅助行为监管和穿透式监管](https://www.cls.cn/detail/1571739)
 - [【36kr】百度澄清文心一言相关报道-股价应声回暖涨超3%](https://www.cls.cn/detail/1571610)
+- [【36kr】金融监管效率如何提升？毕马威最新报告：大模型或成新利器，辅助行为监管和穿透式监管](https://www.cls.cn/detail/1571739)
 - [【36kr】OpenAI创始人奥尔特曼结婚了？神秘的他是谁](https://www.cls.cn/detail/1568582)
 - [【36kr】腾讯云金融云贾飞：大模型对金融机构机遇与挑战并存](https://www.cls.cn/detail/1546268)
 - [【36kr】【明日主题前瞻】里程碑合作，OpenAI将付费使用出版巨头的内容](https://www.cls.cn/detail/1544072)
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】LPR非对称下调是否会压缩银行息差？业内：主要会体现在2025年一季度，未来利率还将下行](https://www.cls.cn/detail/1598981)
-- [【36kr】外交部回应美欧对华电动汽车实施贸易保护举措：不追求“跑得更快”-却试图“绊倒别人”](https://www.cls.cn/detail/1598983)
-- [【36kr】降息如期而至，5年期LPR遇史上最大降幅，公募解读：如何影响股与债？](https://www.cls.cn/detail/1598971)
-- [【36kr】央行超预期“降息”传递出什么信号？10位鲸平台智库专家急速解读](https://www.cls.cn/detail/1598908)
-- [【36kr】印度股市遭遇华尔街质疑-估值过高正促使更多获利了结](https://www.cls.cn/detail/1598870)
-- [【36kr】银行“补血”，同业存单年度发行超25万亿，机构称短久期仍具配置价值](https://www.cls.cn/detail/1598827)
-- [【36kr】空袭深入黎巴嫩国境60公里！以色列与黎真主党的战事呈升级态势](https://www.cls.cn/detail/1598730)
-- [【36kr】田轩：需切实加大对资本市场违法违规行为的监管惩处震慑力度](https://www.cls.cn/detail/1598775)
-- [【36kr】央行主管金融时报：5年期以上LPR下降-有利于进一步促进投资和消费](https://www.cls.cn/detail/1598767)
-- [【36kr】【财联社午报】市场陷入分化整理，医药股集体爆发，Sora概念延续强势](https://www.cls.cn/detail/1598744)
-- [【36kr】美国拟在联合国提出加沙停火草案-白宫态度转变疑似为争大选选票](https://www.cls.cn/detail/1598673)
-- [【36kr】2月LPR报价出炉：1年期LPR维持不变-5年期LPR下调25个基点](https://www.cls.cn/detail/1598562)
-- [【36kr】龙年首个交易日旅游、影视板块“热辣滚烫”，刘彦春、姜永明等已埋伏热门题材股](https://www.cls.cn/detail/1598535)
-- [【36kr】26个欧盟国家警告以色列：不要对拉法发动进攻-否则将是“灾难性”的](https://www.cls.cn/detail/1598511)
-- [【36kr】经济前景向好！高盛上调全球股票评级至“增持”](https://www.cls.cn/detail/1598499)
-- [【36kr】低级失误！康普顿回购金额多写了个“0”，财务总监、副总经理双双辞职](https://www.cls.cn/detail/1598568)
-- [【36kr】财联社债市早参2月20日-|-债市迎“开门红”，市场聚焦今日LPR报价；多家城投下调债券票息](https://www.cls.cn/detail/1598525)
-- [【36kr】财联社汽车早报【2月20日】](https://www.cls.cn/detail/1598536)
-- [【36kr】黑天鹅会飞出吗？华尔街灵魂拷问：如果美联储不降息-将发生什么](https://www.cls.cn/detail/1598560)
-- [【36kr】Sora概念带动AI产业链卷土重来，科技主线行情或有望得以延续](https://www.cls.cn/detail/1598570)
+- [【36kr】42秒卖出13.72亿元深市股票，影响了正常交易秩序，宁波灵均被限制交易](https://www.cls.cn/detail/1599076)
+- [【36kr】广东湛江赤坎发布倡议：广大干部职工带头消费、示范带动-促进房地产市场回暖](https://www.cls.cn/detail/1599049)
+- [【36kr】【每日收评】连续5日超百股涨停！沪指5连阳站上60日线-Sora概念股继续大涨](https://www.cls.cn/detail/1599021)
+- [【36kr】必和必拓H1资产减值致利润大跌-但中国市场需求仍健康](https://www.cls.cn/detail/1598728)
+- [【36kr】减肥药概念股“热辣滚烫”！谁是真热谁是虚火？](https://www.cls.cn/detail/1598863)
+- [【36kr】杨德龙：对排队IPO的企业一定要严格监管-对欺诈发行、财务造假的行为要严厉打击](https://www.cls.cn/detail/1598737)
+- [【36kr】LPR大幅下调-上海多家银行调整首套房贷利率至3.85%-百万房贷每月减150元](https://www.cls.cn/detail/1598782)
+- [【36kr】海通证券点评2月LPR下调：降息周期将继续](https://www.cls.cn/detail/1598715)
+- [【36kr】5年期LPR猛下调25bp，10年国债利率最深下行1.25BP](https://www.cls.cn/detail/1598763)
+- [【36kr】股民建议：请严肃打击连板妖股炒作](https://www.cls.cn/detail/1598759)
+- [【36kr】一位华东某大学生的4点建议](https://www.cls.cn/detail/1598757)
+- [【36kr】房贷利率再降！大部分城市首套房贷利率将进入“3”字头-京沪首套最低将至4%以内](https://www.cls.cn/detail/1598756)
+- [【36kr】今年最大收购案官宣！美国两大消费金融公司合并-有望赶超小摩花旗](https://www.cls.cn/detail/1598721)
+- [【36kr】水皮：如何城门立木？](https://www.cls.cn/detail/1598729)
+- [【36kr】恒生指数调整公布-机构预计近30家公司或被移出港股通](https://www.cls.cn/detail/1598710)
+- [【36kr】沙特主权基金PIF收购当地最大海上支持公司40%股份-助力风电业务发展](https://www.cls.cn/detail/1598664)
+- [【36kr】日本年度薪酬谈判“风向标”来了-丰田工会寻求25年来最高工资涨幅](https://www.cls.cn/detail/1598667)
+- [【36kr】车企价格战春节后继续-小鹏领跌汽车板块](https://www.cls.cn/detail/1598651)
+- [【36kr】下调25BP!-5年期以上LPR大幅调降-房贷利率政策下限将调至3.75%-实体融资成本进一步降低](https://www.cls.cn/detail/1598701)
+- [【36kr】美银预测英伟达财报影响：投资者过于乐观，股价或回调超10%！](https://www.cls.cn/detail/1598679)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
