@@ -1,11 +1,11 @@
 ##
 
-:alarm_clock: 更新时间: 2024-02-27 10:35:32，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-02-27 11:36:16，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [36kr](#36kr)![](/assets/dot.png)   
-- [QuestMobile](#questmobile)  
+- [QuestMobile](#questmobile)![](/assets/dot.png)   
 - [艾瑞](#艾瑞)  
 
 ## 文章链接
@@ -16,26 +16,26 @@
 </summary>
 
 
-- [2024-02-27-瑞银研报刷屏，中央汇金等通过ETF买入超过4100亿，短期内减持可能性不大](https://www.cls.cn/detail/1605015)  
-- [2024-02-27-央行召开做好金融五篇大文章工作座谈会：加大对五大重点领域的资金支持](https://www.cls.cn/detail/1605000)  
-- [2024-02-27-DMA风波骤起！券商“拔网线”真相如何？未来走向何处？六大核心关注看DMA](https://www.cls.cn/detail/1604962)  
-- [2024-02-27-【每日收评】算力概念股卷土重来，超5000只个股上涨，北向资金净买入超百亿](https://www.cls.cn/detail/1604964)  
-- [2024-02-27-全国人民代表大会常务委员会公告〔十四届〕第三号](https://www.cls.cn/detail/1604956)  
-- [2024-02-27-开年来至少230位基金经理卸任，多位受累于业绩大考，一波“年轻派”上岗](https://www.cls.cn/detail/1604929)  
-- [2024-02-27-老娘舅火速重启IPO，新三板挂牌次日即冲刺北交所，距离“中式快餐第一股”还有多远？](https://www.cls.cn/detail/1604914)  
-- [2024-02-27-《元梦之星》上线小程序版本-多端互通更具优势？这些上市公司已布局](https://www.cls.cn/detail/1604807)  
-- [2024-02-27-英伟达称美加大限制芯片出口将损害其竞争力-外交部回应](https://www.cls.cn/detail/1604862)  
-- [2024-02-27-知名私募基金管理人如何看后市？乐观是主基调，多家私募保持满仓进攻状态](https://www.cls.cn/detail/1604841)  
-- [2024-02-27-缓！开年两个月仅1家IPO申报，三地658家排队，49家终止，上市家数不足同期六成](https://www.cls.cn/detail/1604809)  
-- [2024-02-27-多家知名机构退出“百亿私募俱乐部”！中基协1月最新数据：私募总规模20.33万亿元，私募证券基金新增备案规模环比上升10%](https://www.cls.cn/detail/1604810)  
-- [2024-02-27-多方迫切期待的楼市“小阳春”能否如期而至？](https://www.cls.cn/detail/1604806)  
-- [2024-02-27-又一美联储官员“放鹰”：我们没必要“先发制人式”地降息！](https://www.cls.cn/detail/1604580)  
-- [2024-02-27-【财联社午报】三大指数低开高走全线收红，机器人概念延续强势，算力股卷土重来](https://www.cls.cn/detail/1604676)  
-- [2024-02-27-独家|平安银行架构改革尾声：蔡新发“空降”华兴银行，将出任主管零售副行长](https://www.cls.cn/detail/1604661)  
-- [2024-02-27-比特币价格涨超5.6万美元-OSL集团领涨港股数字概念股](https://www.cls.cn/detail/1604601)  
-- [2024-02-27-理想汽车绩后大涨近19%-机构对其未来展望持何态度？](https://www.cls.cn/detail/1604541)  
-- [2024-02-27-人民法院案例库今起对社会开放，与中国裁判文书网互为补充](https://www.cls.cn/detail/1604611)  
-- [2024-02-27-是时候落袋为安了吗？对冲基金以七个月来最快速度“撤离”美科技股](https://www.cls.cn/detail/1604544)  
+- [2024-02-27-一图看懂两会前后A股表现](https://www.cls.cn/detail/1605060)  
+- [2024-02-27-【数据看盘】北向资金加仓多只汽车股-两家游资联手超4亿抢筹中兴通讯](https://www.cls.cn/detail/1605052)  
+- [2024-02-27-不上市就出局？“奶茶大军”涌向港股，茶百道、蜜雪冰城、古茗、沪上阿姨谁会被淘汰？](https://www.cls.cn/detail/1605048)  
+- [2024-02-27-【焦点复盘】沪指低开高走重返3000点，两市再现百股涨停，卫星、汽车产业链双双大涨](https://www.cls.cn/detail/1605030)  
+- [2024-02-27-两会前瞻｜“数据要素×”行动下，公共数据资源市场化路径何在？](https://www.cls.cn/detail/1604998)  
+- [2024-02-27-美财长耶伦：全球经济仍具弹性-2024年八成经济体的通胀将下降](https://www.cls.cn/detail/1604753)  
+- [2024-02-27-今年“一号文件”出台后金融部门如何服务春耕备耕？至少六地监管局公开发声，重点部署有这些](https://www.cls.cn/detail/1604741)  
+- [2024-02-27-国会山“真股神”！佩洛西新建仓股一公布-单日暴涨逾7%](https://www.cls.cn/detail/1604638)  
+- [2024-02-27-国家发改委：雄安新区已进入大规模建设和承接非首都功能并重阶段](https://www.cls.cn/detail/1604703)  
+- [2024-02-27-罕见代发，贵州省区县级平台18亿债券融资“替他人做嫁衣”](https://www.cls.cn/detail/1604657)  
+- [2024-02-27-国际大牌集体缺席、中国品牌联袂出击-日内瓦车展冷暖两相知](https://www.cls.cn/detail/1604646)  
+- [2024-02-27-威胁泄漏特朗普案件资料！刚被端了老家的黑客团队本周重现江湖](https://www.cls.cn/detail/1604558)  
+- [2024-02-27-短线情绪端持续高潮-题材炒作分化或将加剧](https://www.cls.cn/detail/1604487)  
+- [2024-02-27-美债抛压加剧！一天内两场标售需求惨淡-又有投行推迟QT减码时间点](https://www.cls.cn/detail/1604459)  
+- [2024-02-27-券商晨会精华：微盘股主题由跌转涨，预计短期主题热度有望维持](https://www.cls.cn/detail/1604437)  
+- [2024-02-27-中金：部分中小银行股息率已显示出吸引力](https://www.cls.cn/detail/1604415)  
+- [2024-02-27-存款搬家将助推银行理财规模重回30万亿？LPR下行的蝴蝶效应正在传导，业内激辩挑战大还是机遇大](https://www.cls.cn/detail/1604431)  
+- [2024-02-27-2月27日投资避雷针：20CM七连板人气股收关注函-要求说明相关AI算法是否存虚假陈述](https://www.cls.cn/detail/1604420)  
+- [2024-02-27-比特币冲至近两年新高-谷歌警告微软云寻求垄断-|-环球市场](https://www.cls.cn/detail/1604404)  
+- [2024-02-27-港股2月27日早报：百济神州去年亏损缩窄约六成-小米汽车最快或在二季度交付](https://www.cls.cn/detail/1604419)  
 - [......【查看更多】......](/details/36kr.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -47,26 +47,26 @@
 </summary>
 
 
+- [2024-02-27-QuestMobile-2024春节假期洞察报告：春节假期日均活跃用户规模首破9亿，“三大消费模式”出现，即时零售加入战局……](https://www.questmobile.com.cn/research/report/1762374480888434689) ![](/assets/new.png)  
 - [2024-01-31-QuestAuto2023新能源汽车市场年度报告：新能源车销量在总销量中占比突破30%，Model-Y活跃量增长43万辆](https://www.questmobile.com.cn/research/report/1752532551149391874)  
 - [2024-01-30-QuestMobile2023中国移动互联网年度报告：二线以上城市用户占比增10.5%，用户集聚促互联网使用及消费模式三大剧变](https://www.questmobile.com.cn/research/report/1752183696050458625)  
 - [2024-01-24-QuestAuto-2023年11月20万元以上新能源汽车销量及活跃量快报：Model-3销量暴增587.5%](https://www.questmobile.com.cn/research/report/1750049792090804226)  
 - [2024-01-23-QuestMobile-2023年剧综影市场洞察：用户同质化，内容成突围关键，移动端商业化进入丰收期……](https://www.questmobile.com.cn/research/report/1749626298349752322)  
 - [2024-01-17-QuestAuto2023年11月20万元以下新能源汽车销量及活跃量快报：轿车突破35万辆、SUV逼近20万辆，比亚迪多系列开花](https://www.questmobile.com.cn/research/report/1747513728578981890)  
 - [2024-01-16-QuestMobile-2023年冬日经济市场洞察：哈尔滨爆火，羽绒服、取暖器厮杀，私域价值进一步凸显……](https://www.questmobile.com.cn/research/report/1747103332793683970)  
-- [2024-01-10-QuestMobile2023中国移动互联网“黑马”盘点：高增长态势重现，游戏、办公、出行、生活服务成“宝藏”领域](https://www.questmobile.com.cn/research/report/1744547871980621826)  
 - [2024-01-10-QuestAuto-2023年11月新能源SUV销量及活跃量快报：Model-Y销量环比增长89.3%，活跃量破86万辆](https://www.questmobile.com.cn/research/report/1744970089860534274)  
-- [2024-01-08-QuestAuto-2023年5月增程式新能源车销量及活跃量快报：中大型SUV活跃量破30万，理想独大且快速增长](https://www.questmobile.com.cn/research/report/1739910682453839873)  
-- [2024-01-08-QuestAuto-2023年10月新能源汽车市场洞察报告：比亚迪销量逼近25万，长城销量环比增长37%，大变局拉开帷幕](https://www.questmobile.com.cn/research/report/1742842833692364801)  
-- [2024-01-08-QuestAuto-2023年8月新能源汽车市场洞察报告：比亚迪活跃占比26.3%、月销23万辆，优势稳固，特斯拉销量环比翻倍](https://www.questmobile.com.cn/research/report/1742127291411042305)  
-- [2024-01-08-QuestAuto-2023年新能源车市场发展半年报：比亚迪活跃量破366万辆、销量破109万辆，四大梯队差异发展，梯队内卷加剧](https://www.questmobile.com.cn/research/report/1739912102330601474)  
-- [2024-01-08-QuestAuto-2023年6月15万以下新能源轿车销量及活跃量快报：纯电活跃量突破520万辆，小型和中大型持续快速增长](https://www.questmobile.com.cn/research/report/1740315284798017538)  
-- [2024-01-08-QuestAuto-2023年三季度新能源汽车市场洞察：比亚迪活跃量破400万，特斯拉将赶超上汽通用五菱，“智能化”革命呼之欲出](https://www.questmobile.com.cn/research/report/1742822956927651841)  
-- [2024-01-08-QuestAuto-2023年7月15万-30万新能源SUV销量及活跃量快报：Model-Y活跃量破70万，比亚迪五款上榜群狼围剿](https://www.questmobile.com.cn/research/report/1740663549531885570)  
-- [2024-01-08-QuestAuto-2023年7月新能源车市场洞察报告：纯电活跃量破1100万，特斯拉销量环比下降近6成，蔚来销量环比增长超90%](https://www.questmobile.com.cn/research/report/1740318587791446018)  
-- [2024-01-08-QuestAuto-2023年5月插电混动新能源车销量及活跃量快报：比亚迪独强，长城、腾势发力，市场厮杀分化严重](https://www.questmobile.com.cn/research/report/1739909918792716289)  
-- [2024-01-08-QuestAuto-2023年8月新能源轿车销量及活跃量快报：比亚迪群狼厮杀，前十占五席，特斯拉变阵应对，Model3环比增七成](https://www.questmobile.com.cn/research/report/1742127973341958146)  
-- [2024-01-08-QuestAuto-2023年9月15万以下新能源汽车销量及活跃量快报：活跃总量近850万辆，比亚迪包揽销量前三，五菱缤果持续走高](https://www.questmobile.com.cn/research/report/1742823876142927873)  
-- [2024-01-08-QuestAuto-2023年5月纯电新能源车销量及活跃量快报：势能释放，续航500公里以上活跃量破480万辆，远超300公里以下](https://www.questmobile.com.cn/research/report/1739908712292782081)  
+- [2024-01-10-QuestMobile2023中国移动互联网“黑马”盘点：高增长态势重现，游戏、办公、出行、生活服务成“宝藏”领域](https://www.questmobile.com.cn/research/report/1744547871980621826)  
+- [2024-01-08-QuestAuto-2023年6月15-30万新能源轿车销量及活跃量快报：纯电中型中大型成用户首选，比亚迪优势拉大，特斯拉降维挤压](https://www.questmobile.com.cn/research/report/1740316220111032322)  
+- [2024-01-08-QuestAuto-2023年11月新能源轿车销量及活跃量快报：比亚迪继续包揽销量前三，Model-3环比增六倍](https://www.questmobile.com.cn/research/report/1743219635635982338)  
+- [2024-01-08-QuestAuto-2023年10月增程式新能源汽车销量及活跃量快报：理想持续领先，问界翻身快速增长](https://www.questmobile.com.cn/research/report/1743214823905267714)  
+- [2024-01-08-QuestAuto-2023年11月新能源汽车市场洞察报告：比亚迪稳居第一，特斯拉中国销量环比翻倍，下半场拼什么？](https://www.questmobile.com.cn/research/report/1743218390024163329)  
+- [2024-01-08-QuestAuto-2023年10月插电混动新能源汽车销量及活跃量快报：销量前10比亚迪独占7席，宋PLUS-DM-i活跃超50万](https://www.questmobile.com.cn/research/report/1742844605211185154)  
+- [2024-01-08-QuestAuto-2023年9月15万-30万元新能源汽车销量及活跃量快报：宋PLUS-DM-i活跃量即将超过Model-3](https://www.questmobile.com.cn/research/report/1742824548020097026)  
+- [2024-01-08-QuestAuto-2023年8月新能源MPV销量及活跃量快报：腾势一枝独秀，活跃量破7万，占据中大型MPV半壁江山](https://www.questmobile.com.cn/research/report/1742129816625319937)  
+- [2024-01-08-QuestAuto-2023年6月30万元以上新能源轿车销量及活跃量快报：特斯拉、比亚迪两强争霸，新势力争夺激烈，宝马奔驰开始发力](https://www.questmobile.com.cn/research/report/1740317003745431553)  
+- [2024-01-08-QuestAuto-2023年7月15万以下新能源SUV销量及活跃量快报：比亚迪元系列优势显著，总活跃近45万，埃安吉利发起冲击](https://www.questmobile.com.cn/research/report/1740662656421957634)  
+- [2024-01-08-QuestAuto-2023年8月新能源SUV销量及活跃量快报：Model-Y销量环比翻倍、月活破75万辆，宋全系月活破83万辆](https://www.questmobile.com.cn/research/report/1742128674658947073)  
+- [2024-01-08-QuestAuto-2023年9月30万元以上新能源汽车销量及活跃量快报：特斯拉、比亚迪Top车系活跃量分别达130万辆、80万辆](https://www.questmobile.com.cn/research/report/1742825837328175105)  
 - [......【查看更多】......](/details/QuestMobile.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
