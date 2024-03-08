@@ -1,12 +1,12 @@
 ##
 
-:alarm_clock: 更新时间: 2024-03-08 02:35:56，:rocket: 更新条数: +6， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-03-08 05:35:15，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [36kr](#36kr)![](/assets/dot.png)   
+- [36kr](#36kr)  
 - [QuestMobile](#questmobile)  
-- [艾瑞](#艾瑞)  
+- [艾瑞](#艾瑞)![](/assets/dot.png)   
 
 ## 文章链接
 
@@ -20,11 +20,11 @@
 - [2024-03-08-券商晨会精华：Tesla发布系统工程师职位-人形机器人量产渐行渐近](https://www.cls.cn/detail/1613941)  
 - [2024-03-08-美联储梅斯特：今年会降息，但不急！](https://www.cls.cn/detail/1613960)  
 - [2024-03-08-动了？横盘近两周后离岸人民币涨穿7.2关口，美元指数动能减弱，人民币汇率下半年回归6字头？](https://www.cls.cn/detail/1614009)  
-- [2024-03-08-财联社债市早参3月8日-|财政部：加大存量隐性债务化解力度，坚决防止新增隐性债务；“20荣盛地产MTN002”未能按期足额兑付1496万元利息](https://www.cls.cn/detail/1613954) ![](/assets/new.png)  
-- [2024-03-08-财联社汽车早报【3月8日】](https://www.cls.cn/detail/1613969) ![](/assets/new.png)  
-- [2024-03-08-美元指数创年内最大两日跌幅、黄金豪取七连涨！今晚聚焦非农](https://www.cls.cn/detail/1614011) ![](/assets/new.png)  
-- [2024-03-08-市场分歧进一步加剧，科技股方向延续调整，后续或可聚焦低位新题材的过渡性机会](https://www.cls.cn/detail/1614025) ![](/assets/new.png)  
-- [2024-03-08-全国人大常委会工作报告：我国将制定民营经济促进法等](https://www.cls.cn/detail/1614052) ![](/assets/new.png)  
+- [2024-03-08-财联社债市早参3月8日-|财政部：加大存量隐性债务化解力度，坚决防止新增隐性债务；“20荣盛地产MTN002”未能按期足额兑付1496万元利息](https://www.cls.cn/detail/1613954)  
+- [2024-03-08-财联社汽车早报【3月8日】](https://www.cls.cn/detail/1613969)  
+- [2024-03-08-美元指数创年内最大两日跌幅、黄金豪取七连涨！今晚聚焦非农](https://www.cls.cn/detail/1614011)  
+- [2024-03-08-市场分歧进一步加剧，科技股方向延续调整，后续或可聚焦低位新题材的过渡性机会](https://www.cls.cn/detail/1614025)  
+- [2024-03-08-全国人大常委会工作报告：我国将制定民营经济促进法等](https://www.cls.cn/detail/1614052)  
 - [2024-03-07-哔哩哔哩去年亏损收窄-今年将继续推动社区与商业的正循环|年报解读](https://www.cls.cn/detail/1613711)  
 - [2024-03-07-92岁传媒大亨默多克再次订婚-美政府偷偷批准百余项对以军售-|-环球市场](https://www.cls.cn/detail/1613919)  
 - [2024-03-07-【早报】央行连续第16个月增持黄金储备；东风汽车尤峥：正联合一汽积极推进参股华为车BU](https://www.cls.cn/detail/1613917)  
@@ -78,26 +78,26 @@
 </summary>
 
 
+- [2024-03-08-云服务行业动态及热点研究月报-2024年2月](https://report.iresearch.cn/report/202403/4319.shtml) ![](/assets/new.png)  
+- [2024-03-08-2024年中国健康管理行业研究报告](https://report.iresearch.cn/report/202403/4320.shtml) ![](/assets/new.png)  
 - [2024-03-05-2023年中国移动互联网流量年度报告](https://report.iresearch.cn/report/202403/4318.shtml)  
 - [2024-03-04-为全人类-2024年中国民商参与航天产业现状及未来展望](https://report.iresearch.cn/report/202403/4317.shtml)  
 - [2024-02-29-2023年中国直播电商行业研究报告](https://report.iresearch.cn/report/202402/4316.shtml)  
 - [2024-02-06-2023年中国少女发育内衣行业发展白皮书](https://report.iresearch.cn/report/202402/4315.shtml)  
-- [2024-02-05-云服务行业动态及热点研究月报-2024年1月](https://report.iresearch.cn/report/202402/4313.shtml)  
 - [2024-02-05-2024年中国折叠屏手机市场消费洞察报告](https://report.iresearch.cn/report/202402/4314.shtml)  
-- [2024-02-04-2024年AIGC+教育行业报告](https://report.iresearch.cn/report/202402/4312.shtml)  
+- [2024-02-05-云服务行业动态及热点研究月报-2024年1月](https://report.iresearch.cn/report/202402/4313.shtml)  
 - [2024-02-04-2023年绿色出行旅行者趋势报告](https://report.iresearch.cn/report/202402/4311.shtml)  
-- [2024-02-02-2024年中国游戏社交创作者生态创新研究报告](https://report.iresearch.cn/report/202402/4308.shtml)  
+- [2024-02-04-2024年AIGC+教育行业报告](https://report.iresearch.cn/report/202402/4312.shtml)  
 - [2024-02-02-2023年元宇宙文化消费市场研究白皮书](https://report.iresearch.cn/report/202402/4310.shtml)  
+- [2024-02-02-2024年中国游戏社交创作者生态创新研究报告](https://report.iresearch.cn/report/202402/4308.shtml)  
 - [2024-02-01-润物有声V-2023年中国互联网科技产业发展趋势报告](https://report.iresearch.cn/report/202402/4307.shtml)  
-- [2024-01-31-2024年中国车企数字化转型趋势系列报告之供应链数字化篇](https://report.iresearch.cn/report/202401/4306.shtml)  
 - [2024-01-31-2023年城市基础及公共服务类APP流量监测报告](https://report.iresearch.cn/report/202401/4305.shtml)  
+- [2024-01-31-2024年中国车企数字化转型趋势系列报告之供应链数字化篇](https://report.iresearch.cn/report/202401/4306.shtml)  
 - [2024-01-30-2023年中国隐私计算行业研究报告](https://report.iresearch.cn/report/202401/4304.shtml)  
 - [2024-01-29-2024年中国医疗健康产业十大趋势](https://report.iresearch.cn/report/202401/4303.shtml)  
-- [2024-01-26-2023年中国电商市场研究报告](https://report.iresearch.cn/report/202401/4302.shtml)  
 - [2024-01-26-2023年中国低/零代码行业研究报告](https://report.iresearch.cn/report/202401/4301.shtml)  
+- [2024-01-26-2023年中国电商市场研究报告](https://report.iresearch.cn/report/202401/4302.shtml)  
 - [2024-01-25-2023年中国网络广告市场研究——垂直行业广告主投放调查](https://report.iresearch.cn/report/202401/4300.shtml)  
-- [2024-01-19-2024年中国交易数字化智能平台趋势报告](https://report.iresearch.cn/report/202401/4298.shtml)  
-- [2024-01-17-2023年中国商旅管理行业研究报告](https://report.iresearch.cn/report/202401/4297.shtml)  
 - [......【查看更多】......](/details/艾瑞.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
