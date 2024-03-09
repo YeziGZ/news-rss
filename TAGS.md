@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-03-08 23:36:42。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-03-09 01:27:00。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -23,22 +23,22 @@
 
 
 
-- [【36kr】力挺TikTok？特朗普：Facebook才是美国人的敌人](https://www.cls.cn/detail/1614927)
 - [【36kr】比特币盘中突破70000美元关口-奥特曼重返OpenAI董事会-|-环球市场](https://www.cls.cn/detail/1615037)
+- [【36kr】力挺TikTok？特朗普：Facebook才是美国人的敌人](https://www.cls.cn/detail/1614927)
 - [【36kr】两会时间|全国人大代表、中国铁塔董事长张志勇：推进AI硬件计算100%国产化-助力行业大模型高质量发展](https://www.cls.cn/detail/1611187)
 - [【36kr】【明日主题前瞻】大模型加速赋能内容创作变革，国内首部AI全流程制作微短剧来了](https://www.cls.cn/detail/1609261)
 - [【36kr】奥尔特曼的身价几何？至少20亿美元-但与OpenAI毫无关系](https://www.cls.cn/detail/1608824)
 - [【36kr】图解2月大事件：吴清出任证监会主席-OpenAI发布王炸产品](https://www.cls.cn/detail/1607430)
-- [【36kr】谷歌发布AI基础世界模型-传Meta将于秋季展示AR眼镜-|-今夜看点](https://www.cls.cn/detail/1605246)
 - [【36kr】【明日主题前瞻】获微软入股，该AI新贵发布旗舰大模型产品](https://www.cls.cn/detail/1605181)
+- [【36kr】谷歌发布AI基础世界模型-传Meta将于秋季展示AR眼镜-|-今夜看点](https://www.cls.cn/detail/1605246)
 - [【36kr】Vision-Pro会否掀起商业银行新一轮技术内卷？招商银行首家适配visionOS，去年多家银行“鏖战”大模型](https://www.cls.cn/detail/1604228)
 - [【36kr】【明日主题前瞻】马斯克旗下大模型产品再迎新进展，Grok-V1.5或将两周后发布](https://www.cls.cn/detail/1601045)
-- [【36kr】马芳、冯明远四季度首度重仓Sora概念股，能否复制ChatGPT火爆行情？券商建议关注算力产业链](https://www.cls.cn/detail/1598545)
 - [【36kr】券商晨会精华：Sora大模型的发布将进一步拉大算力缺口](https://www.cls.cn/detail/1598524)
-- [【36kr】AI大模型应用层面爆发-支付宝正经历第二次技术迭代](https://www.cls.cn/detail/1597865)
+- [【36kr】马芳、冯明远四季度首度重仓Sora概念股，能否复制ChatGPT火爆行情？券商建议关注算力产业链](https://www.cls.cn/detail/1598545)
 - [【36kr】文生视频大模型Sora引发市场关注-美图公司和商汤一度涨超4%](https://www.cls.cn/detail/1597521)
-- [【36kr】AI大模型加速迭代-智能算力市场或将持续供不应求](https://www.cls.cn/detail/1597370)
+- [【36kr】AI大模型应用层面爆发-支付宝正经历第二次技术迭代](https://www.cls.cn/detail/1597865)
 - [【36kr】【早报】OpenAI推出文生视频模型Sora；2024春节档创造新纪录](https://www.cls.cn/detail/1597347)
+- [【36kr】AI大模型加速迭代-智能算力市场或将持续供不应求](https://www.cls.cn/detail/1597370)
 - [【36kr】谷歌股价一度跌近4%-搜索业务或面临OpenAI挑战](https://www.cls.cn/detail/1596295)
 - [【36kr】“ChatGPT之父”赞扬苹果头显技术-知名爆料人称作为原型机已足够出色](https://www.cls.cn/detail/1595341)
 - [【36kr】传英伟达与OpenAI有新动作-标普再向5000点大关冲锋-|-今夜看点](https://www.cls.cn/detail/1594759)
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】美股收盘：狂欢暂歇！三大指数冲高回落-英伟达止步七连涨](https://www.cls.cn/detail/1615025)
-- [【36kr】达利欧罕见发布“怼脸自拍丑照”-配文称支持“她”竞选美国总统](https://www.cls.cn/detail/1614981)
-- [【36kr】可能就在两周后！传日本央行内部开始倾向于3月结束负利率](https://www.cls.cn/detail/1614954)
-- [【36kr】出人意料！美FDA推迟批准礼来阿尔茨海默病新药](https://www.cls.cn/detail/1614962)
-- [【36kr】拟20亿增资子公司-北方稀土加速打造全球最大稀土原料基地](https://www.cls.cn/detail/1614906)
-- [【36kr】中字头行情回归集体上扬-苹果概念预期改善出现异动-｜港股风向标](https://www.cls.cn/detail/1614811)
-- [【36kr】“当家一姐”范妍离职？传闻闹到尽人皆知，或由规模起分歧，还是要坐下来好好谈](https://www.cls.cn/detail/1614808)
-- [【36kr】回购+注销，一波上市券商行动抢眼，更多上市公司以回购加强市值管理](https://www.cls.cn/detail/1614804)
-- [【36kr】保障“现金兜底”、打通重要交通枢纽支付“堵点”……商业银行广泛响应，进一步提升支付便利性](https://www.cls.cn/detail/1614783)
-- [【36kr】碧桂园服务：预计去年净利润降逾74.5%，大幅计提关联方应收款减值拨备](https://www.cls.cn/detail/1614776)
-- [【36kr】欧洲央行管委密集发声-春季开始降息已无悬念？](https://www.cls.cn/detail/1614775)
-- [【36kr】全球热门投资巡礼之美股篇：“七巨头”的时代还将维持多久？](https://www.cls.cn/detail/1614534)
-- [【36kr】【图解牛熊股】低空经济概念龙头本周大涨逾50%-主力资金大笔净卖出多只AI热门股](https://www.cls.cn/detail/1614737)
-- [【36kr】两会日报：“部长通道”再开启！涉及6G、算力、数据中心等热点内容](https://www.cls.cn/detail/1614758)
-- [【36kr】南向资金本周净流入逾171亿：加速扫货中海油及中移动-抛售中石油](https://www.cls.cn/detail/1614736)
-- [【36kr】【数据看盘】北向资金加仓光伏减仓AI概念股-龙虎榜机构买卖金额明显放大](https://www.cls.cn/detail/1614700)
-- [【36kr】两市成交降温！这些方向仍“局部高热”，周内活跃股梳理，75股筹码换了个遍](https://www.cls.cn/detail/1614663)
-- [【36kr】独家|龙湖提前9个月兑付46亿CMBS-并为5月到期公司债备妥资金](https://www.cls.cn/detail/1614642)
-- [【36kr】港股三大指数本周集体回落-优必选飙升近80%领跑市场](https://www.cls.cn/detail/1614580)
-- [【36kr】【VIP机会日报】三大指数集体收涨-半导体板块表现活跃-栏目梳理产业链关键环节-核心公司5日2板](https://www.cls.cn/detail/1614555)
+- [【36kr】【早报】一名在美中国公民涉嫌窃取谷歌AI技术被捕？外交部回应；万科官宣！已打款6.47亿美元](https://www.cls.cn/detail/1615041)
+- [【36kr】环球下周看点：美股惊人涨势将迎通胀数据考验-纽约社区银行能否转危为安？](https://www.cls.cn/detail/1615014)
+- [【36kr】五角大楼UFO报告：没发现外星技术-政府也没有搞什么逆向工程](https://www.cls.cn/detail/1614997)
+- [【36kr】债市收盘|国债期货全线下跌，央行单周净回笼11140亿元](https://www.cls.cn/detail/1614656)
+- [【36kr】两会时间|代表委员热议打造数据产业集群，建议将上海临港新片区国际数据经济产业园升级](https://www.cls.cn/detail/1614904)
+- [【36kr】美国2月非农强于市场预期-薪资增速有所放缓释放乐观信号](https://www.cls.cn/detail/1614897)
+- [【36kr】大赚近100亿！1500亿通信+算力底座龙头披露2023年年报|盘后公告集锦](https://www.cls.cn/detail/1614890)
+- [【36kr】中烟香港去年净利润增长60%-越秀地产前两月销售额跌超五成｜港股3月8日公告精选](https://www.cls.cn/detail/1614871)
+- [【36kr】诺和诺德：这款口服减肥药有望在2030年前正式推出-其早期数据令人振奋](https://www.cls.cn/detail/1614870)
+- [【36kr】英伟达市值逼近苹果-美股三大期指集体走低-|-今夜看点](https://www.cls.cn/detail/1614868)
+- [【36kr】印度在中印边境新部署1万名士兵？外交部回应](https://www.cls.cn/detail/1614857)
+- [【36kr】郑州农商行3300万股权又流拍！开年中小银行股权频遭拍卖-为何价格低至1元仍无人问津？](https://www.cls.cn/detail/1614855)
+- [【36kr】全国人大代表蔡玲：建设长江中游经济区，推动长江经济带高质量发展](https://www.cls.cn/detail/1614553)
+- [【36kr】【焦点复盘】光伏、算力概念携手爆发，创业板指收复1800点，北向资金大买超60亿](https://www.cls.cn/detail/1614666)
+- [【36kr】【每日收评】AI概念股卷土重来！工业富联再涨停，光伏、芯片股同样走强](https://www.cls.cn/detail/1614591)
+- [【36kr】一名在美中国公民涉嫌窃取谷歌AI技术被捕？外交部回应](https://www.cls.cn/detail/1614560)
+- [【36kr】日系品牌集体疲弱：2月市场份额降至14.4%、本田销量环比“腰斩”](https://www.cls.cn/detail/1614543)
+- [【36kr】两会时间|全国政协委员、南方科技大学副校长金李：鼓励养老金参与股权投资-放宽长期资金进入股权投资领域限制](https://www.cls.cn/detail/1614508)
+- [【36kr】香港证监会：投资基金净流入四季度环比急升179%](https://www.cls.cn/detail/1614461)
+- [【36kr】两会时间|全国人大代表、天合光能董事长高纪凡：《可再生能源法》需修改完善-多条建议涉及绿证和碳交易](https://www.cls.cn/detail/1614310)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
