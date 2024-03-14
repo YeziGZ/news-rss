@@ -1,12 +1,12 @@
 ##
 
-:alarm_clock: 更新时间: 2024-03-14 04:35:21，:rocket: 更新条数: +8， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-03-14 05:35:41，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [36kr](#36kr)![](/assets/dot.png)   
+- [36kr](#36kr)  
 - [QuestMobile](#questmobile)  
-- [艾瑞](#艾瑞)  
+- [艾瑞](#艾瑞)![](/assets/dot.png)   
 
 ## 文章链接
 
@@ -24,13 +24,13 @@
 - [2024-03-14-英伟达暴涨一年仍不算贵？美银坚定上调目标价-下周或再迎大涨](https://www.cls.cn/detail/1618864)  
 - [2024-03-14-耶伦：美国利率不太可能跌回“疫情前水平”，通胀仍处下行趋势！](https://www.cls.cn/detail/1618856)  
 - [2024-03-14-券商晨会精华：预计3月开始乘用车板块开启修复行情](https://www.cls.cn/detail/1618866)  
-- [2024-03-14-财联社汽车早报【3月14日】](https://www.cls.cn/detail/1618877) ![](/assets/new.png)  
-- [2024-03-14-AI内部延续良性轮动，应用端再获资金回流，仍可留意创新药、设备更新等方向轮动性机会](https://www.cls.cn/detail/1618910) ![](/assets/new.png)  
-- [2024-03-14-雷蒙多率团访菲期间称美方考虑扩大对华出口限制-中国驻菲律宾使馆回应](https://www.cls.cn/detail/1618908) ![](/assets/new.png)  
-- [2024-03-14-若特朗普赢得大选-下任美国财长可能是大名鼎鼎的“华尔街空神”？](https://www.cls.cn/detail/1618979) ![](/assets/new.png)  
-- [2024-03-14-国务院任免国家工作人员：任命陈晓东为外交部副部长](https://www.cls.cn/detail/1619045) ![](/assets/new.png)  
-- [2024-03-14-突发！美国BIO组织宣布剔除药明康德会员资格-背后关乎一项立法](https://www.cls.cn/detail/1619063) ![](/assets/new.png)  
-- [2024-03-14-【财联社午报】有色、创新药板块联袂爆发，CPO概念股盘中异动，天孚通信再创历史新高](https://www.cls.cn/detail/1619094) ![](/assets/new.png)  
+- [2024-03-14-财联社汽车早报【3月14日】](https://www.cls.cn/detail/1618877)  
+- [2024-03-14-AI内部延续良性轮动，应用端再获资金回流，仍可留意创新药、设备更新等方向轮动性机会](https://www.cls.cn/detail/1618910)  
+- [2024-03-14-雷蒙多率团访菲期间称美方考虑扩大对华出口限制-中国驻菲律宾使馆回应](https://www.cls.cn/detail/1618908)  
+- [2024-03-14-若特朗普赢得大选-下任美国财长可能是大名鼎鼎的“华尔街空神”？](https://www.cls.cn/detail/1618979)  
+- [2024-03-14-国务院任免国家工作人员：任命陈晓东为外交部副部长](https://www.cls.cn/detail/1619045)  
+- [2024-03-14-突发！美国BIO组织宣布剔除药明康德会员资格-背后关乎一项立法](https://www.cls.cn/detail/1619063)  
+- [2024-03-14-【财联社午报】有色、创新药板块联袂爆发，CPO概念股盘中异动，天孚通信再创历史新高](https://www.cls.cn/detail/1619094)  
 - [2024-03-13-美众议院通过“封禁TikTok”法案-乌克兰称入侵多个俄罗斯网站-|-环球市场](https://www.cls.cn/detail/1618812)  
 - [2024-03-13-【早报】李强：人工智能是发展新质生产力的重要引擎；国务院印发《推动大规模设备更新和消费品以旧换新行动方案》](https://www.cls.cn/detail/1618814)  
 - [2024-03-13-【领福利】财联社VIP资讯“惊喜券包”派送中-券后好运一整年](https://www.cls.cn/detail/1611259)  
@@ -78,26 +78,26 @@
 </summary>
 
 
+- [2024-03-14-2023年城市基础及公共服务类APP流量监测报告](https://report.iresearch.cn/report/202403/4325.shtml) ![](/assets/new.png)  
 - [2024-03-13-2024年即时零售消费电子行业白皮书](https://report.iresearch.cn/report/202403/4324.shtml)  
 - [2024-03-12-2024情绪与健康睡眠白皮书](https://report.iresearch.cn/report/202403/4323.shtml)  
-- [2024-03-11-2024年中国企业3C数码商用品电商采购白皮书](https://report.iresearch.cn/report/202403/4321.shtml)  
 - [2024-03-11-2024年中国毛发健康管理行业研究报告](https://report.iresearch.cn/report/202403/4322.shtml)  
-- [2024-03-08-云服务行业动态及热点研究月报-2024年2月](https://report.iresearch.cn/report/202403/4319.shtml)  
+- [2024-03-11-2024年中国企业3C数码商用品电商采购白皮书](https://report.iresearch.cn/report/202403/4321.shtml)  
 - [2024-03-08-2024年中国健康管理行业研究报告](https://report.iresearch.cn/report/202403/4320.shtml)  
+- [2024-03-08-云服务行业动态及热点研究月报-2024年2月](https://report.iresearch.cn/report/202403/4319.shtml)  
 - [2024-03-05-2023年中国移动互联网流量年度报告](https://report.iresearch.cn/report/202403/4318.shtml)  
 - [2024-03-04-为全人类-2024年中国民商参与航天产业现状及未来展望](https://report.iresearch.cn/report/202403/4317.shtml)  
 - [2024-02-29-2023年中国直播电商行业研究报告](https://report.iresearch.cn/report/202402/4316.shtml)  
 - [2024-02-06-2023年中国少女发育内衣行业发展白皮书](https://report.iresearch.cn/report/202402/4315.shtml)  
-- [2024-02-05-2024年中国折叠屏手机市场消费洞察报告](https://report.iresearch.cn/report/202402/4314.shtml)  
 - [2024-02-05-云服务行业动态及热点研究月报-2024年1月](https://report.iresearch.cn/report/202402/4313.shtml)  
-- [2024-02-04-2023年绿色出行旅行者趋势报告](https://report.iresearch.cn/report/202402/4311.shtml)  
+- [2024-02-05-2024年中国折叠屏手机市场消费洞察报告](https://report.iresearch.cn/report/202402/4314.shtml)  
 - [2024-02-04-2024年AIGC+教育行业报告](https://report.iresearch.cn/report/202402/4312.shtml)  
-- [2024-02-02-2023年元宇宙文化消费市场研究白皮书](https://report.iresearch.cn/report/202402/4310.shtml)  
+- [2024-02-04-2023年绿色出行旅行者趋势报告](https://report.iresearch.cn/report/202402/4311.shtml)  
 - [2024-02-02-2024年中国游戏社交创作者生态创新研究报告](https://report.iresearch.cn/report/202402/4308.shtml)  
+- [2024-02-02-2023年元宇宙文化消费市场研究白皮书](https://report.iresearch.cn/report/202402/4310.shtml)  
 - [2024-02-01-润物有声V-2023年中国互联网科技产业发展趋势报告](https://report.iresearch.cn/report/202402/4307.shtml)  
-- [2024-01-31-2023年城市基础及公共服务类APP流量监测报告](https://report.iresearch.cn/report/202401/4305.shtml)  
 - [2024-01-31-2024年中国车企数字化转型趋势系列报告之供应链数字化篇](https://report.iresearch.cn/report/202401/4306.shtml)  
-- [2024-01-30-2023年中国隐私计算行业研究报告](https://report.iresearch.cn/report/202401/4304.shtml)  
+- [2024-01-31-2023年城市基础及公共服务类APP流量监测报告](https://report.iresearch.cn/report/202401/4305.shtml)  
 - [......【查看更多】......](/details/艾瑞.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
