@@ -1,11 +1,11 @@
 ##
 
-:alarm_clock: 更新时间: 2024-03-15 02:35:36，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-03-15 06:35:54，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [36kr](#36kr)![](/assets/dot.png)   
-- [QuestMobile](#questmobile)  
+- [36kr](#36kr)  
+- [QuestMobile](#questmobile)![](/assets/dot.png)   
 - [艾瑞](#艾瑞)  
 
 ## 文章链接
@@ -22,7 +22,7 @@
 - [2024-03-15-财联社汽车早报【3月15日】](https://www.cls.cn/detail/1620024)  
 - [2024-03-15-3月15日投资避雷针：突发！两家上市公司实控人被留置](https://www.cls.cn/detail/1620025)  
 - [2024-03-15-券商晨会精华：政策鼓励大规模设备更新，有望重塑相关行业格局](https://www.cls.cn/detail/1620021)  
-- [2024-03-15-国家统计局：2月各线城市商品住宅销售价格环比降幅总体收窄](https://www.cls.cn/detail/1620147) ![](/assets/new.png)  
+- [2024-03-15-国家统计局：2月各线城市商品住宅销售价格环比降幅总体收窄](https://www.cls.cn/detail/1620147)  
 - [2024-03-14-设备更新更什么？以旧换新怎么换？](https://www.cls.cn/detail/1619998)  
 - [2024-03-14-华为引领工业软件新篇章-机构称板块中长期发展确定性强](https://www.cls.cn/detail/1620004)  
 - [2024-03-14-水利部深入推进投融资改革-水利投资有望成为今年重要发力点](https://www.cls.cn/detail/1619997)  
@@ -47,9 +47,10 @@
 </summary>
 
 
+- [2024-03-15-QuestAuto-2024年1月男性人群偏好的新能源汽车市场快报：中大型轿车、SUV最受追捧，MPV成市场新热点……](https://www.questmobile.com.cn/research/report/1767740493276483586) ![](/assets/new.png)  
 - [2024-03-12-QuestMobile2024生成式AI及AIGC应用洞察报告：头部APP应用去重月活用户突破5000万，C端、B端机会蜂拥而至](https://www.questmobile.com.cn/research/report/1767395734913650690)  
-- [2024-03-06-QuestAuto2024年1月新能源汽车市场发展洞察报告：“开门红”显现，比亚迪销量同比增43.6%，问界M7登顶车系销量榜首](https://www.questmobile.com.cn/research/report/1765201452421189633)  
 - [2024-03-06-QuestMobile2024“她经济”洞察报告：女性活跃用户近6.1亿，购物、阅读等领域月人均时长达13.9小时、13.2小时](https://www.questmobile.com.cn/research/report/1764860900811051009)  
+- [2024-03-06-QuestAuto2024年1月新能源汽车市场发展洞察报告：“开门红”显现，比亚迪销量同比增43.6%，问界M7登顶车系销量榜首](https://www.questmobile.com.cn/research/report/1765201452421189633)  
 - [2024-02-28-QuestAuto2024年春节期间新能源汽车市场报告：智能化、跨界营销双双发力](https://www.questmobile.com.cn/research/report/1762773877560283137)  
 - [2024-02-27-QuestMobile-2024春节假期洞察报告：春节假期日均活跃用户规模首破9亿，“三大消费模式”出现，即时零售加入战局……](https://www.questmobile.com.cn/research/report/1762374480888434689)  
 - [2024-01-31-QuestAuto2023新能源汽车市场年度报告：新能源车销量在总销量中占比突破30%，Model-Y活跃量增长43万辆](https://www.questmobile.com.cn/research/report/1752532551149391874)  
@@ -58,15 +59,14 @@
 - [2024-01-23-QuestMobile-2023年剧综影市场洞察：用户同质化，内容成突围关键，移动端商业化进入丰收期……](https://www.questmobile.com.cn/research/report/1749626298349752322)  
 - [2024-01-17-QuestAuto2023年11月20万元以下新能源汽车销量及活跃量快报：轿车突破35万辆、SUV逼近20万辆，比亚迪多系列开花](https://www.questmobile.com.cn/research/report/1747513728578981890)  
 - [2024-01-16-QuestMobile-2023年冬日经济市场洞察：哈尔滨爆火，羽绒服、取暖器厮杀，私域价值进一步凸显……](https://www.questmobile.com.cn/research/report/1747103332793683970)  
-- [2024-01-10-QuestAuto-2023年11月新能源SUV销量及活跃量快报：Model-Y销量环比增长89.3%，活跃量破86万辆](https://www.questmobile.com.cn/research/report/1744970089860534274)  
 - [2024-01-10-QuestMobile2023中国移动互联网“黑马”盘点：高增长态势重现，游戏、办公、出行、生活服务成“宝藏”领域](https://www.questmobile.com.cn/research/report/1744547871980621826)  
-- [2024-01-08-QuestAuto-2023年6月15-30万新能源轿车销量及活跃量快报：纯电中型中大型成用户首选，比亚迪优势拉大，特斯拉降维挤压](https://www.questmobile.com.cn/research/report/1740316220111032322)  
-- [2024-01-08-QuestAuto-2023年11月新能源轿车销量及活跃量快报：比亚迪继续包揽销量前三，Model-3环比增六倍](https://www.questmobile.com.cn/research/report/1743219635635982338)  
-- [2024-01-08-QuestAuto-2023年10月增程式新能源汽车销量及活跃量快报：理想持续领先，问界翻身快速增长](https://www.questmobile.com.cn/research/report/1743214823905267714)  
-- [2024-01-08-QuestAuto-2023年11月新能源汽车市场洞察报告：比亚迪稳居第一，特斯拉中国销量环比翻倍，下半场拼什么？](https://www.questmobile.com.cn/research/report/1743218390024163329)  
-- [2024-01-08-QuestAuto-2023年10月插电混动新能源汽车销量及活跃量快报：销量前10比亚迪独占7席，宋PLUS-DM-i活跃超50万](https://www.questmobile.com.cn/research/report/1742844605211185154)  
-- [2024-01-08-QuestAuto-2023年9月15万-30万元新能源汽车销量及活跃量快报：宋PLUS-DM-i活跃量即将超过Model-3](https://www.questmobile.com.cn/research/report/1742824548020097026)  
-- [2024-01-08-QuestAuto-2023年8月新能源MPV销量及活跃量快报：腾势一枝独秀，活跃量破7万，占据中大型MPV半壁江山](https://www.questmobile.com.cn/research/report/1742129816625319937)  
+- [2024-01-10-QuestAuto-2023年11月新能源SUV销量及活跃量快报：Model-Y销量环比增长89.3%，活跃量破86万辆](https://www.questmobile.com.cn/research/report/1744970089860534274)  
+- [2024-01-08-QuestAuto-2023年5月增程式新能源车销量及活跃量快报：中大型SUV活跃量破30万，理想独大且快速增长](https://www.questmobile.com.cn/research/report/1739910682453839873)  
+- [2024-01-08-QuestAuto-2023年10月新能源汽车市场洞察报告：比亚迪销量逼近25万，长城销量环比增长37%，大变局拉开帷幕](https://www.questmobile.com.cn/research/report/1742842833692364801)  
+- [2024-01-08-QuestAuto-2023年8月新能源汽车市场洞察报告：比亚迪活跃占比26.3%、月销23万辆，优势稳固，特斯拉销量环比翻倍](https://www.questmobile.com.cn/research/report/1742127291411042305)  
+- [2024-01-08-QuestAuto-2023年新能源车市场发展半年报：比亚迪活跃量破366万辆、销量破109万辆，四大梯队差异发展，梯队内卷加剧](https://www.questmobile.com.cn/research/report/1739912102330601474)  
+- [2024-01-08-QuestAuto-2023年6月15万以下新能源轿车销量及活跃量快报：纯电活跃量突破520万辆，小型和中大型持续快速增长](https://www.questmobile.com.cn/research/report/1740315284798017538)  
+- [2024-01-08-QuestAuto-2023年三季度新能源汽车市场洞察：比亚迪活跃量破400万，特斯拉将赶超上汽通用五菱，“智能化”革命呼之欲出](https://www.questmobile.com.cn/research/report/1742822956927651841)  
 - [......【查看更多】......](/details/QuestMobile.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
