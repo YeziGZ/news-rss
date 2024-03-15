@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-03-14 14:36:13。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-03-15 01:31:53。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -23,22 +23,22 @@
 
 
 
-- [【36kr】比特币盘中突破70000美元关口-奥特曼重返OpenAI董事会-|-环球市场](https://www.cls.cn/detail/1615037)
 - [【36kr】力挺TikTok？特朗普：Facebook才是美国人的敌人](https://www.cls.cn/detail/1614927)
+- [【36kr】比特币盘中突破70000美元关口-奥特曼重返OpenAI董事会-|-环球市场](https://www.cls.cn/detail/1615037)
 - [【36kr】两会时间|全国人大代表、中国铁塔董事长张志勇：推进AI硬件计算100%国产化-助力行业大模型高质量发展](https://www.cls.cn/detail/1611187)
 - [【36kr】【明日主题前瞻】大模型加速赋能内容创作变革，国内首部AI全流程制作微短剧来了](https://www.cls.cn/detail/1609261)
 - [【36kr】奥尔特曼的身价几何？至少20亿美元-但与OpenAI毫无关系](https://www.cls.cn/detail/1608824)
 - [【36kr】图解2月大事件：吴清出任证监会主席-OpenAI发布王炸产品](https://www.cls.cn/detail/1607430)
-- [【36kr】【明日主题前瞻】获微软入股，该AI新贵发布旗舰大模型产品](https://www.cls.cn/detail/1605181)
 - [【36kr】谷歌发布AI基础世界模型-传Meta将于秋季展示AR眼镜-|-今夜看点](https://www.cls.cn/detail/1605246)
+- [【36kr】【明日主题前瞻】获微软入股，该AI新贵发布旗舰大模型产品](https://www.cls.cn/detail/1605181)
 - [【36kr】Vision-Pro会否掀起商业银行新一轮技术内卷？招商银行首家适配visionOS，去年多家银行“鏖战”大模型](https://www.cls.cn/detail/1604228)
 - [【36kr】【明日主题前瞻】马斯克旗下大模型产品再迎新进展，Grok-V1.5或将两周后发布](https://www.cls.cn/detail/1601045)
-- [【36kr】券商晨会精华：Sora大模型的发布将进一步拉大算力缺口](https://www.cls.cn/detail/1598524)
 - [【36kr】马芳、冯明远四季度首度重仓Sora概念股，能否复制ChatGPT火爆行情？券商建议关注算力产业链](https://www.cls.cn/detail/1598545)
-- [【36kr】文生视频大模型Sora引发市场关注-美图公司和商汤一度涨超4%](https://www.cls.cn/detail/1597521)
+- [【36kr】券商晨会精华：Sora大模型的发布将进一步拉大算力缺口](https://www.cls.cn/detail/1598524)
 - [【36kr】AI大模型应用层面爆发-支付宝正经历第二次技术迭代](https://www.cls.cn/detail/1597865)
-- [【36kr】【早报】OpenAI推出文生视频模型Sora；2024春节档创造新纪录](https://www.cls.cn/detail/1597347)
+- [【36kr】文生视频大模型Sora引发市场关注-美图公司和商汤一度涨超4%](https://www.cls.cn/detail/1597521)
 - [【36kr】AI大模型加速迭代-智能算力市场或将持续供不应求](https://www.cls.cn/detail/1597370)
+- [【36kr】【早报】OpenAI推出文生视频模型Sora；2024春节档创造新纪录](https://www.cls.cn/detail/1597347)
 - [【36kr】谷歌股价一度跌近4%-搜索业务或面临OpenAI挑战](https://www.cls.cn/detail/1596295)
 - [【36kr】“ChatGPT之父”赞扬苹果头显技术-知名爆料人称作为原型机已足够出色](https://www.cls.cn/detail/1595341)
 - [【36kr】传英伟达与OpenAI有新动作-标普再向5000点大关冲锋-|-今夜看点](https://www.cls.cn/detail/1594759)
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】非盟不让驴皮出口-阿胶企业慌不慌？短期库存充足，远期或推涨成本](https://www.cls.cn/detail/1619627)
-- [【36kr】国家发改委：积极支持行业地位显著、信用优良、对促进实体经济高质量发展具有带动引领作用的优质企业借用外债](https://www.cls.cn/detail/1619569)
-- [【36kr】央行：保持流动性合理充裕-促进社会融资规模、货币供应量同经济增长和价格水平预期目标相匹配](https://www.cls.cn/detail/1619563)
-- [【36kr】最长寿“铁肺人”保罗去世-近几个月不断通过TikTok传递正能量](https://www.cls.cn/detail/1619508)
-- [【36kr】【焦点复盘】沪指三连阴失守10日线，“铜博士”逆势起舞，多只人气股再创阶段新高](https://www.cls.cn/detail/1619475)
-- [【36kr】警惕不法贷款中介！315宣传渐入高潮，监管、银行密集发声，此地还提醒：警惕假冒银行员工诈骗](https://www.cls.cn/detail/1619417)
-- [【36kr】【每日收评】市场分化延续！创新药、有色板块逆势活跃，沪指三连阴后或将面临短期方向抉择](https://www.cls.cn/detail/1619392)
-- [【36kr】美股七巨头怕不怕？全球最大养老基金据悉将恢复外国股票融券业务](https://www.cls.cn/detail/1619281)
-- [【36kr】受让沙特阿美8%股份后-PIF“身价”高了一截：9250亿美元！](https://www.cls.cn/detail/1619112)
-- [【36kr】铂金供需短缺将持续，氢能产业或将打开铂金价格上行空间](https://www.cls.cn/detail/1618553)
-- [【36kr】财联社债市早参3月14日-|-已有保险机构倾向就万科债务期限调整做出安排；债市“高台跳水”后，波动加剧，多空焦灼](https://www.cls.cn/detail/1618870)
-- [【36kr】10年期美债收益率连续第三日上涨-今晚华尔街将再迎关键“数据潮”！](https://www.cls.cn/detail/1618890)
-- [【36kr】【财联社午报】有色、创新药板块联袂爆发，CPO概念股盘中异动，天孚通信再创历史新高](https://www.cls.cn/detail/1619094)
-- [【36kr】突发！美国BIO组织宣布剔除药明康德会员资格-背后关乎一项立法](https://www.cls.cn/detail/1619063)
-- [【36kr】国务院任免国家工作人员：任命陈晓东为外交部副部长](https://www.cls.cn/detail/1619045)
-- [【36kr】若特朗普赢得大选-下任美国财长可能是大名鼎鼎的“华尔街空神”？](https://www.cls.cn/detail/1618979)
-- [【36kr】雷蒙多率团访菲期间称美方考虑扩大对华出口限制-中国驻菲律宾使馆回应](https://www.cls.cn/detail/1618908)
-- [【36kr】AI内部延续良性轮动，应用端再获资金回流，仍可留意创新药、设备更新等方向轮动性机会](https://www.cls.cn/detail/1618910)
-- [【36kr】财联社汽车早报【3月14日】](https://www.cls.cn/detail/1618877)
-- [【36kr】券商晨会精华：预计3月开始乘用车板块开启修复行情](https://www.cls.cn/detail/1618866)
+- [【36kr】券商晨会精华：政策鼓励大规模设备更新，有望重塑相关行业格局](https://www.cls.cn/detail/1620021)
+- [【36kr】3月15日投资避雷针：突发！两家上市公司实控人被留置](https://www.cls.cn/detail/1620025)
+- [【36kr】财联社汽车早报【3月15日】](https://www.cls.cn/detail/1620024)
+- [【36kr】中信证券：冶炼端收缩预期渐浓-铜短缺或提前到来](https://www.cls.cn/detail/1620037)
+- [【36kr】麻烦了？美联储降息预期再遭PPI重击-美债收益率直冲向年内高点](https://www.cls.cn/detail/1620050)
+- [【36kr】外资加速抄底？大小摩、高盛、瑞银等扎堆现身，光伏、航运、医药板块股各有动向](https://www.cls.cn/detail/1620066)
+- [【36kr】什么情况？多家中小银行宣布智能通知存款产品将终止-有何影响?](https://www.cls.cn/detail/1619769)
+- [【36kr】美PPI增幅全线高于预期-又一波音客机发生事故-|-今夜看点](https://www.cls.cn/detail/1619761)
+- [【36kr】整机厂可以松口气？2月风机招标环比增超六成-陆风中标价格触底回升](https://www.cls.cn/detail/1619758)
+- [【36kr】中国平安前2月原保费收入超1900亿元-中国神华年内煤炭销量同比涨约一成｜港股3月14日公告精选](https://www.cls.cn/detail/1619750)
+- [【36kr】全程直击第三次星舰试飞：星舰飞船正在火热突围大气层](https://www.cls.cn/detail/1619694)
+- [【36kr】资源股集体走强延续反弹热度-成长股利空不断相对低迷｜港股风向标](https://www.cls.cn/detail/1619668)
+- [【36kr】铜价强势抬头，市场在交易经济复苏了？CPI、PPI望持续改善，央行仍强调促进融资成本“稳中有降”](https://www.cls.cn/detail/1619672)
+- [【36kr】突发！这家公司实控人被实施留置及立案调查|盘后公告集锦](https://www.cls.cn/detail/1619664)
+- [【36kr】【明日主题前瞻】RISC-V架构多个细分领域或取代ARM市场地位](https://www.cls.cn/detail/1619484)
+- [【36kr】国际大行齐步下调产能预期-锂矿股空头的风险开始显现](https://www.cls.cn/detail/1619593)
+- [【36kr】向客户承诺保本保收益，亏了还赔偿？有营业部接罚单，已是基金销售大忌](https://www.cls.cn/detail/1619644)
+- [【36kr】【VIP机会日报】创新药逆势拉升-栏目解读机构研报-核心公司3个交易日最高涨超42%](https://www.cls.cn/detail/1619421)
+- [【36kr】南向资金3月14日净流入26亿：加仓中字头两股及药明康德-流出药明生物和美团](https://www.cls.cn/detail/1619541)
+- [【36kr】美股新高之际-瑞银继续唱多：别恐高，美股一直都在创新高的路上！](https://www.cls.cn/detail/1619388)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
