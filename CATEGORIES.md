@@ -1,12 +1,12 @@
 ##
 
-:alarm_clock: 更新时间: 2024-03-21 02:36:48，:rocket: 更新条数: +15， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-03-21 08:36:51，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [36kr](#36kr)![](/assets/dot.png)   
+- [36kr](#36kr)  
 - [QuestMobile](#questmobile)  
-- [艾瑞](#艾瑞)  
+- [艾瑞](#艾瑞)![](/assets/dot.png)   
 
 ## 文章链接
 
@@ -16,13 +16,13 @@
 </summary>
 
 
-- [2024-03-21-终端AI化大势所趋-机构看好鸿蒙渗透率快速提升](https://www.cls.cn/detail/1625434) ![](/assets/new.png)  
-- [2024-03-21-通过意念下棋！马斯克脑机接口公司透露最新进展-产业链投资机遇有望浮现](https://www.cls.cn/detail/1625437) ![](/assets/new.png)  
-- [2024-03-21-港股3月21日早报：腾讯将加速在游戏及广告业务部署AI-25家重点企业正式签约落户香港](https://www.cls.cn/detail/1625455) ![](/assets/new.png)  
-- [2024-03-21-本轮北向资金大幅流入与历史案例有哪些异同？](https://www.cls.cn/detail/1625459) ![](/assets/new.png)  
-- [2024-03-21-小米2023年业绩超预期的背后：自研创新彰显硬实力，生态竞争迈向新起点](https://www.cls.cn/detail/1625062) ![](/assets/new.png)  
-- [2024-03-21-美联储守住三次降息底线-华尔街雀跃：金价破2200、美股再创新高！](https://www.cls.cn/detail/1625558) ![](/assets/new.png)  
-- [2024-03-21-央行：法定存款准备金率仍有下降的空间](https://www.cls.cn/detail/1625590) ![](/assets/new.png)  
+- [2024-03-21-终端AI化大势所趋-机构看好鸿蒙渗透率快速提升](https://www.cls.cn/detail/1625434)  
+- [2024-03-21-通过意念下棋！马斯克脑机接口公司透露最新进展-产业链投资机遇有望浮现](https://www.cls.cn/detail/1625437)  
+- [2024-03-21-港股3月21日早报：腾讯将加速在游戏及广告业务部署AI-25家重点企业正式签约落户香港](https://www.cls.cn/detail/1625455)  
+- [2024-03-21-本轮北向资金大幅流入与历史案例有哪些异同？](https://www.cls.cn/detail/1625459)  
+- [2024-03-21-小米2023年业绩超预期的背后：自研创新彰显硬实力，生态竞争迈向新起点](https://www.cls.cn/detail/1625062)  
+- [2024-03-21-美联储守住三次降息底线-华尔街雀跃：金价破2200、美股再创新高！](https://www.cls.cn/detail/1625558)  
+- [2024-03-21-央行：法定存款准备金率仍有下降的空间](https://www.cls.cn/detail/1625590)  
 - [2024-03-20-美股收盘：三大指数齐刷新高-美联储“年内降息三次”预估不变](https://www.cls.cn/detail/1625390)  
 - [2024-03-20-鲍威尔：美联储对“首降”特别谨慎-还需等待通胀信心增强](https://www.cls.cn/detail/1625370)  
 - [2024-03-20-美国放缓向电动汽车转型！史上最严排放标准“打折”推出](https://www.cls.cn/detail/1625359)  
@@ -78,25 +78,25 @@
 </summary>
 
 
+- [2024-03-21-2024年中国虚拟现实（VR）行业研究报告](https://report.iresearch.cn/report/202403/4326.shtml) ![](/assets/new.png)  
 - [2024-03-14-2023年城市基础及公共服务类APP流量监测报告](https://report.iresearch.cn/report/202403/4325.shtml)  
 - [2024-03-13-2024年即时零售消费电子行业白皮书](https://report.iresearch.cn/report/202403/4324.shtml)  
 - [2024-03-12-2024情绪与健康睡眠白皮书](https://report.iresearch.cn/report/202403/4323.shtml)  
-- [2024-03-11-2024年中国毛发健康管理行业研究报告](https://report.iresearch.cn/report/202403/4322.shtml)  
 - [2024-03-11-2024年中国企业3C数码商用品电商采购白皮书](https://report.iresearch.cn/report/202403/4321.shtml)  
-- [2024-03-08-2024年中国健康管理行业研究报告](https://report.iresearch.cn/report/202403/4320.shtml)  
+- [2024-03-11-2024年中国毛发健康管理行业研究报告](https://report.iresearch.cn/report/202403/4322.shtml)  
 - [2024-03-08-云服务行业动态及热点研究月报-2024年2月](https://report.iresearch.cn/report/202403/4319.shtml)  
+- [2024-03-08-2024年中国健康管理行业研究报告](https://report.iresearch.cn/report/202403/4320.shtml)  
 - [2024-03-05-2023年中国移动互联网流量年度报告](https://report.iresearch.cn/report/202403/4318.shtml)  
 - [2024-03-04-为全人类-2024年中国民商参与航天产业现状及未来展望](https://report.iresearch.cn/report/202403/4317.shtml)  
 - [2024-02-29-2023年中国直播电商行业研究报告](https://report.iresearch.cn/report/202402/4316.shtml)  
 - [2024-02-06-2023年中国少女发育内衣行业发展白皮书](https://report.iresearch.cn/report/202402/4315.shtml)  
-- [2024-02-05-云服务行业动态及热点研究月报-2024年1月](https://report.iresearch.cn/report/202402/4313.shtml)  
 - [2024-02-05-2024年中国折叠屏手机市场消费洞察报告](https://report.iresearch.cn/report/202402/4314.shtml)  
-- [2024-02-04-2024年AIGC+教育行业报告](https://report.iresearch.cn/report/202402/4312.shtml)  
+- [2024-02-05-云服务行业动态及热点研究月报-2024年1月](https://report.iresearch.cn/report/202402/4313.shtml)  
 - [2024-02-04-2023年绿色出行旅行者趋势报告](https://report.iresearch.cn/report/202402/4311.shtml)  
-- [2024-02-02-2024年中国游戏社交创作者生态创新研究报告](https://report.iresearch.cn/report/202402/4308.shtml)  
+- [2024-02-04-2024年AIGC+教育行业报告](https://report.iresearch.cn/report/202402/4312.shtml)  
 - [2024-02-02-2023年元宇宙文化消费市场研究白皮书](https://report.iresearch.cn/report/202402/4310.shtml)  
+- [2024-02-02-2024年中国游戏社交创作者生态创新研究报告](https://report.iresearch.cn/report/202402/4308.shtml)  
 - [2024-02-01-润物有声V-2023年中国互联网科技产业发展趋势报告](https://report.iresearch.cn/report/202402/4307.shtml)  
-- [2024-01-31-2024年中国车企数字化转型趋势系列报告之供应链数字化篇](https://report.iresearch.cn/report/202401/4306.shtml)  
 - [2024-01-31-2023年城市基础及公共服务类APP流量监测报告](https://report.iresearch.cn/report/202401/4305.shtml)  
 - [......【查看更多】......](/details/艾瑞.md)
 
