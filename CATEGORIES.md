@@ -1,11 +1,11 @@
 ##
 
-:alarm_clock: 更新时间: 2024-03-22 05:36:12，:rocket: 更新条数: +17， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-03-22 10:35:19，:rocket: 更新条数: +33， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [36kr](#36kr)![](/assets/dot.png)   
-- [QuestMobile](#questmobile)  
+- [QuestMobile](#questmobile)![](/assets/dot.png)   
 - [艾瑞](#艾瑞)  
 
 ## 文章链接
@@ -16,26 +16,26 @@
 </summary>
 
 
-- [2024-03-22-3月来零新增，证券类私募新增登记骤减，今年以来已528家私募注销，严监管趋势不改](https://www.cls.cn/detail/1626711)  
-- [2024-03-22-最高检表态：对未成年人实施故意杀人等严重犯罪要依法追究刑事责任](https://www.cls.cn/detail/1626694)  
+- [2024-03-22-人民币汇率异动，离岸人民币汇率突破7.26关口，什么情况？交易员：受瑞士央行意外降息冲击](https://www.cls.cn/detail/1626958)  
+- [2024-03-22-3.5亿美元债券及利息未能偿还，建设银行下属公司呈请清盘德信中国，开年来多家上市银行追债房企](https://www.cls.cn/detail/1626962)  
+- [2024-03-22-【财联社午报】三大指数均跌超1%，低空经济板块陷入调整，高速连接器概念股逆势大涨](https://www.cls.cn/detail/1626944)  
+- [2024-03-22-日股又创新高！日本通胀4个月来首度加速升温-央行加息预期更浓了？](https://www.cls.cn/detail/1626932)  
+- [2024-03-22-罕见监管密集部署券商投保、投教行动，多方汇总，至少五大行动正进行](https://www.cls.cn/detail/1626942)  
+- [2024-03-22-智界S7即将“二次上市”-价格不变、提车周期缩至“2-4周”](https://www.cls.cn/detail/1626916)  
+- [2024-03-22-一文读懂：瑞士央行之后-下一个降息的G10央行会是哪家？](https://www.cls.cn/detail/1626894)  
+- [2024-03-22-高合汽车创始人丁磊被限制高消费](https://www.cls.cn/detail/1626882)  
+- [2024-03-22-哪些行业有望更早走出产能过剩？](https://www.cls.cn/detail/1626827)  
+- [2024-03-22-加拿大首次收紧移民政策！全球多国削减相关签证-最大原因竟是……](https://www.cls.cn/detail/1626762)  
+- [2024-03-22-萨默斯批评美联储：没必要这么急“暗示降息”！](https://www.cls.cn/detail/1626742)  
+- [2024-03-22-房地产“三高”模式难以持续，行业新发展模式如何重构？](https://www.cls.cn/detail/1626737)  
+- [2024-03-22-持续爆发！低空经济概念能否强者恒强？AI内部的轮动性机会仍需留意](https://www.cls.cn/detail/1626719)  
+- [2024-03-22-质疑美联储的“鸽派外衣”！贝莱德：若通胀持续粘性-美债恐受冲击](https://www.cls.cn/detail/1626671)  
+- [2024-03-22-财联社汽车早报【3月22日】](https://www.cls.cn/detail/1626691)  
 - [2024-03-22-3月22日投资避雷针：13连板人气股提示风险-击鼓传花效应明显-随时有快速下跌的可能](https://www.cls.cn/detail/1626659)  
-- [2024-03-22-财联社汽车早报【3月22日】](https://www.cls.cn/detail/1626691) ![](/assets/new.png)  
-- [2024-03-22-质疑美联储的“鸽派外衣”！贝莱德：若通胀持续粘性-美债恐受冲击](https://www.cls.cn/detail/1626671) ![](/assets/new.png)  
-- [2024-03-22-持续爆发！低空经济概念能否强者恒强？AI内部的轮动性机会仍需留意](https://www.cls.cn/detail/1626719) ![](/assets/new.png)  
-- [2024-03-22-房地产“三高”模式难以持续，行业新发展模式如何重构？](https://www.cls.cn/detail/1626737) ![](/assets/new.png)  
-- [2024-03-22-萨默斯批评美联储：没必要这么急“暗示降息”！](https://www.cls.cn/detail/1626742) ![](/assets/new.png)  
-- [2024-03-22-加拿大首次收紧移民政策！全球多国削减相关签证-最大原因竟是……](https://www.cls.cn/detail/1626762) ![](/assets/new.png)  
-- [2024-03-22-哪些行业有望更早走出产能过剩？](https://www.cls.cn/detail/1626827) ![](/assets/new.png)  
-- [2024-03-22-高合汽车创始人丁磊被限制高消费](https://www.cls.cn/detail/1626882) ![](/assets/new.png)  
-- [2024-03-22-一文读懂：瑞士央行之后-下一个降息的G10央行会是哪家？](https://www.cls.cn/detail/1626894) ![](/assets/new.png)  
-- [2024-03-22-智界S7即将“二次上市”-价格不变、提车周期缩至“2-4周”](https://www.cls.cn/detail/1626916) ![](/assets/new.png)  
-- [2024-03-22-罕见监管密集部署券商投保、投教行动，多方汇总，至少五大行动正进行](https://www.cls.cn/detail/1626942) ![](/assets/new.png)  
-- [2024-03-22-日股又创新高！日本通胀4个月来首度加速升温-央行加息预期更浓了？](https://www.cls.cn/detail/1626932) ![](/assets/new.png)  
-- [2024-03-22-【财联社午报】三大指数均跌超1%，低空经济板块陷入调整，高速连接器概念股逆势大涨](https://www.cls.cn/detail/1626944) ![](/assets/new.png)  
-- [2024-03-22-3.5亿美元债券及利息未能偿还，建设银行下属公司呈请清盘德信中国，开年来多家上市银行追债房企](https://www.cls.cn/detail/1626962) ![](/assets/new.png)  
-- [2024-03-22-人民币汇率异动，离岸人民币汇率突破7.26关口，什么情况？交易员：受瑞士央行意外降息冲击](https://www.cls.cn/detail/1626958) ![](/assets/new.png)  
-- [2024-03-21-券商晨会精华：Kimi优异表现带动国内AI市场加速](https://www.cls.cn/detail/1626646)  
-- [2024-03-21-预制菜生产过程不允许添加防腐剂-这些企业的产品或将实现替代](https://www.cls.cn/detail/1626634)  
+- [2024-03-22-最高检表态：对未成年人实施故意杀人等严重犯罪要依法追究刑事责任](https://www.cls.cn/detail/1626694)  
+- [2024-03-22-3月来零新增，证券类私募新增登记骤减，今年以来已528家私募注销，严监管趋势不改](https://www.cls.cn/detail/1626711)  
+- [2024-03-22-财联社债市早参3月22日-|央行副行长称法定存款准备金率仍有下降的空间；中国平安否认接盘万科股权](https://www.cls.cn/detail/1626669) ![](/assets/new.png)  
+- [2024-03-22-10年期美债收益率下跌0.59个基点报4.2669%|-全球主要大类资产表现汇总20240322](https://www.cls.cn/detail/1626808) ![](/assets/new.png)  
 - [......【查看更多】......](/details/36kr.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -47,11 +47,12 @@
 </summary>
 
 
+- [2024-03-22-QuestAuto2024年1月女性人群偏好的新能源汽车市场快报：女性审美车型持续崛起，五菱缤果、哪吒V月活车辆均超17万](https://www.questmobile.com.cn/research/report/1770276204735205378) ![](/assets/new.png)  
 - [2024-03-19-QuestMobile2024全景生态流量春季报告：“三大场景生态”快速崛起，家庭娱乐场景进入成熟期……](https://www.questmobile.com.cn/research/report/1769998634198339585)  
 - [2024-03-15-QuestAuto-2024年1月男性人群偏好的新能源汽车市场快报：中大型轿车、SUV最受追捧，MPV成市场新热点……](https://www.questmobile.com.cn/research/report/1767740493276483586)  
 - [2024-03-12-QuestMobile2024生成式AI及AIGC应用洞察报告：头部APP应用去重月活用户突破5000万，C端、B端机会蜂拥而至](https://www.questmobile.com.cn/research/report/1767395734913650690)  
-- [2024-03-06-QuestAuto2024年1月新能源汽车市场发展洞察报告：“开门红”显现，比亚迪销量同比增43.6%，问界M7登顶车系销量榜首](https://www.questmobile.com.cn/research/report/1765201452421189633)  
 - [2024-03-06-QuestMobile2024“她经济”洞察报告：女性活跃用户近6.1亿，购物、阅读等领域月人均时长达13.9小时、13.2小时](https://www.questmobile.com.cn/research/report/1764860900811051009)  
+- [2024-03-06-QuestAuto2024年1月新能源汽车市场发展洞察报告：“开门红”显现，比亚迪销量同比增43.6%，问界M7登顶车系销量榜首](https://www.questmobile.com.cn/research/report/1765201452421189633)  
 - [2024-02-28-QuestAuto2024年春节期间新能源汽车市场报告：智能化、跨界营销双双发力](https://www.questmobile.com.cn/research/report/1762773877560283137)  
 - [2024-02-27-QuestMobile-2024春节假期洞察报告：春节假期日均活跃用户规模首破9亿，“三大消费模式”出现，即时零售加入战局……](https://www.questmobile.com.cn/research/report/1762374480888434689)  
 - [2024-01-31-QuestAuto2023新能源汽车市场年度报告：新能源车销量在总销量中占比突破30%，Model-Y活跃量增长43万辆](https://www.questmobile.com.cn/research/report/1752532551149391874)  
@@ -60,13 +61,12 @@
 - [2024-01-23-QuestMobile-2023年剧综影市场洞察：用户同质化，内容成突围关键，移动端商业化进入丰收期……](https://www.questmobile.com.cn/research/report/1749626298349752322)  
 - [2024-01-17-QuestAuto2023年11月20万元以下新能源汽车销量及活跃量快报：轿车突破35万辆、SUV逼近20万辆，比亚迪多系列开花](https://www.questmobile.com.cn/research/report/1747513728578981890)  
 - [2024-01-16-QuestMobile-2023年冬日经济市场洞察：哈尔滨爆火，羽绒服、取暖器厮杀，私域价值进一步凸显……](https://www.questmobile.com.cn/research/report/1747103332793683970)  
-- [2024-01-10-QuestAuto-2023年11月新能源SUV销量及活跃量快报：Model-Y销量环比增长89.3%，活跃量破86万辆](https://www.questmobile.com.cn/research/report/1744970089860534274)  
 - [2024-01-10-QuestMobile2023中国移动互联网“黑马”盘点：高增长态势重现，游戏、办公、出行、生活服务成“宝藏”领域](https://www.questmobile.com.cn/research/report/1744547871980621826)  
-- [2024-01-08-QuestAuto-2023年6月15-30万新能源轿车销量及活跃量快报：纯电中型中大型成用户首选，比亚迪优势拉大，特斯拉降维挤压](https://www.questmobile.com.cn/research/report/1740316220111032322)  
-- [2024-01-08-QuestAuto-2023年11月新能源轿车销量及活跃量快报：比亚迪继续包揽销量前三，Model-3环比增六倍](https://www.questmobile.com.cn/research/report/1743219635635982338)  
-- [2024-01-08-QuestAuto-2023年10月增程式新能源汽车销量及活跃量快报：理想持续领先，问界翻身快速增长](https://www.questmobile.com.cn/research/report/1743214823905267714)  
-- [2024-01-08-QuestAuto-2023年11月新能源汽车市场洞察报告：比亚迪稳居第一，特斯拉中国销量环比翻倍，下半场拼什么？](https://www.questmobile.com.cn/research/report/1743218390024163329)  
-- [2024-01-08-QuestAuto-2023年10月插电混动新能源汽车销量及活跃量快报：销量前10比亚迪独占7席，宋PLUS-DM-i活跃超50万](https://www.questmobile.com.cn/research/report/1742844605211185154)  
+- [2024-01-10-QuestAuto-2023年11月新能源SUV销量及活跃量快报：Model-Y销量环比增长89.3%，活跃量破86万辆](https://www.questmobile.com.cn/research/report/1744970089860534274)  
+- [2024-01-08-QuestAuto-2023年5月增程式新能源车销量及活跃量快报：中大型SUV活跃量破30万，理想独大且快速增长](https://www.questmobile.com.cn/research/report/1739910682453839873)  
+- [2024-01-08-QuestAuto-2023年10月新能源汽车市场洞察报告：比亚迪销量逼近25万，长城销量环比增长37%，大变局拉开帷幕](https://www.questmobile.com.cn/research/report/1742842833692364801)  
+- [2024-01-08-QuestAuto-2023年8月新能源汽车市场洞察报告：比亚迪活跃占比26.3%、月销23万辆，优势稳固，特斯拉销量环比翻倍](https://www.questmobile.com.cn/research/report/1742127291411042305)  
+- [2024-01-08-QuestAuto-2023年新能源车市场发展半年报：比亚迪活跃量破366万辆、销量破109万辆，四大梯队差异发展，梯队内卷加剧](https://www.questmobile.com.cn/research/report/1739912102330601474)  
 - [......【查看更多】......](/details/QuestMobile.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
