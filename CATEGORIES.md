@@ -1,12 +1,12 @@
 ##
 
-:alarm_clock: 更新时间: 2024-03-26 04:35:49，:rocket: 更新条数: +6， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-03-26 05:37:26，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [36kr](#36kr)![](/assets/dot.png)   
+- [36kr](#36kr)  
 - [QuestMobile](#questmobile)  
-- [艾瑞](#艾瑞)  
+- [艾瑞](#艾瑞)![](/assets/dot.png)   
 
 ## 文章链接
 
@@ -23,12 +23,12 @@
 - [2024-03-26-3月26日投资避雷针：艾艾精工、博信股份、华生科技等人气股提示风险](https://www.cls.cn/detail/1629477)  
 - [2024-03-26-拜登最不愿听到的坏消息传来：美国汽油价格可能升至两年新高](https://www.cls.cn/detail/1629476)  
 - [2024-03-26-特朗普“做梦都会笑”：商业帝国成功翻盘，登上富豪榜前500！](https://www.cls.cn/detail/1629494)  
-- [2024-03-26-财联社债市早参3月26日-|-多地清理整顿“金交所”，全行业将被关停；潘功胜表示化解地方政府债务风险相关政策正在逐步奏效](https://www.cls.cn/detail/1629489) ![](/assets/new.png)  
-- [2024-03-26-沙特阿美：与中国合作不局限于能源贸易-化工品和先进材料等大有可为](https://www.cls.cn/detail/1629568) ![](/assets/new.png)  
-- [2024-03-26-美股长牛有多牛？美银预测：两年内再涨34%-至少涨到2030年！](https://www.cls.cn/detail/1629605) ![](/assets/new.png)  
-- [2024-03-26-油市大行情要来了吗？对冲基金正以四年来最快速度买入石油](https://www.cls.cn/detail/1629667) ![](/assets/new.png)  
-- [2024-03-26-最高判无期！足球领域腐败案件今日集中宣判](https://www.cls.cn/detail/1629674) ![](/assets/new.png)  
-- [2024-03-26-响应FED“鹰声”？阿波罗首席：AI狂潮下今年恐难降息！](https://www.cls.cn/detail/1629726) ![](/assets/new.png)  
+- [2024-03-26-财联社债市早参3月26日-|-多地清理整顿“金交所”，全行业将被关停；潘功胜表示化解地方政府债务风险相关政策正在逐步奏效](https://www.cls.cn/detail/1629489)  
+- [2024-03-26-沙特阿美：与中国合作不局限于能源贸易-化工品和先进材料等大有可为](https://www.cls.cn/detail/1629568)  
+- [2024-03-26-美股长牛有多牛？美银预测：两年内再涨34%-至少涨到2030年！](https://www.cls.cn/detail/1629605)  
+- [2024-03-26-油市大行情要来了吗？对冲基金正以四年来最快速度买入石油](https://www.cls.cn/detail/1629667)  
+- [2024-03-26-最高判无期！足球领域腐败案件今日集中宣判](https://www.cls.cn/detail/1629674)  
+- [2024-03-26-响应FED“鹰声”？阿波罗首席：AI狂潮下今年恐难降息！](https://www.cls.cn/detail/1629726)  
 - [2024-03-25-美股收盘：英伟达再创新高-但昨夜的最大赢家是特朗普](https://www.cls.cn/detail/1629411)  
 - [2024-03-25-SWIFT的新目标：未来1-2年推出全球央行数字货币互联平台](https://www.cls.cn/detail/1629390)  
 - [2024-03-25-投行频繁下调特斯拉目标价-丰田大涨或反映油电攻守交替](https://www.cls.cn/detail/1629381)  
@@ -78,26 +78,26 @@
 </summary>
 
 
+- [2024-03-26-2024年全球互联网通信云IM+RTC行业研究报告](https://report.iresearch.cn/report/202403/4328.shtml) ![](/assets/new.png)  
 - [2024-03-25-2023年中国营销领域AIGC技术应用研究报告](https://report.iresearch.cn/report/202403/4327.shtml)  
 - [2024-03-21-2024年中国虚拟现实（VR）行业研究报告](https://report.iresearch.cn/report/202403/4326.shtml)  
 - [2024-03-14-2023年城市基础及公共服务类APP流量监测报告](https://report.iresearch.cn/report/202403/4325.shtml)  
 - [2024-03-13-2024年即时零售消费电子行业白皮书](https://report.iresearch.cn/report/202403/4324.shtml)  
 - [2024-03-12-2024情绪与健康睡眠白皮书](https://report.iresearch.cn/report/202403/4323.shtml)  
-- [2024-03-11-2024年中国毛发健康管理行业研究报告](https://report.iresearch.cn/report/202403/4322.shtml)  
 - [2024-03-11-2024年中国企业3C数码商用品电商采购白皮书](https://report.iresearch.cn/report/202403/4321.shtml)  
-- [2024-03-08-2024年中国健康管理行业研究报告](https://report.iresearch.cn/report/202403/4320.shtml)  
+- [2024-03-11-2024年中国毛发健康管理行业研究报告](https://report.iresearch.cn/report/202403/4322.shtml)  
 - [2024-03-08-云服务行业动态及热点研究月报-2024年2月](https://report.iresearch.cn/report/202403/4319.shtml)  
+- [2024-03-08-2024年中国健康管理行业研究报告](https://report.iresearch.cn/report/202403/4320.shtml)  
 - [2024-03-05-2023年中国移动互联网流量年度报告](https://report.iresearch.cn/report/202403/4318.shtml)  
 - [2024-03-04-为全人类-2024年中国民商参与航天产业现状及未来展望](https://report.iresearch.cn/report/202403/4317.shtml)  
 - [2024-02-29-2023年中国直播电商行业研究报告](https://report.iresearch.cn/report/202402/4316.shtml)  
 - [2024-02-06-2023年中国少女发育内衣行业发展白皮书](https://report.iresearch.cn/report/202402/4315.shtml)  
-- [2024-02-05-云服务行业动态及热点研究月报-2024年1月](https://report.iresearch.cn/report/202402/4313.shtml)  
 - [2024-02-05-2024年中国折叠屏手机市场消费洞察报告](https://report.iresearch.cn/report/202402/4314.shtml)  
-- [2024-02-04-2024年AIGC+教育行业报告](https://report.iresearch.cn/report/202402/4312.shtml)  
+- [2024-02-05-云服务行业动态及热点研究月报-2024年1月](https://report.iresearch.cn/report/202402/4313.shtml)  
 - [2024-02-04-2023年绿色出行旅行者趋势报告](https://report.iresearch.cn/report/202402/4311.shtml)  
-- [2024-02-02-2024年中国游戏社交创作者生态创新研究报告](https://report.iresearch.cn/report/202402/4308.shtml)  
+- [2024-02-04-2024年AIGC+教育行业报告](https://report.iresearch.cn/report/202402/4312.shtml)  
 - [2024-02-02-2023年元宇宙文化消费市场研究白皮书](https://report.iresearch.cn/report/202402/4310.shtml)  
-- [2024-02-01-润物有声V-2023年中国互联网科技产业发展趋势报告](https://report.iresearch.cn/report/202402/4307.shtml)  
+- [2024-02-02-2024年中国游戏社交创作者生态创新研究报告](https://report.iresearch.cn/report/202402/4308.shtml)  
 - [......【查看更多】......](/details/艾瑞.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
