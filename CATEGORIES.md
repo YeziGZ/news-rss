@@ -1,12 +1,12 @@
 ##
 
-:alarm_clock: 更新时间: 2024-03-28 02:38:12，:rocket: 更新条数: +8， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-03-28 06:35:31，:rocket: 更新条数: +15， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [36kr](#36kr)![](/assets/dot.png)   
 - [QuestMobile](#questmobile)  
-- [艾瑞](#艾瑞)  
+- [艾瑞](#艾瑞)![](/assets/dot.png)   
 
 ## 文章链接
 
@@ -16,26 +16,26 @@
 </summary>
 
 
-- [2024-03-28-跌破3000点是不是大摩“小作文”惹祸？排除法看，这次谁给下跌背锅](https://www.cls.cn/detail/1631930)  
-- [2024-03-28-美联储年内真难降息了？理事沃勒“不急四连”：应推迟或减少次数！](https://www.cls.cn/detail/1631898)  
-- [2024-03-28-3月28日投资避雷针：8天4板地产链人气股公告-预计在年报披露后将触及退市风险警示](https://www.cls.cn/detail/1631903)  
+- [2024-03-28-2023华尔街“最准预言家”放话：这类股票今年至少大涨50%](https://www.cls.cn/detail/1631968)  
+- [2024-03-28-低空经济概念盘后再迎利好，AI风险释放后有望再获资金回流](https://www.cls.cn/detail/1631963)  
+- [2024-03-28-10年期美债收益率下探两周低点-华尔街迎来小长假前最后交易日](https://www.cls.cn/detail/1631942)  
+- [2024-03-28-财联社债市早参3月28日-|-北京取消离婚购房限制，一线城市或将开启新一波松绑潮；有省份计划2028年末将融资平台数量压降一半](https://www.cls.cn/detail/1631916)  
+- [2024-03-28-美股又双叒叕创新高-小摩却坚持看空：美股随时会崩盘！](https://www.cls.cn/detail/1631910)  
 - [2024-03-28-AI独角兽获亚马逊追加大额投资-全球可可主产地再传坏消息-|-环球市场](https://www.cls.cn/detail/1631895)  
-- [2024-03-28-美股又双叒叕创新高-小摩却坚持看空：美股随时会崩盘！](https://www.cls.cn/detail/1631910) ![](/assets/new.png)  
-- [2024-03-28-财联社债市早参3月28日-|-北京取消离婚购房限制，一线城市或将开启新一波松绑潮；有省份计划2028年末将融资平台数量压降一半](https://www.cls.cn/detail/1631916) ![](/assets/new.png)  
-- [2024-03-28-10年期美债收益率下探两周低点-华尔街迎来小长假前最后交易日](https://www.cls.cn/detail/1631942) ![](/assets/new.png)  
-- [2024-03-28-低空经济概念盘后再迎利好，AI风险释放后有望再获资金回流](https://www.cls.cn/detail/1631963) ![](/assets/new.png)  
-- [2024-03-28-2023华尔街“最准预言家”放话：这类股票今年至少大涨50%](https://www.cls.cn/detail/1631968) ![](/assets/new.png)  
-- [2024-03-27-财联社汽车早报【3月28日】](https://www.cls.cn/detail/1631894)  
-- [2024-03-27-经济日报：切勿迷信海外“网红神药”，注意海淘药品安全风险](https://www.cls.cn/detail/1631889)  
-- [2024-03-27-中国男足原主教练李铁案今日一审开庭](https://www.cls.cn/detail/1631881)  
-- [2024-03-27-【数读IPO】今日2只新股上市，特斯拉、宁德时代“朋友圈共同好友”等在列](https://www.cls.cn/detail/1631870)  
-- [2024-03-27-港股3月28日早报：四部门提出培育载人空中交通新业态-港美股将因假期休市](https://www.cls.cn/detail/1631128)  
-- [2024-03-27-【早报】四部门联合发文！着力培育载人空中交通新业态；北京取消离婚三年内不得购房限制](https://www.cls.cn/detail/1631862)  
-- [2024-03-27-美股收盘：无惧英伟达持续调整-标普500指数小幅刷新收盘历史新高](https://www.cls.cn/detail/1631841)  
-- [2024-03-27-中东最大航司评“波音危机”：公司要转为由工程师驱动的治理模式](https://www.cls.cn/detail/1631815)  
-- [2024-03-27-美国网红券商开始“整顿”信用卡市场：3%消费返现-抢苹果生意](https://www.cls.cn/detail/1631775)  
-- [2024-03-27-研发、销售费用不断攀升-荣昌生物亏损扩大-现金流隐忧能否消散？|年报解读](https://www.cls.cn/detail/1631749)  
-- [2024-03-27-成立近7年后，苏宁银行获准更名为苏商银行，为运营后首家更名的民营银行](https://www.cls.cn/detail/1631741)  
+- [2024-03-28-3月28日投资避雷针：8天4板地产链人气股公告-预计在年报披露后将触及退市风险警示](https://www.cls.cn/detail/1631903)  
+- [2024-03-28-美联储年内真难降息了？理事沃勒“不急四连”：应推迟或减少次数！](https://www.cls.cn/detail/1631898)  
+- [2024-03-28-跌破3000点是不是大摩“小作文”惹祸？排除法看，这次谁给下跌背锅](https://www.cls.cn/detail/1631930)  
+- [2024-03-28-降通胀仍是首要任务！耶伦：美国家庭面临的这两大负担太重](https://www.cls.cn/detail/1631983) ![](/assets/new.png)  
+- [2024-03-28-私募龙头高毅资产持仓曝光：邓晓峰、冯柳、邱国鹭各有动作](https://www.cls.cn/detail/1632031) ![](/assets/new.png)  
+- [2024-03-28-四天暴涨近一倍后突然熄火？模因股Reddit进入多空大战](https://www.cls.cn/detail/1632001) ![](/assets/new.png)  
+- [2024-03-28-财政部对国家党政机关习惯过紧日子提出明确要求](https://www.cls.cn/detail/1632035) ![](/assets/new.png)  
+- [2024-03-28-上海：加快打造电子信息、生命健康、汽车、高端装备4个万亿级产业集群](https://www.cls.cn/detail/1632053) ![](/assets/new.png)  
+- [2024-03-28-中国中免绩后股价大涨近6%-Q4净利润同比增近3倍](https://www.cls.cn/detail/1632057) ![](/assets/new.png)  
+- [2024-03-28-融创中国：去年收入1542亿元，大部分项目层面贷款保持正常存续](https://www.cls.cn/detail/1632074) ![](/assets/new.png)  
+- [2024-03-28-中国足协：拟面向全国公开聘请足球社会监督员](https://www.cls.cn/detail/1632095) ![](/assets/new.png)  
+- [2024-03-28-大麻行业未来五年将翻两番？这只美股犹如“黑马”-隔夜上涨超32%](https://www.cls.cn/detail/1632085) ![](/assets/new.png)  
+- [2024-03-28-多家顶尖私募新持仓浮出水面：重阳、高瓴、淡水泉、睿郡等各有出手](https://www.cls.cn/detail/1632090) ![](/assets/new.png)  
+- [2024-03-28-罕见银行业绩披露后A、H股价双双大跌，光大银行行长紧急“灭火”：业绩不及预期主因是增提拨备](https://www.cls.cn/detail/1632140) ![](/assets/new.png)  
 - [......【查看更多】......](/details/36kr.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -78,6 +78,7 @@
 </summary>
 
 
+- [2024-03-28-2024年中国金融科技行发展洞察报告](https://report.iresearch.cn/report/202403/4330.shtml) ![](/assets/new.png)  
 - [2024-03-27-2024年中国供应链数字化行业研究报告](https://report.iresearch.cn/report/202403/4329.shtml)  
 - [2024-03-26-2024年全球互联网通信云IM+RTC行业研究报告](https://report.iresearch.cn/report/202403/4328.shtml)  
 - [2024-03-25-2023年中国营销领域AIGC技术应用研究报告](https://report.iresearch.cn/report/202403/4327.shtml)  
@@ -85,19 +86,18 @@
 - [2024-03-14-2023年城市基础及公共服务类APP流量监测报告](https://report.iresearch.cn/report/202403/4325.shtml)  
 - [2024-03-13-2024年即时零售消费电子行业白皮书](https://report.iresearch.cn/report/202403/4324.shtml)  
 - [2024-03-12-2024情绪与健康睡眠白皮书](https://report.iresearch.cn/report/202403/4323.shtml)  
-- [2024-03-11-2024年中国毛发健康管理行业研究报告](https://report.iresearch.cn/report/202403/4322.shtml)  
 - [2024-03-11-2024年中国企业3C数码商用品电商采购白皮书](https://report.iresearch.cn/report/202403/4321.shtml)  
-- [2024-03-08-2024年中国健康管理行业研究报告](https://report.iresearch.cn/report/202403/4320.shtml)  
+- [2024-03-11-2024年中国毛发健康管理行业研究报告](https://report.iresearch.cn/report/202403/4322.shtml)  
 - [2024-03-08-云服务行业动态及热点研究月报-2024年2月](https://report.iresearch.cn/report/202403/4319.shtml)  
+- [2024-03-08-2024年中国健康管理行业研究报告](https://report.iresearch.cn/report/202403/4320.shtml)  
 - [2024-03-05-2023年中国移动互联网流量年度报告](https://report.iresearch.cn/report/202403/4318.shtml)  
 - [2024-03-04-为全人类-2024年中国民商参与航天产业现状及未来展望](https://report.iresearch.cn/report/202403/4317.shtml)  
 - [2024-02-29-2023年中国直播电商行业研究报告](https://report.iresearch.cn/report/202402/4316.shtml)  
 - [2024-02-06-2023年中国少女发育内衣行业发展白皮书](https://report.iresearch.cn/report/202402/4315.shtml)  
-- [2024-02-05-云服务行业动态及热点研究月报-2024年1月](https://report.iresearch.cn/report/202402/4313.shtml)  
 - [2024-02-05-2024年中国折叠屏手机市场消费洞察报告](https://report.iresearch.cn/report/202402/4314.shtml)  
-- [2024-02-04-2024年AIGC+教育行业报告](https://report.iresearch.cn/report/202402/4312.shtml)  
+- [2024-02-05-云服务行业动态及热点研究月报-2024年1月](https://report.iresearch.cn/report/202402/4313.shtml)  
 - [2024-02-04-2023年绿色出行旅行者趋势报告](https://report.iresearch.cn/report/202402/4311.shtml)  
-- [2024-02-02-2024年中国游戏社交创作者生态创新研究报告](https://report.iresearch.cn/report/202402/4308.shtml)  
+- [2024-02-04-2024年AIGC+教育行业报告](https://report.iresearch.cn/report/202402/4312.shtml)  
 - [......【查看更多】......](/details/艾瑞.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
