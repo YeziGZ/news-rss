@@ -1,12 +1,12 @@
 ##
 
-:alarm_clock: 更新时间: 2024-04-01 02:41:43，:rocket: 更新条数: +7， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-04-01 04:35:48，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [36kr](#36kr)![](/assets/dot.png)   
+- [36kr](#36kr)  
 - [QuestMobile](#questmobile)  
-- [艾瑞](#艾瑞)  
+- [艾瑞](#艾瑞)![](/assets/dot.png)   
 
 ## 文章链接
 
@@ -19,11 +19,11 @@
 - [2024-04-01-冲破2250美元！现货黄金再创新高-美联储官员本周将“狂轰滥炸”](https://www.cls.cn/detail/1634938)  
 - [2024-04-01-中信证券：通过降准对冲特别国债供给压力的可能性比央行购买国债的可能性更大](https://www.cls.cn/detail/1634913)  
 - [2024-04-01-4月1日投资避雷针：又一只飞行汽车人气股遭高位减持-今年已涨超240%](https://www.cls.cn/detail/1634901)  
-- [2024-04-01-财联社债市早参4月1日-|3月中国PMI重回扩张区间，专家称债市调整风险有限；万达获近600亿资金支持](https://www.cls.cn/detail/1634919) ![](/assets/new.png)  
-- [2024-04-01-金价“狂飙”：首饰金价格逼近每克700元，还会再涨吗？](https://www.cls.cn/detail/1634930) ![](/assets/new.png)  
-- [2024-04-01-房企业绩会上的新目标](https://www.cls.cn/detail/1634953) ![](/assets/new.png)  
-- [2024-04-01-通感一体化概念或有望持续发酵，留意资源类周期方向的趋势性机会](https://www.cls.cn/detail/1634965) ![](/assets/new.png)  
-- [2024-04-01-挖机销量与开工时间亮眼表现的背后](https://www.cls.cn/detail/1634969) ![](/assets/new.png)  
+- [2024-04-01-财联社债市早参4月1日-|3月中国PMI重回扩张区间，专家称债市调整风险有限；万达获近600亿资金支持](https://www.cls.cn/detail/1634919)  
+- [2024-04-01-金价“狂飙”：首饰金价格逼近每克700元，还会再涨吗？](https://www.cls.cn/detail/1634930)  
+- [2024-04-01-房企业绩会上的新目标](https://www.cls.cn/detail/1634953)  
+- [2024-04-01-通感一体化概念或有望持续发酵，留意资源类周期方向的趋势性机会](https://www.cls.cn/detail/1634965)  
+- [2024-04-01-挖机销量与开工时间亮眼表现的背后](https://www.cls.cn/detail/1634969)  
 - [2024-03-31-【数读IPO】比亚迪朋友圈小伙伴-铝合金车轮“小巨人”今日申购](https://www.cls.cn/detail/1634851)  
 - [2024-03-31-【早报】3月份制造业PMI重返扩张区间；小米汽车将开启第二轮追加开售](https://www.cls.cn/detail/1634852)  
 - [2024-03-31-这些公募量化黑马业绩如何？马芳、盛丰衍、孙蒙的年报出炉](https://www.cls.cn/detail/1634827)  
@@ -78,6 +78,7 @@
 </summary>
 
 
+- [2024-04-01-2024年中国美颜影像类软件用户营销价值洞察报告](https://report.iresearch.cn/report/202404/4331.shtml) ![](/assets/new.png)  
 - [2024-03-28-2024年中国金融科技行发展洞察报告](https://report.iresearch.cn/report/202403/4330.shtml)  
 - [2024-03-27-2024年中国供应链数字化行业研究报告](https://report.iresearch.cn/report/202403/4329.shtml)  
 - [2024-03-26-2024年全球互联网通信云IM+RTC行业研究报告](https://report.iresearch.cn/report/202403/4328.shtml)  
@@ -86,17 +87,16 @@
 - [2024-03-14-2023年城市基础及公共服务类APP流量监测报告](https://report.iresearch.cn/report/202403/4325.shtml)  
 - [2024-03-13-2024年即时零售消费电子行业白皮书](https://report.iresearch.cn/report/202403/4324.shtml)  
 - [2024-03-12-2024情绪与健康睡眠白皮书](https://report.iresearch.cn/report/202403/4323.shtml)  
-- [2024-03-11-2024年中国企业3C数码商用品电商采购白皮书](https://report.iresearch.cn/report/202403/4321.shtml)  
 - [2024-03-11-2024年中国毛发健康管理行业研究报告](https://report.iresearch.cn/report/202403/4322.shtml)  
-- [2024-03-08-云服务行业动态及热点研究月报-2024年2月](https://report.iresearch.cn/report/202403/4319.shtml)  
+- [2024-03-11-2024年中国企业3C数码商用品电商采购白皮书](https://report.iresearch.cn/report/202403/4321.shtml)  
 - [2024-03-08-2024年中国健康管理行业研究报告](https://report.iresearch.cn/report/202403/4320.shtml)  
+- [2024-03-08-云服务行业动态及热点研究月报-2024年2月](https://report.iresearch.cn/report/202403/4319.shtml)  
 - [2024-03-05-2023年中国移动互联网流量年度报告](https://report.iresearch.cn/report/202403/4318.shtml)  
 - [2024-03-04-为全人类-2024年中国民商参与航天产业现状及未来展望](https://report.iresearch.cn/report/202403/4317.shtml)  
 - [2024-02-29-2023年中国直播电商行业研究报告](https://report.iresearch.cn/report/202402/4316.shtml)  
 - [2024-02-06-2023年中国少女发育内衣行业发展白皮书](https://report.iresearch.cn/report/202402/4315.shtml)  
-- [2024-02-05-2024年中国折叠屏手机市场消费洞察报告](https://report.iresearch.cn/report/202402/4314.shtml)  
 - [2024-02-05-云服务行业动态及热点研究月报-2024年1月](https://report.iresearch.cn/report/202402/4313.shtml)  
-- [2024-02-04-2023年绿色出行旅行者趋势报告](https://report.iresearch.cn/report/202402/4311.shtml)  
+- [2024-02-05-2024年中国折叠屏手机市场消费洞察报告](https://report.iresearch.cn/report/202402/4314.shtml)  
 - [2024-02-04-2024年AIGC+教育行业报告](https://report.iresearch.cn/report/202402/4312.shtml)  
 - [......【查看更多】......](/details/艾瑞.md)
 
