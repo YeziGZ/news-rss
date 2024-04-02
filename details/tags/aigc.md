@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-04-02 10:35:37。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-04-02 12:48:16。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## AIGC
 
@@ -78,10 +78,11 @@
 - [2023-09-28-OpenAI开发者大会将至，人工智能产业趋势加速，可关注标的一览](https://www.cls.cn/detail/1474896) 
 - [2023-09-27-券商晨会精华：多模态大模型推动AI迈向“通感”时代-算力需求将大幅提升](https://www.cls.cn/detail/1473761) 
 - [2023-09-27-美油创13个月以来新高-ChatGPT再迎重磅升级-|-环球市场](https://www.cls.cn/detail/1474834) 
+- [2024-04-02-QuestMobile2023年中国营销市场洞察·行业篇：从“血海厮杀”到“近身肉搏”，六大行业营销模型加速重塑……](https://www.questmobile.com.cn/research/report/1775049371471155202) 
 - [2024-03-12-QuestMobile2024生成式AI及AIGC应用洞察报告：头部APP应用去重月活用户突破5000万，C端、B端机会蜂拥而至](https://www.questmobile.com.cn/research/report/1767395734913650690) 
-- [2023-12-13-QuestMobile2023“00后人群”洞察：月活1.5亿的“原生数字生活模型”，月人均使用173小时，二线以上占50.6%](https://www.questmobile.com.cn/research/report/1663445275258228738) 
-- [2023-12-13-QuestMobile2022中国互联网广告市场洞察：总量突破6600亿元，头部平台强化流量内转化，AIGC等技术持续搅动市场](https://www.questmobile.com.cn/research/report/1640626113196691458) 
 - [2023-12-13-QuestMobile-2023-“AIGC兴趣用户”洞察报告：AI绘画用户超千万，大厂创业者争抢布局，移动互联网新风口已至](https://www.questmobile.com.cn/research/report/1645677910684700674) 
+- [2023-12-13-QuestMobile2022中国互联网广告市场洞察：总量突破6600亿元，头部平台强化流量内转化，AIGC等技术持续搅动市场](https://www.questmobile.com.cn/research/report/1640626113196691458) 
+- [2023-12-13-QuestMobile2023“00后人群”洞察：月活1.5亿的“原生数字生活模型”，月人均使用173小时，二线以上占50.6%](https://www.questmobile.com.cn/research/report/1663445275258228738) 
 - [2024-03-25-2023年中国营销领域AIGC技术应用研究报告](https://report.iresearch.cn/report/202403/4327.shtml) 
 - [2024-02-04-2024年AIGC+教育行业报告](https://report.iresearch.cn/report/202402/4312.shtml) 
 - [2024-01-12-2023年AIGC场景应用展望研究报告](https://report.iresearch.cn/report/202401/4294.shtml) 
