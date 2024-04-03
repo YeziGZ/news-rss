@@ -1,12 +1,12 @@
 ##
 
-:alarm_clock: 更新时间: 2024-04-03 05:35:34，:rocket: 更新条数: +13， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-04-03 07:36:28，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [36kr](#36kr)![](/assets/dot.png)   
 - [QuestMobile](#questmobile)  
-- [艾瑞](#艾瑞)  
+- [艾瑞](#艾瑞)![](/assets/dot.png)   
 
 ## 文章链接
 
@@ -16,26 +16,26 @@
 </summary>
 
 
-- [2024-04-03-低空经济概念股陷入调整，周期股与固态电池或有望接棒领涨主线](https://www.cls.cn/detail/1637202)  
-- [2024-04-03-降息推迟担忧笼罩：美债收益率创年内新高-美股也开始感受到“寒意”](https://www.cls.cn/detail/1637187)  
-- [2024-04-03-突发！中国台湾花莲县海域发生7.3级地震-台积电部分停机](https://www.cls.cn/detail/1637188)  
-- [2024-04-03-券商晨会精华：未来黄金和美股或从当前的共振上涨转为分化](https://www.cls.cn/detail/1637158)  
-- [2024-04-03-自然资源部海啸预警中心发布海啸Ⅰ级警报](https://www.cls.cn/detail/1637162)  
-- [2024-04-03-财联社汽车早报【4月3日】](https://www.cls.cn/detail/1637164)  
-- [2024-04-03-全球深陷“甜蜜危机”：可可价格再创新高-最大生产国收成大幅减少](https://www.cls.cn/detail/1637145)  
-- [2024-04-03-电影《大空头》原型辣评美股：美联储降息才是最大的威胁！](https://www.cls.cn/detail/1637134)  
-- [2024-04-03-4月3日投资避雷针：7连涨停后3连跌停！宁科生物将被实施ST及公开谴责警示](https://www.cls.cn/detail/1637143)  
+- [2024-04-03-【财联社午报】三大指数均小幅收跌，周期股持续活跃，两市炸板率超5成](https://www.cls.cn/detail/1637409)  
+- [2024-04-03-不限户籍，义乌对二孩、三孩家庭购买新房各补贴十万、二十万](https://www.cls.cn/detail/1637388)  
+- [2024-04-03-特斯拉失落小米热销-车市迎来新格局-蔚来和小鹏今日领跌](https://www.cls.cn/detail/1637323)  
+- [2024-04-03-油价大涨白宫“懵了”：紧忙喊停补充战略储备计划！](https://www.cls.cn/detail/1637354)  
+- [2024-04-03-2023华尔街“最准预言家”放话：美联储基准利率仍有望在6月首降！](https://www.cls.cn/detail/1637358)  
+- [2024-04-03-新妖股DJT暴跌之际-大股东特朗普与其他两名创始人反目成仇](https://www.cls.cn/detail/1637350)  
+- [2024-04-03-“普惠金融推进月”密集落地，河北、内蒙古监管部门最新发声，3月份以来多地均有动作](https://www.cls.cn/detail/1637349)  
+- [2024-04-03-美股涨势不可持续？小摩：与联储降息时间表的脱节正加剧！](https://www.cls.cn/detail/1637263)  
+- [2024-04-03-高盛唱多“三桶油”之际：能源股也正领涨美股大盘-爆发秘诀何在？](https://www.cls.cn/detail/1637287)  
+- [2024-04-03-华泰证券：铝中期价格中枢或逐步上移](https://www.cls.cn/detail/1637217)  
+- [2024-04-03-台湾地区发生中强地震，会影响上海高层建筑吗？上海市地震局解答](https://www.cls.cn/detail/1637239)  
+- [2024-04-03-2023年全国涉房收并购同比下降7.1%，公寓和酒店回暖](https://www.cls.cn/detail/1637204)  
 - [2024-04-03-中国台湾附近发生7.4级左右地震](https://www.cls.cn/detail/1637139)  
-- [2024-04-03-2023年全国涉房收并购同比下降7.1%，公寓和酒店回暖](https://www.cls.cn/detail/1637204) ![](/assets/new.png)  
-- [2024-04-03-台湾地区发生中强地震，会影响上海高层建筑吗？上海市地震局解答](https://www.cls.cn/detail/1637239) ![](/assets/new.png)  
-- [2024-04-03-华泰证券：铝中期价格中枢或逐步上移](https://www.cls.cn/detail/1637217) ![](/assets/new.png)  
-- [2024-04-03-高盛唱多“三桶油”之际：能源股也正领涨美股大盘-爆发秘诀何在？](https://www.cls.cn/detail/1637287) ![](/assets/new.png)  
-- [2024-04-03-美股涨势不可持续？小摩：与联储降息时间表的脱节正加剧！](https://www.cls.cn/detail/1637263) ![](/assets/new.png)  
-- [2024-04-03-“普惠金融推进月”密集落地，河北、内蒙古监管部门最新发声，3月份以来多地均有动作](https://www.cls.cn/detail/1637349) ![](/assets/new.png)  
-- [2024-04-03-新妖股DJT暴跌之际-大股东特朗普与其他两名创始人反目成仇](https://www.cls.cn/detail/1637350) ![](/assets/new.png)  
-- [2024-04-03-2023华尔街“最准预言家”放话：美联储基准利率仍有望在6月首降！](https://www.cls.cn/detail/1637358) ![](/assets/new.png)  
-- [2024-04-03-油价大涨白宫“懵了”：紧忙喊停补充战略储备计划！](https://www.cls.cn/detail/1637354) ![](/assets/new.png)  
-- [2024-04-03-特斯拉失落小米热销-车市迎来新格局-蔚来和小鹏今日领跌](https://www.cls.cn/detail/1637323) ![](/assets/new.png)  
+- [2024-04-03-4月3日投资避雷针：7连涨停后3连跌停！宁科生物将被实施ST及公开谴责警示](https://www.cls.cn/detail/1637143)  
+- [2024-04-03-电影《大空头》原型辣评美股：美联储降息才是最大的威胁！](https://www.cls.cn/detail/1637134)  
+- [2024-04-03-全球深陷“甜蜜危机”：可可价格再创新高-最大生产国收成大幅减少](https://www.cls.cn/detail/1637145)  
+- [2024-04-03-财联社汽车早报【4月3日】](https://www.cls.cn/detail/1637164)  
+- [2024-04-03-自然资源部海啸预警中心发布海啸Ⅰ级警报](https://www.cls.cn/detail/1637162)  
+- [2024-04-03-券商晨会精华：未来黄金和美股或从当前的共振上涨转为分化](https://www.cls.cn/detail/1637158)  
+- [2024-04-03-突发！中国台湾花莲县海域发生7.3级地震-台积电部分停机](https://www.cls.cn/detail/1637188)  
 - [......【查看更多】......](/details/36kr.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -78,6 +78,7 @@
 </summary>
 
 
+- [2024-04-03-2024年中国采购数字化平台行业研究报告](https://report.iresearch.cn/report/202404/4332.shtml) ![](/assets/new.png)  
 - [2024-04-01-2024年中国美颜影像类软件用户营销价值洞察报告](https://report.iresearch.cn/report/202404/4331.shtml)  
 - [2024-03-28-2024年中国金融科技行发展洞察报告](https://report.iresearch.cn/report/202403/4330.shtml)  
 - [2024-03-27-2024年中国供应链数字化行业研究报告](https://report.iresearch.cn/report/202403/4329.shtml)  
@@ -87,17 +88,16 @@
 - [2024-03-14-2023年城市基础及公共服务类APP流量监测报告](https://report.iresearch.cn/report/202403/4325.shtml)  
 - [2024-03-13-2024年即时零售消费电子行业白皮书](https://report.iresearch.cn/report/202403/4324.shtml)  
 - [2024-03-12-2024情绪与健康睡眠白皮书](https://report.iresearch.cn/report/202403/4323.shtml)  
-- [2024-03-11-2024年中国毛发健康管理行业研究报告](https://report.iresearch.cn/report/202403/4322.shtml)  
 - [2024-03-11-2024年中国企业3C数码商用品电商采购白皮书](https://report.iresearch.cn/report/202403/4321.shtml)  
-- [2024-03-08-2024年中国健康管理行业研究报告](https://report.iresearch.cn/report/202403/4320.shtml)  
+- [2024-03-11-2024年中国毛发健康管理行业研究报告](https://report.iresearch.cn/report/202403/4322.shtml)  
 - [2024-03-08-云服务行业动态及热点研究月报-2024年2月](https://report.iresearch.cn/report/202403/4319.shtml)  
+- [2024-03-08-2024年中国健康管理行业研究报告](https://report.iresearch.cn/report/202403/4320.shtml)  
 - [2024-03-05-2023年中国移动互联网流量年度报告](https://report.iresearch.cn/report/202403/4318.shtml)  
 - [2024-03-04-为全人类-2024年中国民商参与航天产业现状及未来展望](https://report.iresearch.cn/report/202403/4317.shtml)  
 - [2024-02-29-2023年中国直播电商行业研究报告](https://report.iresearch.cn/report/202402/4316.shtml)  
 - [2024-02-06-2023年中国少女发育内衣行业发展白皮书](https://report.iresearch.cn/report/202402/4315.shtml)  
-- [2024-02-05-云服务行业动态及热点研究月报-2024年1月](https://report.iresearch.cn/report/202402/4313.shtml)  
 - [2024-02-05-2024年中国折叠屏手机市场消费洞察报告](https://report.iresearch.cn/report/202402/4314.shtml)  
-- [2024-02-04-2024年AIGC+教育行业报告](https://report.iresearch.cn/report/202402/4312.shtml)  
+- [2024-02-05-云服务行业动态及热点研究月报-2024年1月](https://report.iresearch.cn/report/202402/4313.shtml)  
 - [......【查看更多】......](/details/艾瑞.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
