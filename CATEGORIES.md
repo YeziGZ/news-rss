@@ -1,12 +1,12 @@
 ##
 
-:alarm_clock: 更新时间: 2024-04-07 06:35:37，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-04-07 07:35:33，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [36kr](#36kr)![](/assets/dot.png)   
+- [36kr](#36kr)  
 - [QuestMobile](#questmobile)  
-- [艾瑞](#艾瑞)  
+- [艾瑞](#艾瑞)![](/assets/dot.png)   
 
 ## 文章链接
 
@@ -27,8 +27,8 @@
 - [2024-04-07-管你降不降息-黄金狂飙站上2300美元背后：已视美联储为无物？](https://www.cls.cn/detail/1639183)  
 - [2024-04-07-又一省通报“白名单”最新进展，河北3月底已推送并审批授信110个项目，3月来7地监管局表态](https://www.cls.cn/detail/1639212)  
 - [2024-04-07-财联社C50风向指数调查：3月信贷社融增速同比回落-资金面趋于宽松-MLF延续小幅缩量续作](https://www.cls.cn/detail/1639221)  
-- [2024-04-07-美国大选“圈钱”大战硝烟四起！拜登暂时占据上风](https://www.cls.cn/detail/1639198) ![](/assets/new.png)  
-- [2024-04-07-男孩“想当行长继承家业”，农发行正式回应！](https://www.cls.cn/detail/1639284) ![](/assets/new.png)  
+- [2024-04-07-美国大选“圈钱”大战硝烟四起！拜登暂时占据上风](https://www.cls.cn/detail/1639198)  
+- [2024-04-07-男孩“想当行长继承家业”，农发行正式回应！](https://www.cls.cn/detail/1639284)  
 - [2024-04-06-经济日报金观平：打破信用壁垒提升融资便利](https://www.cls.cn/detail/1639089)  
 - [2024-04-06-环球下周看点：美国CPI、PPI数据重磅登场-聚焦中东地缘政治风险](https://www.cls.cn/detail/1639076)  
 - [2024-04-06-千钧一发！伊朗真要出手？美国已处于高度戒备状态](https://www.cls.cn/detail/1639074)  
@@ -78,6 +78,7 @@
 </summary>
 
 
+- [2024-04-07-2024年中国防晒衣行业标准白皮书](https://report.iresearch.cn/report/202404/4333.shtml) ![](/assets/new.png)  
 - [2024-04-03-2024年中国采购数字化平台行业研究报告](https://report.iresearch.cn/report/202404/4332.shtml)  
 - [2024-04-01-2024年中国美颜影像类软件用户营销价值洞察报告](https://report.iresearch.cn/report/202404/4331.shtml)  
 - [2024-03-28-2024年中国金融科技行发展洞察报告](https://report.iresearch.cn/report/202403/4330.shtml)  
@@ -88,15 +89,14 @@
 - [2024-03-14-2023年城市基础及公共服务类APP流量监测报告](https://report.iresearch.cn/report/202403/4325.shtml)  
 - [2024-03-13-2024年即时零售消费电子行业白皮书](https://report.iresearch.cn/report/202403/4324.shtml)  
 - [2024-03-12-2024情绪与健康睡眠白皮书](https://report.iresearch.cn/report/202403/4323.shtml)  
-- [2024-03-11-2024年中国企业3C数码商用品电商采购白皮书](https://report.iresearch.cn/report/202403/4321.shtml)  
 - [2024-03-11-2024年中国毛发健康管理行业研究报告](https://report.iresearch.cn/report/202403/4322.shtml)  
-- [2024-03-08-云服务行业动态及热点研究月报-2024年2月](https://report.iresearch.cn/report/202403/4319.shtml)  
+- [2024-03-11-2024年中国企业3C数码商用品电商采购白皮书](https://report.iresearch.cn/report/202403/4321.shtml)  
 - [2024-03-08-2024年中国健康管理行业研究报告](https://report.iresearch.cn/report/202403/4320.shtml)  
+- [2024-03-08-云服务行业动态及热点研究月报-2024年2月](https://report.iresearch.cn/report/202403/4319.shtml)  
 - [2024-03-05-2023年中国移动互联网流量年度报告](https://report.iresearch.cn/report/202403/4318.shtml)  
 - [2024-03-04-为全人类-2024年中国民商参与航天产业现状及未来展望](https://report.iresearch.cn/report/202403/4317.shtml)  
 - [2024-02-29-2023年中国直播电商行业研究报告](https://report.iresearch.cn/report/202402/4316.shtml)  
 - [2024-02-06-2023年中国少女发育内衣行业发展白皮书](https://report.iresearch.cn/report/202402/4315.shtml)  
-- [2024-02-05-2024年中国折叠屏手机市场消费洞察报告](https://report.iresearch.cn/report/202402/4314.shtml)  
 - [2024-02-05-云服务行业动态及热点研究月报-2024年1月](https://report.iresearch.cn/report/202402/4313.shtml)  
 - [......【查看更多】......](/details/艾瑞.md)
 
