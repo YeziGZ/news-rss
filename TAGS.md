@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-04-06 02:04:03。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-04-07 02:37:52。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -29,20 +29,20 @@
 - [【36kr】Kimi引领大模型长文本处理投资热潮，以下方向或有望率先受益](https://www.cls.cn/detail/1628405)
 - [【36kr】周末要闻汇总：国常会再提优化房地产政策，财跃星辰发布国内首个千亿参数多模态金融大模型](https://www.cls.cn/detail/1628193)
 - [【36kr】【明日主题前瞻】大模型和该领域天然适配，或成为AI落地最佳应用场景](https://www.cls.cn/detail/1624914)
-- [【36kr】比特币盘中突破70000美元关口-奥特曼重返OpenAI董事会-|-环球市场](https://www.cls.cn/detail/1615037)
 - [【36kr】力挺TikTok？特朗普：Facebook才是美国人的敌人](https://www.cls.cn/detail/1614927)
+- [【36kr】比特币盘中突破70000美元关口-奥特曼重返OpenAI董事会-|-环球市场](https://www.cls.cn/detail/1615037)
 - [【36kr】两会时间|全国人大代表、中国铁塔董事长张志勇：推进AI硬件计算100%国产化-助力行业大模型高质量发展](https://www.cls.cn/detail/1611187)
 - [【36kr】【明日主题前瞻】大模型加速赋能内容创作变革，国内首部AI全流程制作微短剧来了](https://www.cls.cn/detail/1609261)
 - [【36kr】奥尔特曼的身价几何？至少20亿美元-但与OpenAI毫无关系](https://www.cls.cn/detail/1608824)
 - [【36kr】图解2月大事件：吴清出任证监会主席-OpenAI发布王炸产品](https://www.cls.cn/detail/1607430)
-- [【36kr】【明日主题前瞻】获微软入股，该AI新贵发布旗舰大模型产品](https://www.cls.cn/detail/1605181)
 - [【36kr】谷歌发布AI基础世界模型-传Meta将于秋季展示AR眼镜-|-今夜看点](https://www.cls.cn/detail/1605246)
+- [【36kr】【明日主题前瞻】获微软入股，该AI新贵发布旗舰大模型产品](https://www.cls.cn/detail/1605181)
 - [【36kr】Vision-Pro会否掀起商业银行新一轮技术内卷？招商银行首家适配visionOS，去年多家银行“鏖战”大模型](https://www.cls.cn/detail/1604228)
 - [【36kr】【明日主题前瞻】马斯克旗下大模型产品再迎新进展，Grok-V1.5或将两周后发布](https://www.cls.cn/detail/1601045)
-- [【36kr】券商晨会精华：Sora大模型的发布将进一步拉大算力缺口](https://www.cls.cn/detail/1598524)
 - [【36kr】马芳、冯明远四季度首度重仓Sora概念股，能否复制ChatGPT火爆行情？券商建议关注算力产业链](https://www.cls.cn/detail/1598545)
-- [【36kr】文生视频大模型Sora引发市场关注-美图公司和商汤一度涨超4%](https://www.cls.cn/detail/1597521)
+- [【36kr】券商晨会精华：Sora大模型的发布将进一步拉大算力缺口](https://www.cls.cn/detail/1598524)
 - [【36kr】AI大模型应用层面爆发-支付宝正经历第二次技术迭代](https://www.cls.cn/detail/1597865)
+- [【36kr】文生视频大模型Sora引发市场关注-美图公司和商汤一度涨超4%](https://www.cls.cn/detail/1597521)
 - [......【查看更多】......](/details/tags/aigc.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -59,26 +59,26 @@
 
 
 
+- [【36kr】西安理工大学科研团队实现对斜程能见度精确测量](https://www.cls.cn/detail/1639097)
+- [【36kr】美联储恐飞出“黑天鹅”？越来越多经济学家预计：年内降息都没戏！](https://www.cls.cn/detail/1639106)
+- [【36kr】南部战区组织联合海空战巡，一切搅局南海的军事活动尽在掌握](https://www.cls.cn/detail/1639125)
+- [【36kr】“高空坠落”的苹果还有救吗？华尔街热议：未来前景关键在这……](https://www.cls.cn/detail/1639129)
+- [【36kr】一季度GDP将公布-这些亮眼数据透露重要信息](https://www.cls.cn/detail/1639166)
 - [【36kr】“6月首降梦”破灭？美联储多位高管密集放鹰：现在不考虑降息！](https://www.cls.cn/detail/1638883)
-- [【36kr】高盛安抚市场提振美股指期货-市场屏息静待非农报告-|今夜看点](https://www.cls.cn/detail/1638743)
-- [【36kr】有色铝上游资源告急！铝土矿供需缺口达负千万吨，受益上市公司梳理](https://www.cls.cn/detail/1638701)
-- [【36kr】美股“黑天鹅”振翅欲飞？重磅非农今晚来袭-美联储屏息以待](https://www.cls.cn/detail/1638696)
-- [【36kr】港股三大指数急跌后回稳-黄金及家电板块逆市走强](https://www.cls.cn/detail/1638679)
-- [【36kr】利空突袭！中海油田服务大跌超18%-石油板块集体走弱](https://www.cls.cn/detail/1638568)
-- [【36kr】美联储降息预期扰动港股-宏观数据迎来持续利好|港股风向标](https://www.cls.cn/detail/1638737)
-- [【36kr】国家能源局公示生物柴油推广应用试点！龙头20CM涨停，受益上市公司梳理](https://www.cls.cn/detail/1638764)
-- [【36kr】大超预期！美国3月就业人数激增30.3万-美联储6月降息要黄了？](https://www.cls.cn/detail/1638774)
-- [【36kr】罕见一日内5家IPO企业集体撤单，保荐券商多头部，5家企业各有何隐忧？](https://www.cls.cn/detail/1638778)
-- [【36kr】公募分红哪家强？债基担纲分红主力，指数类贡献率提升，华泰柏瑞沪深300ETF分红25亿居首](https://www.cls.cn/detail/1638788)
-- [【36kr】越来越鹰！美联储鲍曼：如果通胀居高不下-可能需要进一步加息](https://www.cls.cn/detail/1638834)
-- [【36kr】纽约地区发生140年来最大地震-影响有多大？](https://www.cls.cn/detail/1638847)
-- [【36kr】美股收盘：强劲非农打压降息预期-三大股指依旧集体走高](https://www.cls.cn/detail/1638858)
+- [【36kr】六大行网点去年仍然净减少，773家退出291家新设，存量网点超过10万家，县域成发力重点](https://www.cls.cn/detail/1638933)
+- [【36kr】华尔街最乐观预测：标普500至明年底还能上涨25%，降息幅度料大超预期！](https://www.cls.cn/detail/1638943)
+- [【36kr】沙特阿美重新审视生产计划-多家钻井平台接通知停运至多一年](https://www.cls.cn/detail/1638960)
+- [【36kr】北向资金大额扫货名单来了！宁王、茅台冰火两重天](https://www.cls.cn/detail/1639000)
+- [【36kr】中国海警局新闻发言人就菲律宾侵闯鲎藤礁发表谈话](https://www.cls.cn/detail/1638984)
+- [【36kr】突破8.23亿！清明档票房刷新影史纪录](https://www.cls.cn/detail/1639025)
+- [【36kr】2024年清明节假期国内旅游出游1.19亿人次，国内游客出游花费539.5亿元](https://www.cls.cn/detail/1639062)
+- [【36kr】千钧一发！伊朗真要出手？美国已处于高度戒备状态](https://www.cls.cn/detail/1639074)
+- [【36kr】环球下周看点：美国CPI、PPI数据重磅登场-聚焦中东地缘政治风险](https://www.cls.cn/detail/1639076)
+- [【36kr】经济日报金观平：打破信用壁垒提升融资便利](https://www.cls.cn/detail/1639089)
 - [【36kr】特斯拉即将推出无人驾驶出租车-以色列临时关闭28个驻外使馆-|-环球市场](https://www.cls.cn/detail/1638868)
-- [【36kr】方圆生活服务腾挪与发不出来的年报](https://www.cls.cn/detail/1638301)
-- [【36kr】财联社汽车早报【4月4日】](https://www.cls.cn/detail/1638231)
-- [【36kr】清明假期首日，全国铁路预计发送旅客1750万人次](https://www.cls.cn/detail/1638266)
-- [【36kr】证券业去年净赚1378亿，时隔4年自营再成第一收入，产品代销占经纪净收入比重13%](https://www.cls.cn/detail/1638284)
-- [【36kr】年内第9家！彤程新材股东超比例减持收证监会罚单后承诺购回，此前已有来伊份、盛弘股份和太辰光等上市公司发生类似案例](https://www.cls.cn/detail/1638275)
+- [【36kr】美股收盘：强劲非农打压降息预期-三大股指依旧集体走高](https://www.cls.cn/detail/1638858)
+- [【36kr】纽约地区发生140年来最大地震-影响有多大？](https://www.cls.cn/detail/1638847)
+- [【36kr】越来越鹰！美联储鲍曼：如果通胀居高不下-可能需要进一步加息](https://www.cls.cn/detail/1638834)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
