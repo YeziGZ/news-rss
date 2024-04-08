@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-04-08 13:35:18。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-04-08 23:36:12。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -31,18 +31,18 @@
 - [【36kr】Kimi引领大模型长文本处理投资热潮，以下方向或有望率先受益](https://www.cls.cn/detail/1628405)
 - [【36kr】周末要闻汇总：国常会再提优化房地产政策，财跃星辰发布国内首个千亿参数多模态金融大模型](https://www.cls.cn/detail/1628193)
 - [【36kr】【明日主题前瞻】大模型和该领域天然适配，或成为AI落地最佳应用场景](https://www.cls.cn/detail/1624914)
-- [【36kr】力挺TikTok？特朗普：Facebook才是美国人的敌人](https://www.cls.cn/detail/1614927)
 - [【36kr】比特币盘中突破70000美元关口-奥特曼重返OpenAI董事会-|-环球市场](https://www.cls.cn/detail/1615037)
+- [【36kr】力挺TikTok？特朗普：Facebook才是美国人的敌人](https://www.cls.cn/detail/1614927)
 - [【36kr】两会时间|全国人大代表、中国铁塔董事长张志勇：推进AI硬件计算100%国产化-助力行业大模型高质量发展](https://www.cls.cn/detail/1611187)
 - [【36kr】【明日主题前瞻】大模型加速赋能内容创作变革，国内首部AI全流程制作微短剧来了](https://www.cls.cn/detail/1609261)
 - [【36kr】奥尔特曼的身价几何？至少20亿美元-但与OpenAI毫无关系](https://www.cls.cn/detail/1608824)
 - [【36kr】图解2月大事件：吴清出任证监会主席-OpenAI发布王炸产品](https://www.cls.cn/detail/1607430)
-- [【36kr】谷歌发布AI基础世界模型-传Meta将于秋季展示AR眼镜-|-今夜看点](https://www.cls.cn/detail/1605246)
 - [【36kr】【明日主题前瞻】获微软入股，该AI新贵发布旗舰大模型产品](https://www.cls.cn/detail/1605181)
+- [【36kr】谷歌发布AI基础世界模型-传Meta将于秋季展示AR眼镜-|-今夜看点](https://www.cls.cn/detail/1605246)
 - [【36kr】Vision-Pro会否掀起商业银行新一轮技术内卷？招商银行首家适配visionOS，去年多家银行“鏖战”大模型](https://www.cls.cn/detail/1604228)
 - [【36kr】【明日主题前瞻】马斯克旗下大模型产品再迎新进展，Grok-V1.5或将两周后发布](https://www.cls.cn/detail/1601045)
-- [【36kr】马芳、冯明远四季度首度重仓Sora概念股，能否复制ChatGPT火爆行情？券商建议关注算力产业链](https://www.cls.cn/detail/1598545)
 - [【36kr】券商晨会精华：Sora大模型的发布将进一步拉大算力缺口](https://www.cls.cn/detail/1598524)
+- [【36kr】马芳、冯明远四季度首度重仓Sora概念股，能否复制ChatGPT火爆行情？券商建议关注算力产业链](https://www.cls.cn/detail/1598545)
 - [......【查看更多】......](/details/tags/aigc.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】一图看懂-|-金价涨！涨！涨！哪些国家的央行赚翻了?](https://www.cls.cn/detail/1640530)
-- [【36kr】又一批进口游戏版号来了！14款新游获批-海外成熟IP游戏居多](https://www.cls.cn/detail/1640630)
-- [【36kr】一日之内四城出台公积金新政-北京、广州相继上调贷款额度](https://www.cls.cn/detail/1640620)
-- [【36kr】二十届中央第三轮巡视将对国家发展改革委、财政部、中国人民银行、证监会等34家单位党委（党组）开展常规巡视](https://www.cls.cn/detail/1640613)
-- [【36kr】财政部副部长廖岷就美国财政部部长耶伦访华情况向媒体吹风并答问](https://www.cls.cn/detail/1640603)
-- [【36kr】宽松信号持续释放-4地同日出台公积金优化新政-业内呼吁：一线城市仍有较多工具-及时介入至关重要](https://www.cls.cn/detail/1640567)
-- [【36kr】央行5000亿再贷款工具刚刚创设，安徽跟进部署发展科技金融，3月来多地监管局发声引导金融活水](https://www.cls.cn/detail/1640515)
-- [【36kr】【数据看盘】北向资金减仓茅台超10亿-机构活跃度显著下降](https://www.cls.cn/detail/1640492)
-- [【36kr】游企Q2扎堆“上新”-重量级大作将上演激烈对决](https://www.cls.cn/detail/1640475)
-- [【36kr】长江证券一场“万人大会”刷屏，周期板块持续受追捧，分析师：不再预判涨跌了](https://www.cls.cn/detail/1640485)
-- [【36kr】知名科技爆料人：苹果正研究智能家居-新iPad-Pro估计要涨价](https://www.cls.cn/detail/1640461)
-- [【36kr】国债也闪崩，暴跌10%停牌！区区2.97万元惹大祸，或为乌龙指？](https://www.cls.cn/detail/1640429)
-- [【36kr】IPO检查比例不低于25%，较2023提高5倍！证监会部署最新KPI，监管监测审查资金增两成](https://www.cls.cn/detail/1640465)
-- [【36kr】【焦点复盘】赛道股疲软拖累指数收三连阴，资源股午后分化，电力板块逆势领涨](https://www.cls.cn/detail/1640414)
-- [【36kr】气泡黄酒去年抖音卖出400万-会稽山年轻化“有戏”？|直击业绩会](https://www.cls.cn/detail/1640404)
-- [【36kr】周期风格再回归？机构激辩市场影响！实物资产正在崛起还是已到高位？](https://www.cls.cn/detail/1639823)
-- [【36kr】高管遭炮轰？万泰生物业绩会气氛“热烈”，HPV疫苗仍是焦点|直击业绩会](https://www.cls.cn/detail/1640246)
-- [【36kr】美股财报季本周开幕：“七巨头”仍是盈利领头羊-五大投资主题可关注](https://www.cls.cn/detail/1639979)
-- [【36kr】一文读懂：以军完全撤出加沙南部-是为休整还是为应对更大威胁？](https://www.cls.cn/detail/1639887)
-- [【36kr】中信建投：贵金属与工业金属价格突破上行](https://www.cls.cn/detail/1639837)
+- [【36kr】父母忙做T，亏钱又坑儿？上市公司董事长、总经理两兄弟拟各罚80万](https://www.cls.cn/detail/1640756)
+- [【36kr】马斯克重磅承诺助特斯拉走高-台积电获百亿资金支持-|-今夜看点](https://www.cls.cn/detail/1640736)
+- [【36kr】细节揭秘：耶伦此访，谈得怎么样？](https://www.cls.cn/detail/1640698)
+- [【36kr】券商首席“上头式”高呼：煤炭超越茅台，“茅台只是消费升级幻觉，煤炭信仰正在确立”](https://www.cls.cn/detail/1640692)
+- [【36kr】快Neuralink一步！脑机接口公司Synchron准备进行大规模植入试验](https://www.cls.cn/detail/1640695)
+- [【36kr】这位基金经理堪称“老鼠仓”专业户，公募时搞，跳槽私募还接着搞](https://www.cls.cn/detail/1640672)
+- [【36kr】净利润超23亿元-1700亿免税龙头发布一季度业绩快报|盘后公告集锦](https://www.cls.cn/detail/1640666)
+- [【36kr】【明日主题前瞻】全国首套成功研制，行业龙头重押该细分领域](https://www.cls.cn/detail/1640495)
+- [【36kr】李强主持召开经济形势专家和企业家座谈会](https://www.cls.cn/detail/1640660)
+- [【36kr】铜铝开启补涨资源股全线飘红-汽车板块连续获政策刺激｜港股风向标](https://www.cls.cn/detail/1640650)
+- [【36kr】疯狂的金价：1个月涨幅抵1年，黄金ETF涨到连续停牌，贵金属上涨逻辑已变](https://www.cls.cn/detail/1640644)
+- [【36kr】4月超20家中小银行下调存款利率，年报显示过半上市银行净息差低于1.8%，继续“降息”几成定局？](https://www.cls.cn/detail/1640641)
+- [【36kr】河北通报“白名单”进展后安徽也晒成绩单：新增授信75.5亿，新发经营性物业贷款20亿](https://www.cls.cn/detail/1640528)
+- [【36kr】南向资金4月8日净流入超47亿港元：大幅流入中移动和腾讯-抛售中芯国际及东方甄选](https://www.cls.cn/detail/1640526)
+- [【36kr】抛压剧增！日元再度跌近152关口-干预扳机何时扣响成谜](https://www.cls.cn/detail/1640372)
+- [【36kr】红利再度抗压走强！一众ETF录历史最高价，“周期风”催红利共振，这些ETF也已新高](https://www.cls.cn/detail/1640423)
+- [【36kr】北广两地同日调整优化住房公积金政策-北京购买低碳绿色建筑最高可贷款160万元](https://www.cls.cn/detail/1640370)
+- [【36kr】减肥药仿制药时代即将到来-GLP药物首批专利到期引群雄逐鹿](https://www.cls.cn/detail/1640310)
+- [【36kr】金价再创历史新高日，黄金股ETF却为何封板一字跌停？](https://www.cls.cn/detail/1640330)
+- [【36kr】【每日收评】全市场超4500股下跌，周期股持续走强，白酒、光伏等权重板块低迷](https://www.cls.cn/detail/1640349)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
