@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-04-08 02:38:38。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-04-08 03:36:45。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -30,19 +30,19 @@
 - [【36kr】Kimi引领大模型长文本处理投资热潮，以下方向或有望率先受益](https://www.cls.cn/detail/1628405)
 - [【36kr】周末要闻汇总：国常会再提优化房地产政策，财跃星辰发布国内首个千亿参数多模态金融大模型](https://www.cls.cn/detail/1628193)
 - [【36kr】【明日主题前瞻】大模型和该领域天然适配，或成为AI落地最佳应用场景](https://www.cls.cn/detail/1624914)
-- [【36kr】力挺TikTok？特朗普：Facebook才是美国人的敌人](https://www.cls.cn/detail/1614927)
 - [【36kr】比特币盘中突破70000美元关口-奥特曼重返OpenAI董事会-|-环球市场](https://www.cls.cn/detail/1615037)
+- [【36kr】力挺TikTok？特朗普：Facebook才是美国人的敌人](https://www.cls.cn/detail/1614927)
 - [【36kr】两会时间|全国人大代表、中国铁塔董事长张志勇：推进AI硬件计算100%国产化-助力行业大模型高质量发展](https://www.cls.cn/detail/1611187)
 - [【36kr】【明日主题前瞻】大模型加速赋能内容创作变革，国内首部AI全流程制作微短剧来了](https://www.cls.cn/detail/1609261)
 - [【36kr】奥尔特曼的身价几何？至少20亿美元-但与OpenAI毫无关系](https://www.cls.cn/detail/1608824)
 - [【36kr】图解2月大事件：吴清出任证监会主席-OpenAI发布王炸产品](https://www.cls.cn/detail/1607430)
-- [【36kr】谷歌发布AI基础世界模型-传Meta将于秋季展示AR眼镜-|-今夜看点](https://www.cls.cn/detail/1605246)
 - [【36kr】【明日主题前瞻】获微软入股，该AI新贵发布旗舰大模型产品](https://www.cls.cn/detail/1605181)
+- [【36kr】谷歌发布AI基础世界模型-传Meta将于秋季展示AR眼镜-|-今夜看点](https://www.cls.cn/detail/1605246)
 - [【36kr】Vision-Pro会否掀起商业银行新一轮技术内卷？招商银行首家适配visionOS，去年多家银行“鏖战”大模型](https://www.cls.cn/detail/1604228)
 - [【36kr】【明日主题前瞻】马斯克旗下大模型产品再迎新进展，Grok-V1.5或将两周后发布](https://www.cls.cn/detail/1601045)
-- [【36kr】马芳、冯明远四季度首度重仓Sora概念股，能否复制ChatGPT火爆行情？券商建议关注算力产业链](https://www.cls.cn/detail/1598545)
 - [【36kr】券商晨会精华：Sora大模型的发布将进一步拉大算力缺口](https://www.cls.cn/detail/1598524)
-- [【36kr】AI大模型应用层面爆发-支付宝正经历第二次技术迭代](https://www.cls.cn/detail/1597865)
+- [【36kr】马芳、冯明远四季度首度重仓Sora概念股，能否复制ChatGPT火爆行情？券商建议关注算力产业链](https://www.cls.cn/detail/1598545)
+- [【36kr】文生视频大模型Sora引发市场关注-美图公司和商汤一度涨超4%](https://www.cls.cn/detail/1597521)
 - [......【查看更多】......](/details/tags/aigc.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】港股4月8日早报：碧桂园披露境外债务重组进展-世茂集团遭债权人清盘呈请](https://www.cls.cn/detail/1639732)
-- [【36kr】供应短缺支撑价格上涨-分析师看好铝土矿自给率高的铝企](https://www.cls.cn/detail/1639731)
-- [【36kr】券商晨会精华：关注激光雷达、域控制器、底盘等小米汽车产业链投资机会](https://www.cls.cn/detail/1639758)
-- [【36kr】4月8日投资避雷针：突发！两上市公司董事长遭留置](https://www.cls.cn/detail/1639753)
-- [【36kr】黄金还将继续闪耀？华尔街大佬预言“下一站”：3000美元！](https://www.cls.cn/detail/1639749)
-- [【36kr】财联社汽车早报【4月8日】](https://www.cls.cn/detail/1639782)
-- [【36kr】周三见分晓？“全球资产定价之锚”会否戳破关键关隘：4.5%](https://www.cls.cn/detail/1639779)
 - [【36kr】时隔一年半欧洲最大核电站又被卷入战火！IAEA证实：遭无人机袭击](https://www.cls.cn/detail/1639836)
-- [【36kr】马克龙频繁发表鹰派言论-俄大使警告：构成了严重的战略问题](https://www.cls.cn/detail/1639644)
-- [【36kr】降息预期波动，中资美元债高位调整，有高收益地产债逆势上涨超200%](https://www.cls.cn/detail/1639433)
-- [【36kr】老朋友喜闻乐“荐”-财联社VIP限时发放双重礼-携手掘金业绩高增长](https://www.cls.cn/detail/1639146)
-- [【36kr】深陷非法移民风波之际-美国土安全部宣布加强“小额免税”包裹审查](https://www.cls.cn/detail/1639502)
-- [【36kr】【明日主题前瞻】AMD、英特尔、苹果纷纷入局，该细分领域是先进封装未来发展方向之一](https://www.cls.cn/detail/1639073)
-- [【36kr】又一省发文支持养老金融发展，福建：推动个人养老金试点，放宽老年人信用卡申请年龄限制](https://www.cls.cn/detail/1639442)
-- [【36kr】新开源十年追梦，一场空|深度调查](https://www.cls.cn/detail/1639402)
-- [【36kr】国盛宏观：本轮黄金大涨的复盘与展望](https://www.cls.cn/detail/1639400)
-- [【36kr】近600万头动物丧生暴风雨！蒙古恶劣天气进一步打击游牧产业](https://www.cls.cn/detail/1639362)
-- [【36kr】政策加码直击行业痛点！这一方向有望乘风而起](https://www.cls.cn/detail/1639313)
-- [【36kr】苹果转战家庭机器人而非AI？Wedbush辣评：或又一次遭重创！](https://www.cls.cn/detail/1639316)
-- [【36kr】港股IPO周报：货拉拉再度递表申请上市-AI公司出门问问通过聆讯](https://www.cls.cn/detail/1639244)
+- [【36kr】周三见分晓？“全球资产定价之锚”会否戳破关键关隘：4.5%](https://www.cls.cn/detail/1639779)
+- [【36kr】财联社汽车早报【4月8日】](https://www.cls.cn/detail/1639782)
+- [【36kr】黄金还将继续闪耀？华尔街大佬预言“下一站”：3000美元！](https://www.cls.cn/detail/1639749)
+- [【36kr】4月8日投资避雷针：突发！两上市公司董事长遭留置](https://www.cls.cn/detail/1639753)
+- [【36kr】券商晨会精华：关注激光雷达、域控制器、底盘等小米汽车产业链投资机会](https://www.cls.cn/detail/1639758)
+- [【36kr】供应短缺支撑价格上涨-分析师看好铝土矿自给率高的铝企](https://www.cls.cn/detail/1639731)
+- [【36kr】港股4月8日早报：碧桂园披露境外债务重组进展-世茂集团遭债权人清盘呈请](https://www.cls.cn/detail/1639732)
+- [【36kr】有色金属价格持续狂飙！周期股行情仍有望延续，警惕过热后的回调风险](https://www.cls.cn/detail/1639824)
+- [【36kr】中信建投：贵金属与工业金属价格突破上行](https://www.cls.cn/detail/1639837)
+- [【36kr】一文读懂：以军完全撤出加沙南部-是为休整还是为应对更大威胁？](https://www.cls.cn/detail/1639887)
+- [【36kr】美股财报季本周开幕：“七巨头”仍是盈利领头羊-五大投资主题可关注](https://www.cls.cn/detail/1639979)
+- [【36kr】【数读IPO】今日2只新股上市-锂电池领域细分龙头等在列](https://www.cls.cn/detail/1639720)
+- [【36kr】【早报】李强会见美国财政部长耶伦；额度5000亿！央行设立科技创新和技术改造再贷款](https://www.cls.cn/detail/1639717)
+- [【36kr】阳普医疗董事长被留置！公司称暂不了解详情](https://www.cls.cn/detail/1639653)
+- [【36kr】英国央行也要用上点阵图？伯南克将为其发布货币政策建议](https://www.cls.cn/detail/1639649)
+- [【36kr】独家|苏州银行副行长、首席信息官张小玉加盟广东华兴银行，为蔡新发之后又一名“科技外脑”](https://www.cls.cn/detail/1639643)
+- [【36kr】港股主题基金“回血”，沪港深黄金产业ETF领涨，主动权益基亦有调仓新动向](https://www.cls.cn/detail/1639620)
+- [【36kr】因子公司单位行贿罪被公开谴责-聚光科技曾四年三“吃”监管函](https://www.cls.cn/detail/1639596)
+- [【36kr】帕金森病患者的新希望！赛诺菲GLP-1类药物显示出治疗潜力](https://www.cls.cn/detail/1639623)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
