@@ -1,12 +1,12 @@
 ##
 
-:alarm_clock: 更新时间: 2024-04-09 06:36:03，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-04-09 09:37:19，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [36kr](#36kr)![](/assets/dot.png)   
+- [36kr](#36kr)  
 - [QuestMobile](#questmobile)  
-- [艾瑞](#艾瑞)  
+- [艾瑞](#艾瑞)![](/assets/dot.png)   
 
 ## 文章链接
 
@@ -78,6 +78,7 @@
 </summary>
 
 
+- [2024-04-09-云服务行业动态及热点研究月报-2024年3月](https://report.iresearch.cn/report/202404/4334.shtml) ![](/assets/new.png)  
 - [2024-04-07-2024年中国防晒衣行业标准白皮书](https://report.iresearch.cn/report/202404/4333.shtml)  
 - [2024-04-03-2024年中国采购数字化平台行业研究报告](https://report.iresearch.cn/report/202404/4332.shtml)  
 - [2024-04-01-2024年中国美颜影像类软件用户营销价值洞察报告](https://report.iresearch.cn/report/202404/4331.shtml)  
@@ -89,15 +90,14 @@
 - [2024-03-14-2023年城市基础及公共服务类APP流量监测报告](https://report.iresearch.cn/report/202403/4325.shtml)  
 - [2024-03-13-2024年即时零售消费电子行业白皮书](https://report.iresearch.cn/report/202403/4324.shtml)  
 - [2024-03-12-2024情绪与健康睡眠白皮书](https://report.iresearch.cn/report/202403/4323.shtml)  
-- [2024-03-11-2024年中国毛发健康管理行业研究报告](https://report.iresearch.cn/report/202403/4322.shtml)  
 - [2024-03-11-2024年中国企业3C数码商用品电商采购白皮书](https://report.iresearch.cn/report/202403/4321.shtml)  
-- [2024-03-08-2024年中国健康管理行业研究报告](https://report.iresearch.cn/report/202403/4320.shtml)  
+- [2024-03-11-2024年中国毛发健康管理行业研究报告](https://report.iresearch.cn/report/202403/4322.shtml)  
 - [2024-03-08-云服务行业动态及热点研究月报-2024年2月](https://report.iresearch.cn/report/202403/4319.shtml)  
+- [2024-03-08-2024年中国健康管理行业研究报告](https://report.iresearch.cn/report/202403/4320.shtml)  
 - [2024-03-05-2023年中国移动互联网流量年度报告](https://report.iresearch.cn/report/202403/4318.shtml)  
 - [2024-03-04-为全人类-2024年中国民商参与航天产业现状及未来展望](https://report.iresearch.cn/report/202403/4317.shtml)  
 - [2024-02-29-2023年中国直播电商行业研究报告](https://report.iresearch.cn/report/202402/4316.shtml)  
 - [2024-02-06-2023年中国少女发育内衣行业发展白皮书](https://report.iresearch.cn/report/202402/4315.shtml)  
-- [2024-02-05-云服务行业动态及热点研究月报-2024年1月](https://report.iresearch.cn/report/202402/4313.shtml)  
 - [......【查看更多】......](/details/艾瑞.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
