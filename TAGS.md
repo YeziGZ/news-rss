@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-04-10 09:35:27。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-04-10 13:36:45。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -31,18 +31,18 @@
 - [【36kr】Kimi引领大模型长文本处理投资热潮，以下方向或有望率先受益](https://www.cls.cn/detail/1628405)
 - [【36kr】周末要闻汇总：国常会再提优化房地产政策，财跃星辰发布国内首个千亿参数多模态金融大模型](https://www.cls.cn/detail/1628193)
 - [【36kr】【明日主题前瞻】大模型和该领域天然适配，或成为AI落地最佳应用场景](https://www.cls.cn/detail/1624914)
-- [【36kr】比特币盘中突破70000美元关口-奥特曼重返OpenAI董事会-|-环球市场](https://www.cls.cn/detail/1615037)
 - [【36kr】力挺TikTok？特朗普：Facebook才是美国人的敌人](https://www.cls.cn/detail/1614927)
+- [【36kr】比特币盘中突破70000美元关口-奥特曼重返OpenAI董事会-|-环球市场](https://www.cls.cn/detail/1615037)
 - [【36kr】两会时间|全国人大代表、中国铁塔董事长张志勇：推进AI硬件计算100%国产化-助力行业大模型高质量发展](https://www.cls.cn/detail/1611187)
 - [【36kr】【明日主题前瞻】大模型加速赋能内容创作变革，国内首部AI全流程制作微短剧来了](https://www.cls.cn/detail/1609261)
 - [【36kr】奥尔特曼的身价几何？至少20亿美元-但与OpenAI毫无关系](https://www.cls.cn/detail/1608824)
 - [【36kr】图解2月大事件：吴清出任证监会主席-OpenAI发布王炸产品](https://www.cls.cn/detail/1607430)
-- [【36kr】【明日主题前瞻】获微软入股，该AI新贵发布旗舰大模型产品](https://www.cls.cn/detail/1605181)
 - [【36kr】谷歌发布AI基础世界模型-传Meta将于秋季展示AR眼镜-|-今夜看点](https://www.cls.cn/detail/1605246)
+- [【36kr】【明日主题前瞻】获微软入股，该AI新贵发布旗舰大模型产品](https://www.cls.cn/detail/1605181)
 - [【36kr】Vision-Pro会否掀起商业银行新一轮技术内卷？招商银行首家适配visionOS，去年多家银行“鏖战”大模型](https://www.cls.cn/detail/1604228)
 - [【36kr】【明日主题前瞻】马斯克旗下大模型产品再迎新进展，Grok-V1.5或将两周后发布](https://www.cls.cn/detail/1601045)
-- [【36kr】券商晨会精华：Sora大模型的发布将进一步拉大算力缺口](https://www.cls.cn/detail/1598524)
 - [【36kr】马芳、冯明远四季度首度重仓Sora概念股，能否复制ChatGPT火爆行情？券商建议关注算力产业链](https://www.cls.cn/detail/1598545)
+- [【36kr】券商晨会精华：Sora大模型的发布将进一步拉大算力缺口](https://www.cls.cn/detail/1598524)
 - [......【查看更多】......](/details/tags/aigc.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】欧盟将调查中国风力涡轮机供应商，外交部回应](https://www.cls.cn/detail/1642589)
-- [【36kr】对话泰康养老总裁薛振斌：呼吁企业年金扩面提速-发挥二支柱“政策+税优+稳健复利”杠杆优势-提升社会养老筹资能力](https://www.cls.cn/detail/1642581)
-- [【36kr】产值翻番！苹果据称在印度生产的iPhone数量约占全球14%](https://www.cls.cn/detail/1642560)
-- [【36kr】工信部：在试点地区取消互联网数据中心等业务的外资股比限制](https://www.cls.cn/detail/1642555)
-- [【36kr】七部门联合印发《以标准提升牵引设备更新和消费品以旧换新行动方案》](https://www.cls.cn/detail/1642470)
-- [【36kr】平安信托回应产品延期风波：涉及正荣地产旗下项目，正通过多种方式推进项目处置](https://www.cls.cn/detail/1642376)
-- [【36kr】低价AirPods热点持续发酵-富智康集团近三日累计涨超35%](https://www.cls.cn/detail/1642363)
-- [【36kr】国有大行积极发债！年内三大国行发行二级资本债2400亿元-专家：2024年商业银行资本补充需求上升带动全年供给放量](https://www.cls.cn/detail/1642283)
-- [【36kr】国泰君安：本轮黄金大涨背后的底层逻辑](https://www.cls.cn/detail/1642211)
-- [【36kr】固态电池再迎全线爆发，或有望与资源类周期股形成双主线行情](https://www.cls.cn/detail/1642194)
-- [【36kr】如何理解近期黄金、石油，和美债价格的异动？](https://www.cls.cn/detail/1642120)
-- [【36kr】财联社汽车早报【4月10日】](https://www.cls.cn/detail/1642145)
-- [【36kr】4月10日投资避雷针：越涨越卖-6连板黄金人气股遭股东减持近200万股](https://www.cls.cn/detail/1642118)
-- [【36kr】越跌停越买入，黄金主题ETF被疯狂抢筹！金价续刷新高，LOF也停牌提示高溢价风险](https://www.cls.cn/detail/1642149)
-- [【36kr】券商晨会精华：三大运营商投资重心将继续向算力网络建设倾斜](https://www.cls.cn/detail/1642119)
-- [【36kr】中信证券：钨供应端持续偏紧，钨价或将创新高](https://www.cls.cn/detail/1642132)
-- [【36kr】就在今晚！华尔街和美联储都在等这个“降息导火索”……](https://www.cls.cn/detail/1642116)
-- [【36kr】美债正警告世人美联储还没加完息？今晚CPI“硬仗”前从所未遇一幕出现](https://www.cls.cn/detail/1642184)
-- [【36kr】情绪狂热！银价暴力拉涨创11年新高-万吨级白银“三剑客”成色几何？](https://www.cls.cn/detail/1642191)
-- [【36kr】波音又一财路遇阻！内部工程师举报787梦想飞机的安全问题](https://www.cls.cn/detail/1642204)
+- [【36kr】【焦点复盘】泛AI跌势不止创指失守1800点，资源股人气居高不下，贵金属人气龙晋级7连板](https://www.cls.cn/detail/1642734)
+- [【36kr】央行提及“关注长期收益率变化”引发债市扰动-业内称对二级市场冲击有限](https://www.cls.cn/detail/1642698)
+- [【36kr】【每日收评】全市场超4300股下跌，黄金股再度逆势拉升，低空经济尾盘异动能否卷土重来？](https://www.cls.cn/detail/1642681)
+- [【36kr】“软硬着陆论”彻底出局？大摩：美股走势支持经济不着陆！](https://www.cls.cn/detail/1642562)
+- [【36kr】区区大葱绊倒一国总统！韩国议会周三火热选举-却遇上通胀怨气](https://www.cls.cn/detail/1642525)
+- [【36kr】10年期美国国债收益率下跌5.8个基点报4.3616%|-全球主要大类资产表现汇总20240410](https://www.cls.cn/detail/1642472)
+- [【36kr】机构称IPO转战港股或成趋势-预计年内将有80只新股上市](https://www.cls.cn/detail/1642453)
+- [【36kr】来自美国的背刺？白宫官员透露以色列进攻拉法不过是虚张声势！](https://www.cls.cn/detail/1642432)
+- [【36kr】万科济南总经理肖劲被带走调查](https://www.cls.cn/detail/1642410)
+- [【36kr】中国天瑞水泥股价暴跌99%惊魂24小时-：一线探访总部生产经营正常](https://www.cls.cn/detail/1642406)
+- [【36kr】【财联社午报】三大指数全线收跌，超4200股飘绿，黄金板块再度逆势领涨](https://www.cls.cn/detail/1642392)
+- [【36kr】号称“嘉实近3年最能赚钱的”基金经理或将离职，已卸任全部基金](https://www.cls.cn/detail/1642394)
+- [【36kr】“这是一个错误”！拜登批评以色列总理-呼吁立即停火](https://www.cls.cn/detail/1642371)
+- [【36kr】“黄金狂飙”无基本面支撑？大佬拉响警报：三大逆风可轻松终结！](https://www.cls.cn/detail/1642342)
+- [【36kr】惠誉下调我主权信用评级展望-中国财政部回应：中国经济长期向好的趋势没有改变](https://www.cls.cn/detail/1642379)
+- [【36kr】奇观！同一只国债跌停两日后又因涨超10%停牌，有机构自娱自乐？](https://www.cls.cn/detail/1642366)
+- [【36kr】中国天瑞水泥股债遭双杀，25分钟市值蒸发超百亿，债券跌幅超14%](https://www.cls.cn/detail/1642314)
+- [【36kr】能复制暴涨奇迹吗？炒完可可后-不少人如今盯上了它……](https://www.cls.cn/detail/1642329)
+- [【36kr】特朗普身家暴跌20亿美元！“懂王概念股”股价腰斩-被痛斥为“一场骗局”](https://www.cls.cn/detail/1642303)
+- [【36kr】国台办：坚决反对任何利用相关军事合作介入台湾问题的企图](https://www.cls.cn/detail/1642293)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
