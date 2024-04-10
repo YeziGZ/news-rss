@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-04-10 01:31:44。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-04-10 02:40:05。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -31,18 +31,18 @@
 - [【36kr】Kimi引领大模型长文本处理投资热潮，以下方向或有望率先受益](https://www.cls.cn/detail/1628405)
 - [【36kr】周末要闻汇总：国常会再提优化房地产政策，财跃星辰发布国内首个千亿参数多模态金融大模型](https://www.cls.cn/detail/1628193)
 - [【36kr】【明日主题前瞻】大模型和该领域天然适配，或成为AI落地最佳应用场景](https://www.cls.cn/detail/1624914)
-- [【36kr】比特币盘中突破70000美元关口-奥特曼重返OpenAI董事会-|-环球市场](https://www.cls.cn/detail/1615037)
 - [【36kr】力挺TikTok？特朗普：Facebook才是美国人的敌人](https://www.cls.cn/detail/1614927)
+- [【36kr】比特币盘中突破70000美元关口-奥特曼重返OpenAI董事会-|-环球市场](https://www.cls.cn/detail/1615037)
 - [【36kr】两会时间|全国人大代表、中国铁塔董事长张志勇：推进AI硬件计算100%国产化-助力行业大模型高质量发展](https://www.cls.cn/detail/1611187)
 - [【36kr】【明日主题前瞻】大模型加速赋能内容创作变革，国内首部AI全流程制作微短剧来了](https://www.cls.cn/detail/1609261)
 - [【36kr】奥尔特曼的身价几何？至少20亿美元-但与OpenAI毫无关系](https://www.cls.cn/detail/1608824)
 - [【36kr】图解2月大事件：吴清出任证监会主席-OpenAI发布王炸产品](https://www.cls.cn/detail/1607430)
-- [【36kr】【明日主题前瞻】获微软入股，该AI新贵发布旗舰大模型产品](https://www.cls.cn/detail/1605181)
 - [【36kr】谷歌发布AI基础世界模型-传Meta将于秋季展示AR眼镜-|-今夜看点](https://www.cls.cn/detail/1605246)
+- [【36kr】【明日主题前瞻】获微软入股，该AI新贵发布旗舰大模型产品](https://www.cls.cn/detail/1605181)
 - [【36kr】Vision-Pro会否掀起商业银行新一轮技术内卷？招商银行首家适配visionOS，去年多家银行“鏖战”大模型](https://www.cls.cn/detail/1604228)
 - [【36kr】【明日主题前瞻】马斯克旗下大模型产品再迎新进展，Grok-V1.5或将两周后发布](https://www.cls.cn/detail/1601045)
-- [【36kr】券商晨会精华：Sora大模型的发布将进一步拉大算力缺口](https://www.cls.cn/detail/1598524)
 - [【36kr】马芳、冯明远四季度首度重仓Sora概念股，能否复制ChatGPT火爆行情？券商建议关注算力产业链](https://www.cls.cn/detail/1598545)
+- [【36kr】券商晨会精华：Sora大模型的发布将进一步拉大算力缺口](https://www.cls.cn/detail/1598524)
 - [......【查看更多】......](/details/tags/aigc.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】4月10日投资避雷针：越涨越卖-6连板黄金人气股遭股东减持近200万股](https://www.cls.cn/detail/1642118)
-- [【36kr】越跌停越买入，黄金主题ETF被疯狂抢筹！金价续刷新高，LOF也停牌提示高溢价风险](https://www.cls.cn/detail/1642149)
-- [【36kr】券商晨会精华：三大运营商投资重心将继续向算力网络建设倾斜](https://www.cls.cn/detail/1642119)
-- [【36kr】中信证券：钨供应端持续偏紧，钨价或将创新高](https://www.cls.cn/detail/1642132)
 - [【36kr】就在今晚！华尔街和美联储都在等这个“降息导火索”……](https://www.cls.cn/detail/1642116)
-- [【36kr】英特尔将推出新一代AI芯片-波音787被举报存在安全问题-|-环球市场](https://www.cls.cn/detail/1642081)
-- [【36kr】【早报】四部门：5A级和4A级景区等要实现境内外银行卡受理全覆盖；宁德时代发布储能新品天恒储能系统](https://www.cls.cn/detail/1642076)
-- [【36kr】罕见！“利益冲突”致乌鲁木齐农商行一拟任独董被否，今年已有4名银行董事高管被监管拒之门外](https://www.cls.cn/detail/1641972)
-- [【36kr】欧盟最高外交官警告：欧洲爆发更广泛战争不再是幻想](https://www.cls.cn/detail/1642024)
-- [【36kr】资管巨头CVC第三次走到IPO门槛前-此前尝试皆因市场巨震作罢](https://www.cls.cn/detail/1641994)
-- [【36kr】包钢股份Q2稀土精矿价格骤降19%！业内：降幅超预期-或增强市场看空情绪|行业动态](https://www.cls.cn/detail/1641955)
-- [【36kr】比散户还高！34只基金换手率超过20倍，真能赚钱吗？还有的佣金费率超万9](https://www.cls.cn/detail/1641928)
-- [【36kr】“极致性价比”拉低毛利率-盐津铺子目标今年营收较2022年增长56%|直击业绩会](https://www.cls.cn/detail/1641926)
-- [【36kr】法拍房持续升温：上海一豪宅经1904轮鏖战后成交-单价超21万元/平](https://www.cls.cn/detail/1641925)
-- [【36kr】最乐观预测！道富环球：美联储会在6月降息50个基点](https://www.cls.cn/detail/1641924)
-- [【36kr】马树山举报县委领导被逮捕公诉事件中22名相关责任人员被问责](https://www.cls.cn/detail/1641914)
-- [【36kr】又一例城商行“大并小”案例，新疆银行获准吸收合并库尔勒银行，上一家类似重组为中原银行](https://www.cls.cn/detail/1641906)
-- [【36kr】日股“焕新”小秘密：短短两年东证主板上市公司数量骤减20%](https://www.cls.cn/detail/1641839)
-- [【36kr】“北溪”恐袭阴影挥之不去-欧洲六国签署《北海安全公约》](https://www.cls.cn/detail/1641843)
-- [【36kr】资源股内部分化黄金继续领跑-港府欲进一步增强市场流动性｜港股风向标](https://www.cls.cn/detail/1641825)
+- [【36kr】中信证券：钨供应端持续偏紧，钨价或将创新高](https://www.cls.cn/detail/1642132)
+- [【36kr】券商晨会精华：三大运营商投资重心将继续向算力网络建设倾斜](https://www.cls.cn/detail/1642119)
+- [【36kr】越跌停越买入，黄金主题ETF被疯狂抢筹！金价续刷新高，LOF也停牌提示高溢价风险](https://www.cls.cn/detail/1642149)
+- [【36kr】4月10日投资避雷针：越涨越卖-6连板黄金人气股遭股东减持近200万股](https://www.cls.cn/detail/1642118)
+- [【36kr】财联社汽车早报【4月10日】](https://www.cls.cn/detail/1642145)
+- [【36kr】如何理解近期黄金、石油，和美债价格的异动？](https://www.cls.cn/detail/1642120)
+- [【36kr】固态电池再迎全线爆发，或有望与资源类周期股形成双主线行情](https://www.cls.cn/detail/1642194)
+- [【36kr】国泰君安：本轮黄金大涨背后的底层逻辑](https://www.cls.cn/detail/1642211)
+- [【36kr】港股4月10日早报：优必选人形机器人年底小批量量产-香港新资本投资者入境计划反响热烈](https://www.cls.cn/detail/1642104)
+- [【36kr】自3月底以来稀土价格集体反弹-后续价格中枢有望继续上行](https://www.cls.cn/detail/1642088)
+- [【36kr】“五一”假期机票价格“水涨船高”-机构预计全年假期旅游消费或延续景气](https://www.cls.cn/detail/1642086)
+- [【36kr】美联储年内究竟降息几次？FED票委剧透：今晚的数据可能改变心意](https://www.cls.cn/detail/1642090)
+- [【36kr】港股成交仅800多亿港元-近期表现较好的个股有3大类](https://www.cls.cn/detail/1641408)
+- [【36kr】恒生银行拟回购最多30亿港元股份-舜宇光学3月手机镜头出货量增超三成｜港股4月9日公告精选](https://www.cls.cn/detail/1641877)
+- [【36kr】存量城投债合计超16万亿，不少优质区域城投主体拉久期换低票息](https://www.cls.cn/detail/1641707)
+- [【36kr】美股收盘：三大指数涨跌不一-中概股普涨-小鹏汽车涨超9%](https://www.cls.cn/detail/1642058)
+- [【36kr】微软将在日本投资29亿美元-用于发展AI和云计算](https://www.cls.cn/detail/1642045)
+- [【36kr】巴尔的摩港持续关闭-EIA大幅下调美国煤炭出口预测](https://www.cls.cn/detail/1642032)
+- [【36kr】冰川网络一季度预计转亏-旗下三款老游增长乏力](https://www.cls.cn/detail/1641927)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
