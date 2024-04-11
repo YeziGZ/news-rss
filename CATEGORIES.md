@@ -1,11 +1,11 @@
 ##
 
-:alarm_clock: 更新时间: 2024-04-11 05:35:25，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-04-11 06:36:17，:rocket: 更新条数: +6， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [36kr](#36kr)![](/assets/dot.png)   
-- [QuestMobile](#questmobile)  
+- [QuestMobile](#questmobile)![](/assets/dot.png)   
 - [艾瑞](#艾瑞)  
 
 ## 文章链接
@@ -16,26 +16,26 @@
 </summary>
 
 
-- [2024-04-11-【财联社午报】周期股反复活跃！工程机械、煤炭板块领涨两市，有色金属探底回升](https://www.cls.cn/detail/1643531)  
-- [2024-04-11-持续压降高成本存款！多地中小银行下调定存利率、大额存单高收益优势不再-业内预计今年或将迎来新一轮存款利率调整](https://www.cls.cn/detail/1643524)  
-- [2024-04-11-3月CPI同比上涨0.1%、PPI环比降幅收窄-专家预计物价回升基础坚实-年内物价偏温和](https://www.cls.cn/detail/1643496)  
-- [2024-04-11-独家|上海落实经营性物业贷新规-龙湖、张江及大华等房企获146亿融资支持](https://www.cls.cn/detail/1643491)  
-- [2024-04-11-武汉大学官宣：开设“雷军班”](https://www.cls.cn/detail/1643485)  
-- [2024-04-11-华尔街大佬锐评“降息梦碎”：没关系，不影响美股涨势！](https://www.cls.cn/detail/1643472)  
-- [2024-04-11-美科技股已到获利了结阶段？高盛收回资金转向能源股及日股](https://www.cls.cn/detail/1643454)  
-- [2024-04-11-152、153阵地齐失！岸田与拜登握手同一天-日元遭猛烈“空袭”](https://www.cls.cn/detail/1643422)  
-- [2024-04-11-国内首个！广州推“投顾十条”吸引独立投顾落户，鼓励申请牌照，行业沸腾](https://www.cls.cn/detail/1643432)  
-- [2024-04-11-再有头部公募试图直销破局，除了低费率，I份额还要攻克什么？](https://www.cls.cn/detail/1643419)  
-- [2024-04-11-不给日本首相面子！拜登重申：反对新日铁与美国钢铁合并](https://www.cls.cn/detail/1643357)  
-- [2024-04-11-中信建投：各国卫星互联网商业化加速，建议关注先行的产业链中上游](https://www.cls.cn/detail/1643331)  
-- [2024-04-11-财联社债市早参4月11日-|惠誉下调中国主权信用评级展望，财政部回应；万科：在偿债方面有计划，每笔债都会有相应举措偿还](https://www.cls.cn/detail/1643295)  
-- [2024-04-11-财联社汽车早报【4月11日】](https://www.cls.cn/detail/1643301)  
-- [2024-04-11-港股4月11日早报：香港本月或将推出首批比特币ETF-世茂集团考虑向法院申请认可令](https://www.cls.cn/detail/1643265)  
-- [2024-04-11-券商晨会精华：欲速不达，美国通胀三超预期](https://www.cls.cn/detail/1643292)  
-- [2024-04-11-3月CPI彻底击垮市场美梦？高盛再改预测：3次变2次，首降推迟至7月！](https://www.cls.cn/detail/1643280)  
-- [2024-04-11-4月11日投资避雷针：20天11板人气股公告-存在被实施退市风险警示的风险](https://www.cls.cn/detail/1643275)  
-- [2024-04-11-国泰君安：4月焦煤价格或已经见底-下半年存在反转可能](https://www.cls.cn/detail/1643263)  
+- [2024-04-11-上月刚被“曝光”的下任美国财长热门人选：绝不能与中国“脱钩”](https://www.cls.cn/detail/1643520)  
+- [2024-04-11-港股“蹦极式反弹”-浩森金融科技大跌后近两日涨逾5倍](https://www.cls.cn/detail/1643525)  
+- [2024-04-11-港股房地产何时迎来反转-世茂集团股价跌超7%](https://www.cls.cn/detail/1643434)  
+- [2024-04-11-费城联储：美国家庭财务负担加重-去年Q4信用卡拖欠率创新高！](https://www.cls.cn/detail/1643471)  
+- [2024-04-11-统计局：3月CPI同比增长0.1%-PPI同比下降2.8%](https://www.cls.cn/detail/1643341)  
+- [2024-04-11-美国降息梦醒-华尔街一夜巨变](https://www.cls.cn/detail/1643338)  
+- [2024-04-11-短线情绪触及冰点后有所回暖，后市或仍将围绕以下三大热点方向反复轮动](https://www.cls.cn/detail/1643344)  
 - [2024-04-11-商务部贸易救济局主要负责人就欧盟对华外国补贴调查等问题向欧方提出严正交涉](https://www.cls.cn/detail/1643271)  
+- [2024-04-11-国泰君安：4月焦煤价格或已经见底-下半年存在反转可能](https://www.cls.cn/detail/1643263)  
+- [2024-04-11-4月11日投资避雷针：20天11板人气股公告-存在被实施退市风险警示的风险](https://www.cls.cn/detail/1643275)  
+- [2024-04-11-3月CPI彻底击垮市场美梦？高盛再改预测：3次变2次，首降推迟至7月！](https://www.cls.cn/detail/1643280)  
+- [2024-04-11-券商晨会精华：欲速不达，美国通胀三超预期](https://www.cls.cn/detail/1643292)  
+- [2024-04-11-港股4月11日早报：香港本月或将推出首批比特币ETF-世茂集团考虑向法院申请认可令](https://www.cls.cn/detail/1643265)  
+- [2024-04-11-财联社汽车早报【4月11日】](https://www.cls.cn/detail/1643301)  
+- [2024-04-11-财联社债市早参4月11日-|惠誉下调中国主权信用评级展望，财政部回应；万科：在偿债方面有计划，每笔债都会有相应举措偿还](https://www.cls.cn/detail/1643295)  
+- [2024-04-11-中信建投：各国卫星互联网商业化加速，建议关注先行的产业链中上游](https://www.cls.cn/detail/1643331)  
+- [2024-04-11-不给日本首相面子！拜登重申：反对新日铁与美国钢铁合并](https://www.cls.cn/detail/1643357)  
+- [2024-04-11-再有头部公募试图直销破局，除了低费率，I份额还要攻克什么？](https://www.cls.cn/detail/1643419)  
+- [2024-04-11-国内首个！广州推“投顾十条”吸引独立投顾落户，鼓励申请牌照，行业沸腾](https://www.cls.cn/detail/1643432)  
+- [2024-04-11-152、153阵地齐失！岸田与拜登握手同一天-日元遭猛烈“空袭”](https://www.cls.cn/detail/1643422)  
 - [......【查看更多】......](/details/36kr.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -47,6 +47,7 @@
 </summary>
 
 
+- [2024-04-11-QuestAuto2024年2月30-40岁人群偏好的新能源汽车市场快报：中型及以上级别车型受青睐，TOP10中“蔚小理”占六席](https://www.questmobile.com.cn/research/report/1777892683022438401) ![](/assets/new.png)  
 - [2024-04-09-QuestMobile2024中国智能终端市场洞察报告：上攻、下探、生态，国产品牌“三大策略”构建产业韧性](https://www.questmobile.com.cn/research/report/1777615186250797058)  
 - [2024-04-03-QuestAuto2024年2月30岁以下人群偏好的新能源汽车市场快报：长安Lumin和熊猫等微型车占比超40%，SUV需求提升](https://www.questmobile.com.cn/research/report/1775374002686103553)  
 - [2024-04-02-QuestMobile2023年中国营销市场洞察·行业篇：从“血海厮杀”到“近身肉搏”，六大行业营销模型加速重塑……](https://www.questmobile.com.cn/research/report/1775049371471155202)  
@@ -56,8 +57,8 @@
 - [2024-03-19-QuestMobile2024全景生态流量春季报告：“三大场景生态”快速崛起，家庭娱乐场景进入成熟期……](https://www.questmobile.com.cn/research/report/1769998634198339585)  
 - [2024-03-15-QuestAuto-2024年1月男性人群偏好的新能源汽车市场快报：中大型轿车、SUV最受追捧，MPV成市场新热点……](https://www.questmobile.com.cn/research/report/1767740493276483586)  
 - [2024-03-12-QuestMobile2024生成式AI及AIGC应用洞察报告：头部APP应用去重月活用户突破5000万，C端、B端机会蜂拥而至](https://www.questmobile.com.cn/research/report/1767395734913650690)  
-- [2024-03-06-QuestAuto2024年1月新能源汽车市场发展洞察报告：“开门红”显现，比亚迪销量同比增43.6%，问界M7登顶车系销量榜首](https://www.questmobile.com.cn/research/report/1765201452421189633)  
 - [2024-03-06-QuestMobile2024“她经济”洞察报告：女性活跃用户近6.1亿，购物、阅读等领域月人均时长达13.9小时、13.2小时](https://www.questmobile.com.cn/research/report/1764860900811051009)  
+- [2024-03-06-QuestAuto2024年1月新能源汽车市场发展洞察报告：“开门红”显现，比亚迪销量同比增43.6%，问界M7登顶车系销量榜首](https://www.questmobile.com.cn/research/report/1765201452421189633)  
 - [2024-02-28-QuestAuto2024年春节期间新能源汽车市场报告：智能化、跨界营销双双发力](https://www.questmobile.com.cn/research/report/1762773877560283137)  
 - [2024-02-27-QuestMobile-2024春节假期洞察报告：春节假期日均活跃用户规模首破9亿，“三大消费模式”出现，即时零售加入战局……](https://www.questmobile.com.cn/research/report/1762374480888434689)  
 - [2024-01-31-QuestAuto2023新能源汽车市场年度报告：新能源车销量在总销量中占比突破30%，Model-Y活跃量增长43万辆](https://www.questmobile.com.cn/research/report/1752532551149391874)  
@@ -66,7 +67,6 @@
 - [2024-01-23-QuestMobile-2023年剧综影市场洞察：用户同质化，内容成突围关键，移动端商业化进入丰收期……](https://www.questmobile.com.cn/research/report/1749626298349752322)  
 - [2024-01-17-QuestAuto2023年11月20万元以下新能源汽车销量及活跃量快报：轿车突破35万辆、SUV逼近20万辆，比亚迪多系列开花](https://www.questmobile.com.cn/research/report/1747513728578981890)  
 - [2024-01-16-QuestMobile-2023年冬日经济市场洞察：哈尔滨爆火，羽绒服、取暖器厮杀，私域价值进一步凸显……](https://www.questmobile.com.cn/research/report/1747103332793683970)  
-- [2024-01-10-QuestAuto-2023年11月新能源SUV销量及活跃量快报：Model-Y销量环比增长89.3%，活跃量破86万辆](https://www.questmobile.com.cn/research/report/1744970089860534274)  
 - [......【查看更多】......](/details/QuestMobile.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
