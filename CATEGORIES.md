@@ -1,6 +1,6 @@
 ##
 
-:alarm_clock: 更新时间: 2024-04-14 11:11:14，:rocket: 更新条数: +17， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-04-15 03:42:12，:rocket: 更新条数: +37， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -16,26 +16,26 @@
 </summary>
 
 
-- [2024-04-14-“国家队”出手！最新A股持仓动向曝光，连续持有超10年个股名单来了](https://www.cls.cn/detail/1645866)  
-- [2024-04-14-2700亿“化工茅”在列！十余家A股上市公司股东承诺一年内不减持，龙年迄今承诺不减持个股名单一览](https://www.cls.cn/detail/1644919)  
-- [2024-04-14-直击消博会|AI电视7×24小时直播，消博会打造“线上+线下”常年展示交易平台](https://www.cls.cn/detail/1646017) ![](/assets/new.png)  
-- [2024-04-14-如何看待近期资源股行情？](https://www.cls.cn/detail/1627014) ![](/assets/new.png)  
-- [2024-04-14-五增一降！北京银行高质量发展再创佳绩-数字化转型赋能新质生产力](https://www.cls.cn/detail/1646024) ![](/assets/new.png)  
-- [2024-04-14-黄金：站上2500需要怎样的“宏观叙事”？](https://www.cls.cn/detail/1627025) ![](/assets/new.png)  
-- [2024-04-14-一单赚十几万！机构跑路，竟有职业闭店人帮忙“金蝉脱壳”？！](https://www.cls.cn/detail/1622115) ![](/assets/new.png)  
-- [2024-04-14-博时基金又遇高管离职，副总经理到龄退休，或就职三方代销机构，昔日“五虎将”渐散](https://www.cls.cn/detail/1646039) ![](/assets/new.png)  
-- [2024-04-14-集体上演闪崩归零，再抄底赚翻，港股三股大起大落原因揭秘](https://www.cls.cn/detail/1646037) ![](/assets/new.png)  
-- [2024-04-14-大规模设备更新政策带来哪些投资机会？](https://www.cls.cn/detail/1617007) ![](/assets/new.png)  
-- [2024-04-14-“白银时代”无缝衔接“黄金时代”：金贵银业更名本月涨幅赶超多只黄金股，盛达资源强势涨停两个月股价实现翻倍](https://www.cls.cn/detail/1645925) ![](/assets/new.png)  
-- [2024-04-14-多地天然气价格上调-业内：燃气顺价机制推行-城燃公司业绩望提升](https://www.cls.cn/detail/1646074) ![](/assets/new.png)  
-- [2024-04-14-今年累计35家！4家A股上市公司本周公告董监高亲属违规短线交易，中科曙光董事长配偶投入金额位居前列](https://www.cls.cn/detail/1646072) ![](/assets/new.png)  
-- [2024-04-14-周末要闻汇总：资本市场迎来第三个“国九条”-中东局势骤然升级](https://www.cls.cn/detail/1646110) ![](/assets/new.png)  
-- [2024-04-14-为“抢时间”，大中矿业首用TBM开锂矿|公司调研](https://www.cls.cn/detail/1646154) ![](/assets/new.png)  
-- [2024-04-13-估值近300亿，喜马拉雅再闯港交所](https://www.cls.cn/detail/1645885)  
-- [2024-04-13-每秒100吉比特！亚太赫兹频段超高速传输已实现，太赫兹将在未来6G通信中发挥关键作用，这些上市公司业务涉及相关领域](https://www.cls.cn/detail/1645894)  
-- [2024-04-13-社保基金A股投资路线图：持仓华侨城A和华润三九均超12年，长期持仓股名单来了](https://www.cls.cn/detail/1645800)  
-- [2024-04-13-沪深港通交易信息披露机制有变！预计一个月后实施](https://www.cls.cn/detail/1645806)  
-- [2024-04-13-【图解牛熊股】黄金概念股持续活跃，旅游板块市场热度提升](https://www.cls.cn/detail/1645812)  
+- [2024-04-15-券商晨会精华：新“国九条”发布，重点关注两个方向投资机会](https://www.cls.cn/detail/1646379) ![](/assets/new.png)  
+- [2024-04-15-伊朗袭击以色列引发G7警告-联合国呼吁最大限度克制](https://www.cls.cn/detail/1646370) ![](/assets/new.png)  
+- [2024-04-15-“基金赚钱基民不赚钱”并非中国独有？高买低卖等行为偏差国外常见](https://www.cls.cn/detail/1646390) ![](/assets/new.png)  
+- [2024-04-15-从黄金到可可-华尔街力挺“2024大宗牛”：史上最赚钱时期！](https://www.cls.cn/detail/1646396) ![](/assets/new.png)  
+- [2024-04-15-4月15日投资避雷针：券商监管强化！海通、中信遭立案-华西被暂停保荐资格6个月](https://www.cls.cn/detail/1646401) ![](/assets/new.png)  
+- [2024-04-15-中信建投：俄金属被限制交割，推升有色多头情绪](https://www.cls.cn/detail/1646389) ![](/assets/new.png)  
+- [2024-04-15-财联社汽车早报【4月15日】](https://www.cls.cn/detail/1646428) ![](/assets/new.png)  
+- [2024-04-15-中证A50ETF上市满月，三强格局初现，新“国九条”定调之下ETF上新还将加快](https://www.cls.cn/detail/1646398) ![](/assets/new.png)  
+- [2024-04-15-金价暴涨背后：天量发行的美债越来越没人要了？](https://www.cls.cn/detail/1646442) ![](/assets/new.png)  
+- [2024-04-15-中信证券：3月以来黄金价格的上涨可能与交易投机性因素密切相关](https://www.cls.cn/detail/1646423) ![](/assets/new.png)  
+- [2024-04-15-留意资源类周期与设备更新方向中的轮动性机会](https://www.cls.cn/detail/1646466) ![](/assets/new.png)  
+- [2024-04-15-美联储降息更悬了？凯投宏观：中东局势或令油价再次高飞](https://www.cls.cn/detail/1646477) ![](/assets/new.png)  
+- [2024-04-15-中东冲突升级风险有限？市场短暂恐慌-金价冲高回落](https://www.cls.cn/detail/1646487) ![](/assets/new.png)  
+- [2024-04-15-伦铝、伦镍暴涨！LME面临“妖镍风波”后最紧张一天](https://www.cls.cn/detail/1646515) ![](/assets/new.png)  
+- [2024-04-15-苹果”第一“位置拱手让人！IDC：iPhone一季度出货量不及三星](https://www.cls.cn/detail/1646547) ![](/assets/new.png)  
+- [2024-04-15-别再盯着科技股了！投资大佬列三大理由力荐这一板块……](https://www.cls.cn/detail/1646586) ![](/assets/new.png)  
+- [2024-04-14-为“抢时间”，大中矿业首用TBM开锂矿|公司调研](https://www.cls.cn/detail/1646154)  
+- [2024-04-14-周末要闻汇总：资本市场迎来第三个“国九条”-中东局势骤然升级](https://www.cls.cn/detail/1646110)  
+- [2024-04-14-今年累计35家！4家A股上市公司本周公告董监高亲属违规短线交易，中科曙光董事长配偶投入金额位居前列](https://www.cls.cn/detail/1646072)  
+- [2024-04-14-多地天然气价格上调-业内：燃气顺价机制推行-城燃公司业绩望提升](https://www.cls.cn/detail/1646074)  
 - [......【查看更多】......](/details/36kr.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
