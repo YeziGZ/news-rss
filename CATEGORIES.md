@@ -1,6 +1,6 @@
 ##
 
-:alarm_clock: 更新时间: 2024-04-15 03:42:12，:rocket: 更新条数: +37， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-04-15 04:41:00，:rocket: 更新条数: +6， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -16,26 +16,26 @@
 </summary>
 
 
-- [2024-04-15-券商晨会精华：新“国九条”发布，重点关注两个方向投资机会](https://www.cls.cn/detail/1646379) ![](/assets/new.png)  
-- [2024-04-15-伊朗袭击以色列引发G7警告-联合国呼吁最大限度克制](https://www.cls.cn/detail/1646370) ![](/assets/new.png)  
-- [2024-04-15-“基金赚钱基民不赚钱”并非中国独有？高买低卖等行为偏差国外常见](https://www.cls.cn/detail/1646390) ![](/assets/new.png)  
-- [2024-04-15-从黄金到可可-华尔街力挺“2024大宗牛”：史上最赚钱时期！](https://www.cls.cn/detail/1646396) ![](/assets/new.png)  
-- [2024-04-15-4月15日投资避雷针：券商监管强化！海通、中信遭立案-华西被暂停保荐资格6个月](https://www.cls.cn/detail/1646401) ![](/assets/new.png)  
-- [2024-04-15-中信建投：俄金属被限制交割，推升有色多头情绪](https://www.cls.cn/detail/1646389) ![](/assets/new.png)  
-- [2024-04-15-财联社汽车早报【4月15日】](https://www.cls.cn/detail/1646428) ![](/assets/new.png)  
-- [2024-04-15-中证A50ETF上市满月，三强格局初现，新“国九条”定调之下ETF上新还将加快](https://www.cls.cn/detail/1646398) ![](/assets/new.png)  
-- [2024-04-15-金价暴涨背后：天量发行的美债越来越没人要了？](https://www.cls.cn/detail/1646442) ![](/assets/new.png)  
-- [2024-04-15-中信证券：3月以来黄金价格的上涨可能与交易投机性因素密切相关](https://www.cls.cn/detail/1646423) ![](/assets/new.png)  
-- [2024-04-15-留意资源类周期与设备更新方向中的轮动性机会](https://www.cls.cn/detail/1646466) ![](/assets/new.png)  
-- [2024-04-15-美联储降息更悬了？凯投宏观：中东局势或令油价再次高飞](https://www.cls.cn/detail/1646477) ![](/assets/new.png)  
-- [2024-04-15-中东冲突升级风险有限？市场短暂恐慌-金价冲高回落](https://www.cls.cn/detail/1646487) ![](/assets/new.png)  
-- [2024-04-15-伦铝、伦镍暴涨！LME面临“妖镍风波”后最紧张一天](https://www.cls.cn/detail/1646515) ![](/assets/new.png)  
-- [2024-04-15-苹果”第一“位置拱手让人！IDC：iPhone一季度出货量不及三星](https://www.cls.cn/detail/1646547) ![](/assets/new.png)  
-- [2024-04-15-别再盯着科技股了！投资大佬列三大理由力荐这一板块……](https://www.cls.cn/detail/1646586) ![](/assets/new.png)  
-- [2024-04-14-为“抢时间”，大中矿业首用TBM开锂矿|公司调研](https://www.cls.cn/detail/1646154)  
-- [2024-04-14-周末要闻汇总：资本市场迎来第三个“国九条”-中东局势骤然升级](https://www.cls.cn/detail/1646110)  
-- [2024-04-14-今年累计35家！4家A股上市公司本周公告董监高亲属违规短线交易，中科曙光董事长配偶投入金额位居前列](https://www.cls.cn/detail/1646072)  
-- [2024-04-14-多地天然气价格上调-业内：燃气顺价机制推行-城燃公司业绩望提升](https://www.cls.cn/detail/1646074)  
+- [2024-04-15-别再盯着科技股了！投资大佬列三大理由力荐这一板块……](https://www.cls.cn/detail/1646586)  
+- [2024-04-15-苹果”第一“位置拱手让人！IDC：iPhone一季度出货量不及三星](https://www.cls.cn/detail/1646547)  
+- [2024-04-15-伦铝、伦镍暴涨！LME面临“妖镍风波”后最紧张一天](https://www.cls.cn/detail/1646515)  
+- [2024-04-15-中东冲突升级风险有限？市场短暂恐慌-金价冲高回落](https://www.cls.cn/detail/1646487)  
+- [2024-04-15-美联储降息更悬了？凯投宏观：中东局势或令油价再次高飞](https://www.cls.cn/detail/1646477)  
+- [2024-04-15-留意资源类周期与设备更新方向中的轮动性机会](https://www.cls.cn/detail/1646466)  
+- [2024-04-15-中信证券：3月以来黄金价格的上涨可能与交易投机性因素密切相关](https://www.cls.cn/detail/1646423)  
+- [2024-04-15-金价暴涨背后：天量发行的美债越来越没人要了？](https://www.cls.cn/detail/1646442)  
+- [2024-04-15-中证A50ETF上市满月，三强格局初现，新“国九条”定调之下ETF上新还将加快](https://www.cls.cn/detail/1646398)  
+- [2024-04-15-财联社汽车早报【4月15日】](https://www.cls.cn/detail/1646428)  
+- [2024-04-15-中信建投：俄金属被限制交割，推升有色多头情绪](https://www.cls.cn/detail/1646389)  
+- [2024-04-15-4月15日投资避雷针：券商监管强化！海通、中信遭立案-华西被暂停保荐资格6个月](https://www.cls.cn/detail/1646401)  
+- [2024-04-15-从黄金到可可-华尔街力挺“2024大宗牛”：史上最赚钱时期！](https://www.cls.cn/detail/1646396)  
+- [2024-04-15-“基金赚钱基民不赚钱”并非中国独有？高买低卖等行为偏差国外常见](https://www.cls.cn/detail/1646390)  
+- [2024-04-15-伊朗袭击以色列引发G7警告-联合国呼吁最大限度克制](https://www.cls.cn/detail/1646370)  
+- [2024-04-15-券商晨会精华：新“国九条”发布，重点关注两个方向投资机会](https://www.cls.cn/detail/1646379)  
+- [2024-04-15-我国在建核电机组数量、装机容量均继续保持世界第一](https://www.cls.cn/detail/1646616) ![](/assets/new.png)  
+- [2024-04-15-强美元又开启“收割”模式：新兴市场打响“货币保卫战”！](https://www.cls.cn/detail/1646609) ![](/assets/new.png)  
+- [2024-04-15-“国九条”提振港股中字头走势-中国中车一度涨超10%](https://www.cls.cn/detail/1646619) ![](/assets/new.png)  
+- [2024-04-15-在美国餐馆吃饭-收银员却在菲律宾-商家外包岗位千方百计降成本](https://www.cls.cn/detail/1646632) ![](/assets/new.png)  
 - [......【查看更多】......](/details/36kr.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
