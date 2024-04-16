@@ -1,11 +1,11 @@
 ##
 
-:alarm_clock: 更新时间: 2024-04-16 06:36:09，:rocket: 更新条数: +8， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-04-16 08:36:18，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [36kr](#36kr)![](/assets/dot.png)   
-- [QuestMobile](#questmobile)  
+- [36kr](#36kr)  
+- [QuestMobile](#questmobile)![](/assets/dot.png)   
 - [艾瑞](#艾瑞)  
 
 ## 文章链接
@@ -47,6 +47,7 @@
 </summary>
 
 
+- [2024-04-16-QuestMobile-2024手机游戏行业与重点人群洞察：稳步回升背后，9.4亿人玩游戏、7.5亿人玩微信小程序游戏……](https://www.questmobile.com.cn/research/report/1780065254895620098) ![](/assets/new.png)  
 - [2024-04-11-QuestAuto2024年2月30-40岁人群偏好的新能源汽车市场快报：中型及以上级别车型受青睐，TOP10中“蔚小理”占六席](https://www.questmobile.com.cn/research/report/1777892683022438401)  
 - [2024-04-09-QuestMobile2024中国智能终端市场洞察报告：上攻、下探、生态，国产品牌“三大策略”构建产业韧性](https://www.questmobile.com.cn/research/report/1777615186250797058)  
 - [2024-04-03-QuestAuto2024年2月30岁以下人群偏好的新能源汽车市场快报：长安Lumin和熊猫等微型车占比超40%，SUV需求提升](https://www.questmobile.com.cn/research/report/1775374002686103553)  
@@ -57,8 +58,8 @@
 - [2024-03-19-QuestMobile2024全景生态流量春季报告：“三大场景生态”快速崛起，家庭娱乐场景进入成熟期……](https://www.questmobile.com.cn/research/report/1769998634198339585)  
 - [2024-03-15-QuestAuto-2024年1月男性人群偏好的新能源汽车市场快报：中大型轿车、SUV最受追捧，MPV成市场新热点……](https://www.questmobile.com.cn/research/report/1767740493276483586)  
 - [2024-03-12-QuestMobile2024生成式AI及AIGC应用洞察报告：头部APP应用去重月活用户突破5000万，C端、B端机会蜂拥而至](https://www.questmobile.com.cn/research/report/1767395734913650690)  
-- [2024-03-06-QuestMobile2024“她经济”洞察报告：女性活跃用户近6.1亿，购物、阅读等领域月人均时长达13.9小时、13.2小时](https://www.questmobile.com.cn/research/report/1764860900811051009)  
 - [2024-03-06-QuestAuto2024年1月新能源汽车市场发展洞察报告：“开门红”显现，比亚迪销量同比增43.6%，问界M7登顶车系销量榜首](https://www.questmobile.com.cn/research/report/1765201452421189633)  
+- [2024-03-06-QuestMobile2024“她经济”洞察报告：女性活跃用户近6.1亿，购物、阅读等领域月人均时长达13.9小时、13.2小时](https://www.questmobile.com.cn/research/report/1764860900811051009)  
 - [2024-02-28-QuestAuto2024年春节期间新能源汽车市场报告：智能化、跨界营销双双发力](https://www.questmobile.com.cn/research/report/1762773877560283137)  
 - [2024-02-27-QuestMobile-2024春节假期洞察报告：春节假期日均活跃用户规模首破9亿，“三大消费模式”出现，即时零售加入战局……](https://www.questmobile.com.cn/research/report/1762374480888434689)  
 - [2024-01-31-QuestAuto2023新能源汽车市场年度报告：新能源车销量在总销量中占比突破30%，Model-Y活跃量增长43万辆](https://www.questmobile.com.cn/research/report/1752532551149391874)  
@@ -66,7 +67,6 @@
 - [2024-01-24-QuestAuto-2023年11月20万元以上新能源汽车销量及活跃量快报：Model-3销量暴增587.5%](https://www.questmobile.com.cn/research/report/1750049792090804226)  
 - [2024-01-23-QuestMobile-2023年剧综影市场洞察：用户同质化，内容成突围关键，移动端商业化进入丰收期……](https://www.questmobile.com.cn/research/report/1749626298349752322)  
 - [2024-01-17-QuestAuto2023年11月20万元以下新能源汽车销量及活跃量快报：轿车突破35万辆、SUV逼近20万辆，比亚迪多系列开花](https://www.questmobile.com.cn/research/report/1747513728578981890)  
-- [2024-01-16-QuestMobile-2023年冬日经济市场洞察：哈尔滨爆火，羽绒服、取暖器厮杀，私域价值进一步凸显……](https://www.questmobile.com.cn/research/report/1747103332793683970)  
 - [......【查看更多】......](/details/QuestMobile.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
