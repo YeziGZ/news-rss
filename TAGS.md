@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-04-17 01:33:16。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-04-17 11:35:38。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -34,14 +34,14 @@
 - [【36kr】Kimi引领大模型长文本处理投资热潮，以下方向或有望率先受益](https://www.cls.cn/detail/1628405)
 - [【36kr】周末要闻汇总：国常会再提优化房地产政策，财跃星辰发布国内首个千亿参数多模态金融大模型](https://www.cls.cn/detail/1628193)
 - [【36kr】【明日主题前瞻】大模型和该领域天然适配，或成为AI落地最佳应用场景](https://www.cls.cn/detail/1624914)
-- [【36kr】力挺TikTok？特朗普：Facebook才是美国人的敌人](https://www.cls.cn/detail/1614927)
 - [【36kr】比特币盘中突破70000美元关口-奥特曼重返OpenAI董事会-|-环球市场](https://www.cls.cn/detail/1615037)
+- [【36kr】力挺TikTok？特朗普：Facebook才是美国人的敌人](https://www.cls.cn/detail/1614927)
 - [【36kr】两会时间|全国人大代表、中国铁塔董事长张志勇：推进AI硬件计算100%国产化-助力行业大模型高质量发展](https://www.cls.cn/detail/1611187)
 - [【36kr】【明日主题前瞻】大模型加速赋能内容创作变革，国内首部AI全流程制作微短剧来了](https://www.cls.cn/detail/1609261)
 - [【36kr】奥尔特曼的身价几何？至少20亿美元-但与OpenAI毫无关系](https://www.cls.cn/detail/1608824)
 - [【36kr】图解2月大事件：吴清出任证监会主席-OpenAI发布王炸产品](https://www.cls.cn/detail/1607430)
-- [【36kr】谷歌发布AI基础世界模型-传Meta将于秋季展示AR眼镜-|-今夜看点](https://www.cls.cn/detail/1605246)
 - [【36kr】【明日主题前瞻】获微软入股，该AI新贵发布旗舰大模型产品](https://www.cls.cn/detail/1605181)
+- [【36kr】谷歌发布AI基础世界模型-传Meta将于秋季展示AR眼镜-|-今夜看点](https://www.cls.cn/detail/1605246)
 - [【36kr】Vision-Pro会否掀起商业银行新一轮技术内卷？招商银行首家适配visionOS，去年多家银行“鏖战”大模型](https://www.cls.cn/detail/1604228)
 - [......【查看更多】......](/details/tags/aigc.md)
 
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】中国船舶迎来春季造船热潮-本轮船舶大周期正处于“量价齐升”阶段](https://www.cls.cn/detail/1648919)
-- [【36kr】FED降息一推再推，美元趁势走强！分析师：美元牛市势不可挡](https://www.cls.cn/detail/1648922)
-- [【36kr】券商晨会精华：基建投资稳健增长-设备更新需求有望加速释放](https://www.cls.cn/detail/1648947)
-- [【36kr】4月17日投资避雷针：高调跨界算力不足两月-这家公司突然宣布终止交易](https://www.cls.cn/detail/1648942)
-- [【36kr】美股恐重演2022熊市？阿波罗首席警告：若FED再不降息-美国经济将硬着陆](https://www.cls.cn/detail/1648954)
-- [【36kr】国防部长董军同美国国防部长视频通话](https://www.cls.cn/detail/1648980)
-- [【36kr】鲍威尔噤声期前最后演讲“鹰声嘹亮”：降息延后已“盖棺定论”？](https://www.cls.cn/detail/1648988)
 - [【36kr】短线情绪连续冰点后有望迎来修复，这些方向或将率先迎来反弹](https://www.cls.cn/detail/1649007)
-- [【36kr】土耳其称以色列对紧张局势负全责-英欧央行或早于美联储降息-|-环球市场](https://www.cls.cn/detail/1648910)
-- [【36kr】【早报】证监会发声，回应分红、退市等市场关切；首批进驻17家单位！二十届中央第三轮巡视开始进驻](https://www.cls.cn/detail/1648897)
-- [【36kr】沙特回应外界疑虑：NEOM项目所涉施工人员明年将增加逾四成](https://www.cls.cn/detail/1648363)
-- [【36kr】定心丸来了！欧央行掌门拉加德：若无重大意外-降息很快就来](https://www.cls.cn/detail/1648767)
-- [【36kr】2万元/吨是关键支撑？-俄铝被禁引发铝价“冰火两重天”-电解铝企看好未来长期走势](https://www.cls.cn/detail/1648756)
-- [【36kr】几种情况都要割？对照新“国九条”逐一看，规则实际上是这么写的](https://www.cls.cn/detail/1648611)
-- [【36kr】4月多地密集出台公积金优化政策-多孩家庭、绿色建筑等贷款额度提高-部分城市特定人群、特定住房获更多支持](https://www.cls.cn/detail/1648592)
-- [【36kr】【明日主题前瞻】一季度产量同比增超40%，该新能源车细分市场有望保持高速增长](https://www.cls.cn/detail/1648330)
-- [【36kr】鸿博股份子公司英博数科：依规对部分员工进行职务解除](https://www.cls.cn/detail/1648575)
-- [【36kr】国家医保局等多部门：开展医保基金违法违规问题专项整治工作](https://www.cls.cn/detail/1648559)
-- [【36kr】突发！这家公司被禁止2年内参加全军物资工程服务采购活动|盘后公告集锦](https://www.cls.cn/detail/1648553)
-- [【36kr】顶流对冲基金对簿公堂：员工跳槽后-超赚钱的交易策略收益立马减半](https://www.cls.cn/detail/1648519)
+- [【36kr】鲍威尔噤声期前最后演讲“鹰声嘹亮”：降息延后已“盖棺定论”？](https://www.cls.cn/detail/1648988)
+- [【36kr】国防部长董军同美国国防部长视频通话](https://www.cls.cn/detail/1648980)
+- [【36kr】美股恐重演2022熊市？阿波罗首席警告：若FED再不降息-美国经济将硬着陆](https://www.cls.cn/detail/1648954)
+- [【36kr】4月17日投资避雷针：高调跨界算力不足两月-这家公司突然宣布终止交易](https://www.cls.cn/detail/1648942)
+- [【36kr】券商晨会精华：基建投资稳健增长-设备更新需求有望加速释放](https://www.cls.cn/detail/1648947)
+- [【36kr】FED降息一推再推，美元趁势走强！分析师：美元牛市势不可挡](https://www.cls.cn/detail/1648922)
+- [【36kr】中国船舶迎来春季造船热潮-本轮船舶大周期正处于“量价齐升”阶段](https://www.cls.cn/detail/1648919)
+- [【36kr】财联社债市早参4月17日-|三部门：保险资金可通过债券等形式为战略新兴产业提供资金支持；碧桂园拟将“H1碧地01”二次展息](https://www.cls.cn/detail/1648956)
+- [【36kr】一线投顾谈基金发行“运动式营销”痛点，“首席买方财富50人”直面市场误区](https://www.cls.cn/detail/1648969)
+- [【36kr】财联社汽车早报【4月17日】](https://www.cls.cn/detail/1648968)
+- [【36kr】一季度实际GDP为何超预期？](https://www.cls.cn/detail/1649035)
+- [【36kr】底特律三巨头是前车之鉴！美国南部六州联合反对汽车工会](https://www.cls.cn/detail/1649022)
+- [【36kr】全球央妈与美联储“渐行渐远”？英国或许先于美国降息](https://www.cls.cn/detail/1649039)
+- [【36kr】扛不住了？玻纤电子纱布厂开启“复价”-分析称后续或仍有上调可能](https://www.cls.cn/detail/1649091)
+- [【36kr】首批地产白名单项目审批额超5200亿-中梁控股涨超10%领跑市场](https://www.cls.cn/detail/1649094)
+- [【36kr】中美金融工作组举行第四次会议](https://www.cls.cn/detail/1649114)
+- [【36kr】美银调查：机构乐观情绪升至近两年顶峰-股票和大宗配置大幅增加](https://www.cls.cn/detail/1649104)
+- [【36kr】中美经济工作组举行第四次会议](https://www.cls.cn/detail/1649133)
+- [【36kr】中美在多领域密集开展对话沟通-涉及军事，金融，经济等](https://www.cls.cn/detail/1649141)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

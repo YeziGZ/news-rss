@@ -1,12 +1,12 @@
 ##
 
-:alarm_clock: 更新时间: 2024-04-17 01:33:16，:rocket: 更新条数: +13， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-04-17 11:35:38，:rocket: 更新条数: +48， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [36kr](#36kr)![](/assets/dot.png)   
 - [QuestMobile](#questmobile)  
-- [艾瑞](#艾瑞)  
+- [艾瑞](#艾瑞)![](/assets/dot.png)   
 
 ## 文章链接
 
@@ -16,26 +16,26 @@
 </summary>
 
 
-- [2024-04-17-中国船舶迎来春季造船热潮-本轮船舶大周期正处于“量价齐升”阶段](https://www.cls.cn/detail/1648919) ![](/assets/new.png)  
-- [2024-04-17-刘强东AI数字人开启直播首秀-AIGC应用落地进程不断加速](https://www.cls.cn/detail/1648917) ![](/assets/new.png)  
-- [2024-04-17-FED降息一推再推，美元趁势走强！分析师：美元牛市势不可挡](https://www.cls.cn/detail/1648922) ![](/assets/new.png)  
-- [2024-04-17-券商晨会精华：基建投资稳健增长-设备更新需求有望加速释放](https://www.cls.cn/detail/1648947) ![](/assets/new.png)  
-- [2024-04-17-4月17日投资避雷针：高调跨界算力不足两月-这家公司突然宣布终止交易](https://www.cls.cn/detail/1648942) ![](/assets/new.png)  
-- [2024-04-17-美股恐重演2022熊市？阿波罗首席警告：若FED再不降息-美国经济将硬着陆](https://www.cls.cn/detail/1648954) ![](/assets/new.png)  
-- [2024-04-17-国防部长董军同美国国防部长视频通话](https://www.cls.cn/detail/1648980) ![](/assets/new.png)  
-- [2024-04-17-鲍威尔噤声期前最后演讲“鹰声嘹亮”：降息延后已“盖棺定论”？](https://www.cls.cn/detail/1648988) ![](/assets/new.png)  
-- [2024-04-17-短线情绪连续冰点后有望迎来修复，这些方向或将率先迎来反弹](https://www.cls.cn/detail/1649007) ![](/assets/new.png)  
-- [2024-04-16-土耳其称以色列对紧张局势负全责-英欧央行或早于美联储降息-|-环球市场](https://www.cls.cn/detail/1648910)  
-- [2024-04-16-【早报】证监会发声，回应分红、退市等市场关切；首批进驻17家单位！二十届中央第三轮巡视开始进驻](https://www.cls.cn/detail/1648897)  
-- [2024-04-16-沙特回应外界疑虑：NEOM项目所涉施工人员明年将增加逾四成](https://www.cls.cn/detail/1648363)  
-- [2024-04-16-定心丸来了！欧央行掌门拉加德：若无重大意外-降息很快就来](https://www.cls.cn/detail/1648767)  
-- [2024-04-16-2万元/吨是关键支撑？-俄铝被禁引发铝价“冰火两重天”-电解铝企看好未来长期走势](https://www.cls.cn/detail/1648756)  
-- [2024-04-16-几种情况都要割？对照新“国九条”逐一看，规则实际上是这么写的](https://www.cls.cn/detail/1648611)  
-- [2024-04-16-4月多地密集出台公积金优化政策-多孩家庭、绿色建筑等贷款额度提高-部分城市特定人群、特定住房获更多支持](https://www.cls.cn/detail/1648592)  
-- [2024-04-16-【明日主题前瞻】一季度产量同比增超40%，该新能源车细分市场有望保持高速增长](https://www.cls.cn/detail/1648330)  
-- [2024-04-16-鸿博股份子公司英博数科：依规对部分员工进行职务解除](https://www.cls.cn/detail/1648575)  
-- [2024-04-16-国家医保局等多部门：开展医保基金违法违规问题专项整治工作](https://www.cls.cn/detail/1648559)  
-- [2024-04-16-突发！这家公司被禁止2年内参加全军物资工程服务采购活动|盘后公告集锦](https://www.cls.cn/detail/1648553)  
+- [2024-04-17-短线情绪连续冰点后有望迎来修复，这些方向或将率先迎来反弹](https://www.cls.cn/detail/1649007)  
+- [2024-04-17-鲍威尔噤声期前最后演讲“鹰声嘹亮”：降息延后已“盖棺定论”？](https://www.cls.cn/detail/1648988)  
+- [2024-04-17-国防部长董军同美国国防部长视频通话](https://www.cls.cn/detail/1648980)  
+- [2024-04-17-美股恐重演2022熊市？阿波罗首席警告：若FED再不降息-美国经济将硬着陆](https://www.cls.cn/detail/1648954)  
+- [2024-04-17-4月17日投资避雷针：高调跨界算力不足两月-这家公司突然宣布终止交易](https://www.cls.cn/detail/1648942)  
+- [2024-04-17-券商晨会精华：基建投资稳健增长-设备更新需求有望加速释放](https://www.cls.cn/detail/1648947)  
+- [2024-04-17-FED降息一推再推，美元趁势走强！分析师：美元牛市势不可挡](https://www.cls.cn/detail/1648922)  
+- [2024-04-17-刘强东AI数字人开启直播首秀-AIGC应用落地进程不断加速](https://www.cls.cn/detail/1648917)  
+- [2024-04-17-中国船舶迎来春季造船热潮-本轮船舶大周期正处于“量价齐升”阶段](https://www.cls.cn/detail/1648919)  
+- [2024-04-17-财联社债市早参4月17日-|三部门：保险资金可通过债券等形式为战略新兴产业提供资金支持；碧桂园拟将“H1碧地01”二次展息](https://www.cls.cn/detail/1648956) ![](/assets/new.png)  
+- [2024-04-17-一线投顾谈基金发行“运动式营销”痛点，“首席买方财富50人”直面市场误区](https://www.cls.cn/detail/1648969) ![](/assets/new.png)  
+- [2024-04-17-财联社汽车早报【4月17日】](https://www.cls.cn/detail/1648968) ![](/assets/new.png)  
+- [2024-04-17-一季度实际GDP为何超预期？](https://www.cls.cn/detail/1649035) ![](/assets/new.png)  
+- [2024-04-17-底特律三巨头是前车之鉴！美国南部六州联合反对汽车工会](https://www.cls.cn/detail/1649022) ![](/assets/new.png)  
+- [2024-04-17-全球央妈与美联储“渐行渐远”？英国或许先于美国降息](https://www.cls.cn/detail/1649039) ![](/assets/new.png)  
+- [2024-04-17-扛不住了？玻纤电子纱布厂开启“复价”-分析称后续或仍有上调可能](https://www.cls.cn/detail/1649091) ![](/assets/new.png)  
+- [2024-04-17-首批地产白名单项目审批额超5200亿-中梁控股涨超10%领跑市场](https://www.cls.cn/detail/1649094) ![](/assets/new.png)  
+- [2024-04-17-中美金融工作组举行第四次会议](https://www.cls.cn/detail/1649114) ![](/assets/new.png)  
+- [2024-04-17-美银调查：机构乐观情绪升至近两年顶峰-股票和大宗配置大幅增加](https://www.cls.cn/detail/1649104) ![](/assets/new.png)  
+- [2024-04-17-中美经济工作组举行第四次会议](https://www.cls.cn/detail/1649133) ![](/assets/new.png)  
 - [......【查看更多】......](/details/36kr.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -78,6 +78,7 @@
 </summary>
 
 
+- [2024-04-17-2024年中国共享充电宝行业研究报告](https://report.iresearch.cn/report/202404/4335.shtml) ![](/assets/new.png)  
 - [2024-04-09-云服务行业动态及热点研究月报-2024年3月](https://report.iresearch.cn/report/202404/4334.shtml)  
 - [2024-04-07-2024年中国防晒衣行业标准白皮书](https://report.iresearch.cn/report/202404/4333.shtml)  
 - [2024-04-03-2024年中国采购数字化平台行业研究报告](https://report.iresearch.cn/report/202404/4332.shtml)  
@@ -90,14 +91,13 @@
 - [2024-03-14-2023年城市基础及公共服务类APP流量监测报告](https://report.iresearch.cn/report/202403/4325.shtml)  
 - [2024-03-13-2024年即时零售消费电子行业白皮书](https://report.iresearch.cn/report/202403/4324.shtml)  
 - [2024-03-12-2024情绪与健康睡眠白皮书](https://report.iresearch.cn/report/202403/4323.shtml)  
-- [2024-03-11-2024年中国企业3C数码商用品电商采购白皮书](https://report.iresearch.cn/report/202403/4321.shtml)  
 - [2024-03-11-2024年中国毛发健康管理行业研究报告](https://report.iresearch.cn/report/202403/4322.shtml)  
-- [2024-03-08-云服务行业动态及热点研究月报-2024年2月](https://report.iresearch.cn/report/202403/4319.shtml)  
+- [2024-03-11-2024年中国企业3C数码商用品电商采购白皮书](https://report.iresearch.cn/report/202403/4321.shtml)  
 - [2024-03-08-2024年中国健康管理行业研究报告](https://report.iresearch.cn/report/202403/4320.shtml)  
+- [2024-03-08-云服务行业动态及热点研究月报-2024年2月](https://report.iresearch.cn/report/202403/4319.shtml)  
 - [2024-03-05-2023年中国移动互联网流量年度报告](https://report.iresearch.cn/report/202403/4318.shtml)  
 - [2024-03-04-为全人类-2024年中国民商参与航天产业现状及未来展望](https://report.iresearch.cn/report/202403/4317.shtml)  
 - [2024-02-29-2023年中国直播电商行业研究报告](https://report.iresearch.cn/report/202402/4316.shtml)  
-- [2024-02-06-2023年中国少女发育内衣行业发展白皮书](https://report.iresearch.cn/report/202402/4315.shtml)  
 - [......【查看更多】......](/details/艾瑞.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
