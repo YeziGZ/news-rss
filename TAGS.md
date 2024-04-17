@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-04-17 11:35:38。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-04-17 12:48:05。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -34,14 +34,14 @@
 - [【36kr】Kimi引领大模型长文本处理投资热潮，以下方向或有望率先受益](https://www.cls.cn/detail/1628405)
 - [【36kr】周末要闻汇总：国常会再提优化房地产政策，财跃星辰发布国内首个千亿参数多模态金融大模型](https://www.cls.cn/detail/1628193)
 - [【36kr】【明日主题前瞻】大模型和该领域天然适配，或成为AI落地最佳应用场景](https://www.cls.cn/detail/1624914)
-- [【36kr】比特币盘中突破70000美元关口-奥特曼重返OpenAI董事会-|-环球市场](https://www.cls.cn/detail/1615037)
 - [【36kr】力挺TikTok？特朗普：Facebook才是美国人的敌人](https://www.cls.cn/detail/1614927)
+- [【36kr】比特币盘中突破70000美元关口-奥特曼重返OpenAI董事会-|-环球市场](https://www.cls.cn/detail/1615037)
 - [【36kr】两会时间|全国人大代表、中国铁塔董事长张志勇：推进AI硬件计算100%国产化-助力行业大模型高质量发展](https://www.cls.cn/detail/1611187)
 - [【36kr】【明日主题前瞻】大模型加速赋能内容创作变革，国内首部AI全流程制作微短剧来了](https://www.cls.cn/detail/1609261)
 - [【36kr】奥尔特曼的身价几何？至少20亿美元-但与OpenAI毫无关系](https://www.cls.cn/detail/1608824)
 - [【36kr】图解2月大事件：吴清出任证监会主席-OpenAI发布王炸产品](https://www.cls.cn/detail/1607430)
-- [【36kr】【明日主题前瞻】获微软入股，该AI新贵发布旗舰大模型产品](https://www.cls.cn/detail/1605181)
 - [【36kr】谷歌发布AI基础世界模型-传Meta将于秋季展示AR眼镜-|-今夜看点](https://www.cls.cn/detail/1605246)
+- [【36kr】【明日主题前瞻】获微软入股，该AI新贵发布旗舰大模型产品](https://www.cls.cn/detail/1605181)
 - [【36kr】Vision-Pro会否掀起商业银行新一轮技术内卷？招商银行首家适配visionOS，去年多家银行“鏖战”大模型](https://www.cls.cn/detail/1604228)
 - [......【查看更多】......](/details/tags/aigc.md)
 
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】短线情绪连续冰点后有望迎来修复，这些方向或将率先迎来反弹](https://www.cls.cn/detail/1649007)
-- [【36kr】鲍威尔噤声期前最后演讲“鹰声嘹亮”：降息延后已“盖棺定论”？](https://www.cls.cn/detail/1648988)
-- [【36kr】国防部长董军同美国国防部长视频通话](https://www.cls.cn/detail/1648980)
-- [【36kr】美股恐重演2022熊市？阿波罗首席警告：若FED再不降息-美国经济将硬着陆](https://www.cls.cn/detail/1648954)
-- [【36kr】4月17日投资避雷针：高调跨界算力不足两月-这家公司突然宣布终止交易](https://www.cls.cn/detail/1648942)
-- [【36kr】券商晨会精华：基建投资稳健增长-设备更新需求有望加速释放](https://www.cls.cn/detail/1648947)
-- [【36kr】FED降息一推再推，美元趁势走强！分析师：美元牛市势不可挡](https://www.cls.cn/detail/1648922)
-- [【36kr】中国船舶迎来春季造船热潮-本轮船舶大周期正处于“量价齐升”阶段](https://www.cls.cn/detail/1648919)
-- [【36kr】财联社债市早参4月17日-|三部门：保险资金可通过债券等形式为战略新兴产业提供资金支持；碧桂园拟将“H1碧地01”二次展息](https://www.cls.cn/detail/1648956)
-- [【36kr】一线投顾谈基金发行“运动式营销”痛点，“首席买方财富50人”直面市场误区](https://www.cls.cn/detail/1648969)
-- [【36kr】财联社汽车早报【4月17日】](https://www.cls.cn/detail/1648968)
-- [【36kr】一季度实际GDP为何超预期？](https://www.cls.cn/detail/1649035)
-- [【36kr】底特律三巨头是前车之鉴！美国南部六州联合反对汽车工会](https://www.cls.cn/detail/1649022)
-- [【36kr】全球央妈与美联储“渐行渐远”？英国或许先于美国降息](https://www.cls.cn/detail/1649039)
-- [【36kr】扛不住了？玻纤电子纱布厂开启“复价”-分析称后续或仍有上调可能](https://www.cls.cn/detail/1649091)
-- [【36kr】首批地产白名单项目审批额超5200亿-中梁控股涨超10%领跑市场](https://www.cls.cn/detail/1649094)
-- [【36kr】中美金融工作组举行第四次会议](https://www.cls.cn/detail/1649114)
-- [【36kr】美银调查：机构乐观情绪升至近两年顶峰-股票和大宗配置大幅增加](https://www.cls.cn/detail/1649104)
-- [【36kr】中美经济工作组举行第四次会议](https://www.cls.cn/detail/1649133)
-- [【36kr】中美在多领域密集开展对话沟通-涉及军事，金融，经济等](https://www.cls.cn/detail/1649141)
+- [【36kr】三星、美光展开AI时代内存芯片竞速-LPDDR5X新品突破10Gbps](https://www.cls.cn/detail/1649665)
+- [【36kr】日元暴跌让日本商界人士坐不住了-呼吁当局入场干预](https://www.cls.cn/detail/1649597)
+- [【36kr】南向资金4月17日净买入超11亿港元：加速流入腾讯及中移动-减仓快手和中信银行](https://www.cls.cn/detail/1649643)
+- [【36kr】“强美元”风暴短期难歇！高盛：美国强劲通胀将持续支撑美元汇率](https://www.cls.cn/detail/1649561)
+- [【36kr】反包昨日跌幅！“2000ETF”均涨超6%，50余只小微股仍新低，这一方向成“重灾区”](https://www.cls.cn/detail/1649596)
+- [【36kr】【数据看盘】IM期指多头大幅加仓-微盘股大涨各路资金参与度均较低](https://www.cls.cn/detail/1649592)
+- [【36kr】【焦点复盘】小微盘股大面积普涨反弹，低空经济再掀高潮，多只业绩超预期股晋级连板](https://www.cls.cn/detail/1649570)
+- [【36kr】风靡全球的家居好物哪里来？多多跨境助力台州制造“卖全球”](https://www.cls.cn/detail/1649546)
+- [【36kr】规模同比翻倍，债券型ETF市场已达926亿，各品种收益表现分化](https://www.cls.cn/detail/1649547)
+- [【36kr】独家|杭州政协召集部分房企座谈-内容涉及加强一二手房联动激发市场活力](https://www.cls.cn/detail/1649548)
+- [【36kr】A股银行全线飘红收盘-中信银行更是封涨停-什么原因?-会持续吗?](https://www.cls.cn/detail/1649516)
+- [【36kr】特朗普扬言将对所有进口商品征收关税-WTO总干事警告：会造成双输局面](https://www.cls.cn/detail/1649478)
+- [【36kr】英伟达还能再涨30%！华尔街分析师锐评：它不仅仅是芯片股](https://www.cls.cn/detail/1649481)
+- [【36kr】北京公积金新政定向支持“老破小”房屋-贷款年限最高可增加20年](https://www.cls.cn/detail/1649489)
+- [【36kr】港股三大指数随A股同步回升-医药和半导体股领涨](https://www.cls.cn/detail/1649461)
+- [【36kr】【每日收评】三大指数均涨超2%，微盘股迎集中修复，逾千股涨超9%](https://www.cls.cn/detail/1649486)
+- [【36kr】越南央行向西贡商行注资超1700亿元-背后涉一桩惊天大案](https://www.cls.cn/detail/1649436)
+- [【36kr】外交部介绍朔尔茨访华期间中德两国达成的合作共识](https://www.cls.cn/detail/1649435)
+- [【36kr】沙漠变泽国！中东多地遭遇大暴雨-迪拜一天就凑够了两年降雨量](https://www.cls.cn/detail/1649432)
+- [【36kr】一纸禁业罚单背后的荒唐事：信贷员称工作需要“以贷转贷”被起诉、担保人履责后银行拒绝移除不良](https://www.cls.cn/detail/1649418)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
