@@ -1,12 +1,12 @@
 ##
 
-:alarm_clock: 更新时间: 2024-04-18 04:35:11，:rocket: 更新条数: +6， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-04-18 09:37:29，:rocket: 更新条数: +22， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [36kr](#36kr)![](/assets/dot.png)   
 - [QuestMobile](#questmobile)  
-- [艾瑞](#艾瑞)  
+- [艾瑞](#艾瑞)![](/assets/dot.png)   
 
 ## 文章链接
 
@@ -16,26 +16,26 @@
 </summary>
 
 
-- [2024-04-18-美日韩联合声明罕见直指汇率：日韩对本币贬值严重关切](https://www.cls.cn/detail/1650283)  
-- [2024-04-18-财联社汽车早报【4月18日】](https://www.cls.cn/detail/1650199)  
-- [2024-04-18-睿远傅鹏博、赵枫、饶刚最新调仓出炉，一致加仓港股，头号重仓股中国移动遭减持](https://www.cls.cn/detail/1650186)  
-- [2024-04-18-多重利空来袭！WTI原油创1个月最大跌幅-市场正平仓“战争溢价”](https://www.cls.cn/detail/1650150)  
-- [2024-04-18-美联储准备“一鹰到底”？梅斯特：降息不着急，须获足够信心！](https://www.cls.cn/detail/1650165)  
-- [2024-04-18-中信证券：预计年内存款挂牌利率存在1-2次调整的空间，二季度末存在调整可能](https://www.cls.cn/detail/1650174)  
-- [2024-04-18-淡水河谷旗下铜矿遭关停-策略师预计精炼铜供应将严重短缺](https://www.cls.cn/detail/1650154)  
-- [2024-04-18-4月18日投资避雷针：股价一度涨超5倍-算力牛股重磅收购悬了？](https://www.cls.cn/detail/1650175)  
-- [2024-04-18-调整后再走强，“新国九条”再引多家私募发声](https://www.cls.cn/detail/1650180)  
-- [2024-04-18-国内纸浆期现价格一路上涨-龙头企业有望迎估值修复](https://www.cls.cn/detail/1650145)  
-- [2024-04-18-券商晨会精华：美国二次通胀初现端倪，铜油金大周期共振开启](https://www.cls.cn/detail/1650169)  
+- [2024-04-18-【财联社午报】沪指探底回升盘中触及3100点，低空经济概念股持续爆发，大金融盘中异动](https://www.cls.cn/detail/1650470)  
+- [2024-04-18-纽约联储“剧透”FED政策路线图：明年“缩表”将踩刹车！](https://www.cls.cn/detail/1650401)  
+- [2024-04-18-阿斯麦：未来中国需求仍强劲-没有理由不给中国客户提供售后服务](https://www.cls.cn/detail/1650387)  
+- [2024-04-18-美债大跌引发抄底潮？美国海外“债主”2月美债持仓规模创纪录](https://www.cls.cn/detail/1650391)  
+- [2024-04-18-美债收益率全线回落：萦绕华尔街的债市阴霾终于有所消散？](https://www.cls.cn/detail/1650222)  
+- [2024-04-18-财联社债市早参4月18日-|发改委今日召开2023年增发国债项目实施推进会议；已有超50只可转债跌破面值](https://www.cls.cn/detail/1650187)  
 - [2024-04-18-低空经济概念或有望卷土重来，业绩线强者恒强](https://www.cls.cn/detail/1650249)  
-- [2024-04-18-财联社债市早参4月18日-|发改委今日召开2023年增发国债项目实施推进会议；已有超50只可转债跌破面值](https://www.cls.cn/detail/1650187) ![](/assets/new.png)  
-- [2024-04-18-美债收益率全线回落：萦绕华尔街的债市阴霾终于有所消散？](https://www.cls.cn/detail/1650222) ![](/assets/new.png)  
-- [2024-04-18-美债大跌引发抄底潮？美国海外“债主”2月美债持仓规模创纪录](https://www.cls.cn/detail/1650391) ![](/assets/new.png)  
-- [2024-04-18-阿斯麦：未来中国需求仍强劲-没有理由不给中国客户提供售后服务](https://www.cls.cn/detail/1650387) ![](/assets/new.png)  
-- [2024-04-18-纽约联储“剧透”FED政策路线图：明年“缩表”将踩刹车！](https://www.cls.cn/detail/1650401) ![](/assets/new.png)  
-- [2024-04-18-【财联社午报】沪指探底回升盘中触及3100点，低空经济概念股持续爆发，大金融盘中异动](https://www.cls.cn/detail/1650470) ![](/assets/new.png)  
-- [2024-04-17-IMF将沙特2025年经济增速预测上调至6%](https://www.cls.cn/detail/1649614)  
-- [2024-04-17-国际油价大跌3%-欧洲央行频放降息信号-|-环球市场](https://www.cls.cn/detail/1650153)  
+- [2024-04-18-券商晨会精华：美国二次通胀初现端倪，铜油金大周期共振开启](https://www.cls.cn/detail/1650169)  
+- [2024-04-18-国内纸浆期现价格一路上涨-龙头企业有望迎估值修复](https://www.cls.cn/detail/1650145)  
+- [2024-04-18-调整后再走强，“新国九条”再引多家私募发声](https://www.cls.cn/detail/1650180)  
+- [2024-04-18-4月18日投资避雷针：股价一度涨超5倍-算力牛股重磅收购悬了？](https://www.cls.cn/detail/1650175)  
+- [2024-04-18-淡水河谷旗下铜矿遭关停-策略师预计精炼铜供应将严重短缺](https://www.cls.cn/detail/1650154)  
+- [2024-04-18-中信证券：预计年内存款挂牌利率存在1-2次调整的空间，二季度末存在调整可能](https://www.cls.cn/detail/1650174)  
+- [2024-04-18-美联储准备“一鹰到底”？梅斯特：降息不着急，须获足够信心！](https://www.cls.cn/detail/1650165)  
+- [2024-04-18-多重利空来袭！WTI原油创1个月最大跌幅-市场正平仓“战争溢价”](https://www.cls.cn/detail/1650150)  
+- [2024-04-18-睿远傅鹏博、赵枫、饶刚最新调仓出炉，一致加仓港股，头号重仓股中国移动遭减持](https://www.cls.cn/detail/1650186)  
+- [2024-04-18-财联社汽车早报【4月18日】](https://www.cls.cn/detail/1650199)  
+- [2024-04-18-美日韩联合声明罕见直指汇率：日韩对本币贬值严重关切](https://www.cls.cn/detail/1650283)  
+- [2024-04-18-特斯拉目标价被大砍！巴克莱：下周财报及电话会均是“逆风”](https://www.cls.cn/detail/1650243) ![](/assets/new.png)  
+- [2024-04-18-金价何时再走强？港股黄金股走势承压-灵宝黄金领跌](https://www.cls.cn/detail/1650370) ![](/assets/new.png)  
 - [......【查看更多】......](/details/36kr.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -78,6 +78,7 @@
 </summary>
 
 
+- [2024-04-20-2023年中国人工智能产业研究报告-VI](https://report.iresearch.cn/report/202404/4336.shtml) ![](/assets/new.png)  
 - [2024-04-17-2024年中国共享充电宝行业研究报告](https://report.iresearch.cn/report/202404/4335.shtml)  
 - [2024-04-09-云服务行业动态及热点研究月报-2024年3月](https://report.iresearch.cn/report/202404/4334.shtml)  
 - [2024-04-07-2024年中国防晒衣行业标准白皮书](https://report.iresearch.cn/report/202404/4333.shtml)  
@@ -91,13 +92,12 @@
 - [2024-03-14-2023年城市基础及公共服务类APP流量监测报告](https://report.iresearch.cn/report/202403/4325.shtml)  
 - [2024-03-13-2024年即时零售消费电子行业白皮书](https://report.iresearch.cn/report/202403/4324.shtml)  
 - [2024-03-12-2024情绪与健康睡眠白皮书](https://report.iresearch.cn/report/202403/4323.shtml)  
-- [2024-03-11-2024年中国毛发健康管理行业研究报告](https://report.iresearch.cn/report/202403/4322.shtml)  
 - [2024-03-11-2024年中国企业3C数码商用品电商采购白皮书](https://report.iresearch.cn/report/202403/4321.shtml)  
-- [2024-03-08-2024年中国健康管理行业研究报告](https://report.iresearch.cn/report/202403/4320.shtml)  
+- [2024-03-11-2024年中国毛发健康管理行业研究报告](https://report.iresearch.cn/report/202403/4322.shtml)  
 - [2024-03-08-云服务行业动态及热点研究月报-2024年2月](https://report.iresearch.cn/report/202403/4319.shtml)  
+- [2024-03-08-2024年中国健康管理行业研究报告](https://report.iresearch.cn/report/202403/4320.shtml)  
 - [2024-03-05-2023年中国移动互联网流量年度报告](https://report.iresearch.cn/report/202403/4318.shtml)  
 - [2024-03-04-为全人类-2024年中国民商参与航天产业现状及未来展望](https://report.iresearch.cn/report/202403/4317.shtml)  
-- [2024-02-29-2023年中国直播电商行业研究报告](https://report.iresearch.cn/report/202402/4316.shtml)  
 - [......【查看更多】......](/details/艾瑞.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
