@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-04-18 03:36:34。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-04-18 04:35:11。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -34,14 +34,14 @@
 - [【36kr】Kimi引领大模型长文本处理投资热潮，以下方向或有望率先受益](https://www.cls.cn/detail/1628405)
 - [【36kr】周末要闻汇总：国常会再提优化房地产政策，财跃星辰发布国内首个千亿参数多模态金融大模型](https://www.cls.cn/detail/1628193)
 - [【36kr】【明日主题前瞻】大模型和该领域天然适配，或成为AI落地最佳应用场景](https://www.cls.cn/detail/1624914)
-- [【36kr】力挺TikTok？特朗普：Facebook才是美国人的敌人](https://www.cls.cn/detail/1614927)
 - [【36kr】比特币盘中突破70000美元关口-奥特曼重返OpenAI董事会-|-环球市场](https://www.cls.cn/detail/1615037)
+- [【36kr】力挺TikTok？特朗普：Facebook才是美国人的敌人](https://www.cls.cn/detail/1614927)
 - [【36kr】两会时间|全国人大代表、中国铁塔董事长张志勇：推进AI硬件计算100%国产化-助力行业大模型高质量发展](https://www.cls.cn/detail/1611187)
 - [【36kr】【明日主题前瞻】大模型加速赋能内容创作变革，国内首部AI全流程制作微短剧来了](https://www.cls.cn/detail/1609261)
 - [【36kr】奥尔特曼的身价几何？至少20亿美元-但与OpenAI毫无关系](https://www.cls.cn/detail/1608824)
 - [【36kr】图解2月大事件：吴清出任证监会主席-OpenAI发布王炸产品](https://www.cls.cn/detail/1607430)
-- [【36kr】谷歌发布AI基础世界模型-传Meta将于秋季展示AR眼镜-|-今夜看点](https://www.cls.cn/detail/1605246)
 - [【36kr】【明日主题前瞻】获微软入股，该AI新贵发布旗舰大模型产品](https://www.cls.cn/detail/1605181)
+- [【36kr】谷歌发布AI基础世界模型-传Meta将于秋季展示AR眼镜-|-今夜看点](https://www.cls.cn/detail/1605246)
 - [【36kr】Vision-Pro会否掀起商业银行新一轮技术内卷？招商银行首家适配visionOS，去年多家银行“鏖战”大模型](https://www.cls.cn/detail/1604228)
 - [......【查看更多】......](/details/tags/aigc.md)
 
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】低空经济概念或有望卷土重来，业绩线强者恒强](https://www.cls.cn/detail/1650249)
-- [【36kr】券商晨会精华：美国二次通胀初现端倪，铜油金大周期共振开启](https://www.cls.cn/detail/1650169)
-- [【36kr】国内纸浆期现价格一路上涨-龙头企业有望迎估值修复](https://www.cls.cn/detail/1650145)
-- [【36kr】调整后再走强，“新国九条”再引多家私募发声](https://www.cls.cn/detail/1650180)
-- [【36kr】4月18日投资避雷针：股价一度涨超5倍-算力牛股重磅收购悬了？](https://www.cls.cn/detail/1650175)
-- [【36kr】淡水河谷旗下铜矿遭关停-策略师预计精炼铜供应将严重短缺](https://www.cls.cn/detail/1650154)
-- [【36kr】中信证券：预计年内存款挂牌利率存在1-2次调整的空间，二季度末存在调整可能](https://www.cls.cn/detail/1650174)
-- [【36kr】美联储准备“一鹰到底”？梅斯特：降息不着急，须获足够信心！](https://www.cls.cn/detail/1650165)
-- [【36kr】多重利空来袭！WTI原油创1个月最大跌幅-市场正平仓“战争溢价”](https://www.cls.cn/detail/1650150)
-- [【36kr】睿远傅鹏博、赵枫、饶刚最新调仓出炉，一致加仓港股，头号重仓股中国移动遭减持](https://www.cls.cn/detail/1650186)
-- [【36kr】财联社汽车早报【4月18日】](https://www.cls.cn/detail/1650199)
 - [【36kr】美日韩联合声明罕见直指汇率：日韩对本币贬值严重关切](https://www.cls.cn/detail/1650283)
-- [【36kr】美债收益率等不利海外资金回流港股-下行保护来自4方面](https://www.cls.cn/detail/1648347)
-- [【36kr】【早报】国家发改委发声！事关超长期特别国债、低空经济；特斯拉上海储能超级工厂将于下月开工](https://www.cls.cn/detail/1650128)
-- [【36kr】美联储褐皮书：近期经济活动仅略有扩张-企业转嫁成本难度明显上升](https://www.cls.cn/detail/1650119)
-- [【36kr】【VIP机会日报】沪指高开高走-个股普涨再现-栏目紧跟市场节奏-梳理低空板块迎涨停潮](https://www.cls.cn/detail/1649500)
-- [【36kr】米莱的烦心事：“前所未有”的病害爆发-创纪录玉米丰收季泡汤](https://www.cls.cn/detail/1650028)
-- [【36kr】马斯克据称下周将公布印度建厂计划-拟在当地投资20亿至30亿美元](https://www.cls.cn/detail/1649976)
-- [【36kr】IMF预测：今年全球经济衰退风险极小-通胀问题可能会恶化](https://www.cls.cn/detail/1649974)
-- [【36kr】商务部新闻发言人就美对华发起301调查发表谈话](https://www.cls.cn/detail/1649964)
+- [【36kr】财联社汽车早报【4月18日】](https://www.cls.cn/detail/1650199)
+- [【36kr】睿远傅鹏博、赵枫、饶刚最新调仓出炉，一致加仓港股，头号重仓股中国移动遭减持](https://www.cls.cn/detail/1650186)
+- [【36kr】多重利空来袭！WTI原油创1个月最大跌幅-市场正平仓“战争溢价”](https://www.cls.cn/detail/1650150)
+- [【36kr】美联储准备“一鹰到底”？梅斯特：降息不着急，须获足够信心！](https://www.cls.cn/detail/1650165)
+- [【36kr】中信证券：预计年内存款挂牌利率存在1-2次调整的空间，二季度末存在调整可能](https://www.cls.cn/detail/1650174)
+- [【36kr】淡水河谷旗下铜矿遭关停-策略师预计精炼铜供应将严重短缺](https://www.cls.cn/detail/1650154)
+- [【36kr】4月18日投资避雷针：股价一度涨超5倍-算力牛股重磅收购悬了？](https://www.cls.cn/detail/1650175)
+- [【36kr】调整后再走强，“新国九条”再引多家私募发声](https://www.cls.cn/detail/1650180)
+- [【36kr】国内纸浆期现价格一路上涨-龙头企业有望迎估值修复](https://www.cls.cn/detail/1650145)
+- [【36kr】券商晨会精华：美国二次通胀初现端倪，铜油金大周期共振开启](https://www.cls.cn/detail/1650169)
+- [【36kr】低空经济概念或有望卷土重来，业绩线强者恒强](https://www.cls.cn/detail/1650249)
+- [【36kr】财联社债市早参4月18日-|发改委今日召开2023年增发国债项目实施推进会议；已有超50只可转债跌破面值](https://www.cls.cn/detail/1650187)
+- [【36kr】美债收益率全线回落：萦绕华尔街的债市阴霾终于有所消散？](https://www.cls.cn/detail/1650222)
+- [【36kr】美债大跌引发抄底潮？美国海外“债主”2月美债持仓规模创纪录](https://www.cls.cn/detail/1650391)
+- [【36kr】阿斯麦：未来中国需求仍强劲-没有理由不给中国客户提供售后服务](https://www.cls.cn/detail/1650387)
+- [【36kr】纽约联储“剧透”FED政策路线图：明年“缩表”将踩刹车！](https://www.cls.cn/detail/1650401)
+- [【36kr】【财联社午报】沪指探底回升盘中触及3100点，低空经济概念股持续爆发，大金融盘中异动](https://www.cls.cn/detail/1650470)
+- [【36kr】IMF将沙特2025年经济增速预测上调至6%](https://www.cls.cn/detail/1649614)
+- [【36kr】国际油价大跌3%-欧洲央行频放降息信号-|-环球市场](https://www.cls.cn/detail/1650153)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
