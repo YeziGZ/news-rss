@@ -1,12 +1,12 @@
 ##
 
-:alarm_clock: 更新时间: 2024-04-19 04:35:35，:rocket: 更新条数: +6， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-04-19 05:35:44，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [36kr](#36kr)![](/assets/dot.png)   
+- [36kr](#36kr)  
 - [QuestMobile](#questmobile)  
-- [艾瑞](#艾瑞)  
+- [艾瑞](#艾瑞)![](/assets/dot.png)   
 
 ## 文章链接
 
@@ -32,10 +32,10 @@
 - [2024-04-19-券商晨会精华：把握新一轮并购浪潮带来的投资机会](https://www.cls.cn/detail/1651485)  
 - [2024-04-19-美联储“鹰声鹤唳”：“鹰王”放话年内不降息-两大票委谈及加息！](https://www.cls.cn/detail/1651496)  
 - [2024-04-19-财联社汽车早报【4月19日】](https://www.cls.cn/detail/1651520)  
-- [2024-04-19-与美联储一道“鹰言鹰语”？小摩总裁：今年或许压根不会降息！](https://www.cls.cn/detail/1651730) ![](/assets/new.png)  
-- [2024-04-19-华尔街大多头都虚了？“最准预言家”警告不要逢低抄入美股](https://www.cls.cn/detail/1651740) ![](/assets/new.png)  
-- [2024-04-19-11000！可可逆天行情涨出新高度-连“原油交易之神”也在跨界炒？](https://www.cls.cn/detail/1651768) ![](/assets/new.png)  
-- [2024-04-19-美联储论调或波及欧央行！“鹰派”管委对预期降息路径表示担忧](https://www.cls.cn/detail/1651795) ![](/assets/new.png)  
+- [2024-04-19-与美联储一道“鹰言鹰语”？小摩总裁：今年或许压根不会降息！](https://www.cls.cn/detail/1651730)  
+- [2024-04-19-华尔街大多头都虚了？“最准预言家”警告不要逢低抄入美股](https://www.cls.cn/detail/1651740)  
+- [2024-04-19-11000！可可逆天行情涨出新高度-连“原油交易之神”也在跨界炒？](https://www.cls.cn/detail/1651768)  
+- [2024-04-19-美联储论调或波及欧央行！“鹰派”管委对预期降息路径表示担忧](https://www.cls.cn/detail/1651795)  
 - [......【查看更多】......](/details/36kr.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -79,6 +79,7 @@
 
 
 - [2024-04-20-2023年中国人工智能产业研究报告-VI](https://report.iresearch.cn/report/202404/4336.shtml)  
+- [2024-04-19-2024年兴趣社交媒体男性用户营销价值报告](https://report.iresearch.cn/report/202404/4337.shtml) ![](/assets/new.png)  
 - [2024-04-17-2024年中国共享充电宝行业研究报告](https://report.iresearch.cn/report/202404/4335.shtml)  
 - [2024-04-09-云服务行业动态及热点研究月报-2024年3月](https://report.iresearch.cn/report/202404/4334.shtml)  
 - [2024-04-07-2024年中国防晒衣行业标准白皮书](https://report.iresearch.cn/report/202404/4333.shtml)  
@@ -92,12 +93,11 @@
 - [2024-03-14-2023年城市基础及公共服务类APP流量监测报告](https://report.iresearch.cn/report/202403/4325.shtml)  
 - [2024-03-13-2024年即时零售消费电子行业白皮书](https://report.iresearch.cn/report/202403/4324.shtml)  
 - [2024-03-12-2024情绪与健康睡眠白皮书](https://report.iresearch.cn/report/202403/4323.shtml)  
-- [2024-03-11-2024年中国企业3C数码商用品电商采购白皮书](https://report.iresearch.cn/report/202403/4321.shtml)  
 - [2024-03-11-2024年中国毛发健康管理行业研究报告](https://report.iresearch.cn/report/202403/4322.shtml)  
-- [2024-03-08-云服务行业动态及热点研究月报-2024年2月](https://report.iresearch.cn/report/202403/4319.shtml)  
+- [2024-03-11-2024年中国企业3C数码商用品电商采购白皮书](https://report.iresearch.cn/report/202403/4321.shtml)  
 - [2024-03-08-2024年中国健康管理行业研究报告](https://report.iresearch.cn/report/202403/4320.shtml)  
+- [2024-03-08-云服务行业动态及热点研究月报-2024年2月](https://report.iresearch.cn/report/202403/4319.shtml)  
 - [2024-03-05-2023年中国移动互联网流量年度报告](https://report.iresearch.cn/report/202403/4318.shtml)  
-- [2024-03-04-为全人类-2024年中国民商参与航天产业现状及未来展望](https://report.iresearch.cn/report/202403/4317.shtml)  
 - [......【查看更多】......](/details/艾瑞.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
