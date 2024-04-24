@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-04-24 04:35:11。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-04-24 05:35:24。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -35,14 +35,14 @@
 - [【36kr】Kimi引领大模型长文本处理投资热潮，以下方向或有望率先受益](https://www.cls.cn/detail/1628405)
 - [【36kr】周末要闻汇总：国常会再提优化房地产政策，财跃星辰发布国内首个千亿参数多模态金融大模型](https://www.cls.cn/detail/1628193)
 - [【36kr】【明日主题前瞻】大模型和该领域天然适配，或成为AI落地最佳应用场景](https://www.cls.cn/detail/1624914)
-- [【36kr】力挺TikTok？特朗普：Facebook才是美国人的敌人](https://www.cls.cn/detail/1614927)
 - [【36kr】比特币盘中突破70000美元关口-奥特曼重返OpenAI董事会-|-环球市场](https://www.cls.cn/detail/1615037)
+- [【36kr】力挺TikTok？特朗普：Facebook才是美国人的敌人](https://www.cls.cn/detail/1614927)
 - [【36kr】两会时间|全国人大代表、中国铁塔董事长张志勇：推进AI硬件计算100%国产化-助力行业大模型高质量发展](https://www.cls.cn/detail/1611187)
 - [【36kr】【明日主题前瞻】大模型加速赋能内容创作变革，国内首部AI全流程制作微短剧来了](https://www.cls.cn/detail/1609261)
 - [【36kr】奥尔特曼的身价几何？至少20亿美元-但与OpenAI毫无关系](https://www.cls.cn/detail/1608824)
 - [【36kr】图解2月大事件：吴清出任证监会主席-OpenAI发布王炸产品](https://www.cls.cn/detail/1607430)
-- [【36kr】谷歌发布AI基础世界模型-传Meta将于秋季展示AR眼镜-|-今夜看点](https://www.cls.cn/detail/1605246)
 - [【36kr】【明日主题前瞻】获微软入股，该AI新贵发布旗舰大模型产品](https://www.cls.cn/detail/1605181)
+- [【36kr】谷歌发布AI基础世界模型-传Meta将于秋季展示AR眼镜-|-今夜看点](https://www.cls.cn/detail/1605246)
 - [......【查看更多】......](/details/tags/aigc.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】中宣部：正研究制定《加快推进版权产业高质量发展的指导意见》](https://www.cls.cn/detail/1656454)
-- [【36kr】横财到手：特朗普获得DJT额外3600万股-价值近12亿美元](https://www.cls.cn/detail/1656418)
-- [【36kr】美参议院投票通过向乌克兰和以色列援助法案](https://www.cls.cn/detail/1656349)
-- [【36kr】鼎晖百孚刘尚：从“冷板凳”到“热捧”，进阶的商业航天](https://www.cls.cn/detail/1656327)
-- [【36kr】短线情绪持续回暖，低空经济盘中再迎爆发](https://www.cls.cn/detail/1656309)
-- [【36kr】华尔街人人翘首的一幕发生了：美国经济出现“颠簸”迹象……](https://www.cls.cn/detail/1656280)
-- [【36kr】摩根大通CEO：美国经济正蓬勃发展-所以短期内降息没戏](https://www.cls.cn/detail/1656244)
-- [【36kr】4月24日投资避雷针：5连板低空经济概念人气股收上交所监管函](https://www.cls.cn/detail/1656251)
-- [【36kr】美FTC颁布禁止竞业协议新规-苹果官宣春季发布会-|-环球市场](https://www.cls.cn/detail/1656247)
-- [【36kr】财联社汽车早报【4月24日】](https://www.cls.cn/detail/1656265)
-- [【36kr】财联社债市早参4月24日|长期国债收益率持续下行，央行最新回应；2024年地方政府专项债券项目筛选工作完成](https://www.cls.cn/detail/1655449)
-- [【36kr】“全球第二股神”辣评美股回调：实际上是牛市持续的信号！](https://www.cls.cn/detail/1656355)
-- [【36kr】特斯拉把“木头姐”害惨了？旗下基金正遭投资者大规模撤离](https://www.cls.cn/detail/1656459)
-- [【36kr】【财联社午报】短线题材迎来集体修复，低空经济概念卷土重来，CPO概念股再度活跃](https://www.cls.cn/detail/1656507)
 - [【36kr】又一私募产品净值仅剩3毛，近期频见大V私募“翻车”，满盘皆输案例为何这样多？](https://www.cls.cn/detail/1656508)
-- [【36kr】权重科网股拉动港股-南向资金集中流入两板块](https://www.cls.cn/detail/1654229)
-- [【36kr】消金新规之后首单股权变更，成都银行旗下锦程消费第三大股东退出，业内：与主要股东约束有关](https://www.cls.cn/detail/1655795)
-- [【36kr】中泰铁路第二阶段项目获批-轨交装备有望充分受益于“一带一路”拉动](https://www.cls.cn/detail/1656227)
-- [【36kr】西部大开发谱写新篇章-有望为基建投资带来全新增量空间](https://www.cls.cn/detail/1656226)
-- [【36kr】美国的这个谈判筹码，能奏效吗？](https://www.cls.cn/detail/1656223)
+- [【36kr】【财联社午报】短线题材迎来集体修复，低空经济概念卷土重来，CPO概念股再度活跃](https://www.cls.cn/detail/1656507)
+- [【36kr】特斯拉把“木头姐”害惨了？旗下基金正遭投资者大规模撤离](https://www.cls.cn/detail/1656459)
+- [【36kr】“全球第二股神”辣评美股回调：实际上是牛市持续的信号！](https://www.cls.cn/detail/1656355)
+- [【36kr】财联社债市早参4月24日|长期国债收益率持续下行，央行最新回应；2024年地方政府专项债券项目筛选工作完成](https://www.cls.cn/detail/1655449)
+- [【36kr】财联社汽车早报【4月24日】](https://www.cls.cn/detail/1656265)
+- [【36kr】美FTC颁布禁止竞业协议新规-苹果官宣春季发布会-|-环球市场](https://www.cls.cn/detail/1656247)
+- [【36kr】4月24日投资避雷针：5连板低空经济概念人气股收上交所监管函](https://www.cls.cn/detail/1656251)
+- [【36kr】摩根大通CEO：美国经济正蓬勃发展-所以短期内降息没戏](https://www.cls.cn/detail/1656244)
+- [【36kr】华尔街人人翘首的一幕发生了：美国经济出现“颠簸”迹象……](https://www.cls.cn/detail/1656280)
+- [【36kr】短线情绪持续回暖，低空经济盘中再迎爆发](https://www.cls.cn/detail/1656309)
+- [【36kr】鼎晖百孚刘尚：从“冷板凳”到“热捧”，进阶的商业航天](https://www.cls.cn/detail/1656327)
+- [【36kr】美参议院投票通过向乌克兰和以色列援助法案](https://www.cls.cn/detail/1656349)
+- [【36kr】横财到手：特朗普获得DJT额外3600万股-价值近12亿美元](https://www.cls.cn/detail/1656418)
+- [【36kr】中宣部：正研究制定《加快推进版权产业高质量发展的指导意见》](https://www.cls.cn/detail/1656454)
+- [【36kr】超90家！代建行业掀起规模战](https://www.cls.cn/detail/1656409)
+- [【36kr】一季度业绩利好提振电力股-华能国际H股盘中一度涨超8%](https://www.cls.cn/detail/1656411)
+- [【36kr】IEA：中东非洲等地电动车仍处起步阶段-中国企业有望推动市场起飞](https://www.cls.cn/detail/1656391)
+- [【36kr】业绩“暴雷”，锂矿巨头A股一字跌停，港股大跌18%](https://www.cls.cn/detail/1656514)
+- [【36kr】9个月来首次！IIF：中国股债市3月双双获外资净流入](https://www.cls.cn/detail/1656496)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
