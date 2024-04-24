@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-04-24 11:35:58。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-04-24 12:55:28。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -35,14 +35,14 @@
 - [【36kr】Kimi引领大模型长文本处理投资热潮，以下方向或有望率先受益](https://www.cls.cn/detail/1628405)
 - [【36kr】周末要闻汇总：国常会再提优化房地产政策，财跃星辰发布国内首个千亿参数多模态金融大模型](https://www.cls.cn/detail/1628193)
 - [【36kr】【明日主题前瞻】大模型和该领域天然适配，或成为AI落地最佳应用场景](https://www.cls.cn/detail/1624914)
-- [【36kr】力挺TikTok？特朗普：Facebook才是美国人的敌人](https://www.cls.cn/detail/1614927)
 - [【36kr】比特币盘中突破70000美元关口-奥特曼重返OpenAI董事会-|-环球市场](https://www.cls.cn/detail/1615037)
+- [【36kr】力挺TikTok？特朗普：Facebook才是美国人的敌人](https://www.cls.cn/detail/1614927)
 - [【36kr】两会时间|全国人大代表、中国铁塔董事长张志勇：推进AI硬件计算100%国产化-助力行业大模型高质量发展](https://www.cls.cn/detail/1611187)
 - [【36kr】【明日主题前瞻】大模型加速赋能内容创作变革，国内首部AI全流程制作微短剧来了](https://www.cls.cn/detail/1609261)
 - [【36kr】奥尔特曼的身价几何？至少20亿美元-但与OpenAI毫无关系](https://www.cls.cn/detail/1608824)
 - [【36kr】图解2月大事件：吴清出任证监会主席-OpenAI发布王炸产品](https://www.cls.cn/detail/1607430)
-- [【36kr】谷歌发布AI基础世界模型-传Meta将于秋季展示AR眼镜-|-今夜看点](https://www.cls.cn/detail/1605246)
 - [【36kr】【明日主题前瞻】获微软入股，该AI新贵发布旗舰大模型产品](https://www.cls.cn/detail/1605181)
+- [【36kr】谷歌发布AI基础世界模型-传Meta将于秋季展示AR眼镜-|-今夜看点](https://www.cls.cn/detail/1605246)
 - [......【查看更多】......](/details/tags/aigc.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】【数据看盘】北向资金大幅加仓金融股-机构、游资博弈万丰奥威](https://www.cls.cn/detail/1657001)
-- [【36kr】三成涨停属“双创”！“20cm”赚钱效应陡升，创业板又频现涨停，上一轮这些“300”占优](https://www.cls.cn/detail/1656978)
-- [【36kr】【焦点复盘】低空经济再掀高潮，科技股人气全线回暖，锂矿龙头季报巨亏收一字跌停](https://www.cls.cn/detail/1656972)
-- [【36kr】特朗普会面麻生太郎-将矛头对准日本：日元贬值是一场灾难](https://www.cls.cn/detail/1656790)
-- [【36kr】谁在场外搞逆袭？中证A50ETF规模座次重排，A50之后还有A500，十余家券商银行正摸底](https://www.cls.cn/detail/1656934)
-- [【36kr】美参议院通过涉TikTok法案-公司方誓言通过法律途径反击！](https://www.cls.cn/detail/1656815)
-- [【36kr】港股三连阳！恒生指数刷新年内高点-腾讯阿里均大涨超3%](https://www.cls.cn/detail/1656770)
-- [【36kr】美参议院通过涉TikTok及涉台法案，外交部回应](https://www.cls.cn/detail/1656717)
-- [【36kr】浙商证券：如何理解央行政策表态对债市的潜在影响？](https://www.cls.cn/detail/1656677)
-- [【36kr】出口欧洲的贸易商注意了！红海危机下这些西地中海港口正“箱满为患”](https://www.cls.cn/detail/1656632)
-- [【36kr】经济回升支付机构净利润转亏为盈-整体毛利率提升-未来跨境支付仍有挑战](https://www.cls.cn/detail/1656615)
-- [【36kr】阿根廷再次爆发超大游行-总统米莱“电锯式”紧缩引发激烈反弹](https://www.cls.cn/detail/1656585)
-- [【36kr】期权市场群“鹰”乱舞：全力押注美联储今年不降息-甚至会加息！](https://www.cls.cn/detail/1656534)
-- [【36kr】9个月来首次！IIF：中国股债市3月双双获外资净流入](https://www.cls.cn/detail/1656496)
-- [【36kr】业绩“暴雷”，锂矿巨头A股一字跌停，港股大跌18%](https://www.cls.cn/detail/1656514)
-- [【36kr】IEA：中东非洲等地电动车仍处起步阶段-中国企业有望推动市场起飞](https://www.cls.cn/detail/1656391)
-- [【36kr】一季度业绩利好提振电力股-华能国际H股盘中一度涨超8%](https://www.cls.cn/detail/1656411)
-- [【36kr】超90家！代建行业掀起规模战](https://www.cls.cn/detail/1656409)
-- [【36kr】中宣部：正研究制定《加快推进版权产业高质量发展的指导意见》](https://www.cls.cn/detail/1656454)
-- [【36kr】横财到手：特朗普获得DJT额外3600万股-价值近12亿美元](https://www.cls.cn/detail/1656418)
+- [【36kr】南向资金4月24日净买入近20亿港元：继续加仓中国银行和腾讯-大举抛售美团及汇丰控股](https://www.cls.cn/detail/1657080)
+- [【36kr】170亿美元！阿联酋卡塔尔等参与伊拉克基建项目-打通中东欧洲新通路](https://www.cls.cn/detail/1656894)
+- [【36kr】可再生能源里程碑！风能取代化石燃料成为英国最大电力来源](https://www.cls.cn/detail/1656915)
+- [【36kr】天齐锂业“爆雷”最受伤的是险资？中国太保举牌后持仓浮亏超60%，险资近两年举牌普遍账面亏损](https://www.cls.cn/detail/1656935)
+- [【36kr】中国银行原董事长刘连舸受贿、违法发放贷款案一审开庭](https://www.cls.cn/detail/1656878)
+- [【36kr】【每日收评】两市超4000股飘红，低空经济与AI两大热点联袂爆发，5板高标盘中上演“地天板”](https://www.cls.cn/detail/1656823)
+- [【36kr】全球最大主权基金：“大宗牛”料成各国抗通胀大难题！](https://www.cls.cn/detail/1656679)
+- [【36kr】抄底资金出没医药主题ETF！近三成净值不足4毛，却见越跌越买](https://www.cls.cn/detail/1656713)
+- [【36kr】港股恒指连涨3日创5个月新高-资金怎样？还有机会？](https://www.cls.cn/detail/1656665)
+- [【36kr】又一崭新的银行系公募！苏新基金获批开业，背靠苏州银行与淡马锡，如何打出特色牌？](https://www.cls.cn/detail/1656610)
+- [【36kr】央行相关负责人回应“二级市场买债操作”，债市开盘全线回调，30年最高上行3.7bp](https://www.cls.cn/detail/1656506)
+- [【36kr】3000亿保险次级债“小而美”，赎回压力可控，仍可关注细分领域投资机会](https://www.cls.cn/detail/1656483)
+- [【36kr】禽流感预警！FDA在美国巴氏奶样本中发现病毒残留物](https://www.cls.cn/detail/1656407)
+- [【36kr】债市公告精选（4月24日）|-鸿达兴业集团宣告破产；广西农垦外部董事接受调查](https://www.cls.cn/detail/1656380)
+- [【36kr】紧凑型聚变反应堆电子温度破纪录，远超1000万摄氏度](https://www.cls.cn/detail/1656570)
+- [【36kr】货币基金抢手，一季度猛增超万亿，天弘、易方达、广发规模居前三，7家增长超500亿](https://www.cls.cn/detail/1656542)
+- [【36kr】蓄势五一小长假？福建出台15项金融支持文旅产业具体措施，首次提及“压降文旅企业综合融资成本”](https://www.cls.cn/detail/1656532)
+- [【36kr】港股继续反弹！科技股成焦点-腾讯阿里近3日市值均增超千亿港元](https://www.cls.cn/detail/1656482)
+- [【36kr】10年期国债收益率下跌0.6个基点报4.6025%|-全球主要大类资产表现汇总20240424](https://www.cls.cn/detail/1656419)
+- [【36kr】又一私募产品净值仅剩3毛，近期频见大V私募“翻车”，满盘皆输案例为何这样多？](https://www.cls.cn/detail/1656508)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
