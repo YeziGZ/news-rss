@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-04-25 01:36:14。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-04-25 02:38:45。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -36,13 +36,13 @@
 - [【36kr】Kimi引领大模型长文本处理投资热潮，以下方向或有望率先受益](https://www.cls.cn/detail/1628405)
 - [【36kr】周末要闻汇总：国常会再提优化房地产政策，财跃星辰发布国内首个千亿参数多模态金融大模型](https://www.cls.cn/detail/1628193)
 - [【36kr】【明日主题前瞻】大模型和该领域天然适配，或成为AI落地最佳应用场景](https://www.cls.cn/detail/1624914)
-- [【36kr】力挺TikTok？特朗普：Facebook才是美国人的敌人](https://www.cls.cn/detail/1614927)
 - [【36kr】比特币盘中突破70000美元关口-奥特曼重返OpenAI董事会-|-环球市场](https://www.cls.cn/detail/1615037)
+- [【36kr】力挺TikTok？特朗普：Facebook才是美国人的敌人](https://www.cls.cn/detail/1614927)
 - [【36kr】两会时间|全国人大代表、中国铁塔董事长张志勇：推进AI硬件计算100%国产化-助力行业大模型高质量发展](https://www.cls.cn/detail/1611187)
 - [【36kr】【明日主题前瞻】大模型加速赋能内容创作变革，国内首部AI全流程制作微短剧来了](https://www.cls.cn/detail/1609261)
 - [【36kr】奥尔特曼的身价几何？至少20亿美元-但与OpenAI毫无关系](https://www.cls.cn/detail/1608824)
 - [【36kr】图解2月大事件：吴清出任证监会主席-OpenAI发布王炸产品](https://www.cls.cn/detail/1607430)
-- [【36kr】谷歌发布AI基础世界模型-传Meta将于秋季展示AR眼镜-|-今夜看点](https://www.cls.cn/detail/1605246)
+- [【36kr】【明日主题前瞻】获微软入股，该AI新贵发布旗舰大模型产品](https://www.cls.cn/detail/1605181)
 - [......【查看更多】......](/details/tags/aigc.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】券商晨会精华：黄金短期出现回调的底部支撑在2150美元/盎司左右](https://www.cls.cn/detail/1657810)
-- [【36kr】4月25日投资避雷针：300亿锂电隔膜行业龙头一季度净利润同比下降75.64%](https://www.cls.cn/detail/1657818)
-- [【36kr】数字建筑大会将至，建筑业数字化加速，机构关注这些标的](https://www.cls.cn/detail/1657829)
 - [【36kr】美国一季度经济成绩单今晚出炉-华尔街真正的考验要来了……](https://www.cls.cn/detail/1657857)
-- [【36kr】中央金融办、中央金融工委：坚持稳中求进工作总基调](https://www.cls.cn/detail/1657768)
-- [【36kr】【早报】美参议院通过涉TikTok及涉台法案，外交部回应；香港金融史重大时刻！三家现货比特币、以太币ETF获批](https://www.cls.cn/detail/1657770)
-- [【36kr】药品板块毛利率下滑-江苏吴中能否讲好新“医美故事”？|年报解读](https://www.cls.cn/detail/1657465)
-- [【36kr】欧洲央行管委：通胀可能仍然顽固-6月降息之后未必会继续降息](https://www.cls.cn/detail/1657656)
-- [【36kr】又失守一关！日元汇率跌破155-市场疑惑干预究竟何时进场](https://www.cls.cn/detail/1657651)
-- [【36kr】“减肥神药”被批准用于心脏疾病后-将会如何影响美国医保？](https://www.cls.cn/detail/1657531)
-- [【36kr】银行股持续上涨支撑来了！明星基金经理持仓环比提升-华夏银行、齐鲁银行、无锡银行新进名单](https://www.cls.cn/detail/1657549)
-- [【36kr】美国检方寻求判处币安创始人赵长鹏三年监禁](https://www.cls.cn/detail/1657520)
-- [【36kr】万科转让资产传闻再起-万科：今年拟通过大宗及股权交易回款逾300亿](https://www.cls.cn/detail/1657453)
-- [【36kr】高盛、瑞银对中国看多也做多！转向超配A股和港股，有何深意？](https://www.cls.cn/detail/1657455)
-- [【36kr】组装业务放量-蓝思科技：今年导入更多新项目提高产品价值量|直击业绩会](https://www.cls.cn/detail/1657447)
-- [【36kr】业绩大增却盘中跳水？首创证券终结七连阳，一季报有四个关注点](https://www.cls.cn/detail/1657435)
-- [【36kr】新东方上一财季净营收增长六成-长城汽车首季盈利大涨17倍｜港股4月24日公告精选](https://www.cls.cn/detail/1657382)
-- [【36kr】74岁“铁娘子”史美伦辞任港交所主席，唐家成接任，称“并非担任公职才能服务香港”](https://www.cls.cn/detail/1657374)
-- [【36kr】【明日主题前瞻】跨海首飞仪式举行，该细分领域是低空经济重要细分赛道](https://www.cls.cn/detail/1656781)
-- [【36kr】欧盟突击检查中国企业在欧办公室-商务部回应](https://www.cls.cn/detail/1657347)
+- [【36kr】数字建筑大会将至，建筑业数字化加速，机构关注这些标的](https://www.cls.cn/detail/1657829)
+- [【36kr】4月25日投资避雷针：300亿锂电隔膜行业龙头一季度净利润同比下降75.64%](https://www.cls.cn/detail/1657818)
+- [【36kr】券商晨会精华：黄金短期出现回调的底部支撑在2150美元/盎司左右](https://www.cls.cn/detail/1657810)
+- [【36kr】财联社汽车早报【4月25日】](https://www.cls.cn/detail/1657832)
+- [【36kr】科技股走高带动短线情绪进一步回暖，留意大市值AI权重的延续性](https://www.cls.cn/detail/1657892)
+- [【36kr】方新侠、炒股养家、低位挖掘……多路游资集体豪买低空经济，都选中了谁？](https://www.cls.cn/detail/1657952)
+- [【36kr】投行收入如期滑坡，多家券商一季报率先亮相，资管反成胜负手](https://www.cls.cn/detail/1657784)
+- [【36kr】港股成交增至1296亿价涨量升-沽空比率或促使部分空头回补仓位](https://www.cls.cn/detail/1655634)
+- [【36kr】港股4月25日早报：港交所迎重要管理层变动-现货比特币ETF预计月底在港上市](https://www.cls.cn/detail/1657746)
+- [【36kr】波音一季度业绩超预期-CEO誓言解决飞机质量问题](https://www.cls.cn/detail/1657446)
+- [【36kr】美股收盘：市场氛围“晴转暴雨”-Meta盘后市值重挫2000亿美元](https://www.cls.cn/detail/1657745)
+- [【36kr】智利国家铜业：与SQM完成合营后-最终智利政府将分到85%的收益](https://www.cls.cn/detail/1657711)
+- [【36kr】美参议院健康委调查诺和诺德：GLP-1药物能否卖便宜些？](https://www.cls.cn/detail/1657690)
+- [【36kr】美总统拜登签署涉TikTok一揽子法案-周受资：将通过法律予以回击](https://www.cls.cn/detail/1657658)
+- [【36kr】美股三大期指涨跌不一-特斯拉盘前大涨超10%-|-今夜看点](https://www.cls.cn/detail/1657405)
+- [【36kr】资源股反弹恒指大涨突破万七关口-情绪推升成长股行情加速｜港股风向标](https://www.cls.cn/detail/1657312)
+- [【36kr】联合国警告：全球2.82亿人口面临严重粮食不安全问题](https://www.cls.cn/detail/1657301)
+- [【36kr】SK海力士将投资逾38亿美元新建DRAM芯片生产基地](https://www.cls.cn/detail/1657273)
+- [【36kr】更多券商将ESG理念贯穿投资策略与投研方法，中金、中信等各有行动，24家公布ESG报告成果](https://www.cls.cn/detail/1656719)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
