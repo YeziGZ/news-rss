@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-04-25 03:35:42。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-04-25 04:35:36。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -36,13 +36,13 @@
 - [【36kr】Kimi引领大模型长文本处理投资热潮，以下方向或有望率先受益](https://www.cls.cn/detail/1628405)
 - [【36kr】周末要闻汇总：国常会再提优化房地产政策，财跃星辰发布国内首个千亿参数多模态金融大模型](https://www.cls.cn/detail/1628193)
 - [【36kr】【明日主题前瞻】大模型和该领域天然适配，或成为AI落地最佳应用场景](https://www.cls.cn/detail/1624914)
-- [【36kr】力挺TikTok？特朗普：Facebook才是美国人的敌人](https://www.cls.cn/detail/1614927)
 - [【36kr】比特币盘中突破70000美元关口-奥特曼重返OpenAI董事会-|-环球市场](https://www.cls.cn/detail/1615037)
+- [【36kr】力挺TikTok？特朗普：Facebook才是美国人的敌人](https://www.cls.cn/detail/1614927)
 - [【36kr】两会时间|全国人大代表、中国铁塔董事长张志勇：推进AI硬件计算100%国产化-助力行业大模型高质量发展](https://www.cls.cn/detail/1611187)
 - [【36kr】【明日主题前瞻】大模型加速赋能内容创作变革，国内首部AI全流程制作微短剧来了](https://www.cls.cn/detail/1609261)
 - [【36kr】奥尔特曼的身价几何？至少20亿美元-但与OpenAI毫无关系](https://www.cls.cn/detail/1608824)
 - [【36kr】图解2月大事件：吴清出任证监会主席-OpenAI发布王炸产品](https://www.cls.cn/detail/1607430)
-- [【36kr】谷歌发布AI基础世界模型-传Meta将于秋季展示AR眼镜-|-今夜看点](https://www.cls.cn/detail/1605246)
+- [【36kr】【明日主题前瞻】获微软入股，该AI新贵发布旗舰大模型产品](https://www.cls.cn/detail/1605181)
 - [......【查看更多】......](/details/tags/aigc.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】方新侠、炒股养家、低位挖掘……多路游资集体豪买低空经济，都选中了谁？](https://www.cls.cn/detail/1657952)
-- [【36kr】科技股走高带动短线情绪进一步回暖，留意大市值AI权重的延续性](https://www.cls.cn/detail/1657892)
-- [【36kr】财联社汽车早报【4月25日】](https://www.cls.cn/detail/1657832)
-- [【36kr】券商晨会精华：黄金短期出现回调的底部支撑在2150美元/盎司左右](https://www.cls.cn/detail/1657810)
-- [【36kr】4月25日投资避雷针：300亿锂电隔膜行业龙头一季度净利润同比下降75.64%](https://www.cls.cn/detail/1657818)
-- [【36kr】数字建筑大会将至，建筑业数字化加速，机构关注这些标的](https://www.cls.cn/detail/1657829)
-- [【36kr】美国一季度经济成绩单今晚出炉-华尔街真正的考验要来了……](https://www.cls.cn/detail/1657857)
-- [【36kr】降费大潮下，公募管理费少收109亿，近99%主动权益基金降费完毕，降费大局已定，降佣进行时](https://www.cls.cn/detail/1657895)
-- [【36kr】CFTC考虑出重拳：彻底禁止使用衍生品合约押注美国大选](https://www.cls.cn/detail/1657921)
-- [【36kr】卖一辆电车就巨亏13万美元！福特Q1财报揭露电动车转型之殇](https://www.cls.cn/detail/1657914)
 - [【36kr】曙光已现？三年前警告恒大暴雷的分析师-如今看好中国地产复苏](https://www.cls.cn/detail/1657988)
-- [【36kr】中东首个！道达尔和OQ将在阿曼启动16亿美元LNG加注站项目](https://www.cls.cn/detail/1657019)
-- [【36kr】去年营收增速降至近十年最低-欧派家居面临多重挑战|财报解读](https://www.cls.cn/detail/1657386)
-- [【36kr】中央金融办、中央金融工委：坚持稳中求进工作总基调](https://www.cls.cn/detail/1657768)
-- [【36kr】【早报】美参议院通过涉TikTok及涉台法案，外交部回应；香港金融史重大时刻！三家现货比特币、以太币ETF获批](https://www.cls.cn/detail/1657770)
-- [【36kr】药品板块毛利率下滑-江苏吴中能否讲好新“医美故事”？|年报解读](https://www.cls.cn/detail/1657465)
-- [【36kr】欧洲央行管委：通胀可能仍然顽固-6月降息之后未必会继续降息](https://www.cls.cn/detail/1657656)
-- [【36kr】又失守一关！日元汇率跌破155-市场疑惑干预究竟何时进场](https://www.cls.cn/detail/1657651)
-- [【36kr】“减肥神药”被批准用于心脏疾病后-将会如何影响美国医保？](https://www.cls.cn/detail/1657531)
-- [【36kr】银行股持续上涨支撑来了！明星基金经理持仓环比提升-华夏银行、齐鲁银行、无锡银行新进名单](https://www.cls.cn/detail/1657549)
+- [【36kr】卖一辆电车就巨亏13万美元！福特Q1财报揭露电动车转型之殇](https://www.cls.cn/detail/1657914)
+- [【36kr】CFTC考虑出重拳：彻底禁止使用衍生品合约押注美国大选](https://www.cls.cn/detail/1657921)
+- [【36kr】降费大潮下，公募管理费少收109亿，近99%主动权益基金降费完毕，降费大局已定，降佣进行时](https://www.cls.cn/detail/1657895)
+- [【36kr】美国一季度经济成绩单今晚出炉-华尔街真正的考验要来了……](https://www.cls.cn/detail/1657857)
+- [【36kr】数字建筑大会将至，建筑业数字化加速，机构关注这些标的](https://www.cls.cn/detail/1657829)
+- [【36kr】4月25日投资避雷针：300亿锂电隔膜行业龙头一季度净利润同比下降75.64%](https://www.cls.cn/detail/1657818)
+- [【36kr】券商晨会精华：黄金短期出现回调的底部支撑在2150美元/盎司左右](https://www.cls.cn/detail/1657810)
+- [【36kr】财联社汽车早报【4月25日】](https://www.cls.cn/detail/1657832)
+- [【36kr】科技股走高带动短线情绪进一步回暖，留意大市值AI权重的延续性](https://www.cls.cn/detail/1657892)
+- [【36kr】方新侠、炒股养家、低位挖掘……多路游资集体豪买低空经济，都选中了谁？](https://www.cls.cn/detail/1657952)
+- [【36kr】财联社债市早参4月25日|柜台债券市场扩容在即-多家国有大行透露“已做好准备”；万科87亿元出售资产？公司回应：传闻不实](https://www.cls.cn/detail/1656866)
+- [【36kr】长城汽车AH股价齐涨超6%-一季度净利润增逾17倍](https://www.cls.cn/detail/1657959)
+- [【36kr】欧洲人没美国人勤奋！全球最大主权基金CEO：欧美差距只会越拉越大](https://www.cls.cn/detail/1658007)
+- [【36kr】川渝四家上市银行2023成绩出炉：利润全部实现正增长-但部分银行息差明显下降](https://www.cls.cn/detail/1658027)
+- [【36kr】【财联社午报】三大指数均小幅收涨，化工股迎集体爆发，固态电池及锂电概念盘中走强](https://www.cls.cn/detail/1658073)
+- [【36kr】4月24日周三《新闻联播》要闻汇总](https://www.cls.cn/detail/1657385)
+- [【36kr】投行收入如期滑坡，多家券商一季报率先亮相，资管反成胜负手](https://www.cls.cn/detail/1657784)
+- [【36kr】港股成交增至1296亿价涨量升-沽空比率或促使部分空头回补仓位](https://www.cls.cn/detail/1655634)
+- [【36kr】港股4月25日早报：港交所迎重要管理层变动-现货比特币ETF预计月底在港上市](https://www.cls.cn/detail/1657746)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
