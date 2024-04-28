@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-04-28 11:35:15。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-04-28 12:47:13。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -23,8 +23,8 @@
 
 
 
-- [【36kr】AI用于医药研发？莫德纳联手OpenAI推动业务流程自动化](https://www.cls.cn/detail/1658604)
 - [【36kr】苹果发布设备端开源AI模型-全球矿业现重磅并购报价-|-环球市场](https://www.cls.cn/detail/1657814)
+- [【36kr】AI用于医药研发？莫德纳联手OpenAI推动业务流程自动化](https://www.cls.cn/detail/1658604)
 - [【36kr】中国全功能接入互联网30年：未来大模型与互联网结合有巨大想象空间](https://www.cls.cn/detail/1653085)
 - [【36kr】刘强东AI数字人开启直播首秀-AIGC应用落地进程不断加速](https://www.cls.cn/detail/1648917)
 - [【36kr】盯紧数字化与AI超车机会，更多券商备战，东吴大模型券商首家算法备案，海通数字员工编号体系上线](https://www.cls.cn/detail/1645720)
@@ -37,8 +37,8 @@
 - [【36kr】Kimi引领大模型长文本处理投资热潮，以下方向或有望率先受益](https://www.cls.cn/detail/1628405)
 - [【36kr】周末要闻汇总：国常会再提优化房地产政策，财跃星辰发布国内首个千亿参数多模态金融大模型](https://www.cls.cn/detail/1628193)
 - [【36kr】【明日主题前瞻】大模型和该领域天然适配，或成为AI落地最佳应用场景](https://www.cls.cn/detail/1624914)
-- [【36kr】力挺TikTok？特朗普：Facebook才是美国人的敌人](https://www.cls.cn/detail/1614927)
 - [【36kr】比特币盘中突破70000美元关口-奥特曼重返OpenAI董事会-|-环球市场](https://www.cls.cn/detail/1615037)
+- [【36kr】力挺TikTok？特朗普：Facebook才是美国人的敌人](https://www.cls.cn/detail/1614927)
 - [【36kr】两会时间|全国人大代表、中国铁塔董事长张志勇：推进AI硬件计算100%国产化-助力行业大模型高质量发展](https://www.cls.cn/detail/1611187)
 - [【36kr】【明日主题前瞻】大模型加速赋能内容创作变革，国内首部AI全流程制作微短剧来了](https://www.cls.cn/detail/1609261)
 - [【36kr】奥尔特曼的身价几何？至少20亿美元-但与OpenAI毫无关系](https://www.cls.cn/detail/1608824)
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】近期为何北向大幅流入，港股突然大涨？](https://www.cls.cn/detail/1662415)
-- [【36kr】德国反对没收俄罗斯资产的背后：它担心被进一步索要二战赔款](https://www.cls.cn/detail/1662388)
-- [【36kr】受贿、洗钱、非法持枪！陈罡当庭认罪认罚](https://www.cls.cn/detail/1662342)
-- [【36kr】港股大爆发后持续性如何？中金：短线已超买-两大板块或反复轮动](https://www.cls.cn/detail/1662103)
-- [【36kr】财联社债市早参4月28日-|-中房协召集部分房企座谈了解企业及市场情况；“20国债05”周五涨停，专家称或与流动性过低有关](https://www.cls.cn/detail/1661888)
-- [【36kr】周末要闻汇总：证监会严管离职人员入股拟上市企业-茅台或将换帅](https://www.cls.cn/detail/1662095)
-- [【36kr】129股本周创1年新高！两大板块呈高占比，阶段新低股一并梳理，这些龙头标的在列](https://www.cls.cn/detail/1662056)
-- [【36kr】AITO汽车回应问界M7-Plus事故：事发时安全气囊正常打开-动力电池包特性均正常](https://www.cls.cn/detail/1662017)
-- [【36kr】内外资同时加仓证据来了！港股ETF包揽涨幅前排，如何把握机会？多家公募给出策略](https://www.cls.cn/detail/1661989)
-- [【36kr】钱学森支持，三代科学家接力，如今我国拥有大算力！](https://www.cls.cn/detail/1661922)
-- [【36kr】文化和旅游部：将率先恢复福建居民到马祖旅游](https://www.cls.cn/detail/1661923)
-- [【36kr】海通证券：从基金季报看白马](https://www.cls.cn/detail/1661882)
-- [【36kr】中关村论坛访谈|中国移动研究院院长黄宇红：明年开始开展6G标准的研究和制定工作](https://www.cls.cn/detail/1661929)
-- [【36kr】银行一季报陆续出炉：长三角多家城商行净利两位数增长-息差收窄、手续费收入下降困境不改](https://www.cls.cn/detail/1661932)
-- [【36kr】换补发出入境证件可“全程网办”-6项措施下月出台](https://www.cls.cn/detail/1661938)
-- [【36kr】成都房产新政来了！不再审核购房资格](https://www.cls.cn/detail/1661955)
-- [【36kr】美联储的噩梦来了？瑞银警告：美国面临滞胀风险-市场远未做好准备](https://www.cls.cn/detail/1661950)
-- [【36kr】财联社汽车早报【4月28日】](https://www.cls.cn/detail/1661897)
-- [【36kr】日本5名议员进入钓鱼岛附近海域“视察”-中方：已向日方提出严正交涉](https://www.cls.cn/detail/1662051)
+- [【36kr】【明日主题前瞻】助力低空经济！此地宣布将举行首届低空飞行消费周](https://www.cls.cn/detail/1662106)
+- [【36kr】美股财报季半程回顾：近八成业绩超预期-市场也更加乐观](https://www.cls.cn/detail/1662380)
+- [【36kr】中关村论坛访谈-|-中国工程院院士张平：6G出现恰逢其时，未来范式和应用场景会有较大变化](https://www.cls.cn/detail/1662327)
+- [【36kr】直击北京车展｜日系三强联手“中国科技巨头”-合资品牌打响在华“反击战”](https://www.cls.cn/detail/1662078)
+- [【36kr】城投债或临谢幕时代？业内谈多策并举，转型大猜想](https://www.cls.cn/detail/1660511)
+- [【36kr】必和必拓势在必得？考虑提高对英美资源的收购报价](https://www.cls.cn/detail/1661973)
+- [【36kr】四部门联合召开大规模设备更新和消费品以旧换新金融工作推进会](https://www.cls.cn/detail/1662094)
+- [【36kr】“五一”长假前多地出台重磅楼市政策-成都全面取消限购](https://www.cls.cn/detail/1662060)
 - [【36kr】债牛“急刹车”，30年国债上行超过10bp，持债过节慌不慌？](https://www.cls.cn/detail/1662043)
+- [【36kr】日本5名议员进入钓鱼岛附近海域“视察”-中方：已向日方提出严正交涉](https://www.cls.cn/detail/1662051)
+- [【36kr】财联社汽车早报【4月28日】](https://www.cls.cn/detail/1661897)
+- [【36kr】美联储的噩梦来了？瑞银警告：美国面临滞胀风险-市场远未做好准备](https://www.cls.cn/detail/1661950)
+- [【36kr】成都房产新政来了！不再审核购房资格](https://www.cls.cn/detail/1661955)
+- [【36kr】换补发出入境证件可“全程网办”-6项措施下月出台](https://www.cls.cn/detail/1661938)
+- [【36kr】银行一季报陆续出炉：长三角多家城商行净利两位数增长-息差收窄、手续费收入下降困境不改](https://www.cls.cn/detail/1661932)
+- [【36kr】中关村论坛访谈|中国移动研究院院长黄宇红：明年开始开展6G标准的研究和制定工作](https://www.cls.cn/detail/1661929)
+- [【36kr】海通证券：从基金季报看白马](https://www.cls.cn/detail/1661882)
+- [【36kr】文化和旅游部：将率先恢复福建居民到马祖旅游](https://www.cls.cn/detail/1661923)
+- [【36kr】钱学森支持，三代科学家接力，如今我国拥有大算力！](https://www.cls.cn/detail/1661922)
+- [【36kr】内外资同时加仓证据来了！港股ETF包揽涨幅前排，如何把握机会？多家公募给出策略](https://www.cls.cn/detail/1661989)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
