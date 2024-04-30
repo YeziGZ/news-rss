@@ -1,12 +1,12 @@
 ##
 
-:alarm_clock: 更新时间: 2024-04-30 03:35:29，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-04-30 04:35:50，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [36kr](#36kr)![](/assets/dot.png)   
 - [QuestMobile](#questmobile)  
-- [艾瑞](#艾瑞)  
+- [艾瑞](#艾瑞)![](/assets/dot.png)   
 
 ## 文章链接
 
@@ -16,26 +16,26 @@
 </summary>
 
 
-- [2024-04-30-巨额债务“泰山压顶”！高盛前首席外汇策略师：日本干预注定失败](https://www.cls.cn/detail/1665187)  
-- [2024-04-30-国家统计局：4月制造业PMI为50.4%-连续两个月位于扩张区间](https://www.cls.cn/detail/1665114)  
-- [2024-04-30-沪指成功放量突破！百花齐放的行情下，重点留意与指数形成共振低位新方向](https://www.cls.cn/detail/1665146)  
-- [2024-04-30-财联社汽车早报【4月30日】](https://www.cls.cn/detail/1665090)  
-- [2024-04-30-国家医保局曝光25家“特别严重”“严重”失信医药企业，华北制药等在列](https://www.cls.cn/detail/1665082)  
-- [2024-04-30-券商晨会精华：五一档拉开帷幕，奏响电影旺季序章](https://www.cls.cn/detail/1665061)  
-- [2024-04-30-港股4月30日早报：欧舒丹获大股东私有化要约-百胜中国一季度营收近30亿美元](https://www.cls.cn/detail/1665064)  
-- [2024-04-30-4月30日投资避雷针：两大千亿光伏巨头一季报均亏损](https://www.cls.cn/detail/1665072)  
-- [2024-04-30-猪周期压顶-新希望去年刚挣3个亿，Q1又亏19亿？|财报解读](https://www.cls.cn/detail/1665078)  
-- [2024-04-30-中信证券：政策密集再现，房地产销售复苏可期](https://www.cls.cn/detail/1665075)  
-- [2024-04-30-上市券商经历“惨淡一季度”，50家券商近九成业绩下滑三家亏损，如何拯救二季度](https://www.cls.cn/detail/1665120)  
+- [2024-04-30-公募密集调整ETF流动性服务商，所为何因？触及五种情形之一当调整，大量ETF流动性堪忧](https://www.cls.cn/detail/1665183)  
+- [2024-04-30-“最鸽经济学家”拉警报：今年不会降息，倒有可能加息！](https://www.cls.cn/detail/1665147)  
+- [2024-04-30-美国财政部意外上调本季度借款预估-对美债市场影响几何？](https://www.cls.cn/detail/1665105)  
+- [2024-04-30-财联社债市早参4月30日-|财政部发布政府债券柜台交易业务有关事项，5月1日起施行；万科一季度净利润同比由盈转亏](https://www.cls.cn/detail/1665089)  
 - [2024-04-30-司法部原党组成员、副部长刘志强被查](https://www.cls.cn/detail/1665134)  
-- [2024-04-30-财联社债市早参4月30日-|财政部发布政府债券柜台交易业务有关事项，5月1日起施行；万科一季度净利润同比由盈转亏](https://www.cls.cn/detail/1665089) ![](/assets/new.png)  
-- [2024-04-30-美国财政部意外上调本季度借款预估-对美债市场影响几何？](https://www.cls.cn/detail/1665105) ![](/assets/new.png)  
-- [2024-04-30-“最鸽经济学家”拉警报：今年不会降息，倒有可能加息！](https://www.cls.cn/detail/1665147) ![](/assets/new.png)  
-- [2024-04-30-公募密集调整ETF流动性服务商，所为何因？触及五种情形之一当调整，大量ETF流动性堪忧](https://www.cls.cn/detail/1665183) ![](/assets/new.png)  
-- [2024-04-29-美财政部上调二季度借款预期-日元汇率继续剧烈波动-|-环球市场](https://www.cls.cn/detail/1665028)  
-- [2024-04-29-【早报】中国会否允许特斯拉完全自动驾驶在国内运行？外交部回应；两部门：加快建设全国一体化算力网，推动落实“数据二十条”](https://www.cls.cn/detail/1665027)  
-- [2024-04-29-欧洲央行副行长警告：通胀前景面临“重大风险”-并不急于降息](https://www.cls.cn/detail/1665015)  
-- [2024-04-29-“龙字辈”今困泥潭：虚假记载众高层接监管警示函-财报非标内控不力将“披星戴帽”](https://www.cls.cn/detail/1664927)  
+- [2024-04-30-上市券商经历“惨淡一季度”，50家券商近九成业绩下滑三家亏损，如何拯救二季度](https://www.cls.cn/detail/1665120)  
+- [2024-04-30-中信证券：政策密集再现，房地产销售复苏可期](https://www.cls.cn/detail/1665075)  
+- [2024-04-30-猪周期压顶-新希望去年刚挣3个亿，Q1又亏19亿？|财报解读](https://www.cls.cn/detail/1665078)  
+- [2024-04-30-4月30日投资避雷针：两大千亿光伏巨头一季报均亏损](https://www.cls.cn/detail/1665072)  
+- [2024-04-30-港股4月30日早报：欧舒丹获大股东私有化要约-百胜中国一季度营收近30亿美元](https://www.cls.cn/detail/1665064)  
+- [2024-04-30-券商晨会精华：五一档拉开帷幕，奏响电影旺季序章](https://www.cls.cn/detail/1665061)  
+- [2024-04-30-国家医保局曝光25家“特别严重”“严重”失信医药企业，华北制药等在列](https://www.cls.cn/detail/1665082)  
+- [2024-04-30-财联社汽车早报【4月30日】](https://www.cls.cn/detail/1665090)  
+- [2024-04-30-沪指成功放量突破！百花齐放的行情下，重点留意与指数形成共振低位新方向](https://www.cls.cn/detail/1665146)  
+- [2024-04-30-国家统计局：4月制造业PMI为50.4%-连续两个月位于扩张区间](https://www.cls.cn/detail/1665114)  
+- [2024-04-30-巨额债务“泰山压顶”！高盛前首席外汇策略师：日本干预注定失败](https://www.cls.cn/detail/1665187)  
+- [2024-04-30-嫌国会动作太慢！拜登考虑动用行政权力禁俄铀-铀矿股纷纷跳涨](https://www.cls.cn/detail/1665272) ![](/assets/new.png)  
+- [2024-04-30-“特朗普概念股”周一大涨12%-空头狙击战获胜还是暂时喘息？](https://www.cls.cn/detail/1665283) ![](/assets/new.png)  
+- [2024-04-30-【财联社午报】三大指数全线飘绿，合成生物概念逆势爆发，低空经济概念股再遭集体重挫](https://www.cls.cn/detail/1665334) ![](/assets/new.png)  
+- [2024-04-29-国联证券积极做好“五篇大文章”-助力加快建设金融强国](https://www.cls.cn/detail/1664264)  
 - [......【查看更多】......](/details/36kr.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -78,9 +78,11 @@
 </summary>
 
 
+- [2024-04-30-2024年中国企业级SaaS行业研究报告](https://report.iresearch.cn/report/202404/4342.shtml) ![](/assets/new.png)  
+- [2024-04-30-2024年海外小家电市场研究报告](https://report.iresearch.cn/report/202404/4343.shtml) ![](/assets/new.png)  
 - [2024-04-28-2024年中国SDN与SD-WAN行业研究报告](https://report.iresearch.cn/report/202404/4341.shtml)  
-- [2024-04-26-2024年奢侈品行业网络营销监测报告](https://report.iresearch.cn/report/202404/4340.shtml)  
 - [2024-04-26-2024年中国家居市场消费洞察报告](https://report.iresearch.cn/report/202404/4339.shtml)  
+- [2024-04-26-2024年奢侈品行业网络营销监测报告](https://report.iresearch.cn/report/202404/4340.shtml)  
 - [2024-04-25-2024年中国婴幼儿零辅食行业洞察报告](https://report.iresearch.cn/report/202404/4338.shtml)  
 - [2024-04-20-2023年中国人工智能产业研究报告-VI](https://report.iresearch.cn/report/202404/4336.shtml)  
 - [2024-04-19-2024年兴趣社交媒体男性用户营销价值报告](https://report.iresearch.cn/report/202404/4337.shtml)  
@@ -96,8 +98,6 @@
 - [2024-03-21-2024年中国虚拟现实（VR）行业研究报告](https://report.iresearch.cn/report/202403/4326.shtml)  
 - [2024-03-14-2023年城市基础及公共服务类APP流量监测报告](https://report.iresearch.cn/report/202403/4325.shtml)  
 - [2024-03-13-2024年即时零售消费电子行业白皮书](https://report.iresearch.cn/report/202403/4324.shtml)  
-- [2024-03-12-2024情绪与健康睡眠白皮书](https://report.iresearch.cn/report/202403/4323.shtml)  
-- [2024-03-11-2024年中国企业3C数码商用品电商采购白皮书](https://report.iresearch.cn/report/202403/4321.shtml)  
 - [......【查看更多】......](/details/艾瑞.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
