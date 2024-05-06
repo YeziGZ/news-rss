@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-05-06 03:35:28。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-05-06 04:36:27。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -24,8 +24,8 @@
 
 
 - [【36kr】湖南钢铁发布行业首个大模型-1分钟就能应变“思考”出新调度计划](https://www.cls.cn/detail/1663370)
-- [【36kr】AI用于医药研发？莫德纳联手OpenAI推动业务流程自动化](https://www.cls.cn/detail/1658604)
 - [【36kr】苹果发布设备端开源AI模型-全球矿业现重磅并购报价-|-环球市场](https://www.cls.cn/detail/1657814)
+- [【36kr】AI用于医药研发？莫德纳联手OpenAI推动业务流程自动化](https://www.cls.cn/detail/1658604)
 - [【36kr】中国全功能接入互联网30年：未来大模型与互联网结合有巨大想象空间](https://www.cls.cn/detail/1653085)
 - [【36kr】刘强东AI数字人开启直播首秀-AIGC应用落地进程不断加速](https://www.cls.cn/detail/1648917)
 - [【36kr】盯紧数字化与AI超车机会，更多券商备战，东吴大模型券商首家算法备案，海通数字员工编号体系上线](https://www.cls.cn/detail/1645720)
@@ -38,8 +38,8 @@
 - [【36kr】Kimi引领大模型长文本处理投资热潮，以下方向或有望率先受益](https://www.cls.cn/detail/1628405)
 - [【36kr】周末要闻汇总：国常会再提优化房地产政策，财跃星辰发布国内首个千亿参数多模态金融大模型](https://www.cls.cn/detail/1628193)
 - [【36kr】【明日主题前瞻】大模型和该领域天然适配，或成为AI落地最佳应用场景](https://www.cls.cn/detail/1624914)
-- [【36kr】力挺TikTok？特朗普：Facebook才是美国人的敌人](https://www.cls.cn/detail/1614927)
 - [【36kr】比特币盘中突破70000美元关口-奥特曼重返OpenAI董事会-|-环球市场](https://www.cls.cn/detail/1615037)
+- [【36kr】力挺TikTok？特朗普：Facebook才是美国人的敌人](https://www.cls.cn/detail/1614927)
 - [【36kr】两会时间|全国人大代表、中国铁塔董事长张志勇：推进AI硬件计算100%国产化-助力行业大模型高质量发展](https://www.cls.cn/detail/1611187)
 - [【36kr】【明日主题前瞻】大模型加速赋能内容创作变革，国内首部AI全流程制作微短剧来了](https://www.cls.cn/detail/1609261)
 - [【36kr】奥尔特曼的身价几何？至少20亿美元-但与OpenAI毫无关系](https://www.cls.cn/detail/1608824)
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】五一长假全球市场最大好消息：美联储今秋降息预期重燃！](https://www.cls.cn/detail/1667792)
-- [【36kr】5月6日投资避雷针：四公司遭证监会立案-还有两公司董事长被留置](https://www.cls.cn/detail/1667735)
-- [【36kr】合成生物产业政策暖风不断-产业化应用蓄势待发](https://www.cls.cn/detail/1667715)
-- [【36kr】政策继续加码-房地产行业预期有望修复](https://www.cls.cn/detail/1667721)
-- [【36kr】美股财报季步入尾声：近八成公司业绩超预期-迪士尼财报本周粉墨登场](https://www.cls.cn/detail/1667740)
-- [【36kr】中金：一文看懂五一假期数据](https://www.cls.cn/detail/1667737)
-- [【36kr】券商晨会精华：从估值水平看酒企仍处于近五年较低位置](https://www.cls.cn/detail/1667736)
-- [【36kr】中金：乐观情形下港股还有约20%的上涨空间](https://www.cls.cn/detail/1667749)
-- [【36kr】全球市场假期走强或对A股形成正反馈，留意新一轮领涨主线仍是关键](https://www.cls.cn/detail/1667797)
 - [【36kr】印度散户惨遭“割韭菜”：过去3年IPO热潮中-已有1/4股票破发](https://www.cls.cn/detail/1667911)
-- [【36kr】45家券商累计分红超430亿元，八成以上分红率超过30%，方正、海通等开启中期分红新常态](https://www.cls.cn/detail/1667657)
-- [【36kr】【早报】事关资本市场！中央重磅定调；地产行业迎多重利好政策](https://www.cls.cn/detail/1667708)
-- [【36kr】白酒去年豪赚1551亿元-茅台占比近半-多家公司今年营收目标增速下调](https://www.cls.cn/detail/1667584)
-- [【36kr】4月新能源汽车销量同比增超3倍！1300亿华为汽车概念股披露产销快报|盘后公告集锦](https://www.cls.cn/detail/1667595)
-- [【36kr】外围股市大涨，A股如何开工？大摩透露上调中国股票估值原因](https://www.cls.cn/detail/1667622)
-- [【36kr】美国财长耶伦最新点评日元：本周汇率波动极大-对干预不予置评](https://www.cls.cn/detail/1667546)
-- [【36kr】聚焦奥马哈|乔迁：中国最大的机会，是已从低端制造业出口开始走向多维度领先](https://www.cls.cn/detail/1667444)
-- [【36kr】2024巴菲特股东大会·中国投资人峰会观点全回放：如何在不确定性下寻找投资潜能](https://www.cls.cn/detail/1667414)
-- [【36kr】净申购份额超宽基ETF，主题型ETF风头正起，医疗、煤炭、红利主题ETF更受青睐](https://www.cls.cn/detail/1667440)
-- [【36kr】行情回暖上市公司加注医美机构，下个“C位材料”花落谁家？](https://www.cls.cn/detail/1667434)
+- [【36kr】全球市场假期走强或对A股形成正反馈，留意新一轮领涨主线仍是关键](https://www.cls.cn/detail/1667797)
+- [【36kr】中金：乐观情形下港股还有约20%的上涨空间](https://www.cls.cn/detail/1667749)
+- [【36kr】券商晨会精华：从估值水平看酒企仍处于近五年较低位置](https://www.cls.cn/detail/1667736)
+- [【36kr】中金：一文看懂五一假期数据](https://www.cls.cn/detail/1667737)
+- [【36kr】美股财报季步入尾声：近八成公司业绩超预期-迪士尼财报本周粉墨登场](https://www.cls.cn/detail/1667740)
+- [【36kr】政策继续加码-房地产行业预期有望修复](https://www.cls.cn/detail/1667721)
+- [【36kr】合成生物产业政策暖风不断-产业化应用蓄势待发](https://www.cls.cn/detail/1667715)
+- [【36kr】5月6日投资避雷针：四公司遭证监会立案-还有两公司董事长被留置](https://www.cls.cn/detail/1667735)
+- [【36kr】五一长假全球市场最大好消息：美联储今秋降息预期重燃！](https://www.cls.cn/detail/1667792)
+- [【36kr】财联社汽车早报【5月6日】](https://www.cls.cn/detail/1667754)
+- [【36kr】暴涨近1.5倍！石墨概念港股飙升背后是这个原因](https://www.cls.cn/detail/1667925)
+- [【36kr】财政部：1-3月国有企业利润总额10757.6亿元-同比增长2.8%](https://www.cls.cn/detail/1667907)
+- [【36kr】发改委召开大规模设备更新工作座谈会-这些民企参与](https://www.cls.cn/detail/1667935)
+- [【36kr】【财联社午报】三大指数均涨超1%，全市场超4500股飘红，合成生物概念股持续爆发](https://www.cls.cn/detail/1667980)
+- [【36kr】港股本周要闻前瞻：中芯国际等公司将公布业绩-国内一系列重磅宏观数据出炉](https://www.cls.cn/detail/1667667)
+- [【36kr】港股5月6日早报：加沙停火谈判成焦点-美股收涨热门中概股多数走强](https://www.cls.cn/detail/1667695)
+- [【36kr】聚焦奥马哈|王涵：寻找中国经济潜能，短期看政策诉求，中长期看新质生产力](https://www.cls.cn/detail/1667419)
+- [【36kr】本周再度双“零”：零新股申购，零新股上市](https://www.cls.cn/detail/1667729)
+- [【36kr】金价涨到700多元/克？香港金饰纯度更高？这些关于黄金的说法都有问题](https://www.cls.cn/detail/1667719)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
