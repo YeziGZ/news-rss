@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-05-12 04:36:45。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-05-12 06:36:34。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -28,8 +28,8 @@
 - [【36kr】大模型渐次落地证券业，应用是核心，国金证券CIO王洪涛透露突围点](https://www.cls.cn/detail/1669014)
 - [【36kr】【明日主题前瞻】国内AI独角兽公司正研发对标Sora的大模型](https://www.cls.cn/detail/1668308)
 - [【36kr】湖南钢铁发布行业首个大模型-1分钟就能应变“思考”出新调度计划](https://www.cls.cn/detail/1663370)
-- [【36kr】AI用于医药研发？莫德纳联手OpenAI推动业务流程自动化](https://www.cls.cn/detail/1658604)
 - [【36kr】苹果发布设备端开源AI模型-全球矿业现重磅并购报价-|-环球市场](https://www.cls.cn/detail/1657814)
+- [【36kr】AI用于医药研发？莫德纳联手OpenAI推动业务流程自动化](https://www.cls.cn/detail/1658604)
 - [【36kr】中国全功能接入互联网30年：未来大模型与互联网结合有巨大想象空间](https://www.cls.cn/detail/1653085)
 - [【36kr】刘强东AI数字人开启直播首秀-AIGC应用落地进程不断加速](https://www.cls.cn/detail/1648917)
 - [【36kr】盯紧数字化与AI超车机会，更多券商备战，东吴大模型券商首家算法备案，海通数字员工编号体系上线](https://www.cls.cn/detail/1645720)
@@ -42,7 +42,7 @@
 - [【36kr】Kimi引领大模型长文本处理投资热潮，以下方向或有望率先受益](https://www.cls.cn/detail/1628405)
 - [【36kr】周末要闻汇总：国常会再提优化房地产政策，财跃星辰发布国内首个千亿参数多模态金融大模型](https://www.cls.cn/detail/1628193)
 - [【36kr】【明日主题前瞻】大模型和该领域天然适配，或成为AI落地最佳应用场景](https://www.cls.cn/detail/1624914)
-- [【36kr】力挺TikTok？特朗普：Facebook才是美国人的敌人](https://www.cls.cn/detail/1614927)
+- [【36kr】比特币盘中突破70000美元关口-奥特曼重返OpenAI董事会-|-环球市场](https://www.cls.cn/detail/1615037)
 - [......【查看更多】......](/details/tags/aigc.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】社融、M1双双负增长的背后](https://www.cls.cn/detail/1673796)
-- [【36kr】鸡蛋价格降至一斤3.6元，还会继续降下去吗？](https://www.cls.cn/detail/1647849)
 - [【36kr】【图解牛熊股】合成生物概念延续强势，化工板块走强](https://www.cls.cn/detail/1673376)
-- [【36kr】环球下周看点：美国4月CPI数据来袭-阿里、腾讯发布财报](https://www.cls.cn/detail/1673762)
-- [【36kr】曾经的“加密货币金童”正在狱中交易大米……](https://www.cls.cn/detail/1673663)
-- [【36kr】基因疗法又获突破-英国一岁半先天性耳聋女婴已能听到“轻声低语”](https://www.cls.cn/detail/1673683)
-- [【36kr】日系品牌集体“疲弱”、燃油车市场加速下滑-日产高管：中国车市状况依然复杂](https://www.cls.cn/detail/1673522)
-- [【36kr】北向资金下周一发生重大变化！年初迄今扫货这些标的](https://www.cls.cn/detail/1673647)
-- [【36kr】机构调查显示：今年中国内地小微企业招聘意愿较去年提升](https://www.cls.cn/detail/1673536)
-- [【36kr】华尔街“最准预言家”建议：在下周CPI报告发布前买入股票！](https://www.cls.cn/detail/1673515)
-- [【36kr】南京：拥有合法稳定住所且实际居住的非南京户籍人员可直接办理落户](https://www.cls.cn/detail/1673593)
-- [【36kr】前四个月新增社融12.73万亿元，新增贷款10.19万亿元](https://www.cls.cn/detail/1673590)
-- [【36kr】北京：2024年计划供应商品住房约600万平方米](https://www.cls.cn/detail/1673563)
-- [【36kr】“零上会”局面终止，下周四起再审议企业上市申请，撤否率全观察，会否再迎峰值？](https://www.cls.cn/detail/1673561)
-- [【36kr】地方金交所整顿风暴继续！深圳、山东、吉林、江西、青岛五省市同日“清零”并提示相关风险](https://www.cls.cn/detail/1673498)
-- [【36kr】苦撑三年的“河南王”-建业前四月销售持续承压](https://www.cls.cn/detail/1673386)
-- [【36kr】固收+收益超4%，机构加速布局红利资产与超跌反弹机会-|-银行理财观察](https://www.cls.cn/detail/1672532)
-- [【36kr】消费降级下麦当劳也拼了：拟推5美元低价套餐-吸引低收入者重返门店](https://www.cls.cn/detail/1673405)
-- [【36kr】27日起-太原等8城可办理往来港澳“个人旅游签注”](https://www.cls.cn/detail/1673416)
-- [【36kr】美联储迟迟不肯降息？穆迪首席警告：美国经济将难逃崩溃](https://www.cls.cn/detail/1673364)
+- [【36kr】鸡蛋价格降至一斤3.6元，还会继续降下去吗？](https://www.cls.cn/detail/1647849)
+- [【36kr】社融、M1双双负增长的背后](https://www.cls.cn/detail/1673796)
+- [【36kr】20年最强太阳风暴来袭！马斯克麾下Starlink卫星正承受压力](https://www.cls.cn/detail/1673823)
+- [【36kr】国常会：审议通过《制造业数字化转型行动方案》](https://www.cls.cn/detail/1673684)
+- [【36kr】伊拉克欲将原油储备扩大至1600亿桶-反对延续OPEC+减产措施](https://www.cls.cn/detail/1673725)
+- [【36kr】Arm据称将开发AI芯片-计划在2025年秋季开始量产](https://www.cls.cn/detail/1673758)
+- [【36kr】拜登取笑特朗普过往争议言论：希望他给自己注射一点漂白剂](https://www.cls.cn/detail/1673755)
+- [【36kr】国内首单！工商银行打响TLAC债券第一枪-国内TLAC债券发行将加速推进](https://www.cls.cn/detail/1673721)
+- [【36kr】监管出手部署公募降佣，内部培训会至少六大重点强调，下月底为完成大限](https://www.cls.cn/detail/1673667)
+- [【36kr】社融数据出炉，债市多空博杀，10年期国债振幅超3BP](https://www.cls.cn/detail/1673572)
+- [【36kr】为何A股常坐过山车？“首席买方财富50人”燕翔剖析中国股市高波动的三大谜题](https://www.cls.cn/detail/1673499)
+- [【36kr】社融平稳增长、融资成本稳中有降-资金空转、手工补息被规范后对4月金融数据有何影响？](https://www.cls.cn/detail/1673601)
+- [【36kr】今年来涨最好的当属港股ETF，12只净值创了新高，港股红利主题正起势，后市机会还有多大？](https://www.cls.cn/detail/1673538)
+- [【36kr】四月销量236万辆、近六成A/H股上市车企环比下降-自主品牌锚定海外市场](https://www.cls.cn/detail/1673507)
+- [【36kr】财联社债市早参5月11日|财政部下周一召开超长期特别国债发行动员会；私募瑞丰达“人去楼空”-浦东分局经侦支队已受理案件](https://www.cls.cn/detail/1672869)
+- [【36kr】南京：可适当改建或收购存量住房用作保障性住房](https://www.cls.cn/detail/1673482)
+- [【36kr】港交所：北向交易的实时成交额和每日额度余额的调整将于5月13日正式实施](https://www.cls.cn/detail/1673481)
+- [【36kr】国盛证券：央行一季度货币政策报告释放6大信号](https://www.cls.cn/detail/1673464)
+- [【36kr】剑指“摘星脱帽”，名单来了！超40只ST股已提交申请](https://www.cls.cn/detail/1672558)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
