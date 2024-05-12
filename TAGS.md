@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-05-12 12:48:12。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-05-12 14:37:21。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -28,8 +28,8 @@
 - [【36kr】大模型渐次落地证券业，应用是核心，国金证券CIO王洪涛透露突围点](https://www.cls.cn/detail/1669014)
 - [【36kr】【明日主题前瞻】国内AI独角兽公司正研发对标Sora的大模型](https://www.cls.cn/detail/1668308)
 - [【36kr】湖南钢铁发布行业首个大模型-1分钟就能应变“思考”出新调度计划](https://www.cls.cn/detail/1663370)
-- [【36kr】苹果发布设备端开源AI模型-全球矿业现重磅并购报价-|-环球市场](https://www.cls.cn/detail/1657814)
 - [【36kr】AI用于医药研发？莫德纳联手OpenAI推动业务流程自动化](https://www.cls.cn/detail/1658604)
+- [【36kr】苹果发布设备端开源AI模型-全球矿业现重磅并购报价-|-环球市场](https://www.cls.cn/detail/1657814)
 - [【36kr】中国全功能接入互联网30年：未来大模型与互联网结合有巨大想象空间](https://www.cls.cn/detail/1653085)
 - [【36kr】刘强东AI数字人开启直播首秀-AIGC应用落地进程不断加速](https://www.cls.cn/detail/1648917)
 - [【36kr】盯紧数字化与AI超车机会，更多券商备战，东吴大模型券商首家算法备案，海通数字员工编号体系上线](https://www.cls.cn/detail/1645720)
@@ -42,7 +42,7 @@
 - [【36kr】Kimi引领大模型长文本处理投资热潮，以下方向或有望率先受益](https://www.cls.cn/detail/1628405)
 - [【36kr】周末要闻汇总：国常会再提优化房地产政策，财跃星辰发布国内首个千亿参数多模态金融大模型](https://www.cls.cn/detail/1628193)
 - [【36kr】【明日主题前瞻】大模型和该领域天然适配，或成为AI落地最佳应用场景](https://www.cls.cn/detail/1624914)
-- [【36kr】比特币盘中突破70000美元关口-奥特曼重返OpenAI董事会-|-环球市场](https://www.cls.cn/detail/1615037)
+- [【36kr】力挺TikTok？特朗普：Facebook才是美国人的敌人](https://www.cls.cn/detail/1614927)
 - [......【查看更多】......](/details/tags/aigc.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】底部信号？小波动还是大周期？谁在抄底？十图看懂猪周期投资-|-寻宝图](https://www.cls.cn/detail/1673931)
-- [【36kr】新周期孕育：下半年“挣钱”成一致预期，是小波动还是大行情？](https://www.cls.cn/detail/1673862)
-- [【36kr】周末要闻汇总：“跑路”私募瑞丰达被立案调查；北向资金披露迎重大变化](https://www.cls.cn/detail/1673871)
-- [【36kr】周期异变：暴利吸引资本涌入-猪企吹响扩产号角](https://www.cls.cn/detail/1673861)
-- [【36kr】猪周期“失灵”：-史上最严重亏损，养殖户直呼挣钱“太难了！”](https://www.cls.cn/detail/1673856)
-- [【36kr】沈阳：取消积分落户限制-租房、务工、就学即可落户](https://www.cls.cn/detail/1673855)
-- [【36kr】外资强势流入又一风向标：中东土豪加大中国布局，多国主权财富基金持续布局A股](https://www.cls.cn/detail/1673852)
-- [【36kr】一季度社保持仓盘点：金融权重股持仓市值居前-大幅增仓多只工程机械板块个股](https://www.cls.cn/detail/1673839)
-- [【36kr】美财长再炒作所谓中国“产能过剩论”-反遭质问](https://www.cls.cn/detail/1673846)
-- [【36kr】【图解牛熊股】合成生物概念延续强势，化工板块走强](https://www.cls.cn/detail/1673376)
-- [【36kr】鸡蛋价格降至一斤3.6元，还会继续降下去吗？](https://www.cls.cn/detail/1647849)
-- [【36kr】社融、M1双双负增长的背后](https://www.cls.cn/detail/1673796)
-- [【36kr】20年最强太阳风暴来袭！马斯克麾下Starlink卫星正承受压力](https://www.cls.cn/detail/1673823)
-- [【36kr】中信证券：诸多正面因素在积累，各类资金抢跑推动近期中国资产全面修复](https://www.cls.cn/detail/1673906)
-- [【36kr】“星链”将首次实现正向现金流？报告预计今年收入将高达66亿美元](https://www.cls.cn/detail/1673911)
-- [【36kr】医学里程碑！世界首例转基因猪移植肾患者近两个月后死亡](https://www.cls.cn/detail/1673922)
 - [【36kr】十大券商策略：高股息策略获机构热捧-这些领域成推荐重点](https://www.cls.cn/detail/1673952)
-- [【36kr】国常会：审议通过《制造业数字化转型行动方案》](https://www.cls.cn/detail/1673684)
-- [【36kr】伊拉克欲将原油储备扩大至1600亿桶-反对延续OPEC+减产措施](https://www.cls.cn/detail/1673725)
-- [【36kr】Arm据称将开发AI芯片-计划在2025年秋季开始量产](https://www.cls.cn/detail/1673758)
+- [【36kr】医学里程碑！世界首例转基因猪移植肾患者近两个月后死亡](https://www.cls.cn/detail/1673922)
+- [【36kr】“星链”将首次实现正向现金流？报告预计今年收入将高达66亿美元](https://www.cls.cn/detail/1673911)
+- [【36kr】中信证券：诸多正面因素在积累，各类资金抢跑推动近期中国资产全面修复](https://www.cls.cn/detail/1673906)
+- [【36kr】20年最强太阳风暴来袭！马斯克麾下Starlink卫星正承受压力](https://www.cls.cn/detail/1673823)
+- [【36kr】社融、M1双双负增长的背后](https://www.cls.cn/detail/1673796)
+- [【36kr】鸡蛋价格降至一斤3.6元，还会继续降下去吗？](https://www.cls.cn/detail/1647849)
+- [【36kr】【图解牛熊股】合成生物概念延续强势，化工板块走强](https://www.cls.cn/detail/1673376)
+- [【36kr】美财长再炒作所谓中国“产能过剩论”-反遭质问](https://www.cls.cn/detail/1673846)
+- [【36kr】一季度社保持仓盘点：金融权重股持仓市值居前-大幅增仓多只工程机械板块个股](https://www.cls.cn/detail/1673839)
+- [【36kr】外资强势流入又一风向标：中东土豪加大中国布局，多国主权财富基金持续布局A股](https://www.cls.cn/detail/1673852)
+- [【36kr】沈阳：取消积分落户限制-租房、务工、就学即可落户](https://www.cls.cn/detail/1673855)
+- [【36kr】猪周期“失灵”：-史上最严重亏损，养殖户直呼挣钱“太难了！”](https://www.cls.cn/detail/1673856)
+- [【36kr】周期异变：暴利吸引资本涌入-猪企吹响扩产号角](https://www.cls.cn/detail/1673861)
+- [【36kr】周末要闻汇总：“跑路”私募瑞丰达被立案调查；北向资金披露迎重大变化](https://www.cls.cn/detail/1673871)
+- [【36kr】新周期孕育：下半年“挣钱”成一致预期，是小波动还是大行情？](https://www.cls.cn/detail/1673862)
+- [【36kr】底部信号？小波动还是大周期？谁在抄底？十图看懂猪周期投资-|-寻宝图](https://www.cls.cn/detail/1673931)
+- [【36kr】产能缓慢去化：猪企负债率走高，压力虽大“还能扛”](https://www.cls.cn/detail/1673860)
+- [【36kr】微利时代：谁在默默抄底，等待猪价回暖“红利”？](https://www.cls.cn/detail/1673865)
+- [【36kr】涉嫌信披违法违规-70亿通信股收行政处罚及市场禁入事先告知书|盘后公告集锦](https://www.cls.cn/detail/1673944)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
