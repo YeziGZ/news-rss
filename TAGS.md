@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-05-12 08:35:20。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-05-12 10:35:12。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -28,8 +28,8 @@
 - [【36kr】大模型渐次落地证券业，应用是核心，国金证券CIO王洪涛透露突围点](https://www.cls.cn/detail/1669014)
 - [【36kr】【明日主题前瞻】国内AI独角兽公司正研发对标Sora的大模型](https://www.cls.cn/detail/1668308)
 - [【36kr】湖南钢铁发布行业首个大模型-1分钟就能应变“思考”出新调度计划](https://www.cls.cn/detail/1663370)
-- [【36kr】AI用于医药研发？莫德纳联手OpenAI推动业务流程自动化](https://www.cls.cn/detail/1658604)
 - [【36kr】苹果发布设备端开源AI模型-全球矿业现重磅并购报价-|-环球市场](https://www.cls.cn/detail/1657814)
+- [【36kr】AI用于医药研发？莫德纳联手OpenAI推动业务流程自动化](https://www.cls.cn/detail/1658604)
 - [【36kr】中国全功能接入互联网30年：未来大模型与互联网结合有巨大想象空间](https://www.cls.cn/detail/1653085)
 - [【36kr】刘强东AI数字人开启直播首秀-AIGC应用落地进程不断加速](https://www.cls.cn/detail/1648917)
 - [【36kr】盯紧数字化与AI超车机会，更多券商备战，东吴大模型券商首家算法备案，海通数字员工编号体系上线](https://www.cls.cn/detail/1645720)
@@ -42,7 +42,7 @@
 - [【36kr】Kimi引领大模型长文本处理投资热潮，以下方向或有望率先受益](https://www.cls.cn/detail/1628405)
 - [【36kr】周末要闻汇总：国常会再提优化房地产政策，财跃星辰发布国内首个千亿参数多模态金融大模型](https://www.cls.cn/detail/1628193)
 - [【36kr】【明日主题前瞻】大模型和该领域天然适配，或成为AI落地最佳应用场景](https://www.cls.cn/detail/1624914)
-- [【36kr】力挺TikTok？特朗普：Facebook才是美国人的敌人](https://www.cls.cn/detail/1614927)
+- [【36kr】比特币盘中突破70000美元关口-奥特曼重返OpenAI董事会-|-环球市场](https://www.cls.cn/detail/1615037)
 - [......【查看更多】......](/details/tags/aigc.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】20年最强太阳风暴来袭！马斯克麾下Starlink卫星正承受压力](https://www.cls.cn/detail/1673823)
-- [【36kr】社融、M1双双负增长的背后](https://www.cls.cn/detail/1673796)
-- [【36kr】鸡蛋价格降至一斤3.6元，还会继续降下去吗？](https://www.cls.cn/detail/1647849)
-- [【36kr】【图解牛熊股】合成生物概念延续强势，化工板块走强](https://www.cls.cn/detail/1673376)
-- [【36kr】美财长再炒作所谓中国“产能过剩论”-反遭质问](https://www.cls.cn/detail/1673846)
-- [【36kr】一季度社保持仓盘点：金融权重股持仓市值居前-大幅增仓多只工程机械板块个股](https://www.cls.cn/detail/1673839)
-- [【36kr】外资强势流入又一风向标：中东土豪加大中国布局，多国主权财富基金持续布局A股](https://www.cls.cn/detail/1673852)
-- [【36kr】沈阳：取消积分落户限制-租房、务工、就学即可落户](https://www.cls.cn/detail/1673855)
-- [【36kr】猪周期“失灵”：-史上最严重亏损，养殖户直呼挣钱“太难了！”](https://www.cls.cn/detail/1673856)
-- [【36kr】周期异变：暴利吸引资本涌入-猪企吹响扩产号角](https://www.cls.cn/detail/1673861)
 - [【36kr】周末要闻汇总：“跑路”私募瑞丰达被立案调查；北向资金披露迎重大变化](https://www.cls.cn/detail/1673871)
-- [【36kr】日本核心地段二手房价格猛增-海外投资者纠结中保持密切关注](https://www.cls.cn/detail/1673623)
-- [【36kr】环球下周看点：美国4月CPI数据来袭-阿里、腾讯发布财报](https://www.cls.cn/detail/1673762)
-- [【36kr】曾经的“加密货币金童”正在狱中交易大米……](https://www.cls.cn/detail/1673663)
-- [【36kr】基因疗法又获突破-英国一岁半先天性耳聋女婴已能听到“轻声低语”](https://www.cls.cn/detail/1673683)
-- [【36kr】日系品牌集体“疲弱”、燃油车市场加速下滑-日产高管：中国车市状况依然复杂](https://www.cls.cn/detail/1673522)
-- [【36kr】北向资金下周一发生重大变化！年初迄今扫货这些标的](https://www.cls.cn/detail/1673647)
-- [【36kr】机构调查显示：今年中国内地小微企业招聘意愿较去年提升](https://www.cls.cn/detail/1673536)
-- [【36kr】华尔街“最准预言家”建议：在下周CPI报告发布前买入股票！](https://www.cls.cn/detail/1673515)
-- [【36kr】南京：拥有合法稳定住所且实际居住的非南京户籍人员可直接办理落户](https://www.cls.cn/detail/1673593)
+- [【36kr】周期异变：暴利吸引资本涌入-猪企吹响扩产号角](https://www.cls.cn/detail/1673861)
+- [【36kr】猪周期“失灵”：-史上最严重亏损，养殖户直呼挣钱“太难了！”](https://www.cls.cn/detail/1673856)
+- [【36kr】沈阳：取消积分落户限制-租房、务工、就学即可落户](https://www.cls.cn/detail/1673855)
+- [【36kr】外资强势流入又一风向标：中东土豪加大中国布局，多国主权财富基金持续布局A股](https://www.cls.cn/detail/1673852)
+- [【36kr】一季度社保持仓盘点：金融权重股持仓市值居前-大幅增仓多只工程机械板块个股](https://www.cls.cn/detail/1673839)
+- [【36kr】美财长再炒作所谓中国“产能过剩论”-反遭质问](https://www.cls.cn/detail/1673846)
+- [【36kr】【图解牛熊股】合成生物概念延续强势，化工板块走强](https://www.cls.cn/detail/1673376)
+- [【36kr】鸡蛋价格降至一斤3.6元，还会继续降下去吗？](https://www.cls.cn/detail/1647849)
+- [【36kr】社融、M1双双负增长的背后](https://www.cls.cn/detail/1673796)
+- [【36kr】20年最强太阳风暴来袭！马斯克麾下Starlink卫星正承受压力](https://www.cls.cn/detail/1673823)
+- [【36kr】中信证券：诸多正面因素在积累，各类资金抢跑推动近期中国资产全面修复](https://www.cls.cn/detail/1673906)
+- [【36kr】国常会：审议通过《制造业数字化转型行动方案》](https://www.cls.cn/detail/1673684)
+- [【36kr】伊拉克欲将原油储备扩大至1600亿桶-反对延续OPEC+减产措施](https://www.cls.cn/detail/1673725)
+- [【36kr】Arm据称将开发AI芯片-计划在2025年秋季开始量产](https://www.cls.cn/detail/1673758)
+- [【36kr】拜登取笑特朗普过往争议言论：希望他给自己注射一点漂白剂](https://www.cls.cn/detail/1673755)
+- [【36kr】国内首单！工商银行打响TLAC债券第一枪-国内TLAC债券发行将加速推进](https://www.cls.cn/detail/1673721)
+- [【36kr】监管出手部署公募降佣，内部培训会至少六大重点强调，下月底为完成大限](https://www.cls.cn/detail/1673667)
+- [【36kr】社融数据出炉，债市多空博杀，10年期国债振幅超3BP](https://www.cls.cn/detail/1673572)
+- [【36kr】为何A股常坐过山车？“首席买方财富50人”燕翔剖析中国股市高波动的三大谜题](https://www.cls.cn/detail/1673499)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
