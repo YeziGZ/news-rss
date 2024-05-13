@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-05-13 01:39:03。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-05-13 02:42:33。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -28,8 +28,8 @@
 - [【36kr】大模型渐次落地证券业，应用是核心，国金证券CIO王洪涛透露突围点](https://www.cls.cn/detail/1669014)
 - [【36kr】【明日主题前瞻】国内AI独角兽公司正研发对标Sora的大模型](https://www.cls.cn/detail/1668308)
 - [【36kr】湖南钢铁发布行业首个大模型-1分钟就能应变“思考”出新调度计划](https://www.cls.cn/detail/1663370)
-- [【36kr】AI用于医药研发？莫德纳联手OpenAI推动业务流程自动化](https://www.cls.cn/detail/1658604)
 - [【36kr】苹果发布设备端开源AI模型-全球矿业现重磅并购报价-|-环球市场](https://www.cls.cn/detail/1657814)
+- [【36kr】AI用于医药研发？莫德纳联手OpenAI推动业务流程自动化](https://www.cls.cn/detail/1658604)
 - [【36kr】中国全功能接入互联网30年：未来大模型与互联网结合有巨大想象空间](https://www.cls.cn/detail/1653085)
 - [【36kr】刘强东AI数字人开启直播首秀-AIGC应用落地进程不断加速](https://www.cls.cn/detail/1648917)
 - [【36kr】盯紧数字化与AI超车机会，更多券商备战，东吴大模型券商首家算法备案，海通数字员工编号体系上线](https://www.cls.cn/detail/1645720)
@@ -42,7 +42,7 @@
 - [【36kr】Kimi引领大模型长文本处理投资热潮，以下方向或有望率先受益](https://www.cls.cn/detail/1628405)
 - [【36kr】周末要闻汇总：国常会再提优化房地产政策，财跃星辰发布国内首个千亿参数多模态金融大模型](https://www.cls.cn/detail/1628193)
 - [【36kr】【明日主题前瞻】大模型和该领域天然适配，或成为AI落地最佳应用场景](https://www.cls.cn/detail/1624914)
-- [【36kr】力挺TikTok？特朗普：Facebook才是美国人的敌人](https://www.cls.cn/detail/1614927)
+- [【36kr】比特币盘中突破70000美元关口-奥特曼重返OpenAI董事会-|-环球市场](https://www.cls.cn/detail/1615037)
 - [......【查看更多】......](/details/tags/aigc.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】CRO行业有望迎来转机-市场长远需求仍然旺盛](https://www.cls.cn/detail/1674086)
-- [【36kr】电动自行车新规逐步落地-头部企业将受益于市场格局改善](https://www.cls.cn/detail/1674075)
-- [【36kr】5月13日投资避雷针：三公司受证监会行政处罚-14日起将被ST](https://www.cls.cn/detail/1674105)
-- [【36kr】美股财报季带来利好：近八成财报盈利超预期-华尔街对未来业绩信心大增](https://www.cls.cn/detail/1674110)
-- [【36kr】券商晨会精华：财政手段有望加力提效，降准等货币政策措施也有望加快推进](https://www.cls.cn/detail/1674098)
 - [【36kr】广东佛山发布房地产新政13条-居住公寓执行民用水电气价格标准](https://www.cls.cn/detail/1674157)
-- [【36kr】【数读IPO】客户包括汇川技术、埃斯顿等行业龙头，这只机器人概念股今日上市](https://www.cls.cn/detail/1674065)
-- [【36kr】【早报】央行发布重磅金融数据；财政部今日召开超长期特别国债发行动员会](https://www.cls.cn/detail/1674067)
-- [【36kr】中金：中国资产关注度继续提升](https://www.cls.cn/detail/1673986)
-- [【36kr】“新美联储通讯社”：住房成本居高不下破坏了FED的降息计划](https://www.cls.cn/detail/1673887)
-- [【36kr】特朗普许诺：若重返白宫-将进行全面减税](https://www.cls.cn/detail/1674012)
-- [【36kr】应声跌停！5月迄今12家上市公司公告公司或相关方被立案，天娱数科董事长遭监察委员会留置](https://www.cls.cn/detail/1673997)
-- [【36kr】三一重能：柔性智造产线3小时下线1台风机-靠成本控制能力“攻城略地”|公司调研](https://www.cls.cn/detail/1674004)
-- [【36kr】十大券商策略：高股息策略获机构热捧-这些领域成推荐重点](https://www.cls.cn/detail/1673952)
-- [【36kr】医学里程碑！世界首例转基因猪移植肾患者近两个月后死亡](https://www.cls.cn/detail/1673922)
-- [【36kr】“星链”将首次实现正向现金流？报告预计今年收入将高达66亿美元](https://www.cls.cn/detail/1673911)
-- [【36kr】中信证券：诸多正面因素在积累，各类资金抢跑推动近期中国资产全面修复](https://www.cls.cn/detail/1673906)
-- [【36kr】20年最强太阳风暴来袭！马斯克麾下Starlink卫星正承受压力](https://www.cls.cn/detail/1673823)
-- [【36kr】社融、M1双双负增长的背后](https://www.cls.cn/detail/1673796)
-- [【36kr】鸡蛋价格降至一斤3.6元，还会继续降下去吗？](https://www.cls.cn/detail/1647849)
+- [【36kr】券商晨会精华：财政手段有望加力提效，降准等货币政策措施也有望加快推进](https://www.cls.cn/detail/1674098)
+- [【36kr】美股财报季带来利好：近八成财报盈利超预期-华尔街对未来业绩信心大增](https://www.cls.cn/detail/1674110)
+- [【36kr】5月13日投资避雷针：三公司受证监会行政处罚-14日起将被ST](https://www.cls.cn/detail/1674105)
+- [【36kr】电动自行车新规逐步落地-头部企业将受益于市场格局改善](https://www.cls.cn/detail/1674075)
+- [【36kr】CRO行业有望迎来转机-市场长远需求仍然旺盛](https://www.cls.cn/detail/1674086)
+- [【36kr】短线热点全线调整后，情绪端或有望迎来反弹，留意合成生物方向的修复力度](https://www.cls.cn/detail/1674179)
+- [【36kr】通胀卷土重来？调查：大型科技股成对冲首选-可与黄金媲美](https://www.cls.cn/detail/1674181)
+- [【36kr】特别国债发行猜想：6月份开始发行的概率较高，采取全部市场化发行的可能性较大](https://www.cls.cn/detail/1674178)
+- [【36kr】普京任命绍伊古为俄安全会议秘书-提名别洛乌索夫担任防长](https://www.cls.cn/detail/1674084)
+- [【36kr】4月挖机内销略超预期-Q2走出低谷？业内：出海业务相对稳定有助熨平周期-|行业动态](https://www.cls.cn/detail/1674073)
+- [【36kr】港股5月13日早报：我国前四个月新增社融12.73万亿元-多家房地产公司公布4月销售数据](https://www.cls.cn/detail/1674058)
+- [【36kr】港股本周要闻前瞻：多项国内重磅数据出炉-新一轮业绩高峰期](https://www.cls.cn/detail/1674025)
+- [【36kr】港股IPO周报：跨境电商服务商易达云通过聆讯-泓盈城市服务开启招股](https://www.cls.cn/detail/1673821)
+- [【36kr】宜明昂科董事长田文志：计划最早明年底做III期中期分析-BD合作推进中|财专访](https://www.cls.cn/detail/1673825)
+- [【36kr】普利特获1.5GWh钠电池“大单”10GWh产能或年内投产](https://www.cls.cn/detail/1674005)
+- [【36kr】积极开展合成生物学相关技术研究-龙头20CM涨停-本周机构还密集调研这些相关上市公司](https://www.cls.cn/detail/1673950)
+- [【36kr】基金经理亮相小红书，仅1天秒删帖，基金经理与社交平台间隔着一道合规？](https://www.cls.cn/detail/1674001)
+- [【36kr】5位高管同天离任，实控人飘摇一度制约这家公募发展，连续七年未发产品](https://www.cls.cn/detail/1673994)
+- [【36kr】【明日主题前瞻】两轮车行业新规开始逐步落地，机构称行业或将进入强监管期](https://www.cls.cn/detail/1673949)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
