@@ -1,12 +1,12 @@
 ##
 
-:alarm_clock: 更新时间: 2024-05-14 05:35:34，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-05-14 07:36:06，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [36kr](#36kr)![](/assets/dot.png)   
+- [36kr](#36kr)  
 - [QuestMobile](#questmobile)  
-- [艾瑞](#艾瑞)  
+- [艾瑞](#艾瑞)![](/assets/dot.png)   
 
 ## 文章链接
 
@@ -29,8 +29,8 @@
 - [2024-05-14-“咆哮小猫”归来！华尔街在重磅通胀数据出炉前存在“踏空恐惧”？](https://www.cls.cn/detail/1675303)  
 - [2024-05-14-华泰证券：本轮全球核电复兴强度堪比1970年代，核能产业机遇十年等一回](https://www.cls.cn/detail/1675365)  
 - [2024-05-14-杭州：符合条件的非全日制研究生可领3万元生活补贴](https://www.cls.cn/detail/1675444)  
-- [2024-05-14-未在宽限期支付一笔美元债利息-“华南五虎”雅居乐违约](https://www.cls.cn/detail/1675475) ![](/assets/new.png)  
-- [2024-05-14-【财联社午报】三大指数缩量调整，汽车整车、家居等出海链方向持续走强](https://www.cls.cn/detail/1675506) ![](/assets/new.png)  
+- [2024-05-14-未在宽限期支付一笔美元债利息-“华南五虎”雅居乐违约](https://www.cls.cn/detail/1675475)  
+- [2024-05-14-【财联社午报】三大指数缩量调整，汽车整车、家居等出海链方向持续走强](https://www.cls.cn/detail/1675506)  
 - [2024-05-13-美股散户吹响“集结号”？可可期货暴跌近20%-|-环球市场](https://www.cls.cn/detail/1675231)  
 - [2024-05-13-【早报】李强：高质量做好支持“两重”建设各项工作；财政部拟于5月17日发行400亿元人民币30年期特别国债](https://www.cls.cn/detail/1675220)  
 - [2024-05-13-高盛分析师警告：新兴市场要提防来自“邪恶”美元的风险](https://www.cls.cn/detail/1675132)  
@@ -78,13 +78,14 @@
 </summary>
 
 
+- [2024-05-14-2024年中国即时物流行业研究报告](https://report.iresearch.cn/report/202405/4346.shtml) ![](/assets/new.png)  
 - [2024-05-09-2024年中国两轮电动车行业研究](https://report.iresearch.cn/report/202405/4345.shtml)  
 - [2024-05-08-云服务行业动态及热点研究月报-2024年4月](https://report.iresearch.cn/report/202405/4344.shtml)  
-- [2024-04-30-2024年中国企业级SaaS行业研究报告](https://report.iresearch.cn/report/202404/4342.shtml)  
 - [2024-04-30-2024年海外小家电市场研究报告](https://report.iresearch.cn/report/202404/4343.shtml)  
+- [2024-04-30-2024年中国企业级SaaS行业研究报告](https://report.iresearch.cn/report/202404/4342.shtml)  
 - [2024-04-28-2024年中国SDN与SD-WAN行业研究报告](https://report.iresearch.cn/report/202404/4341.shtml)  
-- [2024-04-26-2024年中国家居市场消费洞察报告](https://report.iresearch.cn/report/202404/4339.shtml)  
 - [2024-04-26-2024年奢侈品行业网络营销监测报告](https://report.iresearch.cn/report/202404/4340.shtml)  
+- [2024-04-26-2024年中国家居市场消费洞察报告](https://report.iresearch.cn/report/202404/4339.shtml)  
 - [2024-04-25-2024年中国婴幼儿零辅食行业洞察报告](https://report.iresearch.cn/report/202404/4338.shtml)  
 - [2024-04-20-2023年中国人工智能产业研究报告-VI](https://report.iresearch.cn/report/202404/4336.shtml)  
 - [2024-04-19-2024年兴趣社交媒体男性用户营销价值报告](https://report.iresearch.cn/report/202404/4337.shtml)  
@@ -97,7 +98,6 @@
 - [2024-03-27-2024年中国供应链数字化行业研究报告](https://report.iresearch.cn/report/202403/4329.shtml)  
 - [2024-03-26-2024年全球互联网通信云IM+RTC行业研究报告](https://report.iresearch.cn/report/202403/4328.shtml)  
 - [2024-03-25-2023年中国营销领域AIGC技术应用研究报告](https://report.iresearch.cn/report/202403/4327.shtml)  
-- [2024-03-21-2024年中国虚拟现实（VR）行业研究报告](https://report.iresearch.cn/report/202403/4326.shtml)  
 - [......【查看更多】......](/details/艾瑞.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
