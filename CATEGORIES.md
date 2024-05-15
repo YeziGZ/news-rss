@@ -1,11 +1,11 @@
 ##
 
-:alarm_clock: 更新时间: 2024-05-15 06:37:36，:rocket: 更新条数: +25， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-05-15 07:36:18，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [36kr](#36kr)![](/assets/dot.png)   
-- [QuestMobile](#questmobile)  
+- [QuestMobile](#questmobile)![](/assets/dot.png)   
 - [艾瑞](#艾瑞)  
 
 ## 文章链接
@@ -16,26 +16,26 @@
 </summary>
 
 
-- [2024-05-15-中信证券：高速数通加速迭代-硅光模块放量在即](https://www.cls.cn/detail/1676432)  
-- [2024-05-15-5月15日投资避雷针：3连板电力人气股公告-可能存在短期涨幅较大后的下跌风险](https://www.cls.cn/detail/1676417)  
-- [2024-05-15-猪周期反转预期强化-机构称板块进入布局期](https://www.cls.cn/detail/1676385)  
-- [2024-05-15-锑钼锡钨价格持续走高-小金属有望迎历史级别行情](https://www.cls.cn/detail/1676399)  
-- [2024-05-15-家具出口规模创历史同期新高-未来海外需求或进一步向好](https://www.cls.cn/detail/1676401)  
-- [2024-05-15-券商晨会精华：中长期看，AI搜索有望成为新的流量入口](https://www.cls.cn/detail/1676408)  
-- [2024-05-15-财联社债市早参5月15日|超长期特别国债首发在即，MLF利率会跟进降息吗？4家券商集体因金通灵遭罚，涉及发债、并购等环节](https://www.cls.cn/detail/1676433) ![](/assets/new.png)  
-- [2024-05-15-美股涨势到此为止了？高盛：年内标普500不太会继续上涨](https://www.cls.cn/detail/1676430) ![](/assets/new.png)  
-- [2024-05-15-财联社汽车早报【5月15日】](https://www.cls.cn/detail/1676435) ![](/assets/new.png)  
-- [2024-05-15-市场热点延续快速轮动，出海链或成为过渡性主线，留意补涨性机会](https://www.cls.cn/detail/1676476) ![](/assets/new.png)  
-- [2024-05-15-一图看清历次特别国债发行情况](https://www.cls.cn/detail/1676463) ![](/assets/new.png)  
-- [2024-05-15-美元和美债收益率今晚都将大跌？期权市场竟对美CPI数据如此有信心](https://www.cls.cn/detail/1676462) ![](/assets/new.png)  
-- [2024-05-15-国家移民管理局：全面实施外国旅游团乘坐邮轮入境免签政策](https://www.cls.cn/detail/1676515) ![](/assets/new.png)  
-- [2024-05-15-从91亿收购跨向100%控股，国联收购民生证券又见大戏份，整体交易规模或达300亿](https://www.cls.cn/detail/1676509) ![](/assets/new.png)  
-- [2024-05-15-紧随鲍威尔！联储官员“放鹰”：利率或在一段时间内保持高位](https://www.cls.cn/detail/1676519) ![](/assets/new.png)  
-- [2024-05-15-韩国雪球产品或再遇危机-机构称可能推动港股走强](https://www.cls.cn/detail/1676506) ![](/assets/new.png)  
-- [2024-05-15-新冠变异株KP.2在我国流行情况如何？张文宏最新点评](https://www.cls.cn/detail/1676565) ![](/assets/new.png)  
-- [2024-05-15-大陆吃不起茶叶蛋？高铁没靠背？国台办：将惩戒长期造谣的台湾名嘴](https://www.cls.cn/detail/1676598) ![](/assets/new.png)  
-- [2024-05-15-阿里巴巴季度净利骤降近100%-股价投资变动引发市场关注](https://www.cls.cn/detail/1676616) ![](/assets/new.png)  
-- [2024-05-15-零投放零回笼，央行“不降息”，10年国债急速拉升后回落，MLF降息或在等待更好时机](https://www.cls.cn/detail/1676629) ![](/assets/new.png)  
+- [2024-05-15-一图看懂-|-新一轮“房票”安置浪潮已至！核心城市如何出招？](https://www.cls.cn/detail/1676537)  
+- [2024-05-15-赚钱一起分，亏了给保本，券商员工“豪爽式展业”遭罚，为完成KPI展业动作不能变形](https://www.cls.cn/detail/1676681)  
+- [2024-05-15-跑路再发酵，投向新三板私募备案被退回，13股停牌核查，还要警惕多只“疑似瑞丰达”](https://www.cls.cn/detail/1676669)  
+- [2024-05-15-退出国都证券后国家能源集团拟清仓中原银行，挂牌价接近股价6倍，央国企持续清退中小银行股权](https://www.cls.cn/detail/1676674)  
+- [2024-05-15-不降息！央行平价续作1250亿元MLF-业内：降准降息迫切性不高-MLF有望转向加量续作](https://www.cls.cn/detail/1676668)  
+- [2024-05-15-海南农商银行部分发起股东明确，海南高速及多名股东入列，监管曾要求推动部分老股东平稳退出](https://www.cls.cn/detail/1676667)  
+- [2024-05-15-【财联社午报】三大指数延续缩量调整，地产股逆势爆发，招商蛇口再度逼近涨停](https://www.cls.cn/detail/1676660)  
+- [2024-05-15-日股牛市背后的史诗级“支柱”：分红和回购数量持续创纪录增长](https://www.cls.cn/detail/1676530)  
+- [2024-05-15-诺和诺德Wegovy真就那么神？新研究将测试其能否治疗酒精性肝病](https://www.cls.cn/detail/1676582)  
+- [2024-05-15-“咆哮小猫风暴”长不了？圈内人：华尔街早学精了、散户没钱没空利息还高](https://www.cls.cn/detail/1676613)  
+- [2024-05-15-零投放零回笼，央行“不降息”，10年国债急速拉升后回落，MLF降息或在等待更好时机](https://www.cls.cn/detail/1676629)  
+- [2024-05-15-阿里巴巴季度净利骤降近100%-股价投资变动引发市场关注](https://www.cls.cn/detail/1676616)  
+- [2024-05-15-大陆吃不起茶叶蛋？高铁没靠背？国台办：将惩戒长期造谣的台湾名嘴](https://www.cls.cn/detail/1676598)  
+- [2024-05-15-新冠变异株KP.2在我国流行情况如何？张文宏最新点评](https://www.cls.cn/detail/1676565)  
+- [2024-05-15-韩国雪球产品或再遇危机-机构称可能推动港股走强](https://www.cls.cn/detail/1676506)  
+- [2024-05-15-紧随鲍威尔！联储官员“放鹰”：利率或在一段时间内保持高位](https://www.cls.cn/detail/1676519)  
+- [2024-05-15-从91亿收购跨向100%控股，国联收购民生证券又见大戏份，整体交易规模或达300亿](https://www.cls.cn/detail/1676509)  
+- [2024-05-15-国家移民管理局：全面实施外国旅游团乘坐邮轮入境免签政策](https://www.cls.cn/detail/1676515)  
+- [2024-05-15-美元和美债收益率今晚都将大跌？期权市场竟对美CPI数据如此有信心](https://www.cls.cn/detail/1676462)  
+- [2024-05-15-一图看清历次特别国债发行情况](https://www.cls.cn/detail/1676463)  
 - [......【查看更多】......](/details/36kr.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -47,6 +47,7 @@
 </summary>
 
 
+- [2024-05-15-QuestAuto2024年3月已婚人群偏好的新能源汽车市场快报：中大型SUV最受追捧，问界M9纯电版已婚用户超9成……](https://www.questmobile.com.cn/research/report/1790579119349665794) ![](/assets/new.png)  
 - [2024-05-14-QuestMobile2024五一假期洞察报告：日均活跃用户突破9亿，线上线下共振，消费持续走热](https://www.questmobile.com.cn/research/report/1790228130935443458)  
 - [2024-05-08-QuestAuto2024年3月未婚人群偏好的新能源汽车市场快报：20万元以上新能源汽车中，SUV更受未婚用户青睐……](https://www.questmobile.com.cn/research/report/1788046374660575234)  
 - [2024-05-07-QuestMobile2024中国移动互联网春季大报告：用户12.32亿，人均月时长165小时，小程序、AIGC、三大屏交相辉映](https://www.questmobile.com.cn/research/report/1787753953225707522)  
@@ -64,9 +65,8 @@
 - [2024-03-19-QuestMobile2024全景生态流量春季报告：“三大场景生态”快速崛起，家庭娱乐场景进入成熟期……](https://www.questmobile.com.cn/research/report/1769998634198339585)  
 - [2024-03-15-QuestAuto-2024年1月男性人群偏好的新能源汽车市场快报：中大型轿车、SUV最受追捧，MPV成市场新热点……](https://www.questmobile.com.cn/research/report/1767740493276483586)  
 - [2024-03-12-QuestMobile2024生成式AI及AIGC应用洞察报告：头部APP应用去重月活用户突破5000万，C端、B端机会蜂拥而至](https://www.questmobile.com.cn/research/report/1767395734913650690)  
-- [2024-03-06-QuestAuto2024年1月新能源汽车市场发展洞察报告：“开门红”显现，比亚迪销量同比增43.6%，问界M7登顶车系销量榜首](https://www.questmobile.com.cn/research/report/1765201452421189633)  
 - [2024-03-06-QuestMobile2024“她经济”洞察报告：女性活跃用户近6.1亿，购物、阅读等领域月人均时长达13.9小时、13.2小时](https://www.questmobile.com.cn/research/report/1764860900811051009)  
-- [2024-02-28-QuestAuto2024年春节期间新能源汽车市场报告：智能化、跨界营销双双发力](https://www.questmobile.com.cn/research/report/1762773877560283137)  
+- [2024-03-06-QuestAuto2024年1月新能源汽车市场发展洞察报告：“开门红”显现，比亚迪销量同比增43.6%，问界M7登顶车系销量榜首](https://www.questmobile.com.cn/research/report/1765201452421189633)  
 - [......【查看更多】......](/details/QuestMobile.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
