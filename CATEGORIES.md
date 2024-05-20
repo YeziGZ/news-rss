@@ -1,12 +1,12 @@
 ##
 
-:alarm_clock: 更新时间: 2024-05-20 03:35:33，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-05-20 04:38:39，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [36kr](#36kr)![](/assets/dot.png)   
 - [QuestMobile](#questmobile)  
-- [艾瑞](#艾瑞)  
+- [艾瑞](#艾瑞)![](/assets/dot.png)   
 
 ## 文章链接
 
@@ -16,26 +16,26 @@
 </summary>
 
 
-- [2024-05-20-现场视频直击！伊朗总统直升机位置被发现](https://www.cls.cn/detail/1680544)  
-- [2024-05-20-5月LPR维持不变-专家预计：后续有调降空间-但幅度有限](https://www.cls.cn/detail/1680547)  
-- [2024-05-20-5月LPR报价出炉：1年期和5年期利率均维持不变](https://www.cls.cn/detail/1680467)  
-- [2024-05-20-政策端持续发力，地产股或将成为市场领涨核心，有色、科技新技术方向仍有望反复活跃](https://www.cls.cn/detail/1680459)  
-- [2024-05-20-中信证券：下阶段增量房贷利率下行空间将打开-限购政策亦有进一步放松可能](https://www.cls.cn/detail/1680418)  
-- [2024-05-20-财联社债市早参5月20日-|央行打出优化住房金融政策组合拳，还有一波楼市重磅政策将发布；5月LPR将于今日公布](https://www.cls.cn/detail/1680308)  
-- [2024-05-20-券商晨会精华：地产周期或迎转折，板块重估有望延续](https://www.cls.cn/detail/1680377)  
-- [2024-05-20-5月20日投资避雷针：两公司将被实施ST-其中一家为百亿市值国企](https://www.cls.cn/detail/1680378)  
-- [2024-05-20-高盛前大宗商品主管：赶紧买铜，这是当前“最佳交易”！](https://www.cls.cn/detail/1680380)  
-- [2024-05-20-斯洛伐克总理菲佐已脱离生命危险](https://www.cls.cn/detail/1680390)  
+- [2024-05-20-伊朗总统直升机事故区域无人员生还迹象](https://www.cls.cn/detail/1680584)  
+- [2024-05-20-马斯克的“星链”又扩大业务版图，印尼服务正式启动！](https://www.cls.cn/detail/1680536)  
+- [2024-05-20-“贵金属狂潮”还在延续：黄金续创历史新高、白银升破32美元](https://www.cls.cn/detail/1680541)  
 - [2024-05-20-商务部：决定将参与对台湾地区军售的美国波音防务、空间与安全集团列入不可靠实体清单](https://www.cls.cn/detail/1680447)  
-- [2024-05-20-“贵金属狂潮”还在延续：黄金续创历史新高、白银升破32美元](https://www.cls.cn/detail/1680541) ![](/assets/new.png)  
-- [2024-05-20-马斯克的“星链”又扩大业务版图，印尼服务正式启动！](https://www.cls.cn/detail/1680536) ![](/assets/new.png)  
-- [2024-05-20-伊朗总统直升机事故区域无人员生还迹象](https://www.cls.cn/detail/1680584) ![](/assets/new.png)  
-- [2024-05-19-港股上周日均成交增至1686亿港元-机构称或由单边升市转向震荡](https://www.cls.cn/detail/1680198)  
-- [2024-05-19-伊朗外交部就总统乘坐直升机发生事故一事发表声明](https://www.cls.cn/detail/1680354)  
-- [2024-05-19-【早报】房地产支持政策密集落地；又有两只股票被ST](https://www.cls.cn/detail/1680357)  
-- [2024-05-19-千亿级投资控股集团董事长遭立案调查、留置！曾任中兴通讯财务总监](https://www.cls.cn/detail/1680299)  
-- [2024-05-19-需求疲软-白羽鸡反弹乏力-控本、出海成行业破局关键](https://www.cls.cn/detail/1680256)  
-- [2024-05-19-亏损下的扩张！盛和资源逆势收购非洲重砂矿项目，标的去年营收为0却获高溢价](https://www.cls.cn/detail/1680306)  
+- [2024-05-20-斯洛伐克总理菲佐已脱离生命危险](https://www.cls.cn/detail/1680390)  
+- [2024-05-20-高盛前大宗商品主管：赶紧买铜，这是当前“最佳交易”！](https://www.cls.cn/detail/1680380)  
+- [2024-05-20-5月20日投资避雷针：两公司将被实施ST-其中一家为百亿市值国企](https://www.cls.cn/detail/1680378)  
+- [2024-05-20-券商晨会精华：地产周期或迎转折，板块重估有望延续](https://www.cls.cn/detail/1680377)  
+- [2024-05-20-财联社债市早参5月20日-|央行打出优化住房金融政策组合拳，还有一波楼市重磅政策将发布；5月LPR将于今日公布](https://www.cls.cn/detail/1680308)  
+- [2024-05-20-中信证券：下阶段增量房贷利率下行空间将打开-限购政策亦有进一步放松可能](https://www.cls.cn/detail/1680418)  
+- [2024-05-20-政策端持续发力，地产股或将成为市场领涨核心，有色、科技新技术方向仍有望反复活跃](https://www.cls.cn/detail/1680459)  
+- [2024-05-20-5月LPR报价出炉：1年期和5年期利率均维持不变](https://www.cls.cn/detail/1680467)  
+- [2024-05-20-5月LPR维持不变-专家预计：后续有调降空间-但幅度有限](https://www.cls.cn/detail/1680547)  
+- [2024-05-20-现场视频直击！伊朗总统直升机位置被发现](https://www.cls.cn/detail/1680544)  
+- [2024-05-20-各国股债市场开启竞涨模式：全球降息潮要来了！](https://www.cls.cn/detail/1680452) ![](/assets/new.png)  
+- [2024-05-20-冲刺2500美元？金价早盘突破4月高点-紫金矿业股价大涨超6%](https://www.cls.cn/detail/1680528) ![](/assets/new.png)  
+- [2024-05-20-伊朗总统莱希及外长阿卜杜拉希扬在直升机事故中罹难](https://www.cls.cn/detail/1672824) ![](/assets/new.png)  
+- [2024-05-20-【财联社午报】三大指数冲高回落小幅收红，有色、贵金属等周期股集体爆发](https://www.cls.cn/detail/1680640) ![](/assets/new.png)  
+- [2024-05-19-英特尔加大玻璃基板技术布局力度-国内相关企业有望切入半导体领域](https://www.cls.cn/detail/1680363)  
+- [2024-05-19-黄金、白银再次暴涨-机构称黄金或将冲刺2500美元/盎司](https://www.cls.cn/detail/1680368)  
 - [......【查看更多】......](/details/36kr.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -78,14 +78,15 @@
 </summary>
 
 
+- [2024-05-20-垂直起降-2024年中国低空经济前景研究报告](https://report.iresearch.cn/report/202405/4347.shtml) ![](/assets/new.png)  
 - [2024-05-14-2024年中国即时物流行业研究报告](https://report.iresearch.cn/report/202405/4346.shtml)  
 - [2024-05-09-2024年中国两轮电动车行业研究](https://report.iresearch.cn/report/202405/4345.shtml)  
 - [2024-05-08-云服务行业动态及热点研究月报-2024年4月](https://report.iresearch.cn/report/202405/4344.shtml)  
-- [2024-04-30-2024年海外小家电市场研究报告](https://report.iresearch.cn/report/202404/4343.shtml)  
 - [2024-04-30-2024年中国企业级SaaS行业研究报告](https://report.iresearch.cn/report/202404/4342.shtml)  
+- [2024-04-30-2024年海外小家电市场研究报告](https://report.iresearch.cn/report/202404/4343.shtml)  
 - [2024-04-28-2024年中国SDN与SD-WAN行业研究报告](https://report.iresearch.cn/report/202404/4341.shtml)  
-- [2024-04-26-2024年奢侈品行业网络营销监测报告](https://report.iresearch.cn/report/202404/4340.shtml)  
 - [2024-04-26-2024年中国家居市场消费洞察报告](https://report.iresearch.cn/report/202404/4339.shtml)  
+- [2024-04-26-2024年奢侈品行业网络营销监测报告](https://report.iresearch.cn/report/202404/4340.shtml)  
 - [2024-04-25-2024年中国婴幼儿零辅食行业洞察报告](https://report.iresearch.cn/report/202404/4338.shtml)  
 - [2024-04-20-2023年中国人工智能产业研究报告-VI](https://report.iresearch.cn/report/202404/4336.shtml)  
 - [2024-04-19-2024年兴趣社交媒体男性用户营销价值报告](https://report.iresearch.cn/report/202404/4337.shtml)  
@@ -97,7 +98,6 @@
 - [2024-03-28-2024年中国金融科技行发展洞察报告](https://report.iresearch.cn/report/202403/4330.shtml)  
 - [2024-03-27-2024年中国供应链数字化行业研究报告](https://report.iresearch.cn/report/202403/4329.shtml)  
 - [2024-03-26-2024年全球互联网通信云IM+RTC行业研究报告](https://report.iresearch.cn/report/202403/4328.shtml)  
-- [2024-03-25-2023年中国营销领域AIGC技术应用研究报告](https://report.iresearch.cn/report/202403/4327.shtml)  
 - [......【查看更多】......](/details/艾瑞.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
