@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-05-23 06:39:40。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-05-23 08:37:09。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -33,8 +33,8 @@
 - [【36kr】大模型渐次落地证券业，应用是核心，国金证券CIO王洪涛透露突围点](https://www.cls.cn/detail/1669014)
 - [【36kr】【明日主题前瞻】国内AI独角兽公司正研发对标Sora的大模型](https://www.cls.cn/detail/1668308)
 - [【36kr】湖南钢铁发布行业首个大模型-1分钟就能应变“思考”出新调度计划](https://www.cls.cn/detail/1663370)
-- [【36kr】AI用于医药研发？莫德纳联手OpenAI推动业务流程自动化](https://www.cls.cn/detail/1658604)
 - [【36kr】苹果发布设备端开源AI模型-全球矿业现重磅并购报价-|-环球市场](https://www.cls.cn/detail/1657814)
+- [【36kr】AI用于医药研发？莫德纳联手OpenAI推动业务流程自动化](https://www.cls.cn/detail/1658604)
 - [【36kr】中国全功能接入互联网30年：未来大模型与互联网结合有巨大想象空间](https://www.cls.cn/detail/1653085)
 - [【36kr】刘强东AI数字人开启直播首秀-AIGC应用落地进程不断加速](https://www.cls.cn/detail/1648917)
 - [【36kr】盯紧数字化与AI超车机会，更多券商备战，东吴大模型券商首家算法备案，海通数字员工编号体系上线](https://www.cls.cn/detail/1645720)
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】一文看懂解放军如何剑指“台独”](https://www.cls.cn/detail/1684096)
-- [【36kr】刮刮乐大面积缺货？福彩、体彩回应](https://www.cls.cn/detail/1684079)
-- [【36kr】美国正经历“氛围衰退”？六成民众感觉美国已衰退-近半数预计美股将下跌](https://www.cls.cn/detail/1684004)
-- [【36kr】美联储降息预期减弱金价回调-灵宝黄金股价重挫逾5%](https://www.cls.cn/detail/1683949)
-- [【36kr】国家能源局：1-4月份太阳能发电装机容量约6.7亿千瓦-同比增长52.4%](https://www.cls.cn/detail/1683988)
-- [【36kr】解读来了！东部战区“联合利剑-2024A”演习剑指台独](https://www.cls.cn/detail/1683982)
-- [【36kr】国际锐评：赖清德必将被钉到历史的耻辱柱上](https://www.cls.cn/detail/1683960)
-- [【36kr】东部战区发布“联合利剑—2024A”演习区域示意图](https://www.cls.cn/detail/1683853)
-- [【36kr】鲍威尔掩盖了加息派声音？美联储纪要“捅娄子”-美股美债齐跌！](https://www.cls.cn/detail/1683855)
-- [【36kr】美国宣布将自8月1日开始对中国电动汽车、电池和芯片加征关税](https://www.cls.cn/detail/1683827)
-- [【36kr】5月23日投资避雷针：金银铜全线重挫-LME期铜跌超4%](https://www.cls.cn/detail/1683790)
-- [【36kr】券商晨会精华：房地产新政后，两个方向料将迎来政策利好](https://www.cls.cn/detail/1683815)
-- [【36kr】警惕！高盛CEO拉响警报：美联储今年恐怕不会降息](https://www.cls.cn/detail/1683814)
-- [【36kr】财联社汽车早报【5月23日】](https://www.cls.cn/detail/1683821)
-- [【36kr】财联社债市早参5月23日-|大妈教你来做国债，“24特国01”首日大涨25%，两次临停！](https://www.cls.cn/detail/1683819)
-- [【36kr】地产股上演过山车行情后延续性几何？英伟达业绩大超预期或将再度引爆科技方向热度](https://www.cls.cn/detail/1683857)
-- [【36kr】福建海警位乌丘屿、东引岛附近海域开展综合执法演练](https://www.cls.cn/detail/1683864)
-- [【36kr】四部门：推动贷款利率稳中有降-优化税费优惠政策](https://www.cls.cn/detail/1683903)
-- [【36kr】剑指“台独”！东部战区发布组合海报《越海杀器》](https://www.cls.cn/detail/1683947)
+- [【36kr】历史新高后，“看不懂”的铜价终于回调，未来将“短空长多”？丨大宗商品新周期](https://www.cls.cn/detail/1684170)
+- [【36kr】中国准备向俄罗斯提供“致命性援助”？我使馆发声](https://www.cls.cn/detail/1684150)
+- [【36kr】从政策的出发点来理解地产收储](https://www.cls.cn/detail/1684130)
+- [【36kr】“515”后银行继续压降“高息”对公协定存款，民生银行最新调整三类产品，后续或有更多银行跟进](https://www.cls.cn/detail/1684093)
+- [【36kr】沙特航空业在未来航空论坛上交易额已超过200亿美元](https://www.cls.cn/detail/1684037)
+- [【36kr】快手Q1经调整净利润同比升逾百倍-公司股价一度涨近7%](https://www.cls.cn/detail/1684045)
+- [【36kr】【财联社午报】沪指放量跌1%！两市超4300股飘绿，军工、电磁屏蔽概念逆势活跃](https://www.cls.cn/detail/1684064)
+- [【36kr】现场视频丨解放军数十架次战机环台岛战巡](https://www.cls.cn/detail/1684063)
+- [【36kr】湖北出台重磅楼市新政-取消限购、降首付、“以旧换新”等十大举措齐发力](https://www.cls.cn/detail/1684049)
+- [【36kr】概念动态-|-财联社主题库新增“电磁屏蔽”](https://www.cls.cn/detail/1684038)
+- [【36kr】四川省政协原副主席杨克宁被双开：懒政怠政，主动“躺平”](https://www.cls.cn/detail/1684025)
 - [【36kr】特朗普妄图操控美联储？白宫：坚定捍卫美联储独立性](https://www.cls.cn/detail/1683934)
+- [【36kr】剑指“台独”！东部战区发布组合海报《越海杀器》](https://www.cls.cn/detail/1683947)
+- [【36kr】四部门：推动贷款利率稳中有降-优化税费优惠政策](https://www.cls.cn/detail/1683903)
+- [【36kr】福建海警位乌丘屿、东引岛附近海域开展综合执法演练](https://www.cls.cn/detail/1683864)
+- [【36kr】地产股上演过山车行情后延续性几何？英伟达业绩大超预期或将再度引爆科技方向热度](https://www.cls.cn/detail/1683857)
+- [【36kr】财联社债市早参5月23日-|大妈教你来做国债，“24特国01”首日大涨25%，两次临停！](https://www.cls.cn/detail/1683819)
+- [【36kr】财联社汽车早报【5月23日】](https://www.cls.cn/detail/1683821)
+- [【36kr】警惕！高盛CEO拉响警报：美联储今年恐怕不会降息](https://www.cls.cn/detail/1683814)
+- [【36kr】券商晨会精华：房地产新政后，两个方向料将迎来政策利好](https://www.cls.cn/detail/1683815)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
