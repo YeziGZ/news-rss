@@ -1,12 +1,12 @@
 ##
 
-:alarm_clock: 更新时间: 2024-05-26 09:37:18，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-05-26 10:37:51，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [36kr](#36kr)![](/assets/dot.png)   
-- [QuestMobile](#questmobile)  
-- [艾瑞](#艾瑞)![](/assets/dot.png)   
+- [QuestMobile](#questmobile)![](/assets/dot.png)   
+- [艾瑞](#艾瑞)  
 
 ## 文章链接
 
@@ -16,26 +16,26 @@
 </summary>
 
 
-- [2024-05-26-周末要闻汇总：A股最严减持新规落地-加沙停火谈判将于下周重启](https://www.cls.cn/detail/1686372)  
-- [2024-05-26-中药材周期异变？毛利下行，药企面临提价抉择|中药新周期](https://www.cls.cn/detail/1686362)  
-- [2024-05-26-逾40股连续三年分红超5%！A股进入“分红实施季”，高股息个股名单来了](https://www.cls.cn/detail/1686326)  
-- [2024-05-26-警惕！本月近50家上市公司“戴帽”-，ST特信连吃9个跌停板，被实施ST或*ST背后原因一览](https://www.cls.cn/detail/1686271)  
+- [2024-05-26-跋涉的“铝”途|新经济地方志](https://www.cls.cn/detail/1686403)  
+- [2024-05-26-“拥挤”的端午档、“神秘”的暑期档，谁将引爆夏日电影市场？](https://www.cls.cn/detail/1686371)  
 - [2024-05-26-交易亏损家数近半！A股上市公司5月董监高亲属短线交易“扎堆”曝光，百亿黄金股郝然在列](https://www.cls.cn/detail/1686183)  
-- [2024-05-26-“拥挤”的端午档、“神秘”的暑期档，谁将引爆夏日电影市场？](https://www.cls.cn/detail/1686371) ![](/assets/new.png)  
-- [2024-05-26-跋涉的“铝”途|新经济地方志](https://www.cls.cn/detail/1686403) ![](/assets/new.png)  
-- [2024-05-25-【早报】楼市新政发布一周，多地跟进取消房贷利率下限、下调首付比；水泥新国标实施在即](https://www.cls.cn/detail/1686311)  
-- [2024-05-25-4个月猛赚100亿！这些产品，在国外卖爆了！](https://www.cls.cn/detail/1686305)  
-- [2024-05-25-环球下周看点：“困乏夏季”来临前夕-美国最重要通胀数据出炉](https://www.cls.cn/detail/1686303)  
-- [2024-05-25-达利欧最新论述：美国正处于“巨大动荡边缘”-债务货币化趋势难改](https://www.cls.cn/detail/1686301)  
-- [2024-05-25-波音年度安全报告：今年头两月员工提出的安全和质量担忧猛增逾500%](https://www.cls.cn/detail/1686137)  
-- [2024-05-25-涤纶大厂减产涨价-“长丝利润还在往下走”-上下游陷库存博弈](https://www.cls.cn/detail/1686143)  
-- [2024-05-25-【图解牛熊股】电力板块异动拉升，养猪概念股走出五连板](https://www.cls.cn/detail/1686140)  
-- [2024-05-25-聚焦日本上世纪90年代：在当时低利率环境下权益资产有哪些投资机会？](https://www.cls.cn/detail/1686123)  
-- [2024-05-25-公募频现大额赎回，有的刚成立就缩成迷你基，持营也破不了缩水的题？](https://www.cls.cn/detail/1686112)  
-- [2024-05-25-备足“弹药”以防意外！美股T+1结算时代下周开启-华尔街担心会出事](https://www.cls.cn/detail/1686102)  
-- [2024-05-25-高盛将美联储首降窗口推迟至9月！一图纵览华尔街各大行最新预测](https://www.cls.cn/detail/1686084)  
-- [2024-05-25-万亿公募迎新老总，降薪降费下，如何保持增速正待破题](https://www.cls.cn/detail/1686104)  
+- [2024-05-26-警惕！本月近50家上市公司“戴帽”-，ST特信连吃9个跌停板，被实施ST或*ST背后原因一览](https://www.cls.cn/detail/1686271)  
+- [2024-05-26-逾40股连续三年分红超5%！A股进入“分红实施季”，高股息个股名单来了](https://www.cls.cn/detail/1686326)  
+- [2024-05-26-中药材周期异变？毛利下行，药企面临提价抉择|中药新周期](https://www.cls.cn/detail/1686362)  
+- [2024-05-26-周末要闻汇总：A股最严减持新规落地-加沙停火谈判将于下周重启](https://www.cls.cn/detail/1686372)  
+- [2024-05-26-中信证券：现实逐步验证后-稳步上行态势将延续](https://www.cls.cn/detail/1686402) ![](/assets/new.png)  
+- [2024-05-25-北向资金逆势加仓路径曝光-大举增仓名单来了](https://www.cls.cn/detail/1686278)  
+- [2024-05-25-招商银行高管层再“微调”，十年老将CIO江朝阳上调招商局集团，曾亲历招行金融科技投入大爆发](https://www.cls.cn/detail/1686103)  
+- [2024-05-25-财联社汽车早报【5月25日】](https://www.cls.cn/detail/1686086)  
+- [2024-05-25-监管多措推动私募行业发展，5月以来注销164家，罚单34份，新登记私募暂仅1家](https://www.cls.cn/detail/1686125)  
+- [2024-05-25-保本保收益宣传、不当投资建议频发，又两家券商被罚](https://www.cls.cn/detail/1686124)  
 - [2024-05-25-高盛最新观点：即使反弹后，A股估值相对全球仍有较大吸引力](https://www.cls.cn/detail/1686115)  
+- [2024-05-25-万亿公募迎新老总，降薪降费下，如何保持增速正待破题](https://www.cls.cn/detail/1686104)  
+- [2024-05-25-高盛将美联储首降窗口推迟至9月！一图纵览华尔街各大行最新预测](https://www.cls.cn/detail/1686084)  
+- [2024-05-25-备足“弹药”以防意外！美股T+1结算时代下周开启-华尔街担心会出事](https://www.cls.cn/detail/1686102)  
+- [2024-05-25-公募频现大额赎回，有的刚成立就缩成迷你基，持营也破不了缩水的题？](https://www.cls.cn/detail/1686112)  
+- [2024-05-25-聚焦日本上世纪90年代：在当时低利率环境下权益资产有哪些投资机会？](https://www.cls.cn/detail/1686123)  
+- [2024-05-25-【图解牛熊股】电力板块异动拉升，养猪概念股走出五连板](https://www.cls.cn/detail/1686140)  
 - [......【查看更多】......](/details/36kr.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -47,6 +47,8 @@
 </summary>
 
 
+- [2024-05-25-QuestAuto2024年3月已婚有孩人群偏好的新能源汽车市场快报：30万元以上TOP10车型增程式占一半……](https://www.questmobile.com.cn/research/report/1793118154798501889) ![](/assets/new.png)  
+- [2024-05-25-QuestMobile2024下沉市场洞察报告：下沉用户规模同比提升1.7%达6.47亿，短视频、健康、购物等领域，消费潜力巨大](https://www.questmobile.com.cn/research/report/1792752741040361473) ![](/assets/new.png)  
 - [2024-05-15-QuestAuto2024年3月已婚人群偏好的新能源汽车市场快报：中大型SUV最受追捧，问界M9纯电版已婚用户超9成……](https://www.questmobile.com.cn/research/report/1790579119349665794)  
 - [2024-05-14-QuestMobile2024五一假期洞察报告：日均活跃用户突破9亿，线上线下共振，消费持续走热](https://www.questmobile.com.cn/research/report/1790228130935443458)  
 - [2024-05-08-QuestAuto2024年3月未婚人群偏好的新能源汽车市场快报：20万元以上新能源汽车中，SUV更受未婚用户青睐……](https://www.questmobile.com.cn/research/report/1788046374660575234)  
@@ -65,8 +67,6 @@
 - [2024-03-19-QuestMobile2024全景生态流量春季报告：“三大场景生态”快速崛起，家庭娱乐场景进入成熟期……](https://www.questmobile.com.cn/research/report/1769998634198339585)  
 - [2024-03-15-QuestAuto-2024年1月男性人群偏好的新能源汽车市场快报：中大型轿车、SUV最受追捧，MPV成市场新热点……](https://www.questmobile.com.cn/research/report/1767740493276483586)  
 - [2024-03-12-QuestMobile2024生成式AI及AIGC应用洞察报告：头部APP应用去重月活用户突破5000万，C端、B端机会蜂拥而至](https://www.questmobile.com.cn/research/report/1767395734913650690)  
-- [2024-03-06-QuestMobile2024“她经济”洞察报告：女性活跃用户近6.1亿，购物、阅读等领域月人均时长达13.9小时、13.2小时](https://www.questmobile.com.cn/research/report/1764860900811051009)  
-- [2024-03-06-QuestAuto2024年1月新能源汽车市场发展洞察报告：“开门红”显现，比亚迪销量同比增43.6%，问界M7登顶车系销量榜首](https://www.questmobile.com.cn/research/report/1765201452421189633)  
 - [......【查看更多】......](/details/QuestMobile.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -78,7 +78,7 @@
 </summary>
 
 
-- [2024-05-26-2024年中国脱发白发理疗产业洞察报告](https://report.iresearch.cn/report/202405/4349.shtml) ![](/assets/new.png)  
+- [2024-05-26-2024年中国脱发白发理疗产业洞察报告](https://report.iresearch.cn/report/202405/4349.shtml)  
 - [2024-05-25-中国女性敏感肌深度分析与适敏彩妆研究报告](https://report.iresearch.cn/report/202405/4348.shtml)  
 - [2024-05-20-垂直起降-2024年中国低空经济前景研究报告](https://report.iresearch.cn/report/202405/4347.shtml)  
 - [2024-05-14-2024年中国即时物流行业研究报告](https://report.iresearch.cn/report/202405/4346.shtml)  
