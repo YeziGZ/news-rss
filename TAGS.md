@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-05-27 02:43:20。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-05-27 03:37:48。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -23,8 +23,8 @@
 
 
 
-- [【36kr】华为开发者大会将至，鸿蒙、大模型或为亮点，这些标的频获调研](https://www.cls.cn/detail/1684562)
 - [【36kr】海外营收同比增长193.2%，大模型综合性能已接近GPT4.0，快手计划未来三年160亿港元回购|直击业绩会](https://www.cls.cn/detail/1683870)
+- [【36kr】华为开发者大会将至，鸿蒙、大模型或为亮点，这些标的频获调研](https://www.cls.cn/detail/1684562)
 - [【36kr】英国大选定档7月4日-新闻集团、OpenAI达成战略合作-|-环球市场](https://www.cls.cn/detail/1683784)
 - [【36kr】IBM宣布“开源”战略：发布Granite系列模型-专攻代码生成](https://www.cls.cn/detail/1682175)
 - [【36kr】较高温度下超导性起源研究获突破，二维哈伯德模型再现铜酸盐超导特征](https://www.cls.cn/detail/1681496)
@@ -35,8 +35,8 @@
 - [【36kr】大模型渐次落地证券业，应用是核心，国金证券CIO王洪涛透露突围点](https://www.cls.cn/detail/1669014)
 - [【36kr】【明日主题前瞻】国内AI独角兽公司正研发对标Sora的大模型](https://www.cls.cn/detail/1668308)
 - [【36kr】湖南钢铁发布行业首个大模型-1分钟就能应变“思考”出新调度计划](https://www.cls.cn/detail/1663370)
-- [【36kr】AI用于医药研发？莫德纳联手OpenAI推动业务流程自动化](https://www.cls.cn/detail/1658604)
 - [【36kr】苹果发布设备端开源AI模型-全球矿业现重磅并购报价-|-环球市场](https://www.cls.cn/detail/1657814)
+- [【36kr】AI用于医药研发？莫德纳联手OpenAI推动业务流程自动化](https://www.cls.cn/detail/1658604)
 - [【36kr】中国全功能接入互联网30年：未来大模型与互联网结合有巨大想象空间](https://www.cls.cn/detail/1653085)
 - [【36kr】刘强东AI数字人开启直播首秀-AIGC应用落地进程不断加速](https://www.cls.cn/detail/1648917)
 - [【36kr】盯紧数字化与AI超车机会，更多券商备战，东吴大模型券商首家算法备案，海通数字员工编号体系上线](https://www.cls.cn/detail/1645720)
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】苹果要突围？Wedbush：iPhone-16料成“决胜王牌”，聚焦全球开发者大会！](https://www.cls.cn/detail/1686608)
-- [【36kr】“债王”格罗斯警告：特朗普当选将更加破坏美债市场](https://www.cls.cn/detail/1686591)
-- [【36kr】5月27日投资避雷针：近20家上市公司周末抛减持计划](https://www.cls.cn/detail/1686588)
-- [【36kr】10点开售！个人投资者今日可购买20年期特别国债](https://www.cls.cn/detail/1686583)
-- [【36kr】港股5月27日早报：多只港股QDII基金净值大幅反弹-李泽钜回应长实频繁打折卖楼](https://www.cls.cn/detail/1686576)
-- [【36kr】电力改革引爆市场热情，科技新技术反复活跃，留意弱势环境下过渡性题材机会](https://www.cls.cn/detail/1686641)
 - [【36kr】国家统计局：1-4月份全国规模以上工业企业实现利润同比增长4.3%](https://www.cls.cn/detail/1686669)
-- [【36kr】券商晨会精华：历经调整后A股主要指数有望重拾升势](https://www.cls.cn/detail/1686570)
-- [【36kr】谷歌、微软等巨头纷纷布局-AI或驱动电力需求持续扩张](https://www.cls.cn/detail/1686558)
-- [【36kr】运力紧张！集运价格整体推涨-航运产业链或将受益](https://www.cls.cn/detail/1686565)
-- [【36kr】恒生航运指数年内总回报逾30%-高股息率支撑板块持续跑赢大市](https://www.cls.cn/detail/1686469)
-- [【36kr】恒指连续缩量回调-港股“资金市”能否延续？](https://www.cls.cn/detail/1686436)
-- [【36kr】港股IPO周报：盛禾生物公开发售获10倍认购-EDA集团控股引入两位基石投资者](https://www.cls.cn/detail/1686383)
-- [【36kr】【明日主题前瞻】存储芯片价格上涨50%，报告称或还将持续上涨](https://www.cls.cn/detail/1686435)
-- [【36kr】中信证券：现实逐步验证后-稳步上行态势将延续](https://www.cls.cn/detail/1686402)
-- [【36kr】周末要闻汇总：A股最严减持新规落地-加沙停火谈判将于下周重启](https://www.cls.cn/detail/1686372)
-- [【36kr】中药材周期异变？毛利下行，药企面临提价抉择|中药新周期](https://www.cls.cn/detail/1686362)
-- [【36kr】逾40股连续三年分红超5%！A股进入“分红实施季”，高股息个股名单来了](https://www.cls.cn/detail/1686326)
-- [【36kr】警惕！本月近50家上市公司“戴帽”-，ST特信连吃9个跌停板，被实施ST或*ST背后原因一览](https://www.cls.cn/detail/1686271)
-- [【36kr】交易亏损家数近半！A股上市公司5月董监高亲属短线交易“扎堆”曝光，百亿黄金股郝然在列](https://www.cls.cn/detail/1686183)
+- [【36kr】电力改革引爆市场热情，科技新技术反复活跃，留意弱势环境下过渡性题材机会](https://www.cls.cn/detail/1686641)
+- [【36kr】港股5月27日早报：多只港股QDII基金净值大幅反弹-李泽钜回应长实频繁打折卖楼](https://www.cls.cn/detail/1686576)
+- [【36kr】10点开售！个人投资者今日可购买20年期特别国债](https://www.cls.cn/detail/1686583)
+- [【36kr】5月27日投资避雷针：近20家上市公司周末抛减持计划](https://www.cls.cn/detail/1686588)
+- [【36kr】“债王”格罗斯警告：特朗普当选将更加破坏美债市场](https://www.cls.cn/detail/1686591)
+- [【36kr】苹果要突围？Wedbush：iPhone-16料成“决胜王牌”，聚焦全球开发者大会！](https://www.cls.cn/detail/1686608)
+- [【36kr】又是乱流作怪！卡塔尔航空航班事故最新报告12人受伤](https://www.cls.cn/detail/1686676)
+- [【36kr】近期资金都买了啥？深交所披露4月ETF交易额、净申购前十等数据透露方向](https://www.cls.cn/detail/1686699)
+- [【36kr】近三成股份将被收购-恒大汽车复盘高开背后造车业务危机难转](https://www.cls.cn/detail/1686745)
+- [【36kr】英伟达18个月内恐暴跌20%！华尔街分析师拉响警报](https://www.cls.cn/detail/1686716)
+- [【36kr】港股本周要闻前瞻：国内外多项宏观数据来袭-三只新股将上市](https://www.cls.cn/detail/1686485)
+- [【36kr】港股大盘上周冲高后缩量调整-机构称本周或迎反弹](https://www.cls.cn/detail/1684591)
+- [【36kr】【早报】国常会最新部署！事关跨境电商；A股重磅！最严减持新规落地](https://www.cls.cn/detail/1686551)
+- [【36kr】港股IPO正迎反转点：新股暗盘曾翻倍、创业板酝酿“铁树开花”，18C有望突破？](https://www.cls.cn/detail/1686473)
+- [【36kr】中药行业下个二十年：药企布局银发经济与OTC市场|中药新周期](https://www.cls.cn/detail/1686361)
+- [【36kr】A股稳步上行态势将延续？投资主线有哪些？十大券商策略来了](https://www.cls.cn/detail/1686463)
+- [【36kr】特拉维夫等以色列中部地区遭火箭弹袭击-哈马斯宣称负责](https://www.cls.cn/detail/1686452)
+- [【36kr】巴新政府文件：山体滑坡遇难人数预计超过600人](https://www.cls.cn/detail/1686447)
+- [【36kr】突发！962亿中药龙头3名董事辞职|盘后公告集锦](https://www.cls.cn/detail/1686426)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
