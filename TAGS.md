@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-05-30 23:38:06。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-05-31 03:36:17。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -24,8 +24,8 @@
 
 
 - [【36kr】美国国债拍卖表现不佳-OpenAI已启动开发“GPT-5”-|-环球市场](https://www.cls.cn/detail/1688842)
-- [【36kr】华为开发者大会将至，鸿蒙、大模型或为亮点，这些标的频获调研](https://www.cls.cn/detail/1684562)
 - [【36kr】海外营收同比增长193.2%，大模型综合性能已接近GPT4.0，快手计划未来三年160亿港元回购|直击业绩会](https://www.cls.cn/detail/1683870)
+- [【36kr】华为开发者大会将至，鸿蒙、大模型或为亮点，这些标的频获调研](https://www.cls.cn/detail/1684562)
 - [【36kr】英国大选定档7月4日-新闻集团、OpenAI达成战略合作-|-环球市场](https://www.cls.cn/detail/1683784)
 - [【36kr】IBM宣布“开源”战略：发布Granite系列模型-专攻代码生成](https://www.cls.cn/detail/1682175)
 - [【36kr】较高温度下超导性起源研究获突破，二维哈伯德模型再现铜酸盐超导特征](https://www.cls.cn/detail/1681496)
@@ -36,8 +36,8 @@
 - [【36kr】大模型渐次落地证券业，应用是核心，国金证券CIO王洪涛透露突围点](https://www.cls.cn/detail/1669014)
 - [【36kr】【明日主题前瞻】国内AI独角兽公司正研发对标Sora的大模型](https://www.cls.cn/detail/1668308)
 - [【36kr】湖南钢铁发布行业首个大模型-1分钟就能应变“思考”出新调度计划](https://www.cls.cn/detail/1663370)
-- [【36kr】AI用于医药研发？莫德纳联手OpenAI推动业务流程自动化](https://www.cls.cn/detail/1658604)
 - [【36kr】苹果发布设备端开源AI模型-全球矿业现重磅并购报价-|-环球市场](https://www.cls.cn/detail/1657814)
+- [【36kr】AI用于医药研发？莫德纳联手OpenAI推动业务流程自动化](https://www.cls.cn/detail/1658604)
 - [【36kr】中国全功能接入互联网30年：未来大模型与互联网结合有巨大想象空间](https://www.cls.cn/detail/1653085)
 - [【36kr】刘强东AI数字人开启直播首秀-AIGC应用落地进程不断加速](https://www.cls.cn/detail/1648917)
 - [【36kr】盯紧数字化与AI超车机会，更多券商备战，东吴大模型券商首家算法备案，海通数字员工编号体系上线](https://www.cls.cn/detail/1645720)
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】美股收盘：英伟达频传利空-两大指数盘中遭“冻结”](https://www.cls.cn/detail/1691261)
-- [【36kr】美股突发！道指和标普指数盘中停止报价-个股交易未受影响](https://www.cls.cn/detail/1691210)
-- [【36kr】媒体：马克龙说服加拿大放宽对俄罗斯钛的制裁-以帮助空客渡过难关](https://www.cls.cn/detail/1691197)
-- [【36kr】中石油取消续聘-普华永道遭遇上市公司“退单潮”-曾审计上百A股2023年报](https://www.cls.cn/detail/1691170)
-- [【36kr】美国一季度GDP年化季率增速下修至1.3%-引发经济韧性探讨](https://www.cls.cn/detail/1691161)
-- [【36kr】三年两度易主-万隆光电将迎“牛散”接手](https://www.cls.cn/detail/1691071)
-- [【36kr】中证协再推投资者保护新标准，券商投资者个人信息有望分类分级式保护](https://www.cls.cn/detail/1690997)
-- [【36kr】欧盟据称拟6月下旬启动乌克兰入盟谈判-但匈牙利仍反对](https://www.cls.cn/detail/1690867)
-- [【36kr】微信公众平台宣布治理“标题党”：将打击混淆官方、煽动蛊惑、对抗审核等行为](https://www.cls.cn/detail/1690970)
-- [【36kr】一则传闻引发药茅闪崩，曾蜂拥而至的明星基金陆续逃离，还有谁仍在坚守？](https://www.cls.cn/detail/1690944)
-- [【36kr】【数据看盘】主力资金大额净流出有色、电新板块-两家机构卖出广西能源2.743亿](https://www.cls.cn/detail/1690844)
-- [【36kr】南向资金5月30日净流入44亿：大幅加仓腾讯和工商银行-连续流出美团](https://www.cls.cn/detail/1690871)
-- [【36kr】中原进军学生宿舍市场](https://www.cls.cn/detail/1690817)
-- [【36kr】债市收盘-|-国债期货尾盘跳水全线下跌，央行单日净投放2580亿元](https://www.cls.cn/detail/1690719)
-- [【36kr】港股恒指与国企指数走低-舜宇光学科技逆市劲升超6%](https://www.cls.cn/detail/1690669)
-- [【36kr】【每日收评】沪指再度失守3100点，电力、有色板块双双退潮，半导体产业链迎逆势爆发](https://www.cls.cn/detail/1690707)
-- [【36kr】国防部：“台独”等于战争-分裂没有和平](https://www.cls.cn/detail/1690694)
-- [【36kr】新国标实施在即！水泥价格近期普涨-行业洗牌或加剧](https://www.cls.cn/detail/1690588)
-- [【36kr】六周被拒三次：必和必拓收购英美资源失败后-投资人反而松一口气](https://www.cls.cn/detail/1690514)
-- [【36kr】短空长多？港股黄金股高位回撤-内外资仍看好金价上涨潜力](https://www.cls.cn/detail/1690517)
+- [【36kr】“新国标”将于6月1日开始实施-水泥市场再迎涨价潮](https://www.cls.cn/detail/1691291)
+- [【36kr】5月31日投资避雷针：这只百亿卫星导航概念股遭大基金一期计划减持](https://www.cls.cn/detail/1691318)
+- [【36kr】财联社汽车早报【5月31日】](https://www.cls.cn/detail/1691334)
+- [【36kr】券商晨会精华：三种情形下高股息可持续性高](https://www.cls.cn/detail/1691338)
+- [【36kr】34项罪名成立！特朗普成美国首位被定罪前总统-将面临4年监禁](https://www.cls.cn/detail/1691336)
+- [【36kr】美债抛售终于暂歇！高盛担心近来债市风暴或成为美股绊脚石](https://www.cls.cn/detail/1691349)
+- [【36kr】半导体板块逆流而上，AIPC概念或仍存预期博弈空间](https://www.cls.cn/detail/1691392)
+- [【36kr】明天起，这些新规将影响你我生活](https://www.cls.cn/detail/1691414)
+- [【36kr】美联储高官“泼冷水”：高利率没那么大影响-中性利率已上升！](https://www.cls.cn/detail/1691394)
+- [【36kr】国台办：支持相关主管部门采取进一步中止ECFA部分产品关税减让措施](https://www.cls.cn/detail/1691423)
+- [【36kr】商务部：中止ECFA部分产品关税减让，责任完全在民进党当局](https://www.cls.cn/detail/1691433)
+- [【36kr】玉渊谭天披露外交部对美反制措施](https://www.cls.cn/detail/1691485)
+- [【36kr】美联储最青睐通胀指标今晚出炉：决定降息前景的大日子来了！](https://www.cls.cn/detail/1691510)
+- [【36kr】中国和阿拉伯国家关于巴勒斯坦问题的联合声明](https://www.cls.cn/detail/1691524)
+- [【36kr】【数读IPO】国产数据库第一股今日申购-客户包括中国烟草等知名企业](https://www.cls.cn/detail/1691274)
+- [【36kr】【早报】事关出口管制，三部门联合发布公告；大基金拟减持北斗星通](https://www.cls.cn/detail/1691287)
+- [【36kr】特朗普34项重罪指控成立-成首位被判有罪的美国前总统-|-环球市场](https://www.cls.cn/detail/1691280)
+- [【36kr】护航沙特阿美售股？OPEC+成员国正在探讨将自愿减产延长至年底](https://www.cls.cn/detail/1691198)
+- [【36kr】又9000万股股份将拍卖！“巴龙系”资金危机难解-数日前刚售出青农商行5512万股股份](https://www.cls.cn/detail/1691165)
+- [【36kr】美联储“三把手”：利率处于良好位置-通胀仍然过高-但下半年将恢复下降](https://www.cls.cn/detail/1691225)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
