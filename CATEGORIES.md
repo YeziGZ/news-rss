@@ -1,11 +1,11 @@
 ##
 
-:alarm_clock: 更新时间: 2024-06-05 06:40:07，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-06-05 08:38:40，:rocket: 更新条数: +24， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [36kr](#36kr)  
-- [QuestMobile](#questmobile)![](/assets/dot.png)   
+- [36kr](#36kr)![](/assets/dot.png)   
+- [QuestMobile](#questmobile)  
 - [艾瑞](#艾瑞)  
 
 ## 文章链接
@@ -16,26 +16,26 @@
 </summary>
 
 
-- [2024-06-05-6月5日投资避雷针：纳川股份、辰奕智能遭深交所下发年报问询函](https://www.cls.cn/detail/1695592)  
-- [2024-06-05-财联社汽车早报【6月5日】](https://www.cls.cn/detail/1695598)  
-- [2024-06-05-瑞银上调MSCI全球指数目标-已转为看好中国股市](https://www.cls.cn/detail/1695593)  
 - [2024-06-05-券商晨会精华：地产利好政策频出，供需两端发力推动去库存](https://www.cls.cn/detail/1695601)  
-- [2024-06-04-印度总理莫迪宣布胜选-美议员敦促调查欧佩克-|-环球市场](https://www.cls.cn/detail/1695558)  
-- [2024-06-04-【早报】证监会将发布资本市场相关政策举措；四部门有序开展智能网联汽车准入和上路通行试点](https://www.cls.cn/detail/1695559)  
-- [2024-06-04-涨势暂歇？美国小麦期货连跌五日-创逾半年来最长连跌纪录](https://www.cls.cn/detail/1695519)  
-- [2024-06-04-拜登：特朗普是被定罪的重罪犯-他不适合担任总统](https://www.cls.cn/detail/1695506)  
-- [2024-06-04-交易所库存飙升！伦铜期货价格跌超2%-失守1万美元关口](https://www.cls.cn/detail/1695504)  
-- [2024-06-04-非农前哨报喜！美职位空缺数降至三年新低-劳动力市场显著降温](https://www.cls.cn/detail/1695483)  
-- [2024-06-04-百亿级项目计划进展不及预期-江西铜业终止分拆铜箔业务上市](https://www.cls.cn/detail/1695456)  
-- [2024-06-04-“市值退市”也来了！本月多股因市值跌破3亿元拉响退市警报](https://www.cls.cn/detail/1695447)  
-- [2024-06-04-曾声称无ST风险的ST爱康锁定1元退市！监管函连发，股民欲索赔](https://www.cls.cn/detail/1695427)  
-- [2024-06-04-美股“散户领袖”再掀战火-据称券商平台欲将其驱逐出局](https://www.cls.cn/detail/1695385)  
-- [2024-06-04-掐准诺曼底登陆纪念日-苹果iOS生态将迎首个第三方游戏应用商店](https://www.cls.cn/detail/1695414)  
-- [2024-06-04-印度执政党主导的全国民主联盟在大选中获胜](https://www.cls.cn/detail/1695407)  
-- [2024-06-04-万物云拟动用最多58亿港元回购-金地商置前5月销售跌逾五成｜港股6月4日公告精选](https://www.cls.cn/detail/1695338)  
-- [2024-06-04-突发！小市值智能电网概念股被国网列入黑名单2年|盘后公告集锦](https://www.cls.cn/detail/1695341)  
-- [2024-06-04-南向资金6月4日净流入超88亿：大举加仓中国移动及兖矿能源-流出理想汽车和五矿资源](https://www.cls.cn/detail/1695146)  
-- [2024-06-04-因卷入债务违约事件，深圳国企特区建发已被华南城债权人正式起诉](https://www.cls.cn/detail/1695122)  
+- [2024-06-05-瑞银上调MSCI全球指数目标-已转为看好中国股市](https://www.cls.cn/detail/1695593)  
+- [2024-06-05-财联社汽车早报【6月5日】](https://www.cls.cn/detail/1695598)  
+- [2024-06-05-6月5日投资避雷针：纳川股份、辰奕智能遭深交所下发年报问询函](https://www.cls.cn/detail/1695592)  
+- [2024-06-05-财联社债市早参6月5日-|-国资委表示各央企原则上不得新设、收购、新参股各类金融机构；深圳国企特区建发已被华南城债权人正式起诉](https://www.cls.cn/detail/1695615) ![](/assets/new.png)  
+- [2024-06-05-政策面利好不断，车路协同概念或将站上短线风口，电力与科技股蓄势待发](https://www.cls.cn/detail/1695670) ![](/assets/new.png)  
+- [2024-06-05-华尔街都愣神了：美国数据刷刷刷下滑、降息预期噌噌噌上升！](https://www.cls.cn/detail/1695665) ![](/assets/new.png)  
+- [2024-06-05-中信证券：预计政策会持续聚焦新动能，带来其全面发力](https://www.cls.cn/detail/1695679) ![](/assets/new.png)  
+- [2024-06-05-央行主管媒体评普华永道“退单”风波：上市公司应审慎选择审计服务机构](https://www.cls.cn/detail/1695707) ![](/assets/new.png)  
+- [2024-06-05-欧盟推迟对华行动，如何理解？](https://www.cls.cn/detail/1695695) ![](/assets/new.png)  
+- [2024-06-05-基金在涨，基民仍没回本？年内正收益基金近四成净值仍不足1，两毛基、三毛基“顽强存在”](https://www.cls.cn/detail/1695711) ![](/assets/new.png)  
+- [2024-06-05-“Meme股”炒作卷土重来？小摩拉警报：不是好兆头，美股将暴跌！](https://www.cls.cn/detail/1695717) ![](/assets/new.png)  
+- [2024-06-05-港股科技指数持续反弹-是否迎来做多良机？](https://www.cls.cn/detail/1695739) ![](/assets/new.png)  
+- [2024-06-05-油价大跌！欧佩克无意间帮了拜登一个大忙？](https://www.cls.cn/detail/1695743) ![](/assets/new.png)  
+- [2024-06-05-分红险红利实现率“断崖式”下滑？部分产品已低至0%，业内：2024年存量产品会继续承压](https://www.cls.cn/detail/1695773) ![](/assets/new.png)  
+- [2024-06-05-惊魂！罕见暴跌98%，10元股秒变1毛股，明日还有2股即将“入坑”](https://www.cls.cn/detail/1695724) ![](/assets/new.png)  
+- [2024-06-05-芯片行业或迎来涨价潮-上海复旦领涨半导体股](https://www.cls.cn/detail/1695797) ![](/assets/new.png)  
+- [2024-06-05-“北美默克尔”吓到大摩！华尔街纷纷远离墨西哥风险资产](https://www.cls.cn/detail/1695798) ![](/assets/new.png)  
+- [2024-06-05-再现1元转让，华润置地退出保利北京合作项目背后](https://www.cls.cn/detail/1695815) ![](/assets/new.png)  
+- [2024-06-05-2030年“三倍承诺”难了？IEA：除中国外，各国可再生能源转型太慢！](https://www.cls.cn/detail/1695803) ![](/assets/new.png)  
 - [......【查看更多】......](/details/36kr.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -47,7 +47,7 @@
 </summary>
 
 
-- [2024-06-05-QuestAuto2024年4月一线城市新能源汽车市场快报：纯电占比71%、续航500公里以上超8成……](https://www.questmobile.com.cn/research/report/1798182125033328641) ![](/assets/new.png)  
+- [2024-06-05-QuestAuto2024年4月一线城市新能源汽车市场快报：纯电占比71%、续航500公里以上超8成……](https://www.questmobile.com.cn/research/report/1798182125033328641)  
 - [2024-06-04-QuestMobile-新能源汽车新三化产业链研究报告：国产销量占比达88%，月均出口超10万辆，供应链体系堪称“中国芯”……](https://www.questmobile.com.cn/research/report/1797833158655315970)  
 - [2024-05-29-QuestAuto2024年4月新能源汽车市场发展洞察报告：比亚迪持续领先，特斯拉月活车辆超过上汽通用五菱……](https://www.questmobile.com.cn/research/report/1795710739186552833)  
 - [2024-05-28-QuestMobile2024年文旅营销洞察报告：内容与特色良性循环，个性化崛起，下沉化成趋势，泼天的富贵都在哪里？](https://www.questmobile.com.cn/research/report/1795298854536581121)  
