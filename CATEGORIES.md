@@ -1,11 +1,11 @@
 ##
 
-:alarm_clock: 更新时间: 2024-06-05 01:41:11，:rocket: 更新条数: +8， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-06-05 06:40:07，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [36kr](#36kr)![](/assets/dot.png)   
-- [QuestMobile](#questmobile)  
+- [36kr](#36kr)  
+- [QuestMobile](#questmobile)![](/assets/dot.png)   
 - [艾瑞](#艾瑞)  
 
 ## 文章链接
@@ -16,10 +16,10 @@
 </summary>
 
 
-- [2024-06-05-6月5日投资避雷针：纳川股份、辰奕智能遭深交所下发年报问询函](https://www.cls.cn/detail/1695592) ![](/assets/new.png)  
-- [2024-06-05-财联社汽车早报【6月5日】](https://www.cls.cn/detail/1695598) ![](/assets/new.png)  
-- [2024-06-05-瑞银上调MSCI全球指数目标-已转为看好中国股市](https://www.cls.cn/detail/1695593) ![](/assets/new.png)  
-- [2024-06-05-券商晨会精华：地产利好政策频出，供需两端发力推动去库存](https://www.cls.cn/detail/1695601) ![](/assets/new.png)  
+- [2024-06-05-6月5日投资避雷针：纳川股份、辰奕智能遭深交所下发年报问询函](https://www.cls.cn/detail/1695592)  
+- [2024-06-05-财联社汽车早报【6月5日】](https://www.cls.cn/detail/1695598)  
+- [2024-06-05-瑞银上调MSCI全球指数目标-已转为看好中国股市](https://www.cls.cn/detail/1695593)  
+- [2024-06-05-券商晨会精华：地产利好政策频出，供需两端发力推动去库存](https://www.cls.cn/detail/1695601)  
 - [2024-06-04-印度总理莫迪宣布胜选-美议员敦促调查欧佩克-|-环球市场](https://www.cls.cn/detail/1695558)  
 - [2024-06-04-【早报】证监会将发布资本市场相关政策举措；四部门有序开展智能网联汽车准入和上路通行试点](https://www.cls.cn/detail/1695559)  
 - [2024-06-04-涨势暂歇？美国小麦期货连跌五日-创逾半年来最长连跌纪录](https://www.cls.cn/detail/1695519)  
@@ -47,11 +47,12 @@
 </summary>
 
 
+- [2024-06-05-QuestAuto2024年4月一线城市新能源汽车市场快报：纯电占比71%、续航500公里以上超8成……](https://www.questmobile.com.cn/research/report/1798182125033328641) ![](/assets/new.png)  
 - [2024-06-04-QuestMobile-新能源汽车新三化产业链研究报告：国产销量占比达88%，月均出口超10万辆，供应链体系堪称“中国芯”……](https://www.questmobile.com.cn/research/report/1797833158655315970)  
 - [2024-05-29-QuestAuto2024年4月新能源汽车市场发展洞察报告：比亚迪持续领先，特斯拉月活车辆超过上汽通用五菱……](https://www.questmobile.com.cn/research/report/1795710739186552833)  
 - [2024-05-28-QuestMobile2024年文旅营销洞察报告：内容与特色良性循环，个性化崛起，下沉化成趋势，泼天的富贵都在哪里？](https://www.questmobile.com.cn/research/report/1795298854536581121)  
-- [2024-05-25-QuestMobile2024下沉市场洞察报告：下沉用户规模同比提升1.7%达6.47亿，短视频、健康、购物等领域，消费潜力巨大](https://www.questmobile.com.cn/research/report/1792752741040361473)  
 - [2024-05-25-QuestAuto2024年3月已婚有孩人群偏好的新能源汽车市场快报：30万元以上TOP10车型增程式占一半……](https://www.questmobile.com.cn/research/report/1793118154798501889)  
+- [2024-05-25-QuestMobile2024下沉市场洞察报告：下沉用户规模同比提升1.7%达6.47亿，短视频、健康、购物等领域，消费潜力巨大](https://www.questmobile.com.cn/research/report/1792752741040361473)  
 - [2024-05-15-QuestAuto2024年3月已婚人群偏好的新能源汽车市场快报：中大型SUV最受追捧，问界M9纯电版已婚用户超9成……](https://www.questmobile.com.cn/research/report/1790579119349665794)  
 - [2024-05-14-QuestMobile2024五一假期洞察报告：日均活跃用户突破9亿，线上线下共振，消费持续走热](https://www.questmobile.com.cn/research/report/1790228130935443458)  
 - [2024-05-08-QuestAuto2024年3月未婚人群偏好的新能源汽车市场快报：20万元以上新能源汽车中，SUV更受未婚用户青睐……](https://www.questmobile.com.cn/research/report/1788046374660575234)  
@@ -66,7 +67,6 @@
 - [2024-04-02-QuestMobile2023年中国营销市场洞察·行业篇：从“血海厮杀”到“近身肉搏”，六大行业营销模型加速重塑……](https://www.questmobile.com.cn/research/report/1775049371471155202)  
 - [2024-03-27-QuestAuto2024年2月新能源汽车市场发展洞察报告：比亚迪销量继续领先，赛力斯同比增长673.6%达2.72万辆](https://www.questmobile.com.cn/research/report/1772825211764314114)  
 - [2024-03-26-QuestMobile2023年中国营销市场洞察·市场篇：媒介用户争夺战陷入“血海厮杀”，“五大营销模式”全面提振消费](https://www.questmobile.com.cn/research/report/1772514049344507906)  
-- [2024-03-22-QuestAuto2024年1月女性人群偏好的新能源汽车市场快报：女性审美车型持续崛起，五菱缤果、哪吒V月活车辆均超17万](https://www.questmobile.com.cn/research/report/1770276204735205378)  
 - [......【查看更多】......](/details/QuestMobile.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
