@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-06-06 04:37:56。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-06-06 05:37:06。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -25,8 +25,8 @@
 
 - [【36kr】对话国投智能滕达：将聚焦大模型技术应用、生成式人工智能和人工智能安全三个核心方向](https://www.cls.cn/detail/1695432)
 - [【36kr】美国国债拍卖表现不佳-OpenAI已启动开发“GPT-5”-|-环球市场](https://www.cls.cn/detail/1688842)
-- [【36kr】华为开发者大会将至，鸿蒙、大模型或为亮点，这些标的频获调研](https://www.cls.cn/detail/1684562)
 - [【36kr】海外营收同比增长193.2%，大模型综合性能已接近GPT4.0，快手计划未来三年160亿港元回购|直击业绩会](https://www.cls.cn/detail/1683870)
+- [【36kr】华为开发者大会将至，鸿蒙、大模型或为亮点，这些标的频获调研](https://www.cls.cn/detail/1684562)
 - [【36kr】英国大选定档7月4日-新闻集团、OpenAI达成战略合作-|-环球市场](https://www.cls.cn/detail/1683784)
 - [【36kr】IBM宣布“开源”战略：发布Granite系列模型-专攻代码生成](https://www.cls.cn/detail/1682175)
 - [【36kr】较高温度下超导性起源研究获突破，二维哈伯德模型再现铜酸盐超导特征](https://www.cls.cn/detail/1681496)
@@ -37,8 +37,8 @@
 - [【36kr】大模型渐次落地证券业，应用是核心，国金证券CIO王洪涛透露突围点](https://www.cls.cn/detail/1669014)
 - [【36kr】【明日主题前瞻】国内AI独角兽公司正研发对标Sora的大模型](https://www.cls.cn/detail/1668308)
 - [【36kr】湖南钢铁发布行业首个大模型-1分钟就能应变“思考”出新调度计划](https://www.cls.cn/detail/1663370)
-- [【36kr】AI用于医药研发？莫德纳联手OpenAI推动业务流程自动化](https://www.cls.cn/detail/1658604)
 - [【36kr】苹果发布设备端开源AI模型-全球矿业现重磅并购报价-|-环球市场](https://www.cls.cn/detail/1657814)
+- [【36kr】AI用于医药研发？莫德纳联手OpenAI推动业务流程自动化](https://www.cls.cn/detail/1658604)
 - [【36kr】中国全功能接入互联网30年：未来大模型与互联网结合有巨大想象空间](https://www.cls.cn/detail/1653085)
 - [【36kr】刘强东AI数字人开启直播首秀-AIGC应用落地进程不断加速](https://www.cls.cn/detail/1648917)
 - [【36kr】盯紧数字化与AI超车机会，更多券商备战，东吴大模型券商首家算法备案，海通数字员工编号体系上线](https://www.cls.cn/detail/1645720)
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】普京：西方国家参与对俄军事打击意味着对俄直接开战](https://www.cls.cn/detail/1696833)
-- [【36kr】6月6日投资避雷针：艾艾精工信披不准确被上海证监局出具警示函-年内曾录得15天14板](https://www.cls.cn/detail/1696831)
-- [【36kr】国泰君安：英伟达新产品路线发布，加速推进AI应用落地](https://www.cls.cn/detail/1696850)
-- [【36kr】保德信在华再落一子，受让前海再保险10%股权跻身第六大股东，今年来国内险企频频引“外脑”](https://www.cls.cn/detail/1696852)
-- [【36kr】财联社汽车早报【6月6日】](https://www.cls.cn/detail/1696851)
-- [【36kr】更多A股公司热衷海外布局，部分私募已将企业“出海”能力纳入选股标准](https://www.cls.cn/detail/1696860)
-- [【36kr】中证A50ETF又一联接基金成立，10只产品持续获买入，最新规模已超235亿](https://www.cls.cn/detail/1696862)
-- [【36kr】老牌期货公司IPO之路宣告终结，年内已有185家企业终止IPO](https://www.cls.cn/detail/1696857)
-- [【36kr】福建：在闽台胞参加基本医保](https://www.cls.cn/detail/1696886)
-- [【36kr】全球宽松大潮扑面而至！美联储9月降息概率升至七成](https://www.cls.cn/detail/1696870)
-- [【36kr】车路云概念引领智能驾驶新潮流，负极材料涨价预期催化或存轮动性机会](https://www.cls.cn/detail/1696897)
-- [【36kr】一大波基金经理要离职？公告频发，这些基金公司正成离职高发地](https://www.cls.cn/detail/1696929)
-- [【36kr】富豪为0岁宝宝买亿元保单，5岁起每年领300万元？中邮人寿天价保单刷屏](https://www.cls.cn/detail/1696928)
-- [【36kr】投资人行使知情权不能超过必要限度-，购买信托产品想查询钱去处被法院驳回](https://www.cls.cn/detail/1696964)
-- [【36kr】培育钻石或将拖垮钻石珠宝业务！戴比尔斯困境之中壮士断腕](https://www.cls.cn/detail/1696959)
-- [【36kr】WHO通报：全球首例H5N2禽流感病毒患者死亡！](https://www.cls.cn/detail/1696969)
-- [【36kr】华泰证券策略会观点亮相：A股估值或已进入相对充分底部，看多A50资产](https://www.cls.cn/detail/1697001)
-- [【36kr】特朗普TikTok短视频策略敲定了？拉拢目标为年轻男性](https://www.cls.cn/detail/1697005)
-- [【36kr】苏州住建局：贷款期内无法由二套利率调整为首套利率](https://www.cls.cn/detail/1697004)
+- [【36kr】【午报】微盘股延续重挫！两市近百股跌超9%，PCB、半导体等科技股方向逆势活跃](https://www.cls.cn/detail/1697093)
+- [【36kr】利雅得航空与中国两家航空公司签署协议-未来优先安排中国航班](https://www.cls.cn/detail/1697074)
+- [【36kr】最高法征求意见：健身、美容、教培等卷款跑路构成欺诈](https://www.cls.cn/detail/1697073)
+- [【36kr】贵州通报女企业家讨工程款事件](https://www.cls.cn/detail/1697066)
 - [【36kr】美股将迎夏日狂欢！高盛：260亿美元被动资金将在7月进场](https://www.cls.cn/detail/1697049)
+- [【36kr】苏州住建局：贷款期内无法由二套利率调整为首套利率](https://www.cls.cn/detail/1697004)
+- [【36kr】特朗普TikTok短视频策略敲定了？拉拢目标为年轻男性](https://www.cls.cn/detail/1697005)
+- [【36kr】华泰证券策略会观点亮相：A股估值或已进入相对充分底部，看多A50资产](https://www.cls.cn/detail/1697001)
+- [【36kr】WHO通报：全球首例H5N2禽流感病毒患者死亡！](https://www.cls.cn/detail/1696969)
+- [【36kr】培育钻石或将拖垮钻石珠宝业务！戴比尔斯困境之中壮士断腕](https://www.cls.cn/detail/1696959)
+- [【36kr】投资人行使知情权不能超过必要限度-，购买信托产品想查询钱去处被法院驳回](https://www.cls.cn/detail/1696964)
+- [【36kr】富豪为0岁宝宝买亿元保单，5岁起每年领300万元？中邮人寿天价保单刷屏](https://www.cls.cn/detail/1696928)
+- [【36kr】一大波基金经理要离职？公告频发，这些基金公司正成离职高发地](https://www.cls.cn/detail/1696929)
+- [【36kr】车路云概念引领智能驾驶新潮流，负极材料涨价预期催化或存轮动性机会](https://www.cls.cn/detail/1696897)
+- [【36kr】全球宽松大潮扑面而至！美联储9月降息概率升至七成](https://www.cls.cn/detail/1696870)
+- [【36kr】福建：在闽台胞参加基本医保](https://www.cls.cn/detail/1696886)
+- [【36kr】老牌期货公司IPO之路宣告终结，年内已有185家企业终止IPO](https://www.cls.cn/detail/1696857)
+- [【36kr】中证A50ETF又一联接基金成立，10只产品持续获买入，最新规模已超235亿](https://www.cls.cn/detail/1696862)
+- [【36kr】更多A股公司热衷海外布局，部分私募已将企业“出海”能力纳入选股标准](https://www.cls.cn/detail/1696860)
+- [【36kr】财联社汽车早报【6月6日】](https://www.cls.cn/detail/1696851)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

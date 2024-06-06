@@ -1,6 +1,6 @@
 ##
 
-:alarm_clock: 更新时间: 2024-06-06 04:37:56，:rocket: 更新条数: +34， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-06-06 05:37:06，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -16,26 +16,26 @@
 </summary>
 
 
-- [2024-06-06-普京：西方国家参与对俄军事打击意味着对俄直接开战](https://www.cls.cn/detail/1696833) ![](/assets/new.png)  
-- [2024-06-06-6月6日投资避雷针：艾艾精工信披不准确被上海证监局出具警示函-年内曾录得15天14板](https://www.cls.cn/detail/1696831) ![](/assets/new.png)  
-- [2024-06-06-国泰君安：英伟达新产品路线发布，加速推进AI应用落地](https://www.cls.cn/detail/1696850) ![](/assets/new.png)  
-- [2024-06-06-保德信在华再落一子，受让前海再保险10%股权跻身第六大股东，今年来国内险企频频引“外脑”](https://www.cls.cn/detail/1696852) ![](/assets/new.png)  
-- [2024-06-06-财联社汽车早报【6月6日】](https://www.cls.cn/detail/1696851) ![](/assets/new.png)  
-- [2024-06-06-更多A股公司热衷海外布局，部分私募已将企业“出海”能力纳入选股标准](https://www.cls.cn/detail/1696860) ![](/assets/new.png)  
-- [2024-06-06-中证A50ETF又一联接基金成立，10只产品持续获买入，最新规模已超235亿](https://www.cls.cn/detail/1696862) ![](/assets/new.png)  
-- [2024-06-06-老牌期货公司IPO之路宣告终结，年内已有185家企业终止IPO](https://www.cls.cn/detail/1696857) ![](/assets/new.png)  
-- [2024-06-06-福建：在闽台胞参加基本医保](https://www.cls.cn/detail/1696886) ![](/assets/new.png)  
-- [2024-06-06-全球宽松大潮扑面而至！美联储9月降息概率升至七成](https://www.cls.cn/detail/1696870) ![](/assets/new.png)  
-- [2024-06-06-车路云概念引领智能驾驶新潮流，负极材料涨价预期催化或存轮动性机会](https://www.cls.cn/detail/1696897) ![](/assets/new.png)  
-- [2024-06-06-一大波基金经理要离职？公告频发，这些基金公司正成离职高发地](https://www.cls.cn/detail/1696929) ![](/assets/new.png)  
-- [2024-06-06-富豪为0岁宝宝买亿元保单，5岁起每年领300万元？中邮人寿天价保单刷屏](https://www.cls.cn/detail/1696928) ![](/assets/new.png)  
-- [2024-06-06-投资人行使知情权不能超过必要限度-，购买信托产品想查询钱去处被法院驳回](https://www.cls.cn/detail/1696964) ![](/assets/new.png)  
-- [2024-06-06-培育钻石或将拖垮钻石珠宝业务！戴比尔斯困境之中壮士断腕](https://www.cls.cn/detail/1696959) ![](/assets/new.png)  
-- [2024-06-06-WHO通报：全球首例H5N2禽流感病毒患者死亡！](https://www.cls.cn/detail/1696969) ![](/assets/new.png)  
-- [2024-06-06-华泰证券策略会观点亮相：A股估值或已进入相对充分底部，看多A50资产](https://www.cls.cn/detail/1697001) ![](/assets/new.png)  
-- [2024-06-06-特朗普TikTok短视频策略敲定了？拉拢目标为年轻男性](https://www.cls.cn/detail/1697005) ![](/assets/new.png)  
-- [2024-06-06-苏州住建局：贷款期内无法由二套利率调整为首套利率](https://www.cls.cn/detail/1697004) ![](/assets/new.png)  
-- [2024-06-06-美股将迎夏日狂欢！高盛：260亿美元被动资金将在7月进场](https://www.cls.cn/detail/1697049) ![](/assets/new.png)  
+- [2024-06-06-【午报】微盘股延续重挫！两市近百股跌超9%，PCB、半导体等科技股方向逆势活跃](https://www.cls.cn/detail/1697093)  
+- [2024-06-06-利雅得航空与中国两家航空公司签署协议-未来优先安排中国航班](https://www.cls.cn/detail/1697074)  
+- [2024-06-06-最高法征求意见：健身、美容、教培等卷款跑路构成欺诈](https://www.cls.cn/detail/1697073)  
+- [2024-06-06-贵州通报女企业家讨工程款事件](https://www.cls.cn/detail/1697066)  
+- [2024-06-06-美股将迎夏日狂欢！高盛：260亿美元被动资金将在7月进场](https://www.cls.cn/detail/1697049)  
+- [2024-06-06-苏州住建局：贷款期内无法由二套利率调整为首套利率](https://www.cls.cn/detail/1697004)  
+- [2024-06-06-特朗普TikTok短视频策略敲定了？拉拢目标为年轻男性](https://www.cls.cn/detail/1697005)  
+- [2024-06-06-华泰证券策略会观点亮相：A股估值或已进入相对充分底部，看多A50资产](https://www.cls.cn/detail/1697001)  
+- [2024-06-06-WHO通报：全球首例H5N2禽流感病毒患者死亡！](https://www.cls.cn/detail/1696969)  
+- [2024-06-06-培育钻石或将拖垮钻石珠宝业务！戴比尔斯困境之中壮士断腕](https://www.cls.cn/detail/1696959)  
+- [2024-06-06-投资人行使知情权不能超过必要限度-，购买信托产品想查询钱去处被法院驳回](https://www.cls.cn/detail/1696964)  
+- [2024-06-06-富豪为0岁宝宝买亿元保单，5岁起每年领300万元？中邮人寿天价保单刷屏](https://www.cls.cn/detail/1696928)  
+- [2024-06-06-一大波基金经理要离职？公告频发，这些基金公司正成离职高发地](https://www.cls.cn/detail/1696929)  
+- [2024-06-06-车路云概念引领智能驾驶新潮流，负极材料涨价预期催化或存轮动性机会](https://www.cls.cn/detail/1696897)  
+- [2024-06-06-全球宽松大潮扑面而至！美联储9月降息概率升至七成](https://www.cls.cn/detail/1696870)  
+- [2024-06-06-福建：在闽台胞参加基本医保](https://www.cls.cn/detail/1696886)  
+- [2024-06-06-老牌期货公司IPO之路宣告终结，年内已有185家企业终止IPO](https://www.cls.cn/detail/1696857)  
+- [2024-06-06-中证A50ETF又一联接基金成立，10只产品持续获买入，最新规模已超235亿](https://www.cls.cn/detail/1696862)  
+- [2024-06-06-更多A股公司热衷海外布局，部分私募已将企业“出海”能力纳入选股标准](https://www.cls.cn/detail/1696860)  
+- [2024-06-06-财联社汽车早报【6月6日】](https://www.cls.cn/detail/1696851)  
 - [......【查看更多】......](/details/36kr.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
