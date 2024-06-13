@@ -1,11 +1,11 @@
 ##
 
-:alarm_clock: 更新时间: 2024-06-13 05:37:19，:rocket: 更新条数: +7， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-06-13 06:40:36，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [36kr](#36kr)![](/assets/dot.png)   
-- [QuestMobile](#questmobile)  
+- [36kr](#36kr)  
+- [QuestMobile](#questmobile)![](/assets/dot.png)   
 - [艾瑞](#艾瑞)  
 
 ## 文章链接
@@ -28,13 +28,13 @@
 - [2024-06-13-券商晨会精华：美联储“以时间换空间”、防止市场过早博弈降息，或是最好的选择](https://www.cls.cn/detail/1702572)  
 - [2024-06-13-6月13日投资避雷针：7连板PCB人气股公告-公司股价累计涨幅较大存在交易风险](https://www.cls.cn/detail/1702568)  
 - [2024-06-13-港股6月13日早报：金管局维持利率不变-香港“新投资者入境计划”已获逾250宗申请](https://www.cls.cn/detail/1702557)  
-- [2024-06-13-2024新财富500创富榜发布：钟睒睒蝉联首富！王健林父子重回前十！](https://www.cls.cn/detail/1702704) ![](/assets/new.png)  
-- [2024-06-13-特朗普胜选更利好经济？大摩剖析美大选不同结果下的投资选择](https://www.cls.cn/detail/1702707) ![](/assets/new.png)  
-- [2024-06-13-欧盟反补贴利空落地？比亚迪大涨超7%领跑汽车股](https://www.cls.cn/detail/1702701) ![](/assets/new.png)  
-- [2024-06-13-游戏驿站多空大战鸣金收兵？香橼停止做空-“带头大哥”可能也撤了](https://www.cls.cn/detail/1702729) ![](/assets/new.png)  
-- [2024-06-13-船舶扎堆！新加坡港口陷入“大拥堵”](https://www.cls.cn/detail/1702787) ![](/assets/new.png)  
-- [2024-06-13-【午报】三大指数涨跌不一，泛科技方向持续走强，科创板次新股批量涨停](https://www.cls.cn/detail/1702825) ![](/assets/new.png)  
-- [2024-06-13-年内险资6次举牌A股公司-长城人寿独揽5席-缘何频频加码权益投资？](https://www.cls.cn/detail/1702835) ![](/assets/new.png)  
+- [2024-06-13-2024新财富500创富榜发布：钟睒睒蝉联首富！王健林父子重回前十！](https://www.cls.cn/detail/1702704)  
+- [2024-06-13-特朗普胜选更利好经济？大摩剖析美大选不同结果下的投资选择](https://www.cls.cn/detail/1702707)  
+- [2024-06-13-欧盟反补贴利空落地？比亚迪大涨超7%领跑汽车股](https://www.cls.cn/detail/1702701)  
+- [2024-06-13-游戏驿站多空大战鸣金收兵？香橼停止做空-“带头大哥”可能也撤了](https://www.cls.cn/detail/1702729)  
+- [2024-06-13-船舶扎堆！新加坡港口陷入“大拥堵”](https://www.cls.cn/detail/1702787)  
+- [2024-06-13-【午报】三大指数涨跌不一，泛科技方向持续走强，科创板次新股批量涨停](https://www.cls.cn/detail/1702825)  
+- [2024-06-13-年内险资6次举牌A股公司-长城人寿独揽5席-缘何频频加码权益投资？](https://www.cls.cn/detail/1702835)  
 - [2024-06-12-全球迎核电建设浪潮-本轮核电景气周期有望超预期](https://www.cls.cn/detail/1702544)  
 - [......【查看更多】......](/details/36kr.md)
 
@@ -47,13 +47,14 @@
 </summary>
 
 
+- [2024-06-13-QuestAuto2024年4月新一线&二线城市新能源汽车市场快报：轿车占比过半，20万元以上车型占比超4成](https://www.questmobile.com.cn/research/report/1801138655340892161) ![](/assets/new.png)  
 - [2024-06-12-QuestMobile2024城市生活圈消费洞察报告：消费持续复苏，线上争商户、线下争配送，两场大战“血腥厮杀”，谁将胜出？](https://www.questmobile.com.cn/research/report/1800782499816771585)  
 - [2024-06-05-QuestAuto2024年4月一线城市新能源汽车市场快报：纯电占比71%、续航500公里以上超8成……](https://www.questmobile.com.cn/research/report/1798182125033328641)  
 - [2024-06-04-QuestMobile-新能源汽车新三化产业链研究报告：国产销量占比达88%，月均出口超10万辆，供应链体系堪称“中国芯”……](https://www.questmobile.com.cn/research/report/1797833158655315970)  
 - [2024-05-29-QuestAuto2024年4月新能源汽车市场发展洞察报告：比亚迪持续领先，特斯拉月活车辆超过上汽通用五菱……](https://www.questmobile.com.cn/research/report/1795710739186552833)  
 - [2024-05-28-QuestMobile2024年文旅营销洞察报告：内容与特色良性循环，个性化崛起，下沉化成趋势，泼天的富贵都在哪里？](https://www.questmobile.com.cn/research/report/1795298854536581121)  
-- [2024-05-25-QuestMobile2024下沉市场洞察报告：下沉用户规模同比提升1.7%达6.47亿，短视频、健康、购物等领域，消费潜力巨大](https://www.questmobile.com.cn/research/report/1792752741040361473)  
 - [2024-05-25-QuestAuto2024年3月已婚有孩人群偏好的新能源汽车市场快报：30万元以上TOP10车型增程式占一半……](https://www.questmobile.com.cn/research/report/1793118154798501889)  
+- [2024-05-25-QuestMobile2024下沉市场洞察报告：下沉用户规模同比提升1.7%达6.47亿，短视频、健康、购物等领域，消费潜力巨大](https://www.questmobile.com.cn/research/report/1792752741040361473)  
 - [2024-05-15-QuestAuto2024年3月已婚人群偏好的新能源汽车市场快报：中大型SUV最受追捧，问界M9纯电版已婚用户超9成……](https://www.questmobile.com.cn/research/report/1790579119349665794)  
 - [2024-05-14-QuestMobile2024五一假期洞察报告：日均活跃用户突破9亿，线上线下共振，消费持续走热](https://www.questmobile.com.cn/research/report/1790228130935443458)  
 - [2024-05-08-QuestAuto2024年3月未婚人群偏好的新能源汽车市场快报：20万元以上新能源汽车中，SUV更受未婚用户青睐……](https://www.questmobile.com.cn/research/report/1788046374660575234)  
@@ -66,7 +67,6 @@
 - [2024-04-09-QuestMobile2024中国智能终端市场洞察报告：上攻、下探、生态，国产品牌“三大策略”构建产业韧性](https://www.questmobile.com.cn/research/report/1777615186250797058)  
 - [2024-04-03-QuestAuto2024年2月30岁以下人群偏好的新能源汽车市场快报：长安Lumin和熊猫等微型车占比超40%，SUV需求提升](https://www.questmobile.com.cn/research/report/1775374002686103553)  
 - [2024-04-02-QuestMobile2023年中国营销市场洞察·行业篇：从“血海厮杀”到“近身肉搏”，六大行业营销模型加速重塑……](https://www.questmobile.com.cn/research/report/1775049371471155202)  
-- [2024-03-27-QuestAuto2024年2月新能源汽车市场发展洞察报告：比亚迪销量继续领先，赛力斯同比增长673.6%达2.72万辆](https://www.questmobile.com.cn/research/report/1772825211764314114)  
 - [......【查看更多】......](/details/QuestMobile.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
