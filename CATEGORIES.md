@@ -1,12 +1,12 @@
 ##
 
-:alarm_clock: 更新时间: 2024-06-27 04:41:06，:rocket: 更新条数: +6， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-06-27 06:41:04，:rocket: 更新条数: +16， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [36kr](#36kr)![](/assets/dot.png)   
 - [QuestMobile](#questmobile)  
-- [艾瑞](#艾瑞)  
+- [艾瑞](#艾瑞)![](/assets/dot.png)   
 
 ## 文章链接
 
@@ -16,26 +16,26 @@
 </summary>
 
 
-- [2024-06-27-科技部：锚定2035年建成科技强国的战略目标-加快形成贯彻落实全国科技大会部署重点任务的具体举措](https://www.cls.cn/detail/1716130)  
-- [2024-06-27-银行火速落地执行！北京首套房贷利率降至3.5%-二套进入“3字头”](https://www.cls.cn/detail/1716106)  
-- [2024-06-27-市场迎来修复性反弹，留意低位科技股方向的轮动性机会](https://www.cls.cn/detail/1716016)  
-- [2024-06-27-日元暴跌竟拖累美债！市场担心美国最大海外“债主”又要抛](https://www.cls.cn/detail/1715978)  
-- [2024-06-27-国资委：加快关键核心技术攻关，着眼产业链整体突破，压紧压实责任，加速攻关突破](https://www.cls.cn/detail/1715980)  
-- [2024-06-27-养老FOF难过“三年之痒”？年内已清盘4只，2只提示清盘风险，背后是何难题？](https://www.cls.cn/detail/1715963)  
-- [2024-06-27-财联社汽车早报【6月27日】](https://www.cls.cn/detail/1715962)  
-- [2024-06-27-注册制以来第二例，海安银行“长跑”7年上市未果主动撤回，A股排队拟上市银行剩8家](https://www.cls.cn/detail/1715953)  
-- [2024-06-27-上海楼市新政满月：6月二手房交易量有望创近3年新高，多个新房楼盘触发积分](https://www.cls.cn/detail/1715940)  
-- [2024-06-27-中信证券：未来一段时间又将迎来房地产政策出台的小高潮](https://www.cls.cn/detail/1715938)  
-- [2024-06-27-英伟达“看涨浪潮”愈发汹涌：股价年内料翻倍，市值将达6万亿美元！](https://www.cls.cn/detail/1715933)  
-- [2024-06-27-6月27日投资避雷针：4天翻倍人气股提示风险-数字货币相关业务对公司经营影响很小](https://www.cls.cn/detail/1715929)  
-- [2024-06-27-北京楼市新政落地-房地产行业估值有望迎来整体修复](https://www.cls.cn/detail/1715902)  
-- [2024-06-27-降薪引发基金经理离职潮？内情实探：多因素导致，当下跳槽“没那么简单”](https://www.cls.cn/detail/1715931)  
-- [2024-06-27-人民日报评论员：充分发挥新型举国体制优势](https://www.cls.cn/detail/1715905)  
-- [2024-06-27-券商晨会精华：灵活型外资短期交易方向会随指数波动出现较大反差](https://www.cls.cn/detail/1715932)  
+- [2024-06-27-【午报】三大指数再度集体下挫，消费电子板块逆势走强，中字头尾盘异动拉升](https://www.cls.cn/detail/1716185)  
+- [2024-06-27-多晶硅价格仍处磨底持久战-三季度能否迎来“拐点”预期不一｜行业动态](https://www.cls.cn/detail/1716167)  
+- [2024-06-27-美国两党“关税牌”不得人心！美货运业齐声反对：关税代价将由消费者买单](https://www.cls.cn/detail/1716121)  
+- [2024-06-27-转战铜和可可！“原油交易之神”：此间乐，不思油也](https://www.cls.cn/detail/1716050)  
 - [2024-06-27-国家统计局：1—5月份全国规模以上工业企业利润同比增长3.4%](https://www.cls.cn/detail/1716029)  
-- [2024-06-27-转战铜和可可！“原油交易之神”：此间乐，不思油也](https://www.cls.cn/detail/1716050) ![](/assets/new.png)  
-- [2024-06-27-美国两党“关税牌”不得人心！美货运业齐声反对：关税代价将由消费者买单](https://www.cls.cn/detail/1716121) ![](/assets/new.png)  
-- [2024-06-27-多晶硅价格仍处磨底持久战-三季度能否迎来“拐点”预期不一｜行业动态](https://www.cls.cn/detail/1716167) ![](/assets/new.png)  
+- [2024-06-27-券商晨会精华：灵活型外资短期交易方向会随指数波动出现较大反差](https://www.cls.cn/detail/1715932)  
+- [2024-06-27-人民日报评论员：充分发挥新型举国体制优势](https://www.cls.cn/detail/1715905)  
+- [2024-06-27-降薪引发基金经理离职潮？内情实探：多因素导致，当下跳槽“没那么简单”](https://www.cls.cn/detail/1715931)  
+- [2024-06-27-北京楼市新政落地-房地产行业估值有望迎来整体修复](https://www.cls.cn/detail/1715902)  
+- [2024-06-27-6月27日投资避雷针：4天翻倍人气股提示风险-数字货币相关业务对公司经营影响很小](https://www.cls.cn/detail/1715929)  
+- [2024-06-27-英伟达“看涨浪潮”愈发汹涌：股价年内料翻倍，市值将达6万亿美元！](https://www.cls.cn/detail/1715933)  
+- [2024-06-27-中信证券：未来一段时间又将迎来房地产政策出台的小高潮](https://www.cls.cn/detail/1715938)  
+- [2024-06-27-上海楼市新政满月：6月二手房交易量有望创近3年新高，多个新房楼盘触发积分](https://www.cls.cn/detail/1715940)  
+- [2024-06-27-注册制以来第二例，海安银行“长跑”7年上市未果主动撤回，A股排队拟上市银行剩8家](https://www.cls.cn/detail/1715953)  
+- [2024-06-27-财联社汽车早报【6月27日】](https://www.cls.cn/detail/1715962)  
+- [2024-06-27-养老FOF难过“三年之痒”？年内已清盘4只，2只提示清盘风险，背后是何难题？](https://www.cls.cn/detail/1715963)  
+- [2024-06-27-国资委：加快关键核心技术攻关，着眼产业链整体突破，压紧压实责任，加速攻关突破](https://www.cls.cn/detail/1715980)  
+- [2024-06-27-日元暴跌竟拖累美债！市场担心美国最大海外“债主”又要抛](https://www.cls.cn/detail/1715978)  
+- [2024-06-27-市场迎来修复性反弹，留意低位科技股方向的轮动性机会](https://www.cls.cn/detail/1716016)  
+- [2024-06-27-银行火速落地执行！北京首套房贷利率降至3.5%-二套进入“3字头”](https://www.cls.cn/detail/1716106)  
 - [......【查看更多】......](/details/36kr.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -78,6 +78,12 @@
 </summary>
 
 
+- [2024-06-24-2024年中国调味品趋势白皮书](https://report.iresearch.cn/report/202406/4356.shtml) ![](/assets/new.png)  
+- [2024-06-20-2024年中国智慧医院现状及趋势研究报告](https://report.iresearch.cn/report/202406/4355.shtml) ![](/assets/new.png)  
+- [2024-06-14-2024年中国B2B行业研究报告](https://report.iresearch.cn/report/202406/4354.shtml) ![](/assets/new.png)  
+- [2024-06-11-2024年中国大病网络众筹用户调研报告](https://report.iresearch.cn/report/202406/4353.shtml) ![](/assets/new.png)  
+- [2024-06-07-2024年中国跨境电商软件服务行业报告](https://report.iresearch.cn/report/202406/4352.shtml) ![](/assets/new.png)  
+- [2024-06-06-云服务行业动态及热点研究月报-2024年5月](https://report.iresearch.cn/report/202406/4351.shtml) ![](/assets/new.png)  
 - [2024-05-28-2024年Q1中国移动互联网流量季度报告](https://report.iresearch.cn/report/202405/4350.shtml)  
 - [2024-05-26-2024年中国脱发白发理疗产业洞察报告](https://report.iresearch.cn/report/202405/4349.shtml)  
 - [2024-05-25-中国女性敏感肌深度分析与适敏彩妆研究报告](https://report.iresearch.cn/report/202405/4348.shtml)  
@@ -85,19 +91,13 @@
 - [2024-05-14-2024年中国即时物流行业研究报告](https://report.iresearch.cn/report/202405/4346.shtml)  
 - [2024-05-09-2024年中国两轮电动车行业研究](https://report.iresearch.cn/report/202405/4345.shtml)  
 - [2024-05-08-云服务行业动态及热点研究月报-2024年4月](https://report.iresearch.cn/report/202405/4344.shtml)  
-- [2024-04-30-2024年海外小家电市场研究报告](https://report.iresearch.cn/report/202404/4343.shtml)  
 - [2024-04-30-2024年中国企业级SaaS行业研究报告](https://report.iresearch.cn/report/202404/4342.shtml)  
+- [2024-04-30-2024年海外小家电市场研究报告](https://report.iresearch.cn/report/202404/4343.shtml)  
 - [2024-04-28-2024年中国SDN与SD-WAN行业研究报告](https://report.iresearch.cn/report/202404/4341.shtml)  
-- [2024-04-26-2024年奢侈品行业网络营销监测报告](https://report.iresearch.cn/report/202404/4340.shtml)  
 - [2024-04-26-2024年中国家居市场消费洞察报告](https://report.iresearch.cn/report/202404/4339.shtml)  
+- [2024-04-26-2024年奢侈品行业网络营销监测报告](https://report.iresearch.cn/report/202404/4340.shtml)  
 - [2024-04-25-2024年中国婴幼儿零辅食行业洞察报告](https://report.iresearch.cn/report/202404/4338.shtml)  
 - [2024-04-20-2023年中国人工智能产业研究报告-VI](https://report.iresearch.cn/report/202404/4336.shtml)  
-- [2024-04-19-2024年兴趣社交媒体男性用户营销价值报告](https://report.iresearch.cn/report/202404/4337.shtml)  
-- [2024-04-17-2024年中国共享充电宝行业研究报告](https://report.iresearch.cn/report/202404/4335.shtml)  
-- [2024-04-09-云服务行业动态及热点研究月报-2024年3月](https://report.iresearch.cn/report/202404/4334.shtml)  
-- [2024-04-07-2024年中国防晒衣行业标准白皮书](https://report.iresearch.cn/report/202404/4333.shtml)  
-- [2024-04-03-2024年中国采购数字化平台行业研究报告](https://report.iresearch.cn/report/202404/4332.shtml)  
-- [2024-04-01-2024年中国美颜影像类软件用户营销价值洞察报告](https://report.iresearch.cn/report/202404/4331.shtml)  
 - [......【查看更多】......](/details/艾瑞.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
