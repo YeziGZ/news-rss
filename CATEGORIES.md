@@ -1,12 +1,12 @@
 ##
 
-:alarm_clock: 更新时间: 2024-06-27 06:41:04，:rocket: 更新条数: +16， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-06-27 07:35:38，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [36kr](#36kr)![](/assets/dot.png)   
-- [QuestMobile](#questmobile)  
-- [艾瑞](#艾瑞)![](/assets/dot.png)   
+- [QuestMobile](#questmobile)![](/assets/dot.png)   
+- [艾瑞](#艾瑞)  
 
 ## 文章链接
 
@@ -16,26 +16,26 @@
 </summary>
 
 
-- [2024-06-27-【午报】三大指数再度集体下挫，消费电子板块逆势走强，中字头尾盘异动拉升](https://www.cls.cn/detail/1716185)  
-- [2024-06-27-多晶硅价格仍处磨底持久战-三季度能否迎来“拐点”预期不一｜行业动态](https://www.cls.cn/detail/1716167)  
-- [2024-06-27-美国两党“关税牌”不得人心！美货运业齐声反对：关税代价将由消费者买单](https://www.cls.cn/detail/1716121)  
-- [2024-06-27-转战铜和可可！“原油交易之神”：此间乐，不思油也](https://www.cls.cn/detail/1716050)  
-- [2024-06-27-国家统计局：1—5月份全国规模以上工业企业利润同比增长3.4%](https://www.cls.cn/detail/1716029)  
-- [2024-06-27-券商晨会精华：灵活型外资短期交易方向会随指数波动出现较大反差](https://www.cls.cn/detail/1715932)  
-- [2024-06-27-人民日报评论员：充分发挥新型举国体制优势](https://www.cls.cn/detail/1715905)  
-- [2024-06-27-降薪引发基金经理离职潮？内情实探：多因素导致，当下跳槽“没那么简单”](https://www.cls.cn/detail/1715931)  
-- [2024-06-27-北京楼市新政落地-房地产行业估值有望迎来整体修复](https://www.cls.cn/detail/1715902)  
-- [2024-06-27-6月27日投资避雷针：4天翻倍人气股提示风险-数字货币相关业务对公司经营影响很小](https://www.cls.cn/detail/1715929)  
-- [2024-06-27-英伟达“看涨浪潮”愈发汹涌：股价年内料翻倍，市值将达6万亿美元！](https://www.cls.cn/detail/1715933)  
-- [2024-06-27-中信证券：未来一段时间又将迎来房地产政策出台的小高潮](https://www.cls.cn/detail/1715938)  
-- [2024-06-27-上海楼市新政满月：6月二手房交易量有望创近3年新高，多个新房楼盘触发积分](https://www.cls.cn/detail/1715940)  
-- [2024-06-27-注册制以来第二例，海安银行“长跑”7年上市未果主动撤回，A股排队拟上市银行剩8家](https://www.cls.cn/detail/1715953)  
-- [2024-06-27-财联社汽车早报【6月27日】](https://www.cls.cn/detail/1715962)  
-- [2024-06-27-养老FOF难过“三年之痒”？年内已清盘4只，2只提示清盘风险，背后是何难题？](https://www.cls.cn/detail/1715963)  
-- [2024-06-27-国资委：加快关键核心技术攻关，着眼产业链整体突破，压紧压实责任，加速攻关突破](https://www.cls.cn/detail/1715980)  
-- [2024-06-27-日元暴跌竟拖累美债！市场担心美国最大海外“债主”又要抛](https://www.cls.cn/detail/1715978)  
-- [2024-06-27-市场迎来修复性反弹，留意低位科技股方向的轮动性机会](https://www.cls.cn/detail/1716016)  
+- [2024-06-27-疑似“杀猪盘”再现江湖！暴跌前3分钟喊话买入，盘中跌幅瞬间达26%，荐股花招仍需警惕](https://www.cls.cn/detail/1716244)  
+- [2024-06-27-二十届三中全会7月15日至18日在北京召开](https://www.cls.cn/detail/1716238)  
+- [2024-06-27-金融如何助力消费品以旧换新？重庆最新引导辖内机构推出33条优惠举措，多地监管机构也在动](https://www.cls.cn/detail/1716230)  
+- [2024-06-27-腾讯视频号、快手电商“围堵”数字人直播带货-相关上市公司称受冲击有限](https://www.cls.cn/detail/1716229)  
+- [2024-06-27-特朗普与拜登首场电视辩论即将来袭-年龄将是最大焦点](https://www.cls.cn/detail/1716196)  
+- [2024-06-27-不排除起诉纽交所！盈透证券：“伯克希尔零元购事件”致其损失4800万](https://www.cls.cn/detail/1716179)  
+- [2024-06-27-以一敌六绰绰有余！沙特阿美石油储量稳居全球首位](https://www.cls.cn/detail/1716154)  
+- [2024-06-27-10年国债单边下行再破2.25%，国债期货盘中再创新高](https://www.cls.cn/detail/1716155)  
+- [2024-06-27-发生了什么？微创机器人盘中一度跌超16%](https://www.cls.cn/detail/1716081)  
+- [2024-06-27-财联社债市早参6月27日-|北京首套房最低首付款比例调整为不低于20%；中国恒大因资不抵债被勒令清盘](https://www.cls.cn/detail/1715952)  
+- [2024-06-27-科技部：锚定2035年建成科技强国的战略目标-加快形成贯彻落实全国科技大会部署重点任务的具体举措](https://www.cls.cn/detail/1716130)  
 - [2024-06-27-银行火速落地执行！北京首套房贷利率降至3.5%-二套进入“3字头”](https://www.cls.cn/detail/1716106)  
+- [2024-06-27-市场迎来修复性反弹，留意低位科技股方向的轮动性机会](https://www.cls.cn/detail/1716016)  
+- [2024-06-27-日元暴跌竟拖累美债！市场担心美国最大海外“债主”又要抛](https://www.cls.cn/detail/1715978)  
+- [2024-06-27-国资委：加快关键核心技术攻关，着眼产业链整体突破，压紧压实责任，加速攻关突破](https://www.cls.cn/detail/1715980)  
+- [2024-06-27-养老FOF难过“三年之痒”？年内已清盘4只，2只提示清盘风险，背后是何难题？](https://www.cls.cn/detail/1715963)  
+- [2024-06-27-财联社汽车早报【6月27日】](https://www.cls.cn/detail/1715962)  
+- [2024-06-27-注册制以来第二例，海安银行“长跑”7年上市未果主动撤回，A股排队拟上市银行剩8家](https://www.cls.cn/detail/1715953)  
+- [2024-06-27-上海楼市新政满月：6月二手房交易量有望创近3年新高，多个新房楼盘触发积分](https://www.cls.cn/detail/1715940)  
+- [2024-06-27-中信证券：未来一段时间又将迎来房地产政策出台的小高潮](https://www.cls.cn/detail/1715938)  
 - [......【查看更多】......](/details/36kr.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -47,6 +47,7 @@
 </summary>
 
 
+- [2024-06-27-QuestAuto2024年5月新能源汽车市场洞察报告：比亚迪活跃量即将突破600万辆，TOP10玩家活跃量门槛即将升至50万辆](https://www.questmobile.com.cn/research/report/1806209669020094465) ![](/assets/new.png)  
 - [2024-06-26-QuestMobile2024年618洞察报告：“促下单”成竞争核心，三大新打法成型，内容营销成了“显学”……](https://www.questmobile.com.cn/research/report/1805799772583464961)  
 - [2024-06-19-QuestAuto2024年4月三线及以下城市新能源汽车市场快报：车系偏好TOP10榜五菱独占三席，活跃量近90万辆](https://www.questmobile.com.cn/research/report/1803263957630291969)  
 - [2024-06-18-QuestMobile2024男性消费洞察报告：月活规模超6.2亿，中高消费意愿占比超7成，推动智能汽车、AIGC大热……](https://www.questmobile.com.cn/research/report/1802905260303421442)  
@@ -56,8 +57,8 @@
 - [2024-06-04-QuestMobile-新能源汽车新三化产业链研究报告：国产销量占比达88%，月均出口超10万辆，供应链体系堪称“中国芯”……](https://www.questmobile.com.cn/research/report/1797833158655315970)  
 - [2024-05-29-QuestAuto2024年4月新能源汽车市场发展洞察报告：比亚迪持续领先，特斯拉月活车辆超过上汽通用五菱……](https://www.questmobile.com.cn/research/report/1795710739186552833)  
 - [2024-05-28-QuestMobile2024年文旅营销洞察报告：内容与特色良性循环，个性化崛起，下沉化成趋势，泼天的富贵都在哪里？](https://www.questmobile.com.cn/research/report/1795298854536581121)  
-- [2024-05-25-QuestMobile2024下沉市场洞察报告：下沉用户规模同比提升1.7%达6.47亿，短视频、健康、购物等领域，消费潜力巨大](https://www.questmobile.com.cn/research/report/1792752741040361473)  
 - [2024-05-25-QuestAuto2024年3月已婚有孩人群偏好的新能源汽车市场快报：30万元以上TOP10车型增程式占一半……](https://www.questmobile.com.cn/research/report/1793118154798501889)  
+- [2024-05-25-QuestMobile2024下沉市场洞察报告：下沉用户规模同比提升1.7%达6.47亿，短视频、健康、购物等领域，消费潜力巨大](https://www.questmobile.com.cn/research/report/1792752741040361473)  
 - [2024-05-15-QuestAuto2024年3月已婚人群偏好的新能源汽车市场快报：中大型SUV最受追捧，问界M9纯电版已婚用户超9成……](https://www.questmobile.com.cn/research/report/1790579119349665794)  
 - [2024-05-14-QuestMobile2024五一假期洞察报告：日均活跃用户突破9亿，线上线下共振，消费持续走热](https://www.questmobile.com.cn/research/report/1790228130935443458)  
 - [2024-05-08-QuestAuto2024年3月未婚人群偏好的新能源汽车市场快报：20万元以上新能源汽车中，SUV更受未婚用户青睐……](https://www.questmobile.com.cn/research/report/1788046374660575234)  
@@ -66,7 +67,6 @@
 - [2024-04-23-QuestMobile2024泛年轻人群营销洞察报告：19-35岁人群规模超4亿，中式、精致、一体化成为热门关键词……](https://www.questmobile.com.cn/research/report/1782620308592758786)  
 - [2024-04-17-QuestAuto2024年2月40岁以上人群偏好的新能源汽车市场快报：多功能SUV和MPV车型受偏爱，腾势D9成为首选MPV](https://www.questmobile.com.cn/research/report/1780445368787505153)  
 - [2024-04-16-QuestMobile-2024手机游戏行业与重点人群洞察：稳步回升背后，9.4亿人玩游戏、7.5亿人玩微信小程序游戏……](https://www.questmobile.com.cn/research/report/1780065254895620098)  
-- [2024-04-11-QuestAuto2024年2月30-40岁人群偏好的新能源汽车市场快报：中型及以上级别车型受青睐，TOP10中“蔚小理”占六席](https://www.questmobile.com.cn/research/report/1777892683022438401)  
 - [......【查看更多】......](/details/QuestMobile.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -78,12 +78,12 @@
 </summary>
 
 
-- [2024-06-24-2024年中国调味品趋势白皮书](https://report.iresearch.cn/report/202406/4356.shtml) ![](/assets/new.png)  
-- [2024-06-20-2024年中国智慧医院现状及趋势研究报告](https://report.iresearch.cn/report/202406/4355.shtml) ![](/assets/new.png)  
-- [2024-06-14-2024年中国B2B行业研究报告](https://report.iresearch.cn/report/202406/4354.shtml) ![](/assets/new.png)  
-- [2024-06-11-2024年中国大病网络众筹用户调研报告](https://report.iresearch.cn/report/202406/4353.shtml) ![](/assets/new.png)  
-- [2024-06-07-2024年中国跨境电商软件服务行业报告](https://report.iresearch.cn/report/202406/4352.shtml) ![](/assets/new.png)  
-- [2024-06-06-云服务行业动态及热点研究月报-2024年5月](https://report.iresearch.cn/report/202406/4351.shtml) ![](/assets/new.png)  
+- [2024-06-24-2024年中国调味品趋势白皮书](https://report.iresearch.cn/report/202406/4356.shtml)  
+- [2024-06-20-2024年中国智慧医院现状及趋势研究报告](https://report.iresearch.cn/report/202406/4355.shtml)  
+- [2024-06-14-2024年中国B2B行业研究报告](https://report.iresearch.cn/report/202406/4354.shtml)  
+- [2024-06-11-2024年中国大病网络众筹用户调研报告](https://report.iresearch.cn/report/202406/4353.shtml)  
+- [2024-06-07-2024年中国跨境电商软件服务行业报告](https://report.iresearch.cn/report/202406/4352.shtml)  
+- [2024-06-06-云服务行业动态及热点研究月报-2024年5月](https://report.iresearch.cn/report/202406/4351.shtml)  
 - [2024-05-28-2024年Q1中国移动互联网流量季度报告](https://report.iresearch.cn/report/202405/4350.shtml)  
 - [2024-05-26-2024年中国脱发白发理疗产业洞察报告](https://report.iresearch.cn/report/202405/4349.shtml)  
 - [2024-05-25-中国女性敏感肌深度分析与适敏彩妆研究报告](https://report.iresearch.cn/report/202405/4348.shtml)  
