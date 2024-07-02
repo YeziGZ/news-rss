@@ -1,11 +1,11 @@
 ##
 
-:alarm_clock: 更新时间: 2024-07-02 07:36:19，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-07-02 08:39:44，:rocket: 更新条数: +6， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [36kr](#36kr)![](/assets/dot.png)   
-- [QuestMobile](#questmobile)  
+- [QuestMobile](#questmobile)![](/assets/dot.png)   
 - [艾瑞](#艾瑞)  
 
 ## 文章链接
@@ -16,26 +16,26 @@
 </summary>
 
 
-- [2024-07-02-微博：某汽车品牌在企业财报节点策划热点话题-并违规采买外部冲榜服务](https://www.cls.cn/detail/1720686)  
-- [2024-07-02-菲律宾对非法滞留仙宾礁船只过驳人员物资-中国海警全程跟监管控](https://www.cls.cn/detail/1720670)  
-- [2024-07-02-车市半年考|欧美逆全球化难掩中国车企加速出海-行业预测：2030年自主品牌海外销量1000万辆](https://www.cls.cn/detail/1720649)  
-- [2024-07-02-对冲基金大肆抄底！这一跌至7年低位的电池金属将有“好戏”上演？](https://www.cls.cn/detail/1720642)  
-- [2024-07-02-新房市场回暖提振房地产股-雅居乐集团涨近8%](https://www.cls.cn/detail/1720563)  
-- [2024-07-02-新势力上月销量提振汽车股走势-理想汽车涨超7%](https://www.cls.cn/detail/1720505)  
-- [2024-07-02-财联社汽车早报【7月2日】](https://www.cls.cn/detail/1720465)  
-- [2024-07-02-欧洲央行7月降息基本无望？拉加德：需要时间权衡通胀不确定性！](https://www.cls.cn/detail/1720440)  
-- [2024-07-02-浇灭党内换人呼声？传民主党拟提前正式提名拜登](https://www.cls.cn/detail/1720537)  
-- [2024-07-02-一图看清央行如何进行国债买卖？](https://www.cls.cn/detail/1720459)  
-- [2024-07-02-商品型基金竟是上半年大赢家，平均赚超11%，绩优基悄然限购](https://www.cls.cn/detail/1720466)  
-- [2024-07-02-港股7月2日早报：欧舒丹私有化已获近半少数股东支持-多家造车新势年内销量完成度不足5成](https://www.cls.cn/detail/1720313)  
-- [2024-07-02-“懂王”杀伤力十足！特朗普连战连捷-美债被“吓崩了”……](https://www.cls.cn/detail/1720420)  
-- [2024-07-02-如何看央行开展国债借入操作](https://www.cls.cn/detail/1720381)  
-- [2024-07-02-31家券商投行业务被罚，上半年成“高罚年”，74张罚单开给谁？67名保代列入C类名单](https://www.cls.cn/detail/1720371)  
-- [2024-07-02-美国散户“带头大哥”被告了！涉嫌拉高出货-侵害散户利益](https://www.cls.cn/detail/1720350)  
-- [2024-07-02-7月2日投资避雷针：科创板操作系统第一股因串通投标-被禁止参加军队采购活动1年](https://www.cls.cn/detail/1720329)  
-- [2024-07-02-券商晨会精华：建议关注二季度绩优板块和相关个股](https://www.cls.cn/detail/1720327)  
-- [2024-07-02-中金：积极看好未来十年中国住房租赁市场的发展前景](https://www.cls.cn/detail/1720316)  
+- [2024-07-02-“七翻身”买啥？7月金股大数据出炉，比亚迪被10家推荐，电子连续5个月推荐第一](https://www.cls.cn/detail/1720758)  
+- [2024-07-02-央行喊话“借债”冲击波：超9成纯债基金下跌，最高日跌幅超0.6%](https://www.cls.cn/detail/1720742)  
+- [2024-07-02-沙特发现七大油气矿床，石油和天然气资源开采再添新动力](https://www.cls.cn/detail/1720442)  
+- [2024-07-02-“这是个危险先例”！特朗普“豁免权”裁定引拜登不满：总统将变成国王](https://www.cls.cn/detail/1720603)  
+- [2024-07-02-华南城未竟转型路](https://www.cls.cn/detail/1720438)  
+- [2024-07-02-【午报】三大指数延续震荡分化，财税数字化概念全线爆发，出海概念股遭集体重挫](https://www.cls.cn/detail/1720602)  
+- [2024-07-02-多名卫生专家警告：禽流感或缓慢演变成大规模疫情](https://www.cls.cn/detail/1720553)  
+- [2024-07-02-一名中国公民在菲遭绑架遇害，我驻菲律宾使馆发声](https://www.cls.cn/detail/1720571)  
+- [2024-07-02-政策改革预期炒作升温，而低位业绩超预期方向有望成为市场新焦点](https://www.cls.cn/detail/1720424)  
 - [2024-07-02-财联社债市早参7月2日-|债牛疯狂不止，央行宣布将借入国债操作；昨日低价转债大幅反弹，东时转债上涨20%](https://www.cls.cn/detail/1720344)  
+- [2024-07-02-中金：积极看好未来十年中国住房租赁市场的发展前景](https://www.cls.cn/detail/1720316)  
+- [2024-07-02-券商晨会精华：建议关注二季度绩优板块和相关个股](https://www.cls.cn/detail/1720327)  
+- [2024-07-02-7月2日投资避雷针：科创板操作系统第一股因串通投标-被禁止参加军队采购活动1年](https://www.cls.cn/detail/1720329)  
+- [2024-07-02-美国散户“带头大哥”被告了！涉嫌拉高出货-侵害散户利益](https://www.cls.cn/detail/1720350)  
+- [2024-07-02-31家券商投行业务被罚，上半年成“高罚年”，74张罚单开给谁？67名保代列入C类名单](https://www.cls.cn/detail/1720371)  
+- [2024-07-02-如何看央行开展国债借入操作](https://www.cls.cn/detail/1720381)  
+- [2024-07-02-“懂王”杀伤力十足！特朗普连战连捷-美债被“吓崩了”……](https://www.cls.cn/detail/1720420)  
+- [2024-07-02-港股7月2日早报：欧舒丹私有化已获近半少数股东支持-多家造车新势年内销量完成度不足5成](https://www.cls.cn/detail/1720313)  
+- [2024-07-02-商品型基金竟是上半年大赢家，平均赚超11%，绩优基悄然限购](https://www.cls.cn/detail/1720466)  
+- [2024-07-02-一图看清央行如何进行国债买卖？](https://www.cls.cn/detail/1720459)  
 - [......【查看更多】......](/details/36kr.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -47,6 +47,7 @@
 </summary>
 
 
+- [2024-07-02-QuestMobile2024年品牌数字化发展洞察报告：大循环体系成型，用户精细化运营与多渠道模式互补……](https://www.questmobile.com.cn/research/report/1807980267572400130) ![](/assets/new.png)  
 - [2024-06-27-QuestAuto2024年5月新能源汽车市场洞察报告：比亚迪活跃量即将突破600万辆，TOP10玩家活跃量门槛即将升至50万辆](https://www.questmobile.com.cn/research/report/1806209669020094465)  
 - [2024-06-26-QuestMobile2024年618洞察报告：“促下单”成竞争核心，三大新打法成型，内容营销成了“显学”……](https://www.questmobile.com.cn/research/report/1805799772583464961)  
 - [2024-06-19-QuestAuto2024年4月三线及以下城市新能源汽车市场快报：车系偏好TOP10榜五菱独占三席，活跃量近90万辆](https://www.questmobile.com.cn/research/report/1803263957630291969)  
@@ -57,8 +58,8 @@
 - [2024-06-04-QuestMobile-新能源汽车新三化产业链研究报告：国产销量占比达88%，月均出口超10万辆，供应链体系堪称“中国芯”……](https://www.questmobile.com.cn/research/report/1797833158655315970)  
 - [2024-05-29-QuestAuto2024年4月新能源汽车市场发展洞察报告：比亚迪持续领先，特斯拉月活车辆超过上汽通用五菱……](https://www.questmobile.com.cn/research/report/1795710739186552833)  
 - [2024-05-28-QuestMobile2024年文旅营销洞察报告：内容与特色良性循环，个性化崛起，下沉化成趋势，泼天的富贵都在哪里？](https://www.questmobile.com.cn/research/report/1795298854536581121)  
-- [2024-05-25-QuestAuto2024年3月已婚有孩人群偏好的新能源汽车市场快报：30万元以上TOP10车型增程式占一半……](https://www.questmobile.com.cn/research/report/1793118154798501889)  
 - [2024-05-25-QuestMobile2024下沉市场洞察报告：下沉用户规模同比提升1.7%达6.47亿，短视频、健康、购物等领域，消费潜力巨大](https://www.questmobile.com.cn/research/report/1792752741040361473)  
+- [2024-05-25-QuestAuto2024年3月已婚有孩人群偏好的新能源汽车市场快报：30万元以上TOP10车型增程式占一半……](https://www.questmobile.com.cn/research/report/1793118154798501889)  
 - [2024-05-15-QuestAuto2024年3月已婚人群偏好的新能源汽车市场快报：中大型SUV最受追捧，问界M9纯电版已婚用户超9成……](https://www.questmobile.com.cn/research/report/1790579119349665794)  
 - [2024-05-14-QuestMobile2024五一假期洞察报告：日均活跃用户突破9亿，线上线下共振，消费持续走热](https://www.questmobile.com.cn/research/report/1790228130935443458)  
 - [2024-05-08-QuestAuto2024年3月未婚人群偏好的新能源汽车市场快报：20万元以上新能源汽车中，SUV更受未婚用户青睐……](https://www.questmobile.com.cn/research/report/1788046374660575234)  
@@ -66,7 +67,6 @@
 - [2024-04-24-QuestAuto2024年一季度-新能源汽车市场洞察报告：活跃总量突破2000万辆，比亚迪一家逼近550万辆……](https://www.questmobile.com.cn/research/report/1783019218175889410)  
 - [2024-04-23-QuestMobile2024泛年轻人群营销洞察报告：19-35岁人群规模超4亿，中式、精致、一体化成为热门关键词……](https://www.questmobile.com.cn/research/report/1782620308592758786)  
 - [2024-04-17-QuestAuto2024年2月40岁以上人群偏好的新能源汽车市场快报：多功能SUV和MPV车型受偏爱，腾势D9成为首选MPV](https://www.questmobile.com.cn/research/report/1780445368787505153)  
-- [2024-04-16-QuestMobile-2024手机游戏行业与重点人群洞察：稳步回升背后，9.4亿人玩游戏、7.5亿人玩微信小程序游戏……](https://www.questmobile.com.cn/research/report/1780065254895620098)  
 - [......【查看更多】......](/details/QuestMobile.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
