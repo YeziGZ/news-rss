@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-08-05 02:50:25。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-08-05 03:38:37。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -23,18 +23,18 @@
 
 
 
-- [【36kr】OpenAI向部分用户开放GPT-4o语音模式-今秋将扩大至所有付费用户](https://www.cls.cn/detail/1748979)
 - [【36kr】以色列空袭黎巴嫩首都南郊-OpenAI向部分用户开放语音模式-|-环球市场](https://www.cls.cn/detail/1749011)
+- [【36kr】OpenAI向部分用户开放GPT-4o语音模式-今秋将扩大至所有付费用户](https://www.cls.cn/detail/1748979)
 - [【36kr】美股“黑色星期三”！七巨头遭遇ChatGPT问世以来最惨一天](https://www.cls.cn/detail/1743715)
 - [【36kr】“ChatGPT之父”发起3000人社会实验：每人每月领取1000美元，会发生什么？](https://www.cls.cn/detail/1743153)
-- [【36kr】OpenAI开打价格战-中国、日本5月均减持美国国债-|-环球市场](https://www.cls.cn/detail/1738192)
 - [【36kr】多模态大模型迅猛发展-国产算力链有望全面崛起](https://www.cls.cn/detail/1736982)
-- [【36kr】专访|中关村科金CTO李智伟：大模型时代金融机构要引入+AI能力-看好多模态大模型的发展](https://www.cls.cn/detail/1726525)
+- [【36kr】OpenAI开打价格战-中国、日本5月均减持美国国债-|-环球市场](https://www.cls.cn/detail/1738192)
 - [【36kr】【早报】受“罐车运输乱象”影响？多家食用油上市公司回应；OpenAI头号竞争对手：大模型训练成本最多三年将升至百亿美元](https://www.cls.cn/detail/1727256)
+- [【36kr】专访|中关村科金CTO李智伟：大模型时代金融机构要引入+AI能力-看好多模态大模型的发展](https://www.cls.cn/detail/1726525)
 - [【36kr】财跃阶跃国泰君安三方携手-打造最懂金融的大模型](https://www.cls.cn/detail/1724865)
 - [【36kr】国泰君安非银首席刘欣琦：AIGC将成为财富管理行业的转型催化剂](https://www.cls.cn/detail/1719565)
-- [【36kr】【明日主题前瞻】国内首个！人形机器人R-DDPRM模型正式发布](https://www.cls.cn/detail/1715238)
 - [【36kr】BAT集体上线API“搬家”服务！国内大模型玩家跑马圈地-OpenAI向中国开发者停服仅是导火索|行业动态](https://www.cls.cn/detail/1714718)
+- [【36kr】【明日主题前瞻】国内首个！人形机器人R-DDPRM模型正式发布](https://www.cls.cn/detail/1715238)
 - [【36kr】东吴证券：鸿蒙原生智能发布，中国“苹果+openAI”到来](https://www.cls.cn/detail/1712503)
 - [【36kr】欧盟市场今年无缘苹果智能-OpenAI收购数据库分析公司-|-环球市场](https://www.cls.cn/detail/1711713)
 - [【36kr】黄仁勋持续出售英伟达股票-OpenAI竞品公布最新大模型-|-环球市场](https://www.cls.cn/detail/1710577)
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】日股闪崩！东证指数触发熔断机制-美国非农风暴席卷亚洲](https://www.cls.cn/detail/1753730)
-- [【36kr】马斯克借机抨击美联储：不尽早降息“太愚蠢了”！](https://www.cls.cn/detail/1753671)
-- [【36kr】非农爆冷震惊华尔街！高盛火速上调经济衰退预测-全球对冲基金看跌情绪加剧](https://www.cls.cn/detail/1753702)
-- [【36kr】特朗普要求“换时间、换地点”辩论，哈里斯拒绝了！](https://www.cls.cn/detail/1753693)
-- [【36kr】打破美国40年垄断！中国游泳摘金创造历史](https://www.cls.cn/detail/1753695)
-- [【36kr】券商晨会精华：A股进入中报业绩期，关注业绩有望超预期领域](https://www.cls.cn/detail/1753678)
-- [【36kr】维生素价格暴涨-机构称相关企业后续业绩值得期待](https://www.cls.cn/detail/1753649)
-- [【36kr】8月5日投资避雷针：日海智能等三公司被中国证监会立案调查](https://www.cls.cn/detail/1753681)
-- [【36kr】年中经济观察：持续有效防范化解重点领域风险](https://www.cls.cn/detail/1753675)
-- [【36kr】财联社债市早参8月5日|上海金融法院受理安邦保险集团的破产清算申请；10年国债收益率即将挑战2.1%？](https://www.cls.cn/detail/1753711)
-- [【36kr】高标缩容抱团愈发明显，短线投机性炒作仍占市场主导地位](https://www.cls.cn/detail/1753757)
-- [【36kr】美股轮动仍在继续，后市何去何从？投资者已给出了答案……](https://www.cls.cn/detail/1753763)
-- [【36kr】美债收益率全线崩跌：美联储超激进宽松周期要来了？](https://www.cls.cn/detail/1753776)
-- [【36kr】马斯克又摊上麻烦？其支持的政治行动委员会在密歇根州面临调查](https://www.cls.cn/detail/1753807)
 - [【36kr】小鹏汇天获得1.5亿美元B1轮融资-政策利好持续催热低空飞行赛道](https://www.cls.cn/detail/1753816)
-- [【36kr】江南多地热成“火炉”，持续高温是否反常？专家分析](https://www.cls.cn/detail/1753662)
-- [【36kr】【数读IPO】今日2只新股申购，涉及半导体设备细分领域龙头等](https://www.cls.cn/detail/1753645)
-- [【36kr】港股8月5日早报：15款进口网络游戏版号获批-呷哺呷哺预计中期净利同比盈转亏](https://www.cls.cn/detail/1753635)
-- [【36kr】港股IPO周报：黑芝麻智能获两家A股公司基石投资-太美医疗再度递表](https://www.cls.cn/detail/1753421)
-- [【36kr】一个月落定四笔交易！华东医药再获一款CAR-T产品独家商业化权益|速读公告](https://www.cls.cn/detail/1753572)
+- [【36kr】马斯克又摊上麻烦？其支持的政治行动委员会在密歇根州面临调查](https://www.cls.cn/detail/1753807)
+- [【36kr】美债收益率全线崩跌：美联储超激进宽松周期要来了？](https://www.cls.cn/detail/1753776)
+- [【36kr】美股轮动仍在继续，后市何去何从？投资者已给出了答案……](https://www.cls.cn/detail/1753763)
+- [【36kr】高标缩容抱团愈发明显，短线投机性炒作仍占市场主导地位](https://www.cls.cn/detail/1753757)
+- [【36kr】财联社债市早参8月5日|上海金融法院受理安邦保险集团的破产清算申请；10年国债收益率即将挑战2.1%？](https://www.cls.cn/detail/1753711)
+- [【36kr】年中经济观察：持续有效防范化解重点领域风险](https://www.cls.cn/detail/1753675)
+- [【36kr】8月5日投资避雷针：日海智能等三公司被中国证监会立案调查](https://www.cls.cn/detail/1753681)
+- [【36kr】维生素价格暴涨-机构称相关企业后续业绩值得期待](https://www.cls.cn/detail/1753649)
+- [【36kr】券商晨会精华：A股进入中报业绩期，关注业绩有望超预期领域](https://www.cls.cn/detail/1753678)
+- [【36kr】打破美国40年垄断！中国游泳摘金创造历史](https://www.cls.cn/detail/1753695)
+- [【36kr】特朗普要求“换时间、换地点”辩论，哈里斯拒绝了！](https://www.cls.cn/detail/1753693)
+- [【36kr】非农爆冷震惊华尔街！高盛火速上调经济衰退预测-全球对冲基金看跌情绪加剧](https://www.cls.cn/detail/1753702)
+- [【36kr】马斯克借机抨击美联储：不尽早降息“太愚蠢了”！](https://www.cls.cn/detail/1753671)
+- [【36kr】日股闪崩！东证指数触发熔断机制-美国非农风暴席卷亚洲](https://www.cls.cn/detail/1753730)
+- [【36kr】超25位共和党人“倒戈”哈里斯？警告声纷沓而至：特朗普很“危险”！](https://www.cls.cn/detail/1753857)
+- [【36kr】Neuralink已为第二位人类患者植入脑机芯片-马斯克透露：效果很好！](https://www.cls.cn/detail/1753862)
+- [【36kr】奥运第十比赛日看点！射击体操迎收官-邹敬园、张博恒等奋力冲金](https://www.cls.cn/detail/1753650)
+- [【36kr】港股上周跟随海外股市下挫-关注央行政策的腾挪空间](https://www.cls.cn/detail/1752259)
+- [【36kr】港股本周要闻前瞻：中国移动等公司公布业绩-两只新股将挂牌上市](https://www.cls.cn/detail/1753590)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
