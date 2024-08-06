@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-08-06 10:39:59。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-08-06 11:37:18。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -23,18 +23,18 @@
 
 
 
-- [【36kr】以色列空袭黎巴嫩首都南郊-OpenAI向部分用户开放语音模式-|-环球市场](https://www.cls.cn/detail/1749011)
 - [【36kr】OpenAI向部分用户开放GPT-4o语音模式-今秋将扩大至所有付费用户](https://www.cls.cn/detail/1748979)
+- [【36kr】以色列空袭黎巴嫩首都南郊-OpenAI向部分用户开放语音模式-|-环球市场](https://www.cls.cn/detail/1749011)
 - [【36kr】美股“黑色星期三”！七巨头遭遇ChatGPT问世以来最惨一天](https://www.cls.cn/detail/1743715)
 - [【36kr】“ChatGPT之父”发起3000人社会实验：每人每月领取1000美元，会发生什么？](https://www.cls.cn/detail/1743153)
-- [【36kr】多模态大模型迅猛发展-国产算力链有望全面崛起](https://www.cls.cn/detail/1736982)
 - [【36kr】OpenAI开打价格战-中国、日本5月均减持美国国债-|-环球市场](https://www.cls.cn/detail/1738192)
-- [【36kr】【早报】受“罐车运输乱象”影响？多家食用油上市公司回应；OpenAI头号竞争对手：大模型训练成本最多三年将升至百亿美元](https://www.cls.cn/detail/1727256)
+- [【36kr】多模态大模型迅猛发展-国产算力链有望全面崛起](https://www.cls.cn/detail/1736982)
 - [【36kr】专访|中关村科金CTO李智伟：大模型时代金融机构要引入+AI能力-看好多模态大模型的发展](https://www.cls.cn/detail/1726525)
+- [【36kr】【早报】受“罐车运输乱象”影响？多家食用油上市公司回应；OpenAI头号竞争对手：大模型训练成本最多三年将升至百亿美元](https://www.cls.cn/detail/1727256)
 - [【36kr】财跃阶跃国泰君安三方携手-打造最懂金融的大模型](https://www.cls.cn/detail/1724865)
 - [【36kr】国泰君安非银首席刘欣琦：AIGC将成为财富管理行业的转型催化剂](https://www.cls.cn/detail/1719565)
-- [【36kr】BAT集体上线API“搬家”服务！国内大模型玩家跑马圈地-OpenAI向中国开发者停服仅是导火索|行业动态](https://www.cls.cn/detail/1714718)
 - [【36kr】【明日主题前瞻】国内首个！人形机器人R-DDPRM模型正式发布](https://www.cls.cn/detail/1715238)
+- [【36kr】BAT集体上线API“搬家”服务！国内大模型玩家跑马圈地-OpenAI向中国开发者停服仅是导火索|行业动态](https://www.cls.cn/detail/1714718)
 - [【36kr】东吴证券：鸿蒙原生智能发布，中国“苹果+openAI”到来](https://www.cls.cn/detail/1712503)
 - [【36kr】欧盟市场今年无缘苹果智能-OpenAI收购数据库分析公司-|-环球市场](https://www.cls.cn/detail/1711713)
 - [【36kr】黄仁勋持续出售英伟达股票-OpenAI竞品公布最新大模型-|-环球市场](https://www.cls.cn/detail/1710577)
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】一年不到广州又现金融茶暴雷？泛茶控股突然重组遭经销商质疑，此前地方政府刚发布风险提示](https://www.cls.cn/detail/1755841)
-- [【36kr】受贿1.08亿余元！深圳原市长陈如桂被判无期徒刑](https://www.cls.cn/detail/1755834)
-- [【36kr】【焦点复盘】高位人气股上演跌停潮，活跃资金风格高低切换明显](https://www.cls.cn/detail/1755823)
-- [【36kr】国资小新披露：有国企主动退出《财富》世界500强排行榜](https://www.cls.cn/detail/1755801)
-- [【36kr】【每日收评】市场风格高低切明显！医药、教育等板块连续反弹，高位人气股遭集体重挫](https://www.cls.cn/detail/1755779)
-- [【36kr】马斯克声称“英国内战不可避免”-斯塔默驳斥：无稽之谈](https://www.cls.cn/detail/1755728)
-- [【36kr】在审IPO持续去库存！350家不足去年同期一半，仅5家券商在审项目超过20个](https://www.cls.cn/detail/1755744)
-- [【36kr】全球市场“过山车”-汇丰港股卖空数据近日激增](https://www.cls.cn/detail/1755529)
-- [【36kr】中国信达挂牌转让部分股权-广汽埃安“闯关”港交所](https://www.cls.cn/detail/1755465)
-- [【36kr】科威特探明巨大油气储量后-阿联酋ADNOC子公司欲投标石油钻探](https://www.cls.cn/detail/1755350)
-- [【36kr】美国10年期国债收益率下跌0.2基点，报3.7884%|-全球主要大类资产表现汇总20240806](https://www.cls.cn/detail/1755249)
-- [【36kr】债市公告精选（8月5日）|大公国际下调西安建工主体信用评级至BBB-；融信集团未能按期偿还银行贷款约46亿元](https://www.cls.cn/detail/1755194)
-- [【36kr】三部门：开展算力、电力基础设施协同规划布局](https://www.cls.cn/detail/1755547)
-- [【36kr】下月直降50基点or会前紧急降息？来看看“新美联储通讯社”如何点评](https://www.cls.cn/detail/1755526)
-- [【36kr】国家体育总局就下属单位一干部发表不当言论处理情况进行回应](https://www.cls.cn/detail/1755519)
-- [【36kr】百胜中国第二季度总收入利润双增长-创新模式潜力巨大](https://www.cls.cn/detail/1755476)
-- [【36kr】金额超千万年利率不超6%，新三板浮现今年首例信托机构知识产权质押贷款，多家上市公司已有先例](https://www.cls.cn/detail/1755383)
-- [【36kr】谷歌败诉！法官判定其在搜索业务方面非法垄断-美司法部赢下一局](https://www.cls.cn/detail/1755311)
-- [【36kr】Lucid汽车获沙特主权基金15亿美元融资，支持推出面向大众的SUV](https://www.cls.cn/detail/1755272)
-- [【36kr】百胜中国一度涨超10%-二季度收入和经营净利润创新高](https://www.cls.cn/detail/1755274)
+- [【36kr】一文读懂：如果美国总统大选出现平局，会发生什么？](https://www.cls.cn/detail/1755920)
+- [【36kr】全球抛售尚未结束？分析师：日元套利交易继续掀起波澜](https://www.cls.cn/detail/1755931)
+- [【36kr】“高标龙头”股价蹦迪！换手率飙升至86%，“连板天团”走势分化，这些方向热度仍高](https://www.cls.cn/detail/1755934)
+- [【36kr】【数据看盘】北向资金甩卖多只金融股-IM期指多头大幅减仓](https://www.cls.cn/detail/1755932)
+- [【36kr】正部级“老虎”韩勇被公诉！曾督办孙小果案](https://www.cls.cn/detail/1755918)
+- [【36kr】广州花都区祭出政策大招-买房可享“准户口”待遇](https://www.cls.cn/detail/1755887)
+- [【36kr】如何理解全球市场剧震？A股如何应对？](https://www.cls.cn/detail/1755845)
+- [【36kr】港股三大指数表现分化-教育和医药股表现居前](https://www.cls.cn/detail/1755777)
+- [【36kr】套息交易导致流动性冲击，套息规模或需出清4.5万亿日元](https://www.cls.cn/detail/1755404)
+- [【36kr】亚洲信用债每日盘点（8月6日）：中资美元债高收益市场整体较为疲软，新城控股、万达下跌1pt左右，路劲下跌1.5pt](https://www.cls.cn/detail/1755246)
+- [【36kr】富途老虎二度取消美股夜盘交易，恐慌抛售何时散？美日暴跌将如何影响全球？](https://www.cls.cn/detail/1755688)
+- [【36kr】日韩股市上演“大奇迹日”！暴跌之后再暴涨-后市仍然吉凶难料](https://www.cls.cn/detail/1755665)
+- [【36kr】以史为鉴：“黑色星期一”将会对哈里斯大选有何影响？](https://www.cls.cn/detail/1755616)
+- [【36kr】买房享“准户口”待遇！广州花都出台楼市新政](https://www.cls.cn/detail/1755618)
+- [【36kr】工信部：进一步试点扩大增值电信业务开放-有序推进卫星互联网业务准入制度改革](https://www.cls.cn/detail/1755612)
+- [【36kr】向清洁能源转型！阿联酋铝业首次使用LNG动力船运输铝土矿](https://www.cls.cn/detail/1755288)
+- [【36kr】国新办将举行新闻发布会-介绍《关于促进服务消费高质量发展的意见》有关情况](https://www.cls.cn/detail/1755401)
+- [【36kr】REITs走出独立行情，部分项目相对大盘年内超额收益达30%](https://www.cls.cn/detail/1755296)
+- [【36kr】大行卖债规模超200亿，债市“反转”行情持续，8月或迎来震荡调整期](https://www.cls.cn/detail/1755344)
+- [【36kr】【午报】炸板率接近40%-高位人气股分歧加剧](https://www.cls.cn/detail/1755358)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
