@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-08-08 11:37:57。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-08-08 13:36:35。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -23,18 +23,18 @@
 
 
 
-- [【36kr】OpenAI向部分用户开放GPT-4o语音模式-今秋将扩大至所有付费用户](https://www.cls.cn/detail/1748979)
 - [【36kr】以色列空袭黎巴嫩首都南郊-OpenAI向部分用户开放语音模式-|-环球市场](https://www.cls.cn/detail/1749011)
+- [【36kr】OpenAI向部分用户开放GPT-4o语音模式-今秋将扩大至所有付费用户](https://www.cls.cn/detail/1748979)
 - [【36kr】美股“黑色星期三”！七巨头遭遇ChatGPT问世以来最惨一天](https://www.cls.cn/detail/1743715)
 - [【36kr】“ChatGPT之父”发起3000人社会实验：每人每月领取1000美元，会发生什么？](https://www.cls.cn/detail/1743153)
-- [【36kr】OpenAI开打价格战-中国、日本5月均减持美国国债-|-环球市场](https://www.cls.cn/detail/1738192)
 - [【36kr】多模态大模型迅猛发展-国产算力链有望全面崛起](https://www.cls.cn/detail/1736982)
-- [【36kr】专访|中关村科金CTO李智伟：大模型时代金融机构要引入+AI能力-看好多模态大模型的发展](https://www.cls.cn/detail/1726525)
+- [【36kr】OpenAI开打价格战-中国、日本5月均减持美国国债-|-环球市场](https://www.cls.cn/detail/1738192)
 - [【36kr】【早报】受“罐车运输乱象”影响？多家食用油上市公司回应；OpenAI头号竞争对手：大模型训练成本最多三年将升至百亿美元](https://www.cls.cn/detail/1727256)
+- [【36kr】专访|中关村科金CTO李智伟：大模型时代金融机构要引入+AI能力-看好多模态大模型的发展](https://www.cls.cn/detail/1726525)
 - [【36kr】财跃阶跃国泰君安三方携手-打造最懂金融的大模型](https://www.cls.cn/detail/1724865)
 - [【36kr】国泰君安非银首席刘欣琦：AIGC将成为财富管理行业的转型催化剂](https://www.cls.cn/detail/1719565)
-- [【36kr】【明日主题前瞻】国内首个！人形机器人R-DDPRM模型正式发布](https://www.cls.cn/detail/1715238)
 - [【36kr】BAT集体上线API“搬家”服务！国内大模型玩家跑马圈地-OpenAI向中国开发者停服仅是导火索|行业动态](https://www.cls.cn/detail/1714718)
+- [【36kr】【明日主题前瞻】国内首个！人形机器人R-DDPRM模型正式发布](https://www.cls.cn/detail/1715238)
 - [【36kr】东吴证券：鸿蒙原生智能发布，中国“苹果+openAI”到来](https://www.cls.cn/detail/1712503)
 - [【36kr】欧盟市场今年无缘苹果智能-OpenAI收购数据库分析公司-|-环球市场](https://www.cls.cn/detail/1711713)
 - [【36kr】黄仁勋持续出售英伟达股票-OpenAI竞品公布最新大模型-|-环球市场](https://www.cls.cn/detail/1710577)
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】“人气牛”连涨27天！近1个月拉升275%，三成ST股月内获涨停，这些方向热度较高](https://www.cls.cn/detail/1758442)
-- [【36kr】【数据看盘】北向资金连续减仓格力、美的-三大实力游资联手抄底中公教育](https://www.cls.cn/detail/1758424)
-- [【36kr】暴力骚乱还在持续！英国当局警告：转发骚乱信息可能构成刑事犯罪](https://www.cls.cn/detail/1758383)
-- [【36kr】【焦点复盘】创业板指再创半年新低，市场再现“吃药喝酒”行情，维生素板块强势领涨](https://www.cls.cn/detail/1758391)
-- [【36kr】奥运会的“玄学时刻”：运动员寄希望于喝可乐来抵御塞纳河细菌](https://www.cls.cn/detail/1758370)
-- [【36kr】“AI霸主”英伟达股票遭抛售！美知名投行：逢低买入良机来了](https://www.cls.cn/detail/1758265)
-- [【36kr】QDII基金申购纷纷松绑，是降温之下的抄底机会？以美股为代表的海外市场如何看？](https://www.cls.cn/detail/1758324)
-- [【36kr】【VIP机会日报】受海外事件催化-维生素概念今日大涨-栏目快速追踪解读-提及多家公司涨停](https://www.cls.cn/detail/1758283)
-- [【36kr】健身圈的“三鹿奶粉”？网红蛋白粉超标使用甘氨酸，大学生为主要消费者](https://www.cls.cn/detail/1758145)
-- [【36kr】轮到特朗普体验“拜登困境”：最新民调中一半选民抱怨其年纪太大](https://www.cls.cn/detail/1758109)
-- [【36kr】日本央行委员：7月加息尚未触及中性利率-并不意味着货币政策收紧](https://www.cls.cn/detail/1758075)
-- [【36kr】江西吉水：城区买房最高可享受7万余元补贴](https://www.cls.cn/detail/1758033)
-- [【36kr】部分违规机构已移送央行！四家农商行被自律调查后交易商协会再喊话，市场与政策博弈会否继续？](https://www.cls.cn/detail/1758046)
-- [【36kr】中东紧张局势升级！英国、埃及要求航司避开伊朗和黎巴嫩领空](https://www.cls.cn/detail/1757930)
-- [【36kr】世界反兴奋剂机构揭批美对违禁运动员操作内幕](https://www.cls.cn/detail/1757993)
-- [【36kr】【午报】三大指数探底回升小幅收红，大消费板块全线走强，商业航天概念股陷入整理](https://www.cls.cn/detail/1757936)
-- [【36kr】被指四项违规，事关风控及人员任免，华林证券再被采取行政监管措施](https://www.cls.cn/detail/1757928)
-- [【36kr】“日元套利交易大清盘”风暴要结束了吗？](https://www.cls.cn/detail/1757909)
-- [【36kr】不断加仓美国短债！巴菲特手里的持仓规模甚至超过了美联储](https://www.cls.cn/detail/1757882)
-- [【36kr】全球航运巨头CEO：并未看到美国衰退迹象-中国仍是全球货运强劲引擎](https://www.cls.cn/detail/1757861)
+- [【36kr】外资狂卖A股？或另有实情，QFII最新持仓曝光](https://www.cls.cn/detail/1758531)
+- [【36kr】南向资金8月8日净流出近61亿：大举抛售三只ETF-加仓腾讯和中移动](https://www.cls.cn/detail/1758510)
+- [【36kr】7月惊现有史以来“最热两日”，2024成为最热一年几无悬念！](https://www.cls.cn/detail/1758144)
+- [【36kr】欧元集团主席：若特朗普“二进宫”-那么对欧洲来说是个潜在变数](https://www.cls.cn/detail/1758297)
+- [【36kr】【每日收评】商业航天等高位题材集体退潮，市场热点再现“电风扇”式轮动](https://www.cls.cn/detail/1758292)
+- [【36kr】第三家！建行TLAC非资本债今日发行-农行500亿已获批-业内：TLAC非资本工具扩容仍存较大空间](https://www.cls.cn/detail/1758215)
+- [【36kr】供需两端回暖！港股内房股再度活跃-世茂集团涨近5%](https://www.cls.cn/detail/1758171)
+- [【36kr】债市高波动延续，7年期国债收益率跳升5BP，“甩锅”债券借贷？](https://www.cls.cn/detail/1758124)
+- [【36kr】大选越火热，消费越疲软？美国零售商联手警告消费者支出变得脆弱](https://www.cls.cn/detail/1757875)
+- [【36kr】沙特媒体部官宣启动媒体科技加速器计划，支持青年创业](https://www.cls.cn/detail/1757796)
+- [【36kr】迪拜国际机场上半年旅客吞吐量创纪录-预计全年将再破新高](https://www.cls.cn/detail/1757744)
+- [【36kr】卡塔尔主权基金向TechMet投资1.8亿美元，加速布局工业与科技领域](https://www.cls.cn/detail/1757725)
+- [【36kr】日股暴跌致巴菲特损失5500亿日元！业内热议：股神还会加仓吗？](https://www.cls.cn/detail/1758039)
+- [【36kr】上海：计划到2027年底前公交车、出租汽车全面实现新能源化](https://www.cls.cn/detail/1758090)
+- [【36kr】罗永浩5000字长文回应“五宗罪”：不是为了一个董宇辉-是为了董宇辉们](https://www.cls.cn/detail/1758049)
+- [【36kr】美股连跌四周引恐慌？美银安抚市场：是技术性调整，不要怕](https://www.cls.cn/detail/1757935)
+- [【36kr】空缺两个多月后“宇宙行”新董秘到位，工行副行长段红涛兼任，国有五大行年内均已更换董秘](https://www.cls.cn/detail/1757988)
+- [【36kr】7月车市表现不佳引发担忧-蔚来一度续创上市以来新低](https://www.cls.cn/detail/1757902)
+- [【36kr】沙特阿美以7亿美元收购合资企业22.5%股份-持续扩大下游业务](https://www.cls.cn/detail/1757886)
+- [【36kr】马斯克因特朗普“惹是非”，UAW主席批评二人关系并站台哈里斯](https://www.cls.cn/detail/1757834)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
