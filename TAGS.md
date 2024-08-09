@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-08-09 08:39:56。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-08-09 09:37:13。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -23,18 +23,18 @@
 
 
 
-- [【36kr】OpenAI向部分用户开放GPT-4o语音模式-今秋将扩大至所有付费用户](https://www.cls.cn/detail/1748979)
 - [【36kr】以色列空袭黎巴嫩首都南郊-OpenAI向部分用户开放语音模式-|-环球市场](https://www.cls.cn/detail/1749011)
+- [【36kr】OpenAI向部分用户开放GPT-4o语音模式-今秋将扩大至所有付费用户](https://www.cls.cn/detail/1748979)
 - [【36kr】美股“黑色星期三”！七巨头遭遇ChatGPT问世以来最惨一天](https://www.cls.cn/detail/1743715)
 - [【36kr】“ChatGPT之父”发起3000人社会实验：每人每月领取1000美元，会发生什么？](https://www.cls.cn/detail/1743153)
-- [【36kr】OpenAI开打价格战-中国、日本5月均减持美国国债-|-环球市场](https://www.cls.cn/detail/1738192)
 - [【36kr】多模态大模型迅猛发展-国产算力链有望全面崛起](https://www.cls.cn/detail/1736982)
-- [【36kr】专访|中关村科金CTO李智伟：大模型时代金融机构要引入+AI能力-看好多模态大模型的发展](https://www.cls.cn/detail/1726525)
+- [【36kr】OpenAI开打价格战-中国、日本5月均减持美国国债-|-环球市场](https://www.cls.cn/detail/1738192)
 - [【36kr】【早报】受“罐车运输乱象”影响？多家食用油上市公司回应；OpenAI头号竞争对手：大模型训练成本最多三年将升至百亿美元](https://www.cls.cn/detail/1727256)
+- [【36kr】专访|中关村科金CTO李智伟：大模型时代金融机构要引入+AI能力-看好多模态大模型的发展](https://www.cls.cn/detail/1726525)
 - [【36kr】财跃阶跃国泰君安三方携手-打造最懂金融的大模型](https://www.cls.cn/detail/1724865)
 - [【36kr】国泰君安非银首席刘欣琦：AIGC将成为财富管理行业的转型催化剂](https://www.cls.cn/detail/1719565)
-- [【36kr】【明日主题前瞻】国内首个！人形机器人R-DDPRM模型正式发布](https://www.cls.cn/detail/1715238)
 - [【36kr】BAT集体上线API“搬家”服务！国内大模型玩家跑马圈地-OpenAI向中国开发者停服仅是导火索|行业动态](https://www.cls.cn/detail/1714718)
+- [【36kr】【明日主题前瞻】国内首个！人形机器人R-DDPRM模型正式发布](https://www.cls.cn/detail/1715238)
 - [【36kr】东吴证券：鸿蒙原生智能发布，中国“苹果+openAI”到来](https://www.cls.cn/detail/1712503)
 - [【36kr】欧盟市场今年无缘苹果智能-OpenAI收购数据库分析公司-|-环球市场](https://www.cls.cn/detail/1711713)
 - [【36kr】黄仁勋持续出售英伟达股票-OpenAI竞品公布最新大模型-|-环球市场](https://www.cls.cn/detail/1710577)
@@ -59,25 +59,25 @@
 
 
 
-- [【36kr】浙江宁波舟山港北仑港区一货轮上集装箱发生爆炸](https://www.cls.cn/detail/1759412)
-- [【36kr】房企7月融资规模创年内新高-世茂集团涨近13%领衔地产股](https://www.cls.cn/detail/1759169)
-- [【36kr】北京九章别墅将拍卖12套房-起拍总价超7亿元](https://www.cls.cn/detail/1759170)
-- [【36kr】最高检：个别司法拍卖房屋活动存在“雷区”，需提前知悉风险参与竞买](https://www.cls.cn/detail/1759188)
-- [【36kr】“初请”一扫衰退阴霾！美国“紧急降息”鼓吹者改口：现在没那么紧迫了](https://www.cls.cn/detail/1759154)
-- [【36kr】重大利好？华尔街达成共识：美联储将于今年结束缩表！](https://www.cls.cn/detail/1759161)
-- [【36kr】A股吸引力大增？美日市场巨震令投资者竞相寻找新“掘金地”](https://www.cls.cn/detail/1759090)
-- [【36kr】中芯国际二季度业绩超预期-H股一度涨超9%](https://www.cls.cn/detail/1759093)
-- [【36kr】这位期货公司董事长多辛劳？身兼20多家公司高管，未向监管汇报接罚单](https://www.cls.cn/detail/1759091)
-- [【36kr】高合汽车进入预重整阶段-iAuto曾计划投超十亿美元](https://www.cls.cn/detail/1759067)
-- [【36kr】马斯克把“甲方联盟”告到关门？美国广告联盟GARM宣布解散](https://www.cls.cn/detail/1759052)
-- [【36kr】美股今年还能不能涨，就看这两股“多空势力”谁能赢！](https://www.cls.cn/detail/1759009)
-- [【36kr】财联社债市早参8月9日|财政部：增加专项债发债主体存在一定困难；交易商协会再喊话，部分违规机构已移送央行](https://www.cls.cn/detail/1758965)
-- [【36kr】国家统计局：7月CPI同比上涨0.5%-PPI同比下降0.8%](https://www.cls.cn/detail/1759047)
-- [【36kr】“初请”立功！美股创逾一年半来最大涨幅-这回华尔街怎么说？](https://www.cls.cn/detail/1759003)
-- [【36kr】人工骨修复材料已成行业主流-国产品种正迭代发展](https://www.cls.cn/detail/1758998)
-- [【36kr】券商晨会精华：美日利差收窄暗示未来日元套息交易逆转风险或仍将持续](https://www.cls.cn/detail/1758949)
-- [【36kr】伊朗称以色列犯下代价高昂的“战略错误”](https://www.cls.cn/detail/1758977)
-- [【36kr】摁住债牛？中长债基收益率精准下跌，投资者感慨：亏钱的风最终还是吹到了债券群](https://www.cls.cn/detail/1758984)
+- [【36kr】金融监管总局：严禁财产保险公司将线下业务通过互联网方式拓展经营区域](https://www.cls.cn/detail/1759448)
+- [【36kr】别高兴太早！华尔街共识：“至暗时刻”尚未过去-美股将有更多回调](https://www.cls.cn/detail/1759444)
+- [【36kr】基金公司忙降本增效，搬家、降薪、劝退基金经理，是不是真有这么难？](https://www.cls.cn/detail/1759430)
+- [【36kr】降公摊、提升得房率-多城土地供给侧出招引入“不计容”条款](https://www.cls.cn/detail/1759432)
+- [【36kr】解读“算-电协同”|利好液冷、热泵、储能、微电网、综合能源等行业](https://www.cls.cn/detail/1759404)
+- [【36kr】中东赌城！永利联手拿下阿联酋一个岛-39亿美元建豪华度假村](https://www.cls.cn/detail/1759359)
+- [【36kr】虽离职仍遭罚，华林证券票据业务违规又牵扯五位高管，时任CEO、财务总监、合规总监等均在列](https://www.cls.cn/detail/1759149)
+- [【36kr】深圳市交通运输局：网约车市场已趋于饱和](https://www.cls.cn/detail/1759316)
+- [【36kr】以色列将派出谈判小组敲定加沙停火及人员交换协议细节](https://www.cls.cn/detail/1759301)
+- [【36kr】被“黑色星期一”吓怕了？小摩预测：日本央行年内不会再次加息](https://www.cls.cn/detail/1759239)
+- [【36kr】【午报】三大指数缩量整理涨跌不一，地产概念股集体走强，两市炸板率接近50%](https://www.cls.cn/detail/1759240)
+- [【36kr】传统媒体价值大缩水！华纳兄弟探索将其电视网巨额减计91亿美元](https://www.cls.cn/detail/1759162)
+- [【36kr】国家发改委：充分发挥中央预算内投资等中央资金的引导和带动作用-积极支持服务消费重点领域发展](https://www.cls.cn/detail/1759059)
+- [【36kr】不降反升！八成险企二季度车均保费环比上涨-人保、平安、太保贡献车险行业超9成承保利润](https://www.cls.cn/detail/1759085)
+- [【36kr】市场热点高低切轮动加速，留意低位超跌方向中决出新一轮领涨方向](https://www.cls.cn/detail/1759021)
+- [【36kr】财联社汽车早报【8月9日】](https://www.cls.cn/detail/1758983)
+- [【36kr】国新办新闻发布会将介绍促消费有关情况-下半年政策有望刺激消费复苏](https://www.cls.cn/detail/1758922)
+- [【36kr】敲定了！“哈特首辩”9月10日正式开锣-大选前或不止一场](https://www.cls.cn/detail/1758948)
+- [【36kr】8月9日投资避雷针：北京文化等三公司抛大比例减持计划](https://www.cls.cn/detail/1758956)
 - [【36kr】美联储鹰派反驳“提前降息论”：美经济仍具韧性-降息仍需通胀降温](https://www.cls.cn/detail/1758955)
 - [......【查看更多】......](/details/tags/media.md)
 
