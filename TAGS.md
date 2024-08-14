@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-08-14 09:37:16。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-08-14 10:39:44。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -23,18 +23,18 @@
 
 
 
-- [【36kr】OpenAI向部分用户开放GPT-4o语音模式-今秋将扩大至所有付费用户](https://www.cls.cn/detail/1748979)
 - [【36kr】以色列空袭黎巴嫩首都南郊-OpenAI向部分用户开放语音模式-|-环球市场](https://www.cls.cn/detail/1749011)
+- [【36kr】OpenAI向部分用户开放GPT-4o语音模式-今秋将扩大至所有付费用户](https://www.cls.cn/detail/1748979)
 - [【36kr】美股“黑色星期三”！七巨头遭遇ChatGPT问世以来最惨一天](https://www.cls.cn/detail/1743715)
 - [【36kr】“ChatGPT之父”发起3000人社会实验：每人每月领取1000美元，会发生什么？](https://www.cls.cn/detail/1743153)
-- [【36kr】OpenAI开打价格战-中国、日本5月均减持美国国债-|-环球市场](https://www.cls.cn/detail/1738192)
 - [【36kr】多模态大模型迅猛发展-国产算力链有望全面崛起](https://www.cls.cn/detail/1736982)
-- [【36kr】专访|中关村科金CTO李智伟：大模型时代金融机构要引入+AI能力-看好多模态大模型的发展](https://www.cls.cn/detail/1726525)
+- [【36kr】OpenAI开打价格战-中国、日本5月均减持美国国债-|-环球市场](https://www.cls.cn/detail/1738192)
 - [【36kr】【早报】受“罐车运输乱象”影响？多家食用油上市公司回应；OpenAI头号竞争对手：大模型训练成本最多三年将升至百亿美元](https://www.cls.cn/detail/1727256)
+- [【36kr】专访|中关村科金CTO李智伟：大模型时代金融机构要引入+AI能力-看好多模态大模型的发展](https://www.cls.cn/detail/1726525)
 - [【36kr】财跃阶跃国泰君安三方携手-打造最懂金融的大模型](https://www.cls.cn/detail/1724865)
 - [【36kr】国泰君安非银首席刘欣琦：AIGC将成为财富管理行业的转型催化剂](https://www.cls.cn/detail/1719565)
-- [【36kr】【明日主题前瞻】国内首个！人形机器人R-DDPRM模型正式发布](https://www.cls.cn/detail/1715238)
 - [【36kr】BAT集体上线API“搬家”服务！国内大模型玩家跑马圈地-OpenAI向中国开发者停服仅是导火索|行业动态](https://www.cls.cn/detail/1714718)
+- [【36kr】【明日主题前瞻】国内首个！人形机器人R-DDPRM模型正式发布](https://www.cls.cn/detail/1715238)
 - [【36kr】东吴证券：鸿蒙原生智能发布，中国“苹果+openAI”到来](https://www.cls.cn/detail/1712503)
 - [【36kr】欧盟市场今年无缘苹果智能-OpenAI收购数据库分析公司-|-环球市场](https://www.cls.cn/detail/1711713)
 - [【36kr】黄仁勋持续出售英伟达股票-OpenAI竞品公布最新大模型-|-环球市场](https://www.cls.cn/detail/1710577)
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】全球最大主权基金投资新动向：减持Meta和阿斯麦-加仓能源股](https://www.cls.cn/detail/1763671)
-- [【36kr】A股有哪些“类债”公司？](https://www.cls.cn/detail/1763702)
-- [【36kr】岸田文雄确认“下车”后-分析师：新首相将为加息扫清道路！](https://www.cls.cn/detail/1763696)
-- [【36kr】今晚20:30大行情又要来了？三分钟图解精华版带你前瞻美国CPI](https://www.cls.cn/detail/1763659)
-- [【36kr】报告：中东未来有望成为全球购物新热点-迪拜人均支出仅次于纽约](https://www.cls.cn/detail/1763649)
-- [【36kr】卫星互联网频迎政策催化，细分赛道投资价值显现](https://www.cls.cn/detail/1763621)
-- [【36kr】10年期美国国债收益率下跌6.07个基点，报3.8428%|-全球主要大类资产表现汇总20240814](https://www.cls.cn/detail/1763497)
-- [【36kr】过早转向有风险！美联储票委：降息仍需更多数据支撑](https://www.cls.cn/detail/1763512)
-- [【36kr】【午报】创业板指跌超1%，游戏、消费电子概念股逆势活跃，炸板率接近5成](https://www.cls.cn/detail/1763541)
-- [【36kr】“科技股魔力”卷土重来？投资者正疯狂抄底大型股-资金流入创纪录](https://www.cls.cn/detail/1763487)
-- [【36kr】10500枚炸弹将发货！中东敏感时刻-美国解除对沙特进攻性武器“禁售令”](https://www.cls.cn/detail/1763477)
-- [【36kr】重磅！岸田文雄将退出自民党党魁选举-辞任日本首相在即](https://www.cls.cn/detail/1763444)
-- [【36kr】英伟达四天涨回一个“腾讯”：投资者抢在财报发布前逢低建仓？](https://www.cls.cn/detail/1763371)
-- [【36kr】短线情绪有望进一步回暖，热点快速轮动下哪些板块或将率先突围？](https://www.cls.cn/detail/1763326)
-- [【36kr】财联社债市早参8月14日|7月新增社融7708亿元；央行“喊话”显效，长债收益率向合理水平回升](https://www.cls.cn/detail/1763256)
-- [【36kr】中纪委：深化整治权力集中、资金密集、资源富集领域腐败](https://www.cls.cn/detail/1763288)
-- [【36kr】美国股债市场双双大涨！PPI先下一城-今晚CPI能否同样“给力”？](https://www.cls.cn/detail/1763286)
-- [【36kr】哈里斯风头日盛？共和党人喊话特朗普：停止人身攻击、专注政策对比](https://www.cls.cn/detail/1763273)
-- [【36kr】8月14日投资避雷针：又一上市公司董事长被留置](https://www.cls.cn/detail/1763249)
-- [【36kr】券商晨会精华：新兴市场储能需求向好，出海企业盈利估值有望双击](https://www.cls.cn/detail/1763246)
+- [【36kr】创业板牛股频涌！这一股3天暴涨73%，“20cm”颇具赚钱效应，三大板块或成亮点](https://www.cls.cn/detail/1763959)
+- [【36kr】被控非法收受财物8.13亿余元，孙志刚受贿案一审开庭](https://www.cls.cn/detail/1763917)
+- [【36kr】违规投标被暂停或取消参与军队采购资格-部分涉事药械上市公司急称“不影响经营”](https://www.cls.cn/detail/1763901)
+- [【36kr】文远知行获准在加州进行自动驾驶载人测试-据称正推进美国IPO](https://www.cls.cn/detail/1763861)
+- [【36kr】【每日收评】深成指、创业板双双再创阶段新低，AI眼镜概念站上短线风口](https://www.cls.cn/detail/1763867)
+- [【36kr】泰国宪法法院裁定免去赛塔总理职务](https://www.cls.cn/detail/1763856)
+- [【36kr】龙光美元债募资成功突围-房企境外债融资依旧困难重重](https://www.cls.cn/detail/1763803)
+- [【36kr】别高兴太早！知名投行：FED通胀目标只是个白日梦-美股还要跌8%](https://www.cls.cn/detail/1763749)
+- [【36kr】腾讯控股二季度业绩公布在即-机构称游戏和广告业务成为关注焦点](https://www.cls.cn/detail/1763630)
+- [【36kr】亚洲信用债每日盘点（8月14日）：中资美元债高收益市场相对平淡，金地、瑞安上涨0.3pt左右，新城上涨0.5pt左右](https://www.cls.cn/detail/1763529)
+- [【36kr】中信证券朱烨辛：股权市场优胜劣汰加速，战略新兴成重要投向，硬科技将在8成以上](https://www.cls.cn/detail/1763468)
+- [【36kr】万洲国际中期净利同比增近90%-股价一度涨近7%](https://www.cls.cn/detail/1763433)
+- [【36kr】债市公告精选（8月14日）|岭南转债、蓝盾退债均未按期兑付；穆迪下调万科企业家族评级至B1](https://www.cls.cn/detail/1763351)
+- [【36kr】密集发文提示风险！农行、浦发、微众等多家银行对不法贷款中介“宣战”，多地监管开展专项打击](https://www.cls.cn/detail/1763623)
+- [【36kr】金融时报：近期债市有部分机构存在报价明显偏离市场水平等现象](https://www.cls.cn/detail/1763604)
+- [【36kr】华尔街“曾经的大空头”：美股不太可能全线崩溃-建议投资偏重防御型](https://www.cls.cn/detail/1763464)
+- [【36kr】中东紧张局势升级之际-美国批准200亿美元对以军售](https://www.cls.cn/detail/1763426)
+- [【36kr】再融资也遇冷：今年来115单仅为去年32%，融资减少八成，仅36家券商有项目收入](https://www.cls.cn/detail/1763466)
+- [【36kr】万科联手资本巨头设立商业Pre-REIT基金-拟收购京、深两项目](https://www.cls.cn/detail/1763470)
+- [【36kr】英国骚乱升级！多达千人被警方逮捕-13岁女孩因暴力行为站上被告席](https://www.cls.cn/detail/1763374)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
