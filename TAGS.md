@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-08-26 02:50:40。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-08-26 03:38:56。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -23,18 +23,18 @@
 
 
 
-- [【36kr】OpenAI向部分用户开放GPT-4o语音模式-今秋将扩大至所有付费用户](https://www.cls.cn/detail/1748979)
 - [【36kr】以色列空袭黎巴嫩首都南郊-OpenAI向部分用户开放语音模式-|-环球市场](https://www.cls.cn/detail/1749011)
+- [【36kr】OpenAI向部分用户开放GPT-4o语音模式-今秋将扩大至所有付费用户](https://www.cls.cn/detail/1748979)
 - [【36kr】美股“黑色星期三”！七巨头遭遇ChatGPT问世以来最惨一天](https://www.cls.cn/detail/1743715)
 - [【36kr】“ChatGPT之父”发起3000人社会实验：每人每月领取1000美元，会发生什么？](https://www.cls.cn/detail/1743153)
-- [【36kr】OpenAI开打价格战-中国、日本5月均减持美国国债-|-环球市场](https://www.cls.cn/detail/1738192)
 - [【36kr】多模态大模型迅猛发展-国产算力链有望全面崛起](https://www.cls.cn/detail/1736982)
-- [【36kr】专访|中关村科金CTO李智伟：大模型时代金融机构要引入+AI能力-看好多模态大模型的发展](https://www.cls.cn/detail/1726525)
+- [【36kr】OpenAI开打价格战-中国、日本5月均减持美国国债-|-环球市场](https://www.cls.cn/detail/1738192)
 - [【36kr】【早报】受“罐车运输乱象”影响？多家食用油上市公司回应；OpenAI头号竞争对手：大模型训练成本最多三年将升至百亿美元](https://www.cls.cn/detail/1727256)
+- [【36kr】专访|中关村科金CTO李智伟：大模型时代金融机构要引入+AI能力-看好多模态大模型的发展](https://www.cls.cn/detail/1726525)
 - [【36kr】财跃阶跃国泰君安三方携手-打造最懂金融的大模型](https://www.cls.cn/detail/1724865)
 - [【36kr】国泰君安非银首席刘欣琦：AIGC将成为财富管理行业的转型催化剂](https://www.cls.cn/detail/1719565)
-- [【36kr】【明日主题前瞻】国内首个！人形机器人R-DDPRM模型正式发布](https://www.cls.cn/detail/1715238)
 - [【36kr】BAT集体上线API“搬家”服务！国内大模型玩家跑马圈地-OpenAI向中国开发者停服仅是导火索|行业动态](https://www.cls.cn/detail/1714718)
+- [【36kr】【明日主题前瞻】国内首个！人形机器人R-DDPRM模型正式发布](https://www.cls.cn/detail/1715238)
 - [【36kr】东吴证券：鸿蒙原生智能发布，中国“苹果+openAI”到来](https://www.cls.cn/detail/1712503)
 - [【36kr】欧盟市场今年无缘苹果智能-OpenAI收购数据库分析公司-|-环球市场](https://www.cls.cn/detail/1711713)
 - [【36kr】黄仁勋持续出售英伟达股票-OpenAI竞品公布最新大模型-|-环球市场](https://www.cls.cn/detail/1710577)
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】美联储“就位”！全球宽松大幕有望在下月拉开新篇章](https://www.cls.cn/detail/1775738)
-- [【36kr】国家发改委：进一步加强国家发展规划与宏观政策的协调联动](https://www.cls.cn/detail/1775694)
-- [【36kr】黎以局势持续升级？真主党领导人：或对以色列发动进一步袭击！](https://www.cls.cn/detail/1775686)
-- [【36kr】中国驻阿尔及利亚大使：江淮、奇瑞、吉利等中国车企正办理投资手续-将在阿开展本地化生产](https://www.cls.cn/detail/1775677)
-- [【36kr】特朗普：马斯克可能没空进我内阁-不过他可以当顾问](https://www.cls.cn/detail/1775676)
-- [【36kr】券商晨会精华：未来房地产行业数据有望随着政策的持续推出探底企稳](https://www.cls.cn/detail/1775668)
-- [【36kr】8月26日投资避雷针：翻倍人气股涉嫌信披违法违规遭证监会立案调查](https://www.cls.cn/detail/1775673)
-- [【36kr】房屋养老金是什么？业主需要直接出钱吗？](https://www.cls.cn/detail/1775650)
-- [【36kr】加沙停火谈判再陷僵局-哈马斯拒绝以色列提出的新条件](https://www.cls.cn/detail/1775685)
-- [【36kr】财联社汽车早报【8月26日】](https://www.cls.cn/detail/1775690)
-- [【36kr】财联社债市早参8月26日|央行已开始对金融机构持有债券资产风险敞口进行压力测试；金融监管制度建设全面提速-发挥“四级垂管”优势](https://www.cls.cn/detail/1775680)
-- [【36kr】华为概念短线高潮后留意分歧低吸的机会，消费电子方向或仍存再度发酵之空间](https://www.cls.cn/detail/1775714)
-- [【36kr】医药行情何时反转？葛兰、赵蓓、万民远、池陈森各有调仓动作](https://www.cls.cn/detail/1775795)
-- [【36kr】高能预警！华尔街大空头齐呼：美经济衰退将至，美股或暴跌70%！](https://www.cls.cn/detail/1775801)
-- [【36kr】住建部官媒发声：房屋养老金不是房地产税，公共账户不需要老百姓出钱](https://www.cls.cn/detail/1775811)
-- [【36kr】乌白两国在边境陈兵十余万！乌克兰呼吁白俄罗斯立刻撤军](https://www.cls.cn/detail/1775823)
 - [【36kr】财政部：1-7月证券交易印花税收入576亿元-同比下降55%](https://www.cls.cn/detail/1775840)
-- [【36kr】政策再度加力“西部大开发”-这些基建龙头有望全面受益](https://www.cls.cn/detail/1775640)
-- [【36kr】人民日报：电力现货市场价格“能涨能降”](https://www.cls.cn/detail/1775629)
-- [【36kr】港股8月26日早报：-第二轮家电以旧换新实施细则发布-招金矿业上半年净利增超1倍](https://www.cls.cn/detail/1775605)
+- [【36kr】乌白两国在边境陈兵十余万！乌克兰呼吁白俄罗斯立刻撤军](https://www.cls.cn/detail/1775823)
+- [【36kr】住建部官媒发声：房屋养老金不是房地产税，公共账户不需要老百姓出钱](https://www.cls.cn/detail/1775811)
+- [【36kr】高能预警！华尔街大空头齐呼：美经济衰退将至，美股或暴跌70%！](https://www.cls.cn/detail/1775801)
+- [【36kr】医药行情何时反转？葛兰、赵蓓、万民远、池陈森各有调仓动作](https://www.cls.cn/detail/1775795)
+- [【36kr】华为概念短线高潮后留意分歧低吸的机会，消费电子方向或仍存再度发酵之空间](https://www.cls.cn/detail/1775714)
+- [【36kr】财联社债市早参8月26日|央行已开始对金融机构持有债券资产风险敞口进行压力测试；金融监管制度建设全面提速-发挥“四级垂管”优势](https://www.cls.cn/detail/1775680)
+- [【36kr】财联社汽车早报【8月26日】](https://www.cls.cn/detail/1775690)
+- [【36kr】加沙停火谈判再陷僵局-哈马斯拒绝以色列提出的新条件](https://www.cls.cn/detail/1775685)
+- [【36kr】房屋养老金是什么？业主需要直接出钱吗？](https://www.cls.cn/detail/1775650)
+- [【36kr】8月26日投资避雷针：翻倍人气股涉嫌信披违法违规遭证监会立案调查](https://www.cls.cn/detail/1775673)
+- [【36kr】券商晨会精华：未来房地产行业数据有望随着政策的持续推出探底企稳](https://www.cls.cn/detail/1775668)
+- [【36kr】特朗普：马斯克可能没空进我内阁-不过他可以当顾问](https://www.cls.cn/detail/1775676)
+- [【36kr】中国驻阿尔及利亚大使：江淮、奇瑞、吉利等中国车企正办理投资手续-将在阿开展本地化生产](https://www.cls.cn/detail/1775677)
+- [【36kr】黎以局势持续升级？真主党领导人：或对以色列发动进一步袭击！](https://www.cls.cn/detail/1775686)
+- [【36kr】国家发改委：进一步加强国家发展规划与宏观政策的协调联动](https://www.cls.cn/detail/1775694)
+- [【36kr】美联储“就位”！全球宽松大幕有望在下月拉开新篇章](https://www.cls.cn/detail/1775738)
+- [【36kr】新一轮西部大开发有何投资机会？](https://www.cls.cn/detail/1775831)
+- [【36kr】马斯克坚定站台Telegram创始人：欧洲政府竟干出这种事情！](https://www.cls.cn/detail/1775844)
+- [【36kr】三部门公布2024年居民医保最新缴费标准-财政补助和个人缴费标准分别较上年增加30元和20元](https://www.cls.cn/detail/1775855)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
