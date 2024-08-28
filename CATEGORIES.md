@@ -1,11 +1,11 @@
 ##
 
-:alarm_clock: 更新时间: 2024-08-28 06:43:56，:rocket: 更新条数: +6， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-08-28 07:37:57，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [36kr](#36kr)![](/assets/dot.png)   
-- [QuestMobile](#questmobile)  
+- [36kr](#36kr)  
+- [QuestMobile](#questmobile)![](/assets/dot.png)   
 - [艾瑞](#艾瑞)  
 
 ## 文章链接
@@ -47,6 +47,7 @@
 </summary>
 
 
+- [2024-08-28-QuestAuto新能源汽车市场7月盘点：比亚迪活跃数量突破650万辆，特斯拉继续超过五菱，理想同比翻倍……](https://www.questmobile.com.cn/research/report/1828642455068708865) ![](/assets/new.png)  
 - [2024-08-27-QuestMobile-2024体育营销洞察报告：文旅火爆“带火”体育产业，泛运动类人群快速增加，与营销资源争夺交相辉映……](https://www.questmobile.com.cn/research/report/1828363311495876609)  
 - [2024-08-21-QuestAuto2024年6月中国地理区域新能源汽车市场快报（华东&华中篇）：微型、小型及紧凑型车偏好突出](https://www.questmobile.com.cn/research/report/1826095570143514626)  
 - [2024-08-20-QuestMobile-2024汽车全链路市场洞察报告：“前-中-后”新模式加速形成，“车企—车主”新型关系决胜未来](https://www.questmobile.com.cn/research/report/1825779896955277314)  
@@ -66,7 +67,6 @@
 - [2024-07-02-QuestMobile2024年品牌数字化发展洞察报告：大循环体系成型，用户精细化运营与多渠道模式互补……](https://www.questmobile.com.cn/research/report/1807980267572400130)  
 - [2024-06-27-QuestAuto2024年5月新能源汽车市场洞察报告：比亚迪活跃量即将突破600万辆，TOP10玩家活跃量门槛即将升至50万辆](https://www.questmobile.com.cn/research/report/1806209669020094465)  
 - [2024-06-26-QuestMobile2024年618洞察报告：“促下单”成竞争核心，三大新打法成型，内容营销成了“显学”……](https://www.questmobile.com.cn/research/report/1805799772583464961)  
-- [2024-06-19-QuestAuto2024年4月三线及以下城市新能源汽车市场快报：车系偏好TOP10榜五菱独占三席，活跃量近90万辆](https://www.questmobile.com.cn/research/report/1803263957630291969)  
 - [......【查看更多】......](/details/QuestMobile.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
