@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-09-09 11:38:23。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-09-09 12:58:19。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -23,22 +23,22 @@
 
 
 
-- [【36kr】大模型成今年A股银行中报热词，除了砸钱还有哪些挑战？招行周天虹：商业价值外还应考虑社会价值](https://www.cls.cn/detail/1783903)
 - [【36kr】“发展很快、惊艳、天花板高！”-大模型进军月球科研-算力从“纸面”走向可用|聚焦数博会](https://www.cls.cn/detail/1783459)
+- [【36kr】大模型成今年A股银行中报热词，除了砸钱还有哪些挑战？招行周天虹：商业价值外还应考虑社会价值](https://www.cls.cn/detail/1783903)
 - [【36kr】法国正式指控电报创始人-OpenAI接近以逾千亿美元估值洽谈融资-|-环球市场](https://www.cls.cn/detail/1780731)
 - [【36kr】特朗普确认出席9月10日与哈里斯的辩论-OpenAI或今秋推出“草莓”-|-环球市场](https://www.cls.cn/detail/1778927)
-- [【36kr】OpenAI向部分用户开放GPT-4o语音模式-今秋将扩大至所有付费用户](https://www.cls.cn/detail/1748979)
 - [【36kr】以色列空袭黎巴嫩首都南郊-OpenAI向部分用户开放语音模式-|-环球市场](https://www.cls.cn/detail/1749011)
+- [【36kr】OpenAI向部分用户开放GPT-4o语音模式-今秋将扩大至所有付费用户](https://www.cls.cn/detail/1748979)
 - [【36kr】美股“黑色星期三”！七巨头遭遇ChatGPT问世以来最惨一天](https://www.cls.cn/detail/1743715)
 - [【36kr】“ChatGPT之父”发起3000人社会实验：每人每月领取1000美元，会发生什么？](https://www.cls.cn/detail/1743153)
-- [【36kr】OpenAI开打价格战-中国、日本5月均减持美国国债-|-环球市场](https://www.cls.cn/detail/1738192)
 - [【36kr】多模态大模型迅猛发展-国产算力链有望全面崛起](https://www.cls.cn/detail/1736982)
-- [【36kr】专访|中关村科金CTO李智伟：大模型时代金融机构要引入+AI能力-看好多模态大模型的发展](https://www.cls.cn/detail/1726525)
+- [【36kr】OpenAI开打价格战-中国、日本5月均减持美国国债-|-环球市场](https://www.cls.cn/detail/1738192)
 - [【36kr】【早报】受“罐车运输乱象”影响？多家食用油上市公司回应；OpenAI头号竞争对手：大模型训练成本最多三年将升至百亿美元](https://www.cls.cn/detail/1727256)
+- [【36kr】专访|中关村科金CTO李智伟：大模型时代金融机构要引入+AI能力-看好多模态大模型的发展](https://www.cls.cn/detail/1726525)
 - [【36kr】财跃阶跃国泰君安三方携手-打造最懂金融的大模型](https://www.cls.cn/detail/1724865)
 - [【36kr】国泰君安非银首席刘欣琦：AIGC将成为财富管理行业的转型催化剂](https://www.cls.cn/detail/1719565)
-- [【36kr】【明日主题前瞻】国内首个！人形机器人R-DDPRM模型正式发布](https://www.cls.cn/detail/1715238)
 - [【36kr】BAT集体上线API“搬家”服务！国内大模型玩家跑马圈地-OpenAI向中国开发者停服仅是导火索|行业动态](https://www.cls.cn/detail/1714718)
+- [【36kr】【明日主题前瞻】国内首个！人形机器人R-DDPRM模型正式发布](https://www.cls.cn/detail/1715238)
 - [【36kr】东吴证券：鸿蒙原生智能发布，中国“苹果+openAI”到来](https://www.cls.cn/detail/1712503)
 - [【36kr】欧盟市场今年无缘苹果智能-OpenAI收购数据库分析公司-|-环球市场](https://www.cls.cn/detail/1711713)
 - [【36kr】黄仁勋持续出售英伟达股票-OpenAI竞品公布最新大模型-|-环球市场](https://www.cls.cn/detail/1710577)
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】不赚钱不收管理费，这只公募退钱了！所退管理费或超3000万](https://www.cls.cn/detail/1793498)
-- [【36kr】朔尔茨呼吁尽快结束俄乌冲突-以更快速度实现和平](https://www.cls.cn/detail/1793454)
-- [【36kr】【数据看盘】多只高位股遭一线游资甩卖-买入席位多为东财拉萨营业部](https://www.cls.cn/detail/1793456)
-- [【36kr】8月股票投资类信托成立规模腰斩-债券类增速放缓-什么原因？](https://www.cls.cn/detail/1793473)
-- [【36kr】国企改革概念大热！涨停股中占比近半，市场月内局部活跃，这些方向也频现涨停](https://www.cls.cn/detail/1793400)
-- [【36kr】松下能源4680电池量产在即！拥有更大容量、提供更高行驶里程](https://www.cls.cn/detail/1793385)
-- [【36kr】【焦点复盘】沪指加速探底跌超1%，煤炭、石油等红利股再遭重挫，民营医院概念逆势爆发](https://www.cls.cn/detail/1793419)
-- [【36kr】油价跌至15个月新低？石油贸易巨头与大摩齐声警告：需求前景堪忧](https://www.cls.cn/detail/1793336)
-- [【36kr】债市收盘|8月通胀数据略低于预期，30年国债活跃券利率下行1.5BP](https://www.cls.cn/detail/1793291)
-- [【36kr】港股三大指数集体调整-能源股领跌大盘](https://www.cls.cn/detail/1793247)
-- [【36kr】存单外资支撑力度减弱，8月外资估算买入约555亿](https://www.cls.cn/detail/1792987)
-- [【36kr】亚洲信用债每日盘点（9月9日）：中资美元债高收益市场小幅下行，新城下跌1pt，仁恒下跌1.5pt](https://www.cls.cn/detail/1792790)
-- [【36kr】马来西亚调查机密文件被泄露事件，外交部回应](https://www.cls.cn/detail/1793267)
-- [【36kr】“冷”行业遇“热”支持！干细胞重磅政策促二级大涨-行业呼吁尽快落地](https://www.cls.cn/detail/1793187)
-- [【36kr】科技股的尴尬：当AI大潮逐渐消退-大多数人都在裸泳？](https://www.cls.cn/detail/1793166)
-- [【36kr】合肥国资进场收购商品房-已有30城发布“收储”征集公告](https://www.cls.cn/detail/1793132)
-- [【36kr】“黑色星期一”真会卷土重来？日本金融厅前高官：年底前恐会再加息！](https://www.cls.cn/detail/1793112)
-- [【36kr】近三年半里股价狂泻99%！美国折扣零售巨头必乐透申请破产](https://www.cls.cn/detail/1793046)
-- [【36kr】商务部：对原产于加拿大的进口油菜籽进行反倾销立案调查](https://www.cls.cn/detail/1793007)
-- [【36kr】9月23日盘前生效！标普500成分股变动：将迎AI热门股和保险股](https://www.cls.cn/detail/1792771)
+- [【36kr】日元套利交易风险挥之不去-多位分析师发出警告](https://www.cls.cn/detail/1793602)
+- [【36kr】连续三日，特别国债频频成交，央行再现卖债动向](https://www.cls.cn/detail/1793477)
+- [【36kr】上半年百强房企销售额同比降逾四成、利润率下滑，“一二线城市仍存巨大结构性机会”](https://www.cls.cn/detail/1793426)
+- [【36kr】【VIP机会日报】国企改革概念股逆势爆发-栏目梳理景气行业多家优质公司收获涨停](https://www.cls.cn/detail/1793224)
+- [【36kr】【每日收评】市场热点高低切明显！多只高位人气股开盘闪崩，国企改革概念站上风口](https://www.cls.cn/detail/1793292)
+- [【36kr】怎么回事？美的置业股价“跌超6成”-投资者却还能赚钱](https://www.cls.cn/detail/1793162)
+- [【36kr】以色列边境再现暴力袭击-三名平民因约旦枪手袭击而亡](https://www.cls.cn/detail/1793064)
+- [【36kr】制造业领域外资准入限制措施实现“清零”-发改委：引导更多外资投向服务业领域](https://www.cls.cn/detail/1792920)
+- [【36kr】沙特降低跨境贸易成本-取消出口相关海关服务费](https://www.cls.cn/detail/1792808)
+- [【36kr】10年期美国国债收益率下跌1.89个基点，报3.708%-|-全球主要大类资产表现汇总20240909](https://www.cls.cn/detail/1792785)
+- [【36kr】沙特红海项目共授出61亿美元合同，打造奢华旅游胜地明年开业](https://www.cls.cn/detail/1792824)
+- [【36kr】A股调整是否接近尾声？](https://www.cls.cn/detail/1792839)
+- [【36kr】以色列内部压力激增：大型抗议已持续一周-示威人数再创新高！](https://www.cls.cn/detail/1792820)
+- [【36kr】8月猪企盈利高峰期-“猪茅”日均盈利超一个亿|行业动态](https://www.cls.cn/detail/1792747)
+- [【36kr】港股IPO早播报：美的集团今起招股-9月17日上市](https://www.cls.cn/detail/1761002)
+- [【36kr】港股本周要闻前瞻：美的集团或开启IPO招股-中美均有重磅数据公布](https://www.cls.cn/detail/1792509)
+- [【36kr】国家统计局：8月CPI同比上涨0.6%-PPI同比下降1.8%](https://www.cls.cn/detail/1792578)
+- [【36kr】华为三折手机预定火爆或带动消费电子回暖，国企重组合并概念有望持续发酵](https://www.cls.cn/detail/1792710)
+- [【36kr】特朗普为大选再度立威：如果不用美元，就等着100%的关税！](https://www.cls.cn/detail/1792618)
+- [【36kr】美股多头开始“缴械投降”：这一回华尔街真的怕了？](https://www.cls.cn/detail/1792649)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
