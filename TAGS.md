@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-10-09 03:03:12。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-10-09 03:44:14。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -25,24 +25,24 @@
 
 - [【36kr】微软、OpenAI炫耀新款英伟达服务器-以色列防长推迟访美-|-环球市场](https://www.cls.cn/detail/1819099)
 - [【36kr】赚钱速度赶不上“烧钱”，OpenAI今年预计亏损50亿美元！](https://www.cls.cn/detail/1812519)
-- [【36kr】未来可期！背靠“ChatGPT之父”的核电初创公司取得建厂进展](https://www.cls.cn/detail/1809548)
 - [【36kr】媒体：OpenAI拟取消非营利性董事会的控制权-并给予奥尔特曼股权](https://www.cls.cn/detail/1809607)
+- [【36kr】未来可期！背靠“ChatGPT之父”的核电初创公司取得建厂进展](https://www.cls.cn/detail/1809548)
 - [【36kr】大模型应用推动，长江证券首发“研究旗舰店”，究竟能解决哪些问题？](https://www.cls.cn/detail/1805252)
 - [【36kr】中东火药桶临近引爆点-OpenAI新一轮融资已接近完成-|-环球市场](https://www.cls.cn/detail/1803760)
 - [【36kr】未来的美股巨星？知名平台罗列出未上市“七巨头”：除了OpenAI还有……](https://www.cls.cn/detail/1797051)
 - [【36kr】有卡不等于有算力？模型参数扩张带动对AI-infra诉求-多芯异构成趋势|行业动态](https://www.cls.cn/detail/1793929)
-- [【36kr】“发展很快、惊艳、天花板高！”-大模型进军月球科研-算力从“纸面”走向可用|聚焦数博会](https://www.cls.cn/detail/1783459)
 - [【36kr】大模型成今年A股银行中报热词，除了砸钱还有哪些挑战？招行周天虹：商业价值外还应考虑社会价值](https://www.cls.cn/detail/1783903)
+- [【36kr】“发展很快、惊艳、天花板高！”-大模型进军月球科研-算力从“纸面”走向可用|聚焦数博会](https://www.cls.cn/detail/1783459)
 - [【36kr】法国正式指控电报创始人-OpenAI接近以逾千亿美元估值洽谈融资-|-环球市场](https://www.cls.cn/detail/1780731)
 - [【36kr】特朗普确认出席9月10日与哈里斯的辩论-OpenAI或今秋推出“草莓”-|-环球市场](https://www.cls.cn/detail/1778927)
-- [【36kr】以色列空袭黎巴嫩首都南郊-OpenAI向部分用户开放语音模式-|-环球市场](https://www.cls.cn/detail/1749011)
 - [【36kr】OpenAI向部分用户开放GPT-4o语音模式-今秋将扩大至所有付费用户](https://www.cls.cn/detail/1748979)
+- [【36kr】以色列空袭黎巴嫩首都南郊-OpenAI向部分用户开放语音模式-|-环球市场](https://www.cls.cn/detail/1749011)
 - [【36kr】美股“黑色星期三”！七巨头遭遇ChatGPT问世以来最惨一天](https://www.cls.cn/detail/1743715)
 - [【36kr】“ChatGPT之父”发起3000人社会实验：每人每月领取1000美元，会发生什么？](https://www.cls.cn/detail/1743153)
-- [【36kr】多模态大模型迅猛发展-国产算力链有望全面崛起](https://www.cls.cn/detail/1736982)
 - [【36kr】OpenAI开打价格战-中国、日本5月均减持美国国债-|-环球市场](https://www.cls.cn/detail/1738192)
-- [【36kr】【早报】受“罐车运输乱象”影响？多家食用油上市公司回应；OpenAI头号竞争对手：大模型训练成本最多三年将升至百亿美元](https://www.cls.cn/detail/1727256)
+- [【36kr】多模态大模型迅猛发展-国产算力链有望全面崛起](https://www.cls.cn/detail/1736982)
 - [【36kr】专访|中关村科金CTO李智伟：大模型时代金融机构要引入+AI能力-看好多模态大模型的发展](https://www.cls.cn/detail/1726525)
+- [【36kr】【早报】受“罐车运输乱象”影响？多家食用油上市公司回应；OpenAI头号竞争对手：大模型训练成本最多三年将升至百亿美元](https://www.cls.cn/detail/1727256)
 - [......【查看更多】......](/details/tags/aigc.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】建仓了！首批10只中证A500ETF净值亮相，200亿增量资金陆续入市](https://www.cls.cn/detail/1819199)
-- [【36kr】后续还可以期待哪些增量政策？](https://www.cls.cn/detail/1819162)
-- [【36kr】财政还可如何发力？](https://www.cls.cn/detail/1819144)
-- [【36kr】11月降息50基点无望？桥水达里奥：美联储料不会再“大幅降息”](https://www.cls.cn/detail/1819129)
-- [【36kr】券商晨会精华：特高压板块正逐步进入业绩兑现期](https://www.cls.cn/detail/1819135)
-- [【36kr】美联储官员“鸽声嘹亮”：或需进一步降息来维护美国经济！](https://www.cls.cn/detail/1819119)
-- [【36kr】国庆黄金周楼市成交大幅提升多地晒成绩单，部分房企官宣涨价或全面收回折扣](https://www.cls.cn/detail/1819116)
-- [【36kr】国庆假期开户的投资者今天开始交易](https://www.cls.cn/detail/1819131)
-- [【36kr】10月9日投资避雷针：昨夜近50家公司公布减持计划-有公司二股东清仓式减持](https://www.cls.cn/detail/1819137)
-- [【36kr】致首次入市的你——查收国金给新朋友的投资建议](https://www.cls.cn/detail/1818958)
-- [【36kr】15亿借款难收回-金科服务再遇以资抵债](https://www.cls.cn/detail/1819122)
-- [【36kr】财联社汽车早报【10月9日】](https://www.cls.cn/detail/1819140)
-- [【36kr】财联社债市早参10月9日|发改委表示明年继续发行超长期特别国债；转债市场日成交突破1500亿元创年内新高](https://www.cls.cn/detail/1819148)
-- [【36kr】安联首席埃利安：美联储降息前景迷雾重重-将令市场动荡不安](https://www.cls.cn/detail/1819142)
-- [【36kr】“全球资产定价之锚”发出尖叫！美债空头正在吹响集结号？](https://www.cls.cn/detail/1819174)
-- [【36kr】增量资金推动科技股方向全线爆发，留意市场分歧的悄然加剧](https://www.cls.cn/detail/1819221)
-- [【36kr】财联社C50风向指数调查：9月新增信贷或同比少增-新增社融规模有望超3.5万亿元](https://www.cls.cn/detail/1819271)
-- [【36kr】中东危机持续升级！以总理官宣：已击毙黎真主党继任领导人](https://www.cls.cn/detail/1819228)
-- [【36kr】标普全球：中东局势升级下-全球经济面临前所未有的“危险时期”](https://www.cls.cn/detail/1819277)
+- [【36kr】朝鲜宣布永久切断并封锁与韩国交界的南部国境](https://www.cls.cn/detail/1819334)
 - [【36kr】“十一”楼市释放企稳信号](https://www.cls.cn/detail/1819322)
+- [【36kr】标普全球：中东局势升级下-全球经济面临前所未有的“危险时期”](https://www.cls.cn/detail/1819277)
+- [【36kr】中东危机持续升级！以总理官宣：已击毙黎真主党继任领导人](https://www.cls.cn/detail/1819228)
+- [【36kr】财联社C50风向指数调查：9月新增信贷或同比少增-新增社融规模有望超3.5万亿元](https://www.cls.cn/detail/1819271)
+- [【36kr】增量资金推动科技股方向全线爆发，留意市场分歧的悄然加剧](https://www.cls.cn/detail/1819221)
+- [【36kr】“全球资产定价之锚”发出尖叫！美债空头正在吹响集结号？](https://www.cls.cn/detail/1819174)
+- [【36kr】安联首席埃利安：美联储降息前景迷雾重重-将令市场动荡不安](https://www.cls.cn/detail/1819142)
+- [【36kr】财联社债市早参10月9日|发改委表示明年继续发行超长期特别国债；转债市场日成交突破1500亿元创年内新高](https://www.cls.cn/detail/1819148)
+- [【36kr】财联社汽车早报【10月9日】](https://www.cls.cn/detail/1819140)
+- [【36kr】15亿借款难收回-金科服务再遇以资抵债](https://www.cls.cn/detail/1819122)
+- [【36kr】致首次入市的你——查收国金给新朋友的投资建议](https://www.cls.cn/detail/1818958)
+- [【36kr】10月9日投资避雷针：昨夜近50家公司公布减持计划-有公司二股东清仓式减持](https://www.cls.cn/detail/1819137)
+- [【36kr】国庆假期开户的投资者今天开始交易](https://www.cls.cn/detail/1819131)
+- [【36kr】国庆黄金周楼市成交大幅提升多地晒成绩单，部分房企官宣涨价或全面收回折扣](https://www.cls.cn/detail/1819116)
+- [【36kr】美联储官员“鸽声嘹亮”：或需进一步降息来维护美国经济！](https://www.cls.cn/detail/1819119)
+- [【36kr】券商晨会精华：特高压板块正逐步进入业绩兑现期](https://www.cls.cn/detail/1819135)
+- [【36kr】11月降息50基点无望？桥水达里奥：美联储料不会再“大幅降息”](https://www.cls.cn/detail/1819129)
+- [【36kr】财政还可如何发力？](https://www.cls.cn/detail/1819144)
+- [【36kr】后续还可以期待哪些增量政策？](https://www.cls.cn/detail/1819162)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
