@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-11-14 08:44:40。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-11-14 09:40:36。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -23,23 +23,23 @@
 
 
 
-- [【36kr】训练大模型每年最高“补贴”300万！运营商、华为云等训力券服务开启-多地推算力券成效几何？](https://www.cls.cn/detail/1857819)
 - [【36kr】OpenAI总裁休假归来“稳军心”-他能处理眼下的复杂局面吗？](https://www.cls.cn/detail/1857464)
+- [【36kr】训练大模型每年最高“补贴”300万！运营商、华为云等训力券服务开启-多地推算力券成效几何？](https://www.cls.cn/detail/1857819)
 - [【36kr】以色列关键时刻撤换防长-OpenAI招揽机器人业务主管-|-环球市场](https://www.cls.cn/detail/1849434)
 - [【36kr】德国执政联盟“散伙危机”升温-贝索斯、OpenAI投资机器人AI公司-|-环球市场](https://www.cls.cn/detail/1848136)
 - [【36kr】谷歌云与沙特PIF合建全球AI中心-增强Gemini大模型阿拉伯语能力](https://www.cls.cn/detail/1843821)
 - [【36kr】大模型落地保险业迈入应用深化阶段-业内建言强化技术合作与生态建设-加强复合型人才培养](https://www.cls.cn/detail/1839229)
-- [【36kr】大变革已来，数据驱动，金融数据与模型深度融合](https://www.cls.cn/detail/1832157)
-- [【36kr】英伟达深化与印度的合作：推出印地语AI模型](https://www.cls.cn/detail/1836097)
-- [【36kr】金融科技盛会研讨，大模型落地仍面临挑战，需要垂直领域“蚂蚁雄兵”](https://www.cls.cn/detail/1836580)
 - [【36kr】金融投研智能化场景加速落地，投研大模型准确率和可靠性仍是一大挑战](https://www.cls.cn/detail/1832109)
+- [【36kr】金融科技盛会研讨，大模型落地仍面临挑战，需要垂直领域“蚂蚁雄兵”](https://www.cls.cn/detail/1836580)
+- [【36kr】英伟达深化与印度的合作：推出印地语AI模型](https://www.cls.cn/detail/1836097)
+- [【36kr】大变革已来，数据驱动，金融数据与模型深度融合](https://www.cls.cn/detail/1832157)
 - [【36kr】科技赋能金融，商汤科技AI大模型助力金融生态场景落地](https://www.cls.cn/detail/1830449)
 - [【36kr】超万卡集群-万亿级Token数据-万亿参数模型！中移动瞄准“AI+”-产业链加力|行业动态](https://www.cls.cn/detail/1823769)
 - [【36kr】特斯拉Robotaxi遭分析师泼冷水-OpenAI暗示2026年亏损翻三倍-|-环球市场](https://www.cls.cn/detail/1820458)
 - [【36kr】微软、OpenAI炫耀新款英伟达服务器-以色列防长推迟访美-|-环球市场](https://www.cls.cn/detail/1819099)
 - [【36kr】赚钱速度赶不上“烧钱”，OpenAI今年预计亏损50亿美元！](https://www.cls.cn/detail/1812519)
-- [【36kr】媒体：OpenAI拟取消非营利性董事会的控制权-并给予奥尔特曼股权](https://www.cls.cn/detail/1809607)
 - [【36kr】未来可期！背靠“ChatGPT之父”的核电初创公司取得建厂进展](https://www.cls.cn/detail/1809548)
+- [【36kr】媒体：OpenAI拟取消非营利性董事会的控制权-并给予奥尔特曼股权](https://www.cls.cn/detail/1809607)
 - [【36kr】大模型应用推动，长江证券首发“研究旗舰店”，究竟能解决哪些问题？](https://www.cls.cn/detail/1805252)
 - [【36kr】中东火药桶临近引爆点-OpenAI新一轮融资已接近完成-|-环球市场](https://www.cls.cn/detail/1803760)
 - [【36kr】未来的美股巨星？知名平台罗列出未上市“七巨头”：除了OpenAI还有……](https://www.cls.cn/detail/1797051)
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】中信金融503亿投资细节曝光，对中行溢价2倍、光大行溢价3倍、买中信股份看好估值](https://www.cls.cn/detail/1858561)
-- [【36kr】抢抓产业先机-上海造了个6G信通智谷](https://www.cls.cn/detail/1858536)
-- [【36kr】特朗普上台后岂不更糟？WTO：G20过去一年间还在增加贸易壁垒](https://www.cls.cn/detail/1858521)
-- [【36kr】绍伊古参观中国航展](https://www.cls.cn/detail/1858449)
-- [【36kr】马斯克春风得意之际-X遭遇最大规模用户外流！](https://www.cls.cn/detail/1858376)
-- [【36kr】比特币价格飙涨！港股加密货币概念股持续受益-博雅互动涨近8%](https://www.cls.cn/detail/1858344)
-- [【36kr】前五角大楼官员就不明飞行物作证：我们在宇宙中并不孤单！](https://www.cls.cn/detail/1858368)
-- [【36kr】年内已7家过会企业终止IPO注册，最新一单丘钛微拟创业板上市，曾被监管质疑同业竞争](https://www.cls.cn/detail/1858337)
-- [【36kr】美银调查：特朗普胜选后，美股料成2025年最佳资产！](https://www.cls.cn/detail/1858296)
-- [【36kr】特朗普提名激进议员担任司法部长-这次连共和党人都受不了](https://www.cls.cn/detail/1858244)
-- [【36kr】行情来了还亏着，7只百亿基金仍亏超30%，也有百亿基金创下历史新高](https://www.cls.cn/detail/1858213)
-- [【36kr】市场延续轮动性行情-，留意政策催化方向的补涨性机会](https://www.cls.cn/detail/1858193)
-- [【36kr】稳了吗？美联储下月降息概率达到80%](https://www.cls.cn/detail/1858142)
-- [【36kr】财联社债市早参11月14日|契税、增值税齐降，住房交易税收新政发布；事关新增地方政府债务限额，闽、鲁、贵三省审议时间已定](https://www.cls.cn/detail/1858131)
-- [【36kr】英伟达股价还能再涨26%-分析师：“iPhone时刻”即将来袭！](https://www.cls.cn/detail/1858124)
-- [【36kr】台风“桃芝”逼近中国香港-港交所首度实施恶劣天气不停市措施](https://www.cls.cn/detail/1858133)
-- [【36kr】美联储官员：降息仍取决于未来经济数据，特朗普当选不影响12月决策！](https://www.cls.cn/detail/1858122)
-- [【36kr】中信证券：当前房地产市场的交易税负已经来到历史上最低的阶段](https://www.cls.cn/detail/1858120)
-- [【36kr】券商晨会精华：战略性重视-“两重”“两新”投资机遇](https://www.cls.cn/detail/1858110)
-- [【36kr】11月14日投资避雷针：5连板固态电池人气股提示风险-相关业务营收占比低](https://www.cls.cn/detail/1858107)
+- [【36kr】五角大楼将遭遇“大清洗？特朗普团队据称正草拟“解雇名单”](https://www.cls.cn/detail/1858665)
+- [【36kr】马斯克“二次元”参政计划：其领导的政府效率部或设置成本排行榜](https://www.cls.cn/detail/1858562)
+- [【36kr】特朗普2.0时代下-被贬得“体无完肤”的美国主流媒体能否幸存？](https://www.cls.cn/detail/1858547)
+- [【36kr】住房城乡建设部：保交房有力推进-全国已交付285万套](https://www.cls.cn/detail/1858660)
+- [【36kr】降费大趋势已成，又一波ETF亮出3-5折优惠，11月相关公告近百份](https://www.cls.cn/detail/1858618)
+- [【36kr】美方据报要求台积电对7纳米AI芯片实施出口限制，商务部回应](https://www.cls.cn/detail/1858622)
+- [【36kr】北交所开市三年，沪深北格局初成，如何看“新所”的差别定位？](https://www.cls.cn/detail/1858596)
+- [【36kr】业绩承压-华侨城频繁转让资产“瘦身”](https://www.cls.cn/detail/1858590)
+- [【36kr】腾讯控股发布三季报后获机构看好-目标价最高看至573港元](https://www.cls.cn/detail/1858494)
+- [【36kr】受益房地产支持政策密集出台，万科部分债券涨逾4%，地产债或迎修复机会](https://www.cls.cn/detail/1858496)
+- [【36kr】澳洲联储主席：特朗普加征关税影响仍待观察，恐受池鱼之灾](https://www.cls.cn/detail/1858448)
+- [【36kr】1114东吴策略参考｜美国10月CPI同比上涨2.6%，缓和市场对美联储降息步伐放缓的担忧](https://www.cls.cn/detail/1858161)
+- [【36kr】1114东吴宏观股指观点-|市场下探回升-两市成交额下滑至2万亿-房地产税收新政落地](https://www.cls.cn/detail/1858139)
+- [【36kr】美元指数突破106.6之际，央行宣布在港发行450亿央票，年内同等规模并不多见](https://www.cls.cn/detail/1858531)
+- [【36kr】一文读懂房地产税收新政](https://www.cls.cn/detail/1858469)
+- [【36kr】“特朗普交易”该降温了？对冲基金大佬：美股不会涨上天！](https://www.cls.cn/detail/1858381)
+- [【36kr】小摩辣评“特朗普2.0”：关税大棒料打击经济、重燃通胀！](https://www.cls.cn/detail/1858365)
+- [【36kr】【午报】三大指数缩量调整，全市场超4000股飘绿，ST板块逆势走强](https://www.cls.cn/detail/1858429)
+- [【36kr】分红诱惑：有机构分红前突击买入，还有“帮忙资金”不白帮忙，买在基金分红前](https://www.cls.cn/detail/1858414)
+- [【36kr】全国性银行资金也承压，民生银行又一款产品暂停“快速赎回”，平安、招行类似业务近期均有调整](https://www.cls.cn/detail/1858412)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
