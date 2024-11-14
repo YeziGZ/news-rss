@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-11-14 11:38:41。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-11-14 13:02:13。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -23,23 +23,23 @@
 
 
 
-- [【36kr】OpenAI总裁休假归来“稳军心”-他能处理眼下的复杂局面吗？](https://www.cls.cn/detail/1857464)
 - [【36kr】训练大模型每年最高“补贴”300万！运营商、华为云等训力券服务开启-多地推算力券成效几何？](https://www.cls.cn/detail/1857819)
+- [【36kr】OpenAI总裁休假归来“稳军心”-他能处理眼下的复杂局面吗？](https://www.cls.cn/detail/1857464)
 - [【36kr】以色列关键时刻撤换防长-OpenAI招揽机器人业务主管-|-环球市场](https://www.cls.cn/detail/1849434)
 - [【36kr】德国执政联盟“散伙危机”升温-贝索斯、OpenAI投资机器人AI公司-|-环球市场](https://www.cls.cn/detail/1848136)
 - [【36kr】谷歌云与沙特PIF合建全球AI中心-增强Gemini大模型阿拉伯语能力](https://www.cls.cn/detail/1843821)
 - [【36kr】大模型落地保险业迈入应用深化阶段-业内建言强化技术合作与生态建设-加强复合型人才培养](https://www.cls.cn/detail/1839229)
-- [【36kr】金融投研智能化场景加速落地，投研大模型准确率和可靠性仍是一大挑战](https://www.cls.cn/detail/1832109)
-- [【36kr】金融科技盛会研讨，大模型落地仍面临挑战，需要垂直领域“蚂蚁雄兵”](https://www.cls.cn/detail/1836580)
-- [【36kr】英伟达深化与印度的合作：推出印地语AI模型](https://www.cls.cn/detail/1836097)
 - [【36kr】大变革已来，数据驱动，金融数据与模型深度融合](https://www.cls.cn/detail/1832157)
+- [【36kr】英伟达深化与印度的合作：推出印地语AI模型](https://www.cls.cn/detail/1836097)
+- [【36kr】金融科技盛会研讨，大模型落地仍面临挑战，需要垂直领域“蚂蚁雄兵”](https://www.cls.cn/detail/1836580)
+- [【36kr】金融投研智能化场景加速落地，投研大模型准确率和可靠性仍是一大挑战](https://www.cls.cn/detail/1832109)
 - [【36kr】科技赋能金融，商汤科技AI大模型助力金融生态场景落地](https://www.cls.cn/detail/1830449)
 - [【36kr】超万卡集群-万亿级Token数据-万亿参数模型！中移动瞄准“AI+”-产业链加力|行业动态](https://www.cls.cn/detail/1823769)
 - [【36kr】特斯拉Robotaxi遭分析师泼冷水-OpenAI暗示2026年亏损翻三倍-|-环球市场](https://www.cls.cn/detail/1820458)
 - [【36kr】微软、OpenAI炫耀新款英伟达服务器-以色列防长推迟访美-|-环球市场](https://www.cls.cn/detail/1819099)
 - [【36kr】赚钱速度赶不上“烧钱”，OpenAI今年预计亏损50亿美元！](https://www.cls.cn/detail/1812519)
-- [【36kr】未来可期！背靠“ChatGPT之父”的核电初创公司取得建厂进展](https://www.cls.cn/detail/1809548)
 - [【36kr】媒体：OpenAI拟取消非营利性董事会的控制权-并给予奥尔特曼股权](https://www.cls.cn/detail/1809607)
+- [【36kr】未来可期！背靠“ChatGPT之父”的核电初创公司取得建厂进展](https://www.cls.cn/detail/1809548)
 - [【36kr】大模型应用推动，长江证券首发“研究旗舰店”，究竟能解决哪些问题？](https://www.cls.cn/detail/1805252)
 - [【36kr】中东火药桶临近引爆点-OpenAI新一轮融资已接近完成-|-环球市场](https://www.cls.cn/detail/1803760)
 - [【36kr】未来的美股巨星？知名平台罗列出未上市“七巨头”：除了OpenAI还有……](https://www.cls.cn/detail/1797051)
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】华安证券：不存在市场拐点性的风险-等待宏观政策预期再起](https://www.cls.cn/detail/1858884)
-- [【36kr】这轮行情的新标签：多家上市公司接受散户调研，个人与机构投资者资金接力入场](https://www.cls.cn/detail/1858871)
-- [【36kr】【数据看盘】机构活跃度持续下降-两家量化席位联手抄底中国卫通](https://www.cls.cn/detail/1858870)
-- [【36kr】特朗普胜选黄金遭遇滑铁卢，现货金价已较高位暴跌逾230美元](https://www.cls.cn/detail/1858698)
-- [【36kr】【焦点复盘】全线退潮！沪指跌近2%失守3400点，两市成交跌破2万亿，多只高位股遭二连跌停](https://www.cls.cn/detail/1858800)
-- [【36kr】QDII又忙提示溢价风险，“特朗普交易”热度渐起，一波限购又来了](https://www.cls.cn/detail/1858813)
-- [【36kr】港股调整再现！科技指数跌超3%-加密货币概念股逆势走强](https://www.cls.cn/detail/1858717)
-- [【36kr】五角大楼将遭遇“大清洗？特朗普团队据称正草拟“解雇名单”](https://www.cls.cn/detail/1858665)
-- [【36kr】马斯克“二次元”参政计划：其领导的政府效率部或设置成本排行榜](https://www.cls.cn/detail/1858562)
-- [【36kr】特朗普2.0时代下-被贬得“体无完肤”的美国主流媒体能否幸存？](https://www.cls.cn/detail/1858547)
-- [【36kr】住房城乡建设部：保交房有力推进-全国已交付285万套](https://www.cls.cn/detail/1858660)
-- [【36kr】降费大趋势已成，又一波ETF亮出3-5折优惠，11月相关公告近百份](https://www.cls.cn/detail/1858618)
-- [【36kr】美方据报要求台积电对7纳米AI芯片实施出口限制，商务部回应](https://www.cls.cn/detail/1858622)
-- [【36kr】北交所开市三年，沪深北格局初成，如何看“新所”的差别定位？](https://www.cls.cn/detail/1858596)
-- [【36kr】业绩承压-华侨城频繁转让资产“瘦身”](https://www.cls.cn/detail/1858590)
-- [【36kr】腾讯控股发布三季报后获机构看好-目标价最高看至573港元](https://www.cls.cn/detail/1858494)
-- [【36kr】受益房地产支持政策密集出台，万科部分债券涨逾4%，地产债或迎修复机会](https://www.cls.cn/detail/1858496)
-- [【36kr】澳洲联储主席：特朗普加征关税影响仍待观察，恐受池鱼之灾](https://www.cls.cn/detail/1858448)
-- [【36kr】1114东吴策略参考｜美国10月CPI同比上涨2.6%，缓和市场对美联储降息步伐放缓的担忧](https://www.cls.cn/detail/1858161)
-- [【36kr】1114东吴宏观股指观点-|市场下探回升-两市成交额下滑至2万亿-房地产税收新政落地](https://www.cls.cn/detail/1858139)
+- [【36kr】李强签署国务院令-公布修订后的《国家自然科学基金条例》](https://www.cls.cn/detail/1858986)
+- [【36kr】ST板块热度再起！涨停股中占比4成，市场交投近日降温，这些ST股继续活跃](https://www.cls.cn/detail/1858963)
+- [【36kr】行情在犹豫中前行，百亿私募中欧瑞博董事长吴伟志：2025迎来春暖花开](https://www.cls.cn/detail/1858794)
+- [【36kr】【VIP机会日报】市场缩量调整-大金融板块局部活跃-这家公司叠加低空经济概念逆势涨停](https://www.cls.cn/detail/1858721)
+- [【36kr】被控受贿1.77亿余元-工行原副行长张红力受审](https://www.cls.cn/detail/1858782)
+- [【36kr】【每日收评】创业板指缩量跌超3%！全市场不足500股飘红，ST板块逆势活跃](https://www.cls.cn/detail/1858745)
+- [【36kr】又有银行不赎回二级资本债，年内至少5家银行公告，主要为小型农商行](https://www.cls.cn/detail/1858705)
+- [【36kr】国有大行“羊毛”不好薅了，建设银行多款高端信用卡权益缩水，年内多家银行忙“降本”](https://www.cls.cn/detail/1858718)
+- [【36kr】什么信号？纽约联储：美国家庭债务规模创新高，拖欠情况加剧！](https://www.cls.cn/detail/1858592)
+- [【36kr】又一家收单机构终止业务，年内至少10家支付公司牌照注销或关闭支付业务](https://www.cls.cn/detail/1858685)
+- [【36kr】中信金融503亿投资细节曝光，对中行溢价2倍、光大行溢价3倍、买中信股份看好估值](https://www.cls.cn/detail/1858561)
+- [【36kr】抢抓产业先机-上海造了个6G信通智谷](https://www.cls.cn/detail/1858536)
+- [【36kr】特朗普上台后岂不更糟？WTO：G20过去一年间还在增加贸易壁垒](https://www.cls.cn/detail/1858521)
+- [【36kr】绍伊古参观中国航展](https://www.cls.cn/detail/1858449)
+- [【36kr】马斯克春风得意之际-X遭遇最大规模用户外流！](https://www.cls.cn/detail/1858376)
+- [【36kr】比特币价格飙涨！港股加密货币概念股持续受益-博雅互动涨近8%](https://www.cls.cn/detail/1858344)
+- [【36kr】前五角大楼官员就不明飞行物作证：我们在宇宙中并不孤单！](https://www.cls.cn/detail/1858368)
+- [【36kr】年内已7家过会企业终止IPO注册，最新一单丘钛微拟创业板上市，曾被监管质疑同业竞争](https://www.cls.cn/detail/1858337)
+- [【36kr】美银调查：特朗普胜选后，美股料成2025年最佳资产！](https://www.cls.cn/detail/1858296)
+- [【36kr】特朗普提名激进议员担任司法部长-这次连共和党人都受不了](https://www.cls.cn/detail/1858244)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
