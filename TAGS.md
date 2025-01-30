@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-01-30 01:53:58。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-01-30 02:55:02。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -24,8 +24,8 @@
 
 
 - [【36kr】OpenAI宣称DeepSeek违规“蒸馏”，但没有给出证据](https://www.cls.cn/detail/1932318)
-- [【36kr】港股1月28日早报：-DeepSeek发布多模态大模型-中铝国际去年新签合同总额超300亿](https://www.cls.cn/detail/1931740)
 - [【36kr】信雅达接手！金融大模型公司金科览智股权有变-原因为何？](https://www.cls.cn/detail/1931240)
+- [【36kr】港股1月28日早报：-DeepSeek发布多模态大模型-中铝国际去年新签合同总额超300亿](https://www.cls.cn/detail/1931740)
 - [【36kr】港股1月27日早报：国产大模型DeepSeek周末热度飙升-中国东方航空去年预亏大缩水](https://www.cls.cn/detail/1930803)
 - [【36kr】大模型龙头公司宣布产品再升级-AIAgent带来产业链投资新机遇](https://www.cls.cn/detail/1928655)
 - [【36kr】OpenAI等巨头将投资至少5000亿美元AI基础设施-算力硬件景气度持续向上](https://www.cls.cn/detail/1925921)
@@ -34,15 +34,15 @@
 - [【36kr】【明日主题前瞻】OpenAI称第一批AI智能体今年将“加入劳动力大军”](https://www.cls.cn/detail/1911039)
 - [【36kr】机器人时代的社会结构模型与十年后中国首富预测——周亚辉投资笔记2025系列第1篇](https://www.cls.cn/detail/1907426)
 - [【36kr】AIGC有望拉动高速交换机需求持续增长-产业链或将长期受益](https://www.cls.cn/detail/1906354)
-- [【36kr】【明日主题前瞻】英伟达发布通用机器人模型RVT-2，训练效率提升6倍](https://www.cls.cn/detail/1904118)
 - [【36kr】视大模型开发为“一把手工程”，多家券商上升战略高度，四大业务成布局重点](https://www.cls.cn/detail/1904153)
-- [【36kr】OpenAI公布重组计划：拟转型公益企业-以吸引更多投资](https://www.cls.cn/detail/1902754)
+- [【36kr】【明日主题前瞻】英伟达发布通用机器人模型RVT-2，训练效率提升6倍](https://www.cls.cn/detail/1904118)
 - [【36kr】受益于AI大模型快速发展-AI服务器出货量有望快速增长](https://www.cls.cn/detail/1901589)
+- [【36kr】OpenAI公布重组计划：拟转型公益企业-以吸引更多投资](https://www.cls.cn/detail/1902754)
 - [【36kr】证券业的“AI风暴”，24家券商凭大模型开启智能进化之旅，都在如何布局？](https://www.cls.cn/detail/1900626)
 - [【36kr】OpenAI对机器人重燃兴趣-乌克兰收到10亿美元俄被冻资产收益-|-环球市场](https://www.cls.cn/detail/1899336)
 - [【36kr】【明日主题前瞻】快手可灵1.6模型上线，视频效果越级提升](https://www.cls.cn/detail/1896639)
 - [【36kr】华泰证券：豆包通用模型pro升级后全面对标GPT-4o，价格仅为后者1/8](https://www.cls.cn/detail/1894971)
-- [【36kr】5亿元训力券、1亿元模型券、5000万元语料券！深圳超常规力度加码AI-哪些公司受益？](https://www.cls.cn/detail/1894123)
+- [【36kr】自建估值模型“硝烟未散”，二永债震感强烈单日上行超6bp，弱资质长久期二永债表现更优](https://www.cls.cn/detail/1893970)
 - [......【查看更多】......](/details/tags/aigc.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】特朗普炮轰鲍威尔-加拿大央行警告美国关税冲击｜环球市场](https://www.cls.cn/detail/1932433)
 - [【36kr】特斯拉Q4净利润大砍70%！分析师却称未来依旧可期](https://www.cls.cn/detail/1932445)
-- [【36kr】美股收盘：政策不确定性积聚-三大指数集体收跌](https://www.cls.cn/detail/1932414)
-- [【36kr】鲍威尔发布会：不急着降息-不谈特朗普-淡化美股抛售影响](https://www.cls.cn/detail/1932399)
-- [【36kr】美联储利率决议：维持政策利率不变-删除通胀进展表述引关注](https://www.cls.cn/detail/1932361)
-- [【36kr】超22亿！春节档开局红火-哪吒“大战”唐探-谁是票冠尚存悬念-|新春万象录](https://www.cls.cn/detail/1932272)
-- [【36kr】达利欧警告AI狂热-马斯克的“微信梦”跨出关键一步-|-环球市场](https://www.cls.cn/detail/1932110)
-- [【36kr】不止英伟达-DeepSeek“冲击波”还影响了哪些行业？](https://www.cls.cn/detail/1932171)
-- [【36kr】马斯克确认正测试星链直连iPhone，苹果原合作伙伴股价暴跌](https://www.cls.cn/detail/1932265)
-- [【36kr】美联储决议来袭！市场聚焦鲍威尔如何“反击”特朗普-|-今夜看点](https://www.cls.cn/detail/1932297)
-- [【36kr】加央行如期降息+结束量化紧缩-公布特朗普关税影响测算](https://www.cls.cn/detail/1932343)
-- [【36kr】并购重组中的内幕交易案，投行项目人员谋利不成反被罚](https://www.cls.cn/detail/1932261)
+- [【36kr】特朗普炮轰鲍威尔-加拿大央行警告美国关税冲击｜环球市场](https://www.cls.cn/detail/1932433)
+- [【36kr】2025春节档总票房破26亿](https://www.cls.cn/detail/1932454)
 - [【36kr】美股财报速览：微软云服务增速放缓-特斯拉预期汽车业务今年反弹](https://www.cls.cn/detail/1932420)
-- [【36kr】粤港湾控股出售资产涉资逾亿元-光大绿色环保预计年度亏损同比扩大｜港股1月28日公告精选](https://www.cls.cn/detail/1931978)
-- [【36kr】恒指两万点“立住脚跟”-后续市场何去何从？](https://www.cls.cn/detail/1931898)
-- [【36kr】美股收盘：英伟达重整旗鼓反弹超8%-中概股集体走强喜迎新年](https://www.cls.cn/detail/1932095)
-- [【36kr】美联储传声筒：特朗普关税疑云已成降息前置难题](https://www.cls.cn/detail/1932068)
-- [【36kr】达利欧紧急呼吁：人工智能狂热正把美股推向千禧年危机](https://www.cls.cn/detail/1932032)
-- [【36kr】DeepSeek冲击波及全球市场-小米股价创新高市值逼近万亿｜港股风向标](https://www.cls.cn/detail/1931946)
-- [【36kr】开年至今160位基金经理卸任228只产品，多见名将、黑马，偏股混合产品变动最多](https://www.cls.cn/detail/1931894)
+- [【36kr】并购重组中的内幕交易案，投行项目人员谋利不成反被罚](https://www.cls.cn/detail/1932261)
+- [【36kr】加央行如期降息+结束量化紧缩-公布特朗普关税影响测算](https://www.cls.cn/detail/1932343)
+- [【36kr】美联储决议来袭！市场聚焦鲍威尔如何“反击”特朗普-|-今夜看点](https://www.cls.cn/detail/1932297)
+- [【36kr】马斯克确认正测试星链直连iPhone，苹果原合作伙伴股价暴跌](https://www.cls.cn/detail/1932265)
+- [【36kr】不止英伟达-DeepSeek“冲击波”还影响了哪些行业？](https://www.cls.cn/detail/1932171)
+- [【36kr】达利欧警告AI狂热-马斯克的“微信梦”跨出关键一步-|-环球市场](https://www.cls.cn/detail/1932110)
+- [【36kr】超22亿！春节档开局红火-哪吒“大战”唐探-谁是票冠尚存悬念-|新春万象录](https://www.cls.cn/detail/1932272)
+- [【36kr】美联储利率决议：维持政策利率不变-删除通胀进展表述引关注](https://www.cls.cn/detail/1932361)
+- [【36kr】鲍威尔发布会：不急着降息-不谈特朗普-淡化美股抛售影响](https://www.cls.cn/detail/1932399)
+- [【36kr】美股收盘：政策不确定性积聚-三大指数集体收跌](https://www.cls.cn/detail/1932414)
+- [【36kr】香港外汇基金去年盈利2190亿港元，港股投资扭亏为盈，三季度重仓多只A股](https://www.cls.cn/detail/1932263)
+- [【36kr】通用汽车：已为美国征收加墨关税做好预案-希望谨慎行事](https://www.cls.cn/detail/1932077)
+- [【36kr】马斯克的“微信梦”跨出关键一步：与支付巨头合作推出“X钱包”](https://www.cls.cn/detail/1932053)
+- [【36kr】芯片股开始收复失地-纳指期货盘前走高-|-今夜看点](https://www.cls.cn/detail/1931999)
+- [【36kr】陈文博执掌恒隆一年：净利下滑-希望2025实现微增长](https://www.cls.cn/detail/1931864)
+- [【36kr】节前资金避险港股有色板块走低-洛阳钼业大跌近6%](https://www.cls.cn/detail/1931823)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
