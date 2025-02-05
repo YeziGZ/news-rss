@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-02-05 10:40:21。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-02-05 12:57:48。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -24,12 +24,13 @@
 
 
 - [【36kr】DeepSeek横空出世后，多家银行启动深度研究测试，银行业大模型落地仍在开放探索](https://www.cls.cn/detail/1934556)
+- [【36kr】【明日主题前瞻】英伟达等科技巨头陆续宣布上线DeepSeek大模型](https://www.cls.cn/detail/1934732)
 - [【36kr】DeepSeek等大模型出圈，春节新玩法被玩爆，科技能否成为节后最热题材？](https://www.cls.cn/detail/1933367)
-- [【36kr】OpenAI首次向免费用户开放推理模型-特朗普与黄仁勋会面｜环球市场](https://www.cls.cn/detail/1933049)
 - [【36kr】OpenAI最新融资目标估值又翻一倍-特朗普关税忧虑升温｜环球市场](https://www.cls.cn/detail/1932775)
+- [【36kr】OpenAI首次向免费用户开放推理模型-特朗普与黄仁勋会面｜环球市场](https://www.cls.cn/detail/1933049)
 - [【36kr】OpenAI宣称DeepSeek违规“蒸馏”，但没有给出证据](https://www.cls.cn/detail/1932318)
-- [【36kr】港股1月28日早报：-DeepSeek发布多模态大模型-中铝国际去年新签合同总额超300亿](https://www.cls.cn/detail/1931740)
 - [【36kr】信雅达接手！金融大模型公司金科览智股权有变-原因为何？](https://www.cls.cn/detail/1931240)
+- [【36kr】港股1月28日早报：-DeepSeek发布多模态大模型-中铝国际去年新签合同总额超300亿](https://www.cls.cn/detail/1931740)
 - [【36kr】港股1月27日早报：国产大模型DeepSeek周末热度飙升-中国东方航空去年预亏大缩水](https://www.cls.cn/detail/1930803)
 - [【36kr】大模型龙头公司宣布产品再升级-AIAgent带来产业链投资新机遇](https://www.cls.cn/detail/1928655)
 - [【36kr】OpenAI等巨头将投资至少5000亿美元AI基础设施-算力硬件景气度持续向上](https://www.cls.cn/detail/1925921)
@@ -38,11 +39,10 @@
 - [【36kr】【明日主题前瞻】OpenAI称第一批AI智能体今年将“加入劳动力大军”](https://www.cls.cn/detail/1911039)
 - [【36kr】机器人时代的社会结构模型与十年后中国首富预测——周亚辉投资笔记2025系列第1篇](https://www.cls.cn/detail/1907426)
 - [【36kr】AIGC有望拉动高速交换机需求持续增长-产业链或将长期受益](https://www.cls.cn/detail/1906354)
-- [【36kr】【明日主题前瞻】英伟达发布通用机器人模型RVT-2，训练效率提升6倍](https://www.cls.cn/detail/1904118)
 - [【36kr】视大模型开发为“一把手工程”，多家券商上升战略高度，四大业务成布局重点](https://www.cls.cn/detail/1904153)
-- [【36kr】OpenAI公布重组计划：拟转型公益企业-以吸引更多投资](https://www.cls.cn/detail/1902754)
+- [【36kr】【明日主题前瞻】英伟达发布通用机器人模型RVT-2，训练效率提升6倍](https://www.cls.cn/detail/1904118)
 - [【36kr】受益于AI大模型快速发展-AI服务器出货量有望快速增长](https://www.cls.cn/detail/1901589)
-- [【36kr】证券业的“AI风暴”，24家券商凭大模型开启智能进化之旅，都在如何布局？](https://www.cls.cn/detail/1900626)
+- [【36kr】OpenAI公布重组计划：拟转型公益企业-以吸引更多投资](https://www.cls.cn/detail/1902754)
 - [......【查看更多】......](/details/tags/aigc.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】【焦点复盘】科创50指数劲升近3%，全市场超百股涨超10%，DeepSeek引爆云计算热潮](https://www.cls.cn/detail/1934862)
-- [【36kr】DeepSeek概念股爆火！科技类ETF继续大热门，多位基金经理早已入局](https://www.cls.cn/detail/1934803)
-- [【36kr】风险太大，基金公司紧急全天停牌！这些货币ETF正处风险临界点上](https://www.cls.cn/detail/1934814)
-- [【36kr】蛇年首个交易日央行净回笼资金7165亿元，市场预计2月重启公开市场国债买入概率不大](https://www.cls.cn/detail/1934782)
-- [【36kr】凭借《哪吒2》票房神话，光线传媒收获20CM涨停，新进多家基金十大重仓股](https://www.cls.cn/detail/1934770)
-- [【36kr】特朗普称不急于同中国领导人通话，外交部：现在需要的是平等和相互尊重的对话](https://www.cls.cn/detail/1934768)
-- [【36kr】特朗普“政府瘦身”大计蔓延至情报机构-中情局提出“买断计划”](https://www.cls.cn/detail/1934684)
-- [【36kr】港股延续震荡走势-后续投资机遇在哪？](https://www.cls.cn/detail/1934602)
-- [【36kr】积极探索城市更新可持续模式](https://www.cls.cn/detail/1934488)
-- [【36kr】易达资本与哈萨克斯坦达成战略合作-携手智元机器人在哈设立创新与研发中心](https://www.cls.cn/detail/1934515)
-- [【36kr】财联社债市早参2月5日|春节期间债市重要信息有哪些？来看汇总](https://www.cls.cn/detail/1934267)
-- [【36kr】缔造全球第三大车企计划泡汤？日产和本田据称考虑取消合并谈判](https://www.cls.cn/detail/1934613)
-- [【36kr】世间将再无松下电视！日本松下官宣解散家电子公司并放弃电视机业务](https://www.cls.cn/detail/1934463)
-- [【36kr】美联储副主席杰斐逊：中期内可以继续降息，但不着急！](https://www.cls.cn/detail/1934487)
-- [【36kr】个人养老金扩容公募晒成绩单，资金涌入指数，12天买了3亿元，谁拔头筹？](https://www.cls.cn/detail/1934475)
-- [【36kr】特朗普摊牌了：希望美国接管加沙-不排除派遣美军可能性](https://www.cls.cn/detail/1934401)
-- [【36kr】特朗普再放狠话：若遭暗杀，已留指示“消灭”伊朗！](https://www.cls.cn/detail/1934255)
-- [【36kr】2月5日投资避雷针：DeepSeek概念股卓创资讯、每日互动澄清-未向幻方提供语料数据](https://www.cls.cn/detail/1934253)
-- [【36kr】95.10亿！2025年春节档票房创下历史纪录](https://www.cls.cn/detail/1934311)
-- [【36kr】DeepSeek概念假期持续发酵，相关AI产业或有望成为近期市场核心](https://www.cls.cn/detail/1934304)
+- [【36kr】贸易战烧向硅谷？欧盟报复措施或瞄准美国科技巨头](https://www.cls.cn/detail/1934909)
+- [【36kr】一纸诉状牵出5000万诈骗大案，险企员工个人账户冒用公司账户行骗，投资者起诉银行保司索赔未果](https://www.cls.cn/detail/1934913)
+- [【36kr】【数据看盘】北向资金博弈算力硬件股-机构席位差额超过三千万个股达16只](https://www.cls.cn/detail/1934898)
+- [【36kr】深圳楼市延续止跌回稳态势-1月一手住宅预售网签量同比增122%](https://www.cls.cn/detail/1934889)
+- [【36kr】泽连斯基：若无法加入北约-西方应“归还”乌克兰核武器](https://www.cls.cn/detail/1934841)
+- [【36kr】“20cm”热度再起！涨停数创7周新高，热门概念持续催化，这些方向频现涨停](https://www.cls.cn/detail/1934886)
+- [【36kr】一图看懂-|-“高开炸走”，春节档票房创造两个新纪录！哪吒成影史首位3岁百亿影人](https://www.cls.cn/detail/1934840)
+- [【36kr】全球油市聚焦北美：特朗普关税风云中-亚洲正在等待机会！](https://www.cls.cn/detail/1934759)
+- [【36kr】港股三大指数震荡下挫-黄金股借国际金价东风逆势走强](https://www.cls.cn/detail/1934764)
+- [【36kr】大额逆回购到期，央行今日回笼7165亿，资金面维持紧平衡](https://www.cls.cn/detail/1934564)
+- [【36kr】沙特主权基金PIF旗下地产开发商拟IPO-为其270亿美元项目筹资](https://www.cls.cn/detail/1934575)
+- [【36kr】【每日收评】市场分化加剧！DeepSeek概念带动AI应用端全线爆发，算力硬件股再遭重挫](https://www.cls.cn/detail/1934754)
+- [【36kr】外交部再次回应美对华加征关税：贸易战、关税战没有赢家，施压威胁对中国行不通](https://www.cls.cn/detail/1934730)
+- [【36kr】黄金需求2024年飙至历史巅峰-全球央行已连续三年狂囤千吨](https://www.cls.cn/detail/1934719)
+- [【36kr】特朗普乱挥“关税大棒”，华尔街怎么看？一文读懂](https://www.cls.cn/detail/1934702)
+- [【36kr】沙特最新声明：巴勒斯坦若无法建国-沙以关系将无法继续正常化](https://www.cls.cn/detail/1934633)
+- [【36kr】美股危险了？大摩警告：特朗普冲击下-标普500未来半年最多跌8%](https://www.cls.cn/detail/1934544)
+- [【36kr】美国邮政：2月4日起停收来自中国内地和香港地区的入境包裹](https://www.cls.cn/detail/1934579)
+- [【36kr】2025年首月21名银行人被监管红牌罚下，农信社理事长因“股东违规持股”被终身禁业](https://www.cls.cn/detail/1934571)
+- [【36kr】万亿还是千亿？新增保费3成投向A股，市场分歧背后意味着什么](https://www.cls.cn/detail/1934555)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
