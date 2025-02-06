@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-02-06 07:37:52。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-02-06 08:42:13。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -24,14 +24,14 @@
 
 
 - [【36kr】DeepSeek模型引爆AI应用热潮-智云健康股价飙升近15%](https://www.cls.cn/detail/1935459)
-- [【36kr】【明日主题前瞻】英伟达等科技巨头陆续宣布上线DeepSeek大模型](https://www.cls.cn/detail/1934732)
 - [【36kr】DeepSeek横空出世后，多家银行启动深度研究测试，银行业大模型落地仍在开放探索](https://www.cls.cn/detail/1934556)
+- [【36kr】【明日主题前瞻】英伟达等科技巨头陆续宣布上线DeepSeek大模型](https://www.cls.cn/detail/1934732)
 - [【36kr】DeepSeek等大模型出圈，春节新玩法被玩爆，科技能否成为节后最热题材？](https://www.cls.cn/detail/1933367)
-- [【36kr】OpenAI首次向免费用户开放推理模型-特朗普与黄仁勋会面｜环球市场](https://www.cls.cn/detail/1933049)
 - [【36kr】OpenAI最新融资目标估值又翻一倍-特朗普关税忧虑升温｜环球市场](https://www.cls.cn/detail/1932775)
+- [【36kr】OpenAI首次向免费用户开放推理模型-特朗普与黄仁勋会面｜环球市场](https://www.cls.cn/detail/1933049)
 - [【36kr】OpenAI宣称DeepSeek违规“蒸馏”，但没有给出证据](https://www.cls.cn/detail/1932318)
-- [【36kr】港股1月28日早报：-DeepSeek发布多模态大模型-中铝国际去年新签合同总额超300亿](https://www.cls.cn/detail/1931740)
 - [【36kr】信雅达接手！金融大模型公司金科览智股权有变-原因为何？](https://www.cls.cn/detail/1931240)
+- [【36kr】港股1月28日早报：-DeepSeek发布多模态大模型-中铝国际去年新签合同总额超300亿](https://www.cls.cn/detail/1931740)
 - [【36kr】港股1月27日早报：国产大模型DeepSeek周末热度飙升-中国东方航空去年预亏大缩水](https://www.cls.cn/detail/1930803)
 - [【36kr】大模型龙头公司宣布产品再升级-AIAgent带来产业链投资新机遇](https://www.cls.cn/detail/1928655)
 - [【36kr】OpenAI等巨头将投资至少5000亿美元AI基础设施-算力硬件景气度持续向上](https://www.cls.cn/detail/1925921)
@@ -40,9 +40,9 @@
 - [【36kr】【明日主题前瞻】OpenAI称第一批AI智能体今年将“加入劳动力大军”](https://www.cls.cn/detail/1911039)
 - [【36kr】机器人时代的社会结构模型与十年后中国首富预测——周亚辉投资笔记2025系列第1篇](https://www.cls.cn/detail/1907426)
 - [【36kr】AIGC有望拉动高速交换机需求持续增长-产业链或将长期受益](https://www.cls.cn/detail/1906354)
-- [【36kr】【明日主题前瞻】英伟达发布通用机器人模型RVT-2，训练效率提升6倍](https://www.cls.cn/detail/1904118)
 - [【36kr】视大模型开发为“一把手工程”，多家券商上升战略高度，四大业务成布局重点](https://www.cls.cn/detail/1904153)
-- [【36kr】OpenAI公布重组计划：拟转型公益企业-以吸引更多投资](https://www.cls.cn/detail/1902754)
+- [【36kr】【明日主题前瞻】英伟达发布通用机器人模型RVT-2，训练效率提升6倍](https://www.cls.cn/detail/1904118)
+- [【36kr】受益于AI大模型快速发展-AI服务器出货量有望快速增长](https://www.cls.cn/detail/1901589)
 - [......【查看更多】......](/details/tags/aigc.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】概念动态-|-财联社主题库新增“比亚迪智驾”](https://www.cls.cn/detail/1935666)
-- [【36kr】多地“新春第一会”定调！营商环境、民营经济、AI成热词](https://www.cls.cn/detail/1935638)
-- [【36kr】一图看懂-|-“AI黑马”DeepSeek是如何火爆全球的？](https://www.cls.cn/detail/1935583)
-- [【36kr】习近平会见泰国总理佩通坦](https://www.cls.cn/detail/1935605)
-- [【36kr】特朗普关税害人害己！行业专家：美国车企最受伤-福特、通用首当其冲](https://www.cls.cn/detail/1935585)
-- [【36kr】特朗普威胁奏效？美国宣布政府船只现可免费通过巴拿马运河](https://www.cls.cn/detail/1935569)
-- [【36kr】马斯克“影子总统”担忧加剧？最新民调揭示美国人心态变化](https://www.cls.cn/detail/1935479)
-- [【36kr】全球市场最紧张的时刻过去了？10年期美债收益率跌破4.5%](https://www.cls.cn/detail/1935380)
-- [【36kr】DeepSeek概念持续火爆，留意AI应用方向内部的轮动机会](https://www.cls.cn/detail/1935402)
-- [【36kr】国际社会谴责特朗普“接管加沙”扩张性言论-白宫紧急-“灭火”](https://www.cls.cn/detail/1935378)
-- [【36kr】特朗普关税影响巨大！美联储官员警告：这次冲击将比2018年大得多！](https://www.cls.cn/detail/1935372)
-- [【36kr】券商晨会精华：积极把握AI应用、机器人、新兴消费等快速成长方向](https://www.cls.cn/detail/1935356)
-- [【36kr】人民日报聚焦多地节后首个工作日：干字当头，奋发有为](https://www.cls.cn/detail/1935338)
-- [【36kr】2月6日投资避雷针：2连板华金资本、浙江东方提示风险-未直接或间接投资DeepSeek](https://www.cls.cn/detail/1935336)
-- [【36kr】华尔街传奇大空头：美股市场面临的最大风险是类似DeepSeek的事件](https://www.cls.cn/detail/1935419)
-- [【36kr】财联社债市早参2月6日|李强：要敢于打破常规推出可感可及的政策举措；财政部将于2月在香港发行125亿元人民币国债](https://www.cls.cn/detail/1935360)
-- [【36kr】两年半来最大涨幅！沙特阿美大幅上调3月销往亚洲原油售价](https://www.cls.cn/detail/1935539)
-- [【36kr】【午报】创业板指低开高走涨超2%，DeepSeek概念延续强势，AI端侧方向全线爆发](https://www.cls.cn/detail/1935582)
-- [【36kr】2024年智能手机市场强势回暖-高伟电子涨超8%领跑港股消费电子股](https://www.cls.cn/detail/1935563)
 - [【36kr】关税、降息、马斯克、3-3-3方略！美国新财长聊到了这些爆款话题……](https://www.cls.cn/detail/1935705)
+- [【36kr】2024年智能手机市场强势回暖-高伟电子涨超8%领跑港股消费电子股](https://www.cls.cn/detail/1935563)
+- [【36kr】【午报】创业板指低开高走涨超2%，DeepSeek概念延续强势，AI端侧方向全线爆发](https://www.cls.cn/detail/1935582)
+- [【36kr】两年半来最大涨幅！沙特阿美大幅上调3月销往亚洲原油售价](https://www.cls.cn/detail/1935539)
+- [【36kr】财联社债市早参2月6日|李强：要敢于打破常规推出可感可及的政策举措；财政部将于2月在香港发行125亿元人民币国债](https://www.cls.cn/detail/1935360)
+- [【36kr】华尔街传奇大空头：美股市场面临的最大风险是类似DeepSeek的事件](https://www.cls.cn/detail/1935419)
+- [【36kr】2月6日投资避雷针：2连板华金资本、浙江东方提示风险-未直接或间接投资DeepSeek](https://www.cls.cn/detail/1935336)
+- [【36kr】人民日报聚焦多地节后首个工作日：干字当头，奋发有为](https://www.cls.cn/detail/1935338)
+- [【36kr】券商晨会精华：积极把握AI应用、机器人、新兴消费等快速成长方向](https://www.cls.cn/detail/1935356)
+- [【36kr】特朗普关税影响巨大！美联储官员警告：这次冲击将比2018年大得多！](https://www.cls.cn/detail/1935372)
+- [【36kr】国际社会谴责特朗普“接管加沙”扩张性言论-白宫紧急-“灭火”](https://www.cls.cn/detail/1935378)
+- [【36kr】DeepSeek概念持续火爆，留意AI应用方向内部的轮动机会](https://www.cls.cn/detail/1935402)
+- [【36kr】全球市场最紧张的时刻过去了？10年期美债收益率跌破4.5%](https://www.cls.cn/detail/1935380)
+- [【36kr】马斯克“影子总统”担忧加剧？最新民调揭示美国人心态变化](https://www.cls.cn/detail/1935479)
+- [【36kr】特朗普威胁奏效？美国宣布政府船只现可免费通过巴拿马运河](https://www.cls.cn/detail/1935569)
+- [【36kr】特朗普关税害人害己！行业专家：美国车企最受伤-福特、通用首当其冲](https://www.cls.cn/detail/1935585)
+- [【36kr】习近平会见泰国总理佩通坦](https://www.cls.cn/detail/1935605)
+- [【36kr】一图看懂-|-“AI黑马”DeepSeek是如何火爆全球的？](https://www.cls.cn/detail/1935583)
+- [【36kr】多地“新春第一会”定调！营商环境、民营经济、AI成热词](https://www.cls.cn/detail/1935638)
+- [【36kr】概念动态-|-财联社主题库新增“比亚迪智驾”](https://www.cls.cn/detail/1935666)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
