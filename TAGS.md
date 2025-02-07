@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-02-07 10:40:52。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-02-07 11:36:40。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -24,16 +24,16 @@
 
 
 - [【36kr】DeepSeek大模型陆续落地-微盟涨近10%领跑相关个股](https://www.cls.cn/detail/1936595)
-- [【36kr】美国国际开发署将裁减约97%的人员-OpenAI继续推进“星际之门”项目｜环球市场](https://www.cls.cn/detail/1936409)
 - [【36kr】DeepSeek模型引爆AI应用热潮-智云健康股价飙升近15%](https://www.cls.cn/detail/1935459)
-- [【36kr】DeepSeek横空出世后，多家银行启动深度研究测试，银行业大模型落地仍在开放探索](https://www.cls.cn/detail/1934556)
+- [【36kr】美国国际开发署将裁减约97%的人员-OpenAI继续推进“星际之门”项目｜环球市场](https://www.cls.cn/detail/1936409)
 - [【36kr】【明日主题前瞻】英伟达等科技巨头陆续宣布上线DeepSeek大模型](https://www.cls.cn/detail/1934732)
+- [【36kr】DeepSeek横空出世后，多家银行启动深度研究测试，银行业大模型落地仍在开放探索](https://www.cls.cn/detail/1934556)
 - [【36kr】DeepSeek等大模型出圈，春节新玩法被玩爆，科技能否成为节后最热题材？](https://www.cls.cn/detail/1933367)
-- [【36kr】OpenAI最新融资目标估值又翻一倍-特朗普关税忧虑升温｜环球市场](https://www.cls.cn/detail/1932775)
 - [【36kr】OpenAI首次向免费用户开放推理模型-特朗普与黄仁勋会面｜环球市场](https://www.cls.cn/detail/1933049)
+- [【36kr】OpenAI最新融资目标估值又翻一倍-特朗普关税忧虑升温｜环球市场](https://www.cls.cn/detail/1932775)
 - [【36kr】OpenAI宣称DeepSeek违规“蒸馏”，但没有给出证据](https://www.cls.cn/detail/1932318)
-- [【36kr】信雅达接手！金融大模型公司金科览智股权有变-原因为何？](https://www.cls.cn/detail/1931240)
 - [【36kr】港股1月28日早报：-DeepSeek发布多模态大模型-中铝国际去年新签合同总额超300亿](https://www.cls.cn/detail/1931740)
+- [【36kr】信雅达接手！金融大模型公司金科览智股权有变-原因为何？](https://www.cls.cn/detail/1931240)
 - [【36kr】港股1月27日早报：国产大模型DeepSeek周末热度飙升-中国东方航空去年预亏大缩水](https://www.cls.cn/detail/1930803)
 - [【36kr】大模型龙头公司宣布产品再升级-AIAgent带来产业链投资新机遇](https://www.cls.cn/detail/1928655)
 - [【36kr】OpenAI等巨头将投资至少5000亿美元AI基础设施-算力硬件景气度持续向上](https://www.cls.cn/detail/1925921)
@@ -42,7 +42,7 @@
 - [【36kr】【明日主题前瞻】OpenAI称第一批AI智能体今年将“加入劳动力大军”](https://www.cls.cn/detail/1911039)
 - [【36kr】机器人时代的社会结构模型与十年后中国首富预测——周亚辉投资笔记2025系列第1篇](https://www.cls.cn/detail/1907426)
 - [【36kr】AIGC有望拉动高速交换机需求持续增长-产业链或将长期受益](https://www.cls.cn/detail/1906354)
-- [【36kr】视大模型开发为“一把手工程”，多家券商上升战略高度，四大业务成布局重点](https://www.cls.cn/detail/1904153)
+- [【36kr】【明日主题前瞻】英伟达发布通用机器人模型RVT-2，训练效率提升6倍](https://www.cls.cn/detail/1904118)
 - [......【查看更多】......](/details/tags/aigc.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】证监会：支持优质科技型企业发行上市-优化科技型上市公司并购重组、股权激励等制度](https://www.cls.cn/detail/1937031)
-- [【36kr】金融监管总局：开展保险资金投资黄金业务试点-10家险企参与](https://www.cls.cn/detail/1937004)
-- [【36kr】【每日收评】午后震荡加剧！三大指数冲高回落仍涨超1%，两市成交额近2万亿](https://www.cls.cn/detail/1936985)
-- [【36kr】印度央行近五年来首次降息-印度股市还能看到“神牛”故事吗？](https://www.cls.cn/detail/1936958)
-- [【36kr】中国正对苹果公司开展反垄断调查？外交部回应](https://www.cls.cn/detail/1936934)
-- [【36kr】废料处理竟是一笔糊涂账，监管匿名通报IPO终止项目指向中兴新材，保荐机构浮现](https://www.cls.cn/detail/1936901)
-- [【36kr】外交部：对巴拿马不再续签“一带一路”谅解备忘录深表遗憾](https://www.cls.cn/detail/1936907)
-- [【36kr】DeepSeek因服务器紧张暂停充值-联想集团携AI基建概念节后累涨逾30%](https://www.cls.cn/detail/1936869)
-- [【36kr】毒饼变成香饽饽！摩根士丹利牵头售出55亿美元X平台债务](https://www.cls.cn/detail/1936815)
-- [【36kr】“陪跑常客”象屿-75亿投资押注浦东新杨思](https://www.cls.cn/detail/1936584)
-- [【36kr】美国可免费通航巴拿马运河？巴拿马总统驳斥：别再散布“谎言”！](https://www.cls.cn/detail/1936716)
-- [【36kr】【午报】创业板指半日大涨3.6%，全市场近5000股飘红，AI概念股持续活跃](https://www.cls.cn/detail/1936707)
-- [【36kr】A股新增开户156万，2025年首月开户数超上年6个月份，新开户驱动力正释放](https://www.cls.cn/detail/1936706)
-- [【36kr】特朗普：以色列将把加沙地带移交给美国-无须出动美军](https://www.cls.cn/detail/1936684)
-- [【36kr】智能驾驶产业迎变革！港股智驾概念走强-黑芝麻智能涨超15%](https://www.cls.cn/detail/1936674)
-- [【36kr】研究称未来极端天气可能导致欧洲数百万人死亡](https://www.cls.cn/detail/1936672)
-- [【36kr】又一波基金疑似“风格漂移”，智慧生活主题重仓的不是军工股就是银行股](https://www.cls.cn/detail/1936664)
-- [【36kr】马斯克的“只读权限”也没了？美法官禁止DOGE访问财政部支付数据](https://www.cls.cn/detail/1936556)
-- [【36kr】科技股持续火爆，端侧-AI-与机器人能否-继续“乘势而上”？](https://www.cls.cn/detail/1936513)
-- [【36kr】2月7日投资避雷针：3连板浙江东方澄清-公司投资的公司为深度搜索-与深度求索无任何关系](https://www.cls.cn/detail/1936448)
+- [【36kr】“点燃”科技股！DeepSeek迎部署适配潮-业内预计算力需求不降反增](https://www.cls.cn/detail/1937165)
+- [【36kr】创业板指年线转涨！板块量能连日攀升，六成个股年内“红盘”，这些行业节后活跃](https://www.cls.cn/detail/1937125)
+- [【36kr】深度|银行信用卡分中心集体“撤退”，业务承压下何以解局？](https://www.cls.cn/detail/1937114)
+- [【36kr】【数据看盘】四大期指多头大幅加仓-各路资金博弈算力概念股](https://www.cls.cn/detail/1937100)
+- [【36kr】【焦点复盘】沪指涨逾1%收复3300点，全市场连续3日逾百股涨超10%，算力产业链再上风口](https://www.cls.cn/detail/1937061)
+- [【36kr】AI风暴席卷港股！科技指数单周猛涨超9%-谁是领涨“急先锋”？](https://www.cls.cn/detail/1936962)
+- [【36kr】事关美国科技领导地位！Meta扎克伯格造访白宫](https://www.cls.cn/detail/1936984)
+- [【36kr】理财规模“旺季不旺”，新发产品业绩基准下限未来或降至2%以下-|银行理财观察70期](https://www.cls.cn/detail/1936797)
+- [【36kr】港股市场卖空压力缓解-互联网与科技股迎来复苏曙光？](https://www.cls.cn/detail/1936773)
+- [【36kr】华人运通预重整进展：投资人招募再度延期-共益债募资金额增25%](https://www.cls.cn/detail/1936693)
+- [【36kr】“国联民生证券”首发公司章程，业务整合与人事任命将成后续看点](https://www.cls.cn/detail/1936483)
+- [【36kr】地方文旅冲刺上市“卷土重来”](https://www.cls.cn/detail/1936807)
+- [【36kr】会出现“百万就业大军”消失吗？今晚美国非农揭露“真相”！](https://www.cls.cn/detail/1936791)
+- [【36kr】多家投行“不尽责”被点名，募资使用被重点关注，上交所公告重点关注事项](https://www.cls.cn/detail/1936765)
+- [【36kr】沙特阿美与ACWA-Power评估钒液流电池-携手加速可再生能源应用](https://www.cls.cn/detail/1936617)
+- [【36kr】财联社债市早参2月7日|央行等六部门公开征求意见规范供应链金融业务；多地加快城投提前兑付，5%以上收益城投债仅剩230亿](https://www.cls.cn/detail/1936469)
+- [【36kr】拉尼娜下仍遭遇史上最热1月：科学家彻底震惊了！](https://www.cls.cn/detail/1936613)
+- [【36kr】《哪吒2》票房或达95亿元，导演饺子能赚1.35亿](https://www.cls.cn/detail/1936615)
+- [【36kr】市场监管总局：12种首次违法和轻微违法行为不予处罚](https://www.cls.cn/detail/1936576)
+- [【36kr】“特朗普政府瘦身风暴”席卷国际开发署：97%人员据称将遭撤裁](https://www.cls.cn/detail/1936538)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
