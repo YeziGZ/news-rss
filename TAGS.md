@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-03-12 23:38:48。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-03-13 02:09:27。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -24,25 +24,25 @@
 
 
 - [【36kr】2025年将是智能体爆发年？OpenAI放大招-全新开发工具上线](https://www.cls.cn/detail/1968654)
-- [【36kr】爆火出圈后-Manus与阿里通义千问达成合作](https://www.cls.cn/detail/1968347)
 - [【36kr】稚晖君时隔两年首更：会骑自行车的通用人形机器人来了-搭载多模态大模型](https://www.cls.cn/detail/1967394)
-- [【36kr】华为天才少年领衔-智元机器人公司发布全球首个通用具身基座大模型GO-1](https://www.cls.cn/detail/1967052)
+- [【36kr】爆火出圈后-Manus与阿里通义千问达成合作](https://www.cls.cn/detail/1968347)
 - [【36kr】训练机器人做家务“有一手”-智元发布首个通用具身基座大模型](https://www.cls.cn/detail/1966281)
+- [【36kr】华为天才少年领衔-智元机器人公司发布全球首个通用具身基座大模型GO-1](https://www.cls.cn/detail/1967052)
 - [【36kr】对话全国政协委员、新希望集团董事长刘永好：投资多家机器人公司，借助AI积极参与猪周期预测大模型](https://www.cls.cn/detail/1956516)
 - [【36kr】【明日主题前瞻】DeepSeek正在加速推出其R2人工智能模型，机构称DeepSeek加速赋能各行各业](https://www.cls.cn/detail/1954772)
-- [【36kr】【早报】美国施压盟友升级对中国芯片产业限制，外交部回应；DeepSeek正在加速推出R2模型](https://www.cls.cn/detail/1954053)
 - [【36kr】国际金价再创历史新高-首款混合推理模型问世-|-环球市场](https://www.cls.cn/detail/1952780)
+- [【36kr】【早报】美国施压盟友升级对中国芯片产业限制，外交部回应；DeepSeek正在加速推出R2模型](https://www.cls.cn/detail/1954053)
 - [【36kr】【明日主题前瞻】多个基于DeepSeek大模型细分产品发布](https://www.cls.cn/detail/1952040)
 - [【36kr】【早报】中方回应美将限制与中国的双向投资-阶跃星辰将在3月开源图生视频模型](https://www.cls.cn/detail/1951116)
 - [【36kr】提速！又一款AI医疗大模型问世：可覆盖中国90%癌症人群所患癌种](https://www.cls.cn/detail/1946737)
-- [【36kr】宣布文心一言免费开放!-百度涨超10%-机构称科技股强势有望延续](https://www.cls.cn/detail/1942023)
 - [【36kr】【明日主题前瞻】DeepSeek-V3/R1满血版上线华为云，机构称AI模型迭代有望加速进行](https://www.cls.cn/detail/1942159)
-- [【36kr】特朗普称与普京通话富有成效-OpenAI拟在数周内发布GPT-4.5模型-|-环球市场](https://www.cls.cn/detail/1941626)
+- [【36kr】宣布文心一言免费开放!-百度涨超10%-机构称科技股强势有望延续](https://www.cls.cn/detail/1942023)
 - [【36kr】券商晨会精华：重视企业本地部署大模型的投资机会](https://www.cls.cn/detail/1941648)
+- [【36kr】特朗普称与普京通话富有成效-OpenAI拟在数周内发布GPT-4.5模型-|-环球市场](https://www.cls.cn/detail/1941626)
 - [【36kr】乌克兰计划同俄罗斯互换部分领土-OpenAI-CEO称希望与中国合作-|-环球市场](https://www.cls.cn/detail/1940479)
 - [【36kr】特朗普对所有输美钢铝征收25%关税-媒体曝马斯克组团竞购OpenAI-|-环球市场](https://www.cls.cn/detail/1939328)
-- [【36kr】华为云上线DeepSeek大模型-华为算力产业链有望站上风口](https://www.cls.cn/detail/1938270)
 - [【36kr】【明日主题前瞻】OpenAI超1700亿美元用于人工智能基础设施配置](https://www.cls.cn/detail/1938129)
+- [【36kr】华为云上线DeepSeek大模型-华为算力产业链有望站上风口](https://www.cls.cn/detail/1938270)
 - [......【查看更多】......](/details/tags/aigc.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】洛阳城中村改造引入“以购代建”模式-全国百万套旧改有望拉动2亿平商品房去化](https://www.cls.cn/detail/1969640)
-- [【36kr】美国2月CPI通胀全面降温-但特朗普关税影响尚未完全显现](https://www.cls.cn/detail/1969810)
-- [【36kr】国常会讨论通过《国务院2025年重点工作分工方案》](https://www.cls.cn/detail/1969623)
-- [【36kr】平安带头，险资疯狂加码银行H股，南向资金创史上第三，大摩称全球资金配置港股仍有空间](https://www.cls.cn/detail/1969492)
-- [【36kr】【数据看盘】IC、IM期指空头大幅减仓-一线游资活跃度降至冰点](https://www.cls.cn/detail/1969488)
-- [【36kr】工信部：加快6G研发进程-推进算力中心建设布局优化](https://www.cls.cn/detail/1969481)
-- [【36kr】【焦点复盘】创指放量回落跌0.58%，大金融板块午后异动，AI、机器人主线分歧再现](https://www.cls.cn/detail/1969452)
-- [【36kr】脑机接口手术要明码标价了！国家医保局发布立项指南-多场景应用潜力待释放](https://www.cls.cn/detail/1969145)
-- [【36kr】反击！欧盟对美国钢铝关税政策采取“两步走”反制措施](https://www.cls.cn/detail/1969102)
-- [【36kr】算力股强势回暖，有色金属迎来轮动新机遇](https://www.cls.cn/detail/1968718)
-- [【36kr】商务部等部门约谈沃尔玛-因其要求一些中国供应商大幅降价](https://www.cls.cn/detail/1968959)
-- [【36kr】又有转折！白宫贸易顾问：12日不会对加拿大钢铝征收50%进口关税](https://www.cls.cn/detail/1968624)
-- [【36kr】国家医保局为脑机接口医疗服务价格单独立项](https://www.cls.cn/detail/1968911)
-- [【36kr】英伟达AI盛会GTC-2025即将来袭：这些重磅看点要提前知晓](https://www.cls.cn/detail/1968728)
-- [【36kr】余承东官宣！首款原生鸿蒙正式版手机下周见](https://www.cls.cn/detail/1968737)
-- [【36kr】3月12日投资避雷针：6连板机器人概念人气股澄清-尚无养老机器人的布局](https://www.cls.cn/detail/1968625)
-- [【36kr】“人工智能+”成两会高频词-“+”什么？如何“+”？](https://www.cls.cn/detail/1968655)
-- [【36kr】券商晨会精华：机器人驱动PCB行业快速成长](https://www.cls.cn/detail/1968614)
-- [【36kr】三部门：实施重大环保技术装备三年提升行动](https://www.cls.cn/detail/1968879)
+- [【36kr】人民日报刊文：以人工智能赋能高质量发展](https://www.cls.cn/detail/1970035)
+- [【36kr】3月13日投资避雷针：400亿CMOS芯片巨头遭国家集成电路基金二期等股东减持](https://www.cls.cn/detail/1970040)
+- [【36kr】美国再发“吞并威胁”？商务部长：加拿大成为一个州是“最佳方案”！](https://www.cls.cn/detail/1970045)
+- [【36kr】美股收盘：三大指数涨跌不一-科技股强势反弹-纳指涨超1%](https://www.cls.cn/detail/1969977)
+- [【36kr】突发！芯片概念股遭国家集成电路基金二期等股东减持|盘后公告集锦](https://www.cls.cn/detail/1969788)
+- [【36kr】大厂算力订单潮真来了？神秘“X公司”引爆市场后，宏景科技官宣7亿大单|速读公告](https://www.cls.cn/detail/1969826)
+- [【36kr】美CPI数据放缓幅度超预期-纳指期货盘前涨超1.6%-|-今夜看点](https://www.cls.cn/detail/1969770)
+- [【36kr】2月新能源车销量TOP10：小米进场、鸿蒙落榜、小鹏飙涨](https://www.cls.cn/detail/1968626)
+- [【36kr】医保局对脑机接口技术价格单独立项-政策频出上市公司影响几何？](https://www.cls.cn/detail/1969559)
+- [【36kr】次新市场悄现“急牛”！盘中一度飙涨30%，近年“争气”新股扫描，这些标的依旧强势](https://www.cls.cn/detail/1969428)
+- [【36kr】政府工作报告（全文）](https://www.cls.cn/detail/1969422)
+- [【36kr】【每日收评】三大指数冲高回落全线收跌，多只算力高位股尾盘跳水](https://www.cls.cn/detail/1969332)
+- [【36kr】【午报】三大指数涨跌不一-算力概念股再迎全线爆发](https://www.cls.cn/detail/1968937)
+- [【36kr】今晚20:30！特朗普关税首度渗入CPI-美股血腥抛售会否再现？](https://www.cls.cn/detail/1969074)
 - [【36kr】人形机器人“热战”打响：新品密集发布-量产元年真的来了？|行业观察](https://www.cls.cn/detail/1968942)
+- [【36kr】三部门：实施重大环保技术装备三年提升行动](https://www.cls.cn/detail/1968879)
+- [【36kr】券商晨会精华：机器人驱动PCB行业快速成长](https://www.cls.cn/detail/1968614)
+- [【36kr】“人工智能+”成两会高频词-“+”什么？如何“+”？](https://www.cls.cn/detail/1968655)
+- [【36kr】3月12日投资避雷针：6连板机器人概念人气股澄清-尚无养老机器人的布局](https://www.cls.cn/detail/1968625)
+- [【36kr】余承东官宣！首款原生鸿蒙正式版手机下周见](https://www.cls.cn/detail/1968737)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
