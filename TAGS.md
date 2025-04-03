@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-04-03 07:37:28。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-04-03 08:45:50。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -23,26 +23,26 @@
 
 
 
-- [【36kr】爆款应用引发OpenAI服务器不堪重负-法拉利涨价应对美国关税-|-环球市场](https://www.cls.cn/detail/1986257)
 - [【36kr】多模态又考验算力了！ChatGPT文生图功能太火爆-奥尔特曼：GPU“冒烟了”](https://www.cls.cn/detail/1986305)
+- [【36kr】爆款应用引发OpenAI服务器不堪重负-法拉利涨价应对美国关税-|-环球市场](https://www.cls.cn/detail/1986257)
 - [【36kr】需求大爆发！OpenAI据称今年收入将增长两倍-明年再翻倍](https://www.cls.cn/detail/1984919)
 - [【36kr】阿里深夜炸场！通义千问发布新一代端到端旗舰模型Qwen2.5-Omni](https://www.cls.cn/detail/1984786)
-- [【36kr】谷歌、OpenAI竞相升级AI产品-霸王茶姬提交美股上市申请-|-环球市场](https://www.cls.cn/detail/1983563)
 - [【36kr】ChatGPT文生图功能迎重大升级：准确生成文字-商用边界大幅拓展](https://www.cls.cn/detail/1983489)
+- [【36kr】谷歌、OpenAI竞相升级AI产品-霸王茶姬提交美股上市申请-|-环球市场](https://www.cls.cn/detail/1983563)
 - [【36kr】蚂蚁集团全力拥抱AI：大模型训练降本、一体机发布、智能眼镜招兵买马](https://www.cls.cn/detail/1981760)
 - [【36kr】DeepSeek大模型一体机的落地“鸿沟”|深度](https://www.cls.cn/detail/1979144)
-- [【36kr】央行：安全稳妥有序推进人工智能大模型等在金融领域应用](https://www.cls.cn/detail/1974024)
-- [【36kr】上海：每年设立一定规模的算力券、模型券、语料券-支持初创型企业等优惠使用智能算力、语料库等资源](https://www.cls.cn/detail/1973839)
 - [【36kr】【早报】事关育儿、就业、养老，六部门重磅发声；央行：安全稳妥有序推进人工智能大模型等在金融领域应用](https://www.cls.cn/detail/1974727)
+- [【36kr】上海：每年设立一定规模的算力券、模型券、语料券-支持初创型企业等优惠使用智能算力、语料库等资源](https://www.cls.cn/detail/1973839)
+- [【36kr】央行：安全稳妥有序推进人工智能大模型等在金融领域应用](https://www.cls.cn/detail/1974024)
 - [【36kr】2025年将是智能体爆发年？OpenAI放大招-全新开发工具上线](https://www.cls.cn/detail/1968654)
-- [【36kr】稚晖君时隔两年首更：会骑自行车的通用人形机器人来了-搭载多模态大模型](https://www.cls.cn/detail/1967394)
 - [【36kr】爆火出圈后-Manus与阿里通义千问达成合作](https://www.cls.cn/detail/1968347)
-- [【36kr】训练机器人做家务“有一手”-智元发布首个通用具身基座大模型](https://www.cls.cn/detail/1966281)
+- [【36kr】稚晖君时隔两年首更：会骑自行车的通用人形机器人来了-搭载多模态大模型](https://www.cls.cn/detail/1967394)
 - [【36kr】华为天才少年领衔-智元机器人公司发布全球首个通用具身基座大模型GO-1](https://www.cls.cn/detail/1967052)
+- [【36kr】训练机器人做家务“有一手”-智元发布首个通用具身基座大模型](https://www.cls.cn/detail/1966281)
 - [【36kr】对话全国政协委员、新希望集团董事长刘永好：投资多家机器人公司，借助AI积极参与猪周期预测大模型](https://www.cls.cn/detail/1956516)
 - [【36kr】【明日主题前瞻】DeepSeek正在加速推出其R2人工智能模型，机构称DeepSeek加速赋能各行各业](https://www.cls.cn/detail/1954772)
-- [【36kr】国际金价再创历史新高-首款混合推理模型问世-|-环球市场](https://www.cls.cn/detail/1952780)
 - [【36kr】【早报】美国施压盟友升级对中国芯片产业限制，外交部回应；DeepSeek正在加速推出R2模型](https://www.cls.cn/detail/1954053)
+- [【36kr】国际金价再创历史新高-首款混合推理模型问世-|-环球市场](https://www.cls.cn/detail/1952780)
 - [......【查看更多】......](/details/tags/aigc.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】最新民调：特朗普支持率跌至43%-创下1月就任以来最低](https://www.cls.cn/detail/1992559)
-- [【36kr】美财长承认关税不能同时增加收入和帮助恢复美国制造业](https://www.cls.cn/detail/1992496)
-- [【36kr】投行人考上公务员，等IPO奖金还是新奔赴？职业转型背后是投行变迁](https://www.cls.cn/detail/1992323)
-- [【36kr】玉渊谭天：美国自绝于全球自由贸易之外](https://www.cls.cn/detail/1992341)
-- [【36kr】国家安全机关侦破菲律宾间谍案-3名菲籍间谍落网](https://www.cls.cn/detail/1992508)
-- [【36kr】A股银行年报“反向讨薪”情况如何？中国银行追索扣回超3000万，更多银行“沉默是金”](https://www.cls.cn/detail/1992570)
-- [【36kr】【午报】创业板指震荡走低跌近2%，高外销占比概念股集体重挫，大消费方向逆势活跃](https://www.cls.cn/detail/1992571)
-- [【36kr】欧盟委员会主席冯德莱恩：已敲定对美钢铁关税反制措施！](https://www.cls.cn/detail/1992674)
 - [【36kr】马斯克又秀人形机器人：精准执行器+强化学习方案-擎天柱实现稳步行走](https://www.cls.cn/detail/1992736)
-- [【36kr】中办、国办健全促进公用事业价格机制-电力板块投资价值凸显](https://www.cls.cn/detail/1992250)
-- [【36kr】机器人灵巧手中的关键材料-腱绳需求有望加速增长](https://www.cls.cn/detail/1992258)
-- [【36kr】特朗普宣布实施“对等关税”措施，多个贸易伙伴称将进行反制](https://www.cls.cn/detail/1992222)
-- [【36kr】【早报】中办、国办：能由市场形成价格的都交给市场；多家银行薪酬下降，招行人均年薪降至约58万](https://www.cls.cn/detail/1992233)
-- [【36kr】较3月价格回落50%，美国鸡蛋短缺危机似乎要结束了](https://www.cls.cn/detail/1992136)
-- [【36kr】特朗普2.0前50天美股惨淡-创75年来美总统最差纪录之一](https://www.cls.cn/detail/1992122)
-- [【36kr】马斯克据悉将很快从DOGE离职-特斯拉股价闻讯大幅飙升](https://www.cls.cn/detail/1992097)
-- [【36kr】“新汽车”3月交付量集体大涨：极氪连续两月登顶-鸿蒙智行暂“缺席”](https://www.cls.cn/detail/1991683)
-- [【36kr】获利9897万、罚没3.96亿！一股民以虚假申报手段操纵多只股票被罚](https://www.cls.cn/detail/1991945)
-- [【36kr】纳指期货盘前跌超1%-市场等待特朗普关税开火-|-今夜看点](https://www.cls.cn/detail/1991941)
-- [【36kr】特朗普关税刀锋逼近，欧洲制药业即将面临重大冲击](https://www.cls.cn/detail/1991828)
+- [【36kr】欧盟委员会主席冯德莱恩：已敲定对美钢铁关税反制措施！](https://www.cls.cn/detail/1992674)
+- [【36kr】【午报】创业板指震荡走低跌近2%，高外销占比概念股集体重挫，大消费方向逆势活跃](https://www.cls.cn/detail/1992571)
+- [【36kr】A股银行年报“反向讨薪”情况如何？中国银行追索扣回超3000万，更多银行“沉默是金”](https://www.cls.cn/detail/1992570)
+- [【36kr】国家安全机关侦破菲律宾间谍案-3名菲籍间谍落网](https://www.cls.cn/detail/1992508)
+- [【36kr】玉渊谭天：美国自绝于全球自由贸易之外](https://www.cls.cn/detail/1992341)
+- [【36kr】投行人考上公务员，等IPO奖金还是新奔赴？职业转型背后是投行变迁](https://www.cls.cn/detail/1992323)
+- [【36kr】美财长承认关税不能同时增加收入和帮助恢复美国制造业](https://www.cls.cn/detail/1992496)
+- [【36kr】最新民调：特朗普支持率跌至43%-创下1月就任以来最低](https://www.cls.cn/detail/1992559)
+- [【36kr】对美方加征关税有何评论？是否计划与美方就关税问题谈判？外交部发声](https://www.cls.cn/detail/1992801)
+- [【36kr】被美国威胁加征46%的关税后-越南股市遭遇暴跌！](https://www.cls.cn/detail/1992784)
+- [【36kr】商务部：中方愿与美方就两国经贸领域重要问题进行交流](https://www.cls.cn/detail/1992812)
+- [【36kr】常州出台重磅楼市政策-住房困难工薪群体购房最高可获20万元资助](https://www.cls.cn/detail/1992859)
+- [【36kr】6家上市公司增资华科致芯！布局半导体产业链-背后浮现PE华登国际身影](https://www.cls.cn/detail/1992249)
+- [【36kr】“酱油茅”依然大方！海天味业去年赚了63亿，计划分红47亿|财报解读](https://www.cls.cn/detail/1992252)
+- [【36kr】任天堂Switch-2定档6月上市-定价区别对待海外用户引热议](https://www.cls.cn/detail/1992123)
+- [【36kr】诺和诺德控股集团CEO：中国优势已转向高质量创新-将寻求更多交易](https://www.cls.cn/detail/1992083)
+- [【36kr】年内二度出手，新华保险举牌北京控股，高股息红利资产仍是“心头好”](https://www.cls.cn/detail/1992030)
+- [【36kr】马斯克砸钱助选失败-自由派法官赢得威斯康星最高法院之战](https://www.cls.cn/detail/1992021)
+- [【36kr】投资收益超18亿！1900亿创新药龙头出售股票|盘后公告集锦](https://www.cls.cn/detail/1991965)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
