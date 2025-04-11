@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-04-11 07:37:15。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-04-11 08:45:58。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -23,26 +23,26 @@
 
 
 
-- [【36kr】多模态又考验算力了！ChatGPT文生图功能太火爆-奥尔特曼：GPU“冒烟了”](https://www.cls.cn/detail/1986305)
 - [【36kr】爆款应用引发OpenAI服务器不堪重负-法拉利涨价应对美国关税-|-环球市场](https://www.cls.cn/detail/1986257)
+- [【36kr】多模态又考验算力了！ChatGPT文生图功能太火爆-奥尔特曼：GPU“冒烟了”](https://www.cls.cn/detail/1986305)
 - [【36kr】需求大爆发！OpenAI据称今年收入将增长两倍-明年再翻倍](https://www.cls.cn/detail/1984919)
 - [【36kr】阿里深夜炸场！通义千问发布新一代端到端旗舰模型Qwen2.5-Omni](https://www.cls.cn/detail/1984786)
-- [【36kr】ChatGPT文生图功能迎重大升级：准确生成文字-商用边界大幅拓展](https://www.cls.cn/detail/1983489)
 - [【36kr】谷歌、OpenAI竞相升级AI产品-霸王茶姬提交美股上市申请-|-环球市场](https://www.cls.cn/detail/1983563)
+- [【36kr】ChatGPT文生图功能迎重大升级：准确生成文字-商用边界大幅拓展](https://www.cls.cn/detail/1983489)
 - [【36kr】蚂蚁集团全力拥抱AI：大模型训练降本、一体机发布、智能眼镜招兵买马](https://www.cls.cn/detail/1981760)
 - [【36kr】DeepSeek大模型一体机的落地“鸿沟”|深度](https://www.cls.cn/detail/1979144)
-- [【36kr】【早报】事关育儿、就业、养老，六部门重磅发声；央行：安全稳妥有序推进人工智能大模型等在金融领域应用](https://www.cls.cn/detail/1974727)
-- [【36kr】上海：每年设立一定规模的算力券、模型券、语料券-支持初创型企业等优惠使用智能算力、语料库等资源](https://www.cls.cn/detail/1973839)
 - [【36kr】央行：安全稳妥有序推进人工智能大模型等在金融领域应用](https://www.cls.cn/detail/1974024)
+- [【36kr】上海：每年设立一定规模的算力券、模型券、语料券-支持初创型企业等优惠使用智能算力、语料库等资源](https://www.cls.cn/detail/1973839)
+- [【36kr】【早报】事关育儿、就业、养老，六部门重磅发声；央行：安全稳妥有序推进人工智能大模型等在金融领域应用](https://www.cls.cn/detail/1974727)
 - [【36kr】2025年将是智能体爆发年？OpenAI放大招-全新开发工具上线](https://www.cls.cn/detail/1968654)
-- [【36kr】爆火出圈后-Manus与阿里通义千问达成合作](https://www.cls.cn/detail/1968347)
 - [【36kr】稚晖君时隔两年首更：会骑自行车的通用人形机器人来了-搭载多模态大模型](https://www.cls.cn/detail/1967394)
-- [【36kr】华为天才少年领衔-智元机器人公司发布全球首个通用具身基座大模型GO-1](https://www.cls.cn/detail/1967052)
+- [【36kr】爆火出圈后-Manus与阿里通义千问达成合作](https://www.cls.cn/detail/1968347)
 - [【36kr】训练机器人做家务“有一手”-智元发布首个通用具身基座大模型](https://www.cls.cn/detail/1966281)
+- [【36kr】华为天才少年领衔-智元机器人公司发布全球首个通用具身基座大模型GO-1](https://www.cls.cn/detail/1967052)
 - [【36kr】对话全国政协委员、新希望集团董事长刘永好：投资多家机器人公司，借助AI积极参与猪周期预测大模型](https://www.cls.cn/detail/1956516)
 - [【36kr】【明日主题前瞻】DeepSeek正在加速推出其R2人工智能模型，机构称DeepSeek加速赋能各行各业](https://www.cls.cn/detail/1954772)
-- [【36kr】【早报】美国施压盟友升级对中国芯片产业限制，外交部回应；DeepSeek正在加速推出R2模型](https://www.cls.cn/detail/1954053)
 - [【36kr】国际金价再创历史新高-首款混合推理模型问世-|-环球市场](https://www.cls.cn/detail/1952780)
+- [【36kr】【早报】美国施压盟友升级对中国芯片产业限制，外交部回应；DeepSeek正在加速推出R2模型](https://www.cls.cn/detail/1954053)
 - [......【查看更多】......](/details/tags/aigc.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】事关“原产地”认定规则，中国半导体行业协会紧急通知](https://www.cls.cn/detail/2000827)
-- [【36kr】“股债汇三杀”！全球资本正疯狂逃离美国？](https://www.cls.cn/detail/2000665)
-- [【36kr】又来威胁！特朗普警告：若不能达成协议-将恢复高额“对等关税”](https://www.cls.cn/detail/2000564)
-- [【36kr】10家券商业绩预喜，6家头部尤其亮眼，实质回购来了，国泰海通已真金白银出手](https://www.cls.cn/detail/2000602)
-- [【36kr】191天完成世纪合并，国泰海通以“上海速度”缔造中国证券业旗舰](https://www.cls.cn/detail/2000620)
-- [【36kr】宇树科技将开启机器人格斗直播-机器人板块有望再度站上风口](https://www.cls.cn/detail/2000518)
-- [【36kr】4月11日投资避雷针：6连板人气股提示风险-出口美国业务占整体营收约为30%](https://www.cls.cn/detail/2000549)
-- [【36kr】美国前财长耶伦：特朗普的“关税大棒”摧毁了经济！](https://www.cls.cn/detail/2000598)
-- [【36kr】新启程！国泰海通今日重组更名上市，“601211”正赋予新意义](https://www.cls.cn/detail/2000932)
 - [【36kr】外交部回应美方实施145%关税：面对美国的霸凌霸道，妥协退让没有出路](https://www.cls.cn/detail/2001022)
-- [【36kr】美股、油价大幅走低-现货黄金再度突破历史新高-|-环球市场](https://www.cls.cn/detail/2000543)
-- [【36kr】【早报】商务部：将帮助外贸企业扩宽内销渠道；国家电影局：将适度减少美国影片进口数量](https://www.cls.cn/detail/2000515)
-- [【36kr】美股惊天反弹只是“死猫跳”？过往股灾中也曾上演类似行情](https://www.cls.cn/detail/2000236)
-- [【36kr】国家电影局发声-将适度减少美国影片进口数量-相关美股大跌](https://www.cls.cn/detail/2000376)
-- [【36kr】特朗普关税重压下-欧盟考虑购买更多美国天然气](https://www.cls.cn/detail/2000359)
-- [【36kr】深圳：积极主动采取有力有效措施服务和支持企业大力开拓国内外市场](https://www.cls.cn/detail/2000288)
-- [【36kr】美股三大期指集体回调-分析师警告政策不确定性犹存-|-今夜看点](https://www.cls.cn/detail/2000293)
-- [【36kr】欧盟暂缓对美关税反制措施！冯德莱恩：后续可能还会继续实施](https://www.cls.cn/detail/2000218)
-- [【36kr】一图看懂-|-“边买边退”，提振消费！政策“组合拳”持续出击](https://www.cls.cn/detail/2000125)
-- [【36kr】特朗普正重创美元地位？欧洲央行管委：其政策和反复无常都在削弱信心！](https://www.cls.cn/detail/1999719)
+- [【36kr】新启程！国泰海通今日重组更名上市，“601211”正赋予新意义](https://www.cls.cn/detail/2000932)
+- [【36kr】美国前财长耶伦：特朗普的“关税大棒”摧毁了经济！](https://www.cls.cn/detail/2000598)
+- [【36kr】4月11日投资避雷针：6连板人气股提示风险-出口美国业务占整体营收约为30%](https://www.cls.cn/detail/2000549)
+- [【36kr】宇树科技将开启机器人格斗直播-机器人板块有望再度站上风口](https://www.cls.cn/detail/2000518)
+- [【36kr】191天完成世纪合并，国泰海通以“上海速度”缔造中国证券业旗舰](https://www.cls.cn/detail/2000620)
+- [【36kr】10家券商业绩预喜，6家头部尤其亮眼，实质回购来了，国泰海通已真金白银出手](https://www.cls.cn/detail/2000602)
+- [【36kr】又来威胁！特朗普警告：若不能达成协议-将恢复高额“对等关税”](https://www.cls.cn/detail/2000564)
+- [【36kr】“股债汇三杀”！全球资本正疯狂逃离美国？](https://www.cls.cn/detail/2000665)
+- [【36kr】事关“原产地”认定规则，中国半导体行业协会紧急通知](https://www.cls.cn/detail/2000827)
+- [【36kr】特朗普团队评论美股大跌：正常回调-别大惊小怪](https://www.cls.cn/detail/2000603)
+- [【36kr】中国半导体行业协会紧急通知！关税风暴将如何重构行业格局？](https://www.cls.cn/detail/2000858)
+- [【36kr】逃离美国的全球资本去了哪？“最牛”黄金正携手“最猛”欧元……](https://www.cls.cn/detail/2001024)
+- [【36kr】习近平会见西班牙首相桑切斯](https://www.cls.cn/detail/2001008)
+- [【36kr】四部门：加大体育用品制造业、体育服务业等领域金融供给力度](https://www.cls.cn/detail/2001140)
+- [【36kr】继续反制！中方：对美加征关税由84%提高至125%](https://www.cls.cn/detail/2001168)
+- [【36kr】不可替代！浏阳花炮发声“不赚钱的生意我们不会做”-关税调整影响短期发货节奏](https://www.cls.cn/detail/2000536)
+- [【36kr】人民日报钟声：美“关税讹诈”严重扰乱全球产供链稳定](https://www.cls.cn/detail/2000528)
+- [【36kr】“避险之王”归位！现货金价刷新历史纪录-特朗普关税搅乱全球](https://www.cls.cn/detail/2000478)
+- [【36kr】桥水达利欧：特朗普关税严重损害了美国的声誉](https://www.cls.cn/detail/2000460)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
