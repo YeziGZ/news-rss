@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-05-02 20:40:26。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-05-02 23:38:34。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -29,20 +29,20 @@
 - [【36kr】工信部：将全力推进人工智能赋能新型工业化-加强通用大模型和行业大模型的研发布局](https://www.cls.cn/detail/2007911)
 - [【36kr】独家|多家银行被要求不得过度宣传单一大模型使用情况，应聚焦“自主、自研”](https://www.cls.cn/detail/2006712)
 - [【36kr】美欧贸易谈判据悉几无进展-OpenAI被曝打造社交网络-|-环球市场](https://www.cls.cn/detail/2005033)
-- [【36kr】爆款应用引发OpenAI服务器不堪重负-法拉利涨价应对美国关税-|-环球市场](https://www.cls.cn/detail/1986257)
 - [【36kr】多模态又考验算力了！ChatGPT文生图功能太火爆-奥尔特曼：GPU“冒烟了”](https://www.cls.cn/detail/1986305)
+- [【36kr】爆款应用引发OpenAI服务器不堪重负-法拉利涨价应对美国关税-|-环球市场](https://www.cls.cn/detail/1986257)
 - [【36kr】需求大爆发！OpenAI据称今年收入将增长两倍-明年再翻倍](https://www.cls.cn/detail/1984919)
 - [【36kr】阿里深夜炸场！通义千问发布新一代端到端旗舰模型Qwen2.5-Omni](https://www.cls.cn/detail/1984786)
-- [【36kr】谷歌、OpenAI竞相升级AI产品-霸王茶姬提交美股上市申请-|-环球市场](https://www.cls.cn/detail/1983563)
 - [【36kr】ChatGPT文生图功能迎重大升级：准确生成文字-商用边界大幅拓展](https://www.cls.cn/detail/1983489)
+- [【36kr】谷歌、OpenAI竞相升级AI产品-霸王茶姬提交美股上市申请-|-环球市场](https://www.cls.cn/detail/1983563)
 - [【36kr】蚂蚁集团全力拥抱AI：大模型训练降本、一体机发布、智能眼镜招兵买马](https://www.cls.cn/detail/1981760)
 - [【36kr】DeepSeek大模型一体机的落地“鸿沟”|深度](https://www.cls.cn/detail/1979144)
-- [【36kr】央行：安全稳妥有序推进人工智能大模型等在金融领域应用](https://www.cls.cn/detail/1974024)
-- [【36kr】上海：每年设立一定规模的算力券、模型券、语料券-支持初创型企业等优惠使用智能算力、语料库等资源](https://www.cls.cn/detail/1973839)
 - [【36kr】【早报】事关育儿、就业、养老，六部门重磅发声；央行：安全稳妥有序推进人工智能大模型等在金融领域应用](https://www.cls.cn/detail/1974727)
+- [【36kr】上海：每年设立一定规模的算力券、模型券、语料券-支持初创型企业等优惠使用智能算力、语料库等资源](https://www.cls.cn/detail/1973839)
+- [【36kr】央行：安全稳妥有序推进人工智能大模型等在金融领域应用](https://www.cls.cn/detail/1974024)
 - [【36kr】2025年将是智能体爆发年？OpenAI放大招-全新开发工具上线](https://www.cls.cn/detail/1968654)
-- [【36kr】稚晖君时隔两年首更：会骑自行车的通用人形机器人来了-搭载多模态大模型](https://www.cls.cn/detail/1967394)
 - [【36kr】爆火出圈后-Manus与阿里通义千问达成合作](https://www.cls.cn/detail/1968347)
+- [【36kr】稚晖君时隔两年首更：会骑自行车的通用人形机器人来了-搭载多模态大模型](https://www.cls.cn/detail/1967394)
 - [......【查看更多】......](/details/tags/aigc.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】港股收盘-|-5月开门红科技指数涨超3%领跑-科网股表现居前](https://www.cls.cn/detail/2021896)
-- [【36kr】巴菲特股东会前瞻：股神这一年干了点啥事？](https://www.cls.cn/detail/2018641)
-- [【36kr】QFII持仓曝光！Q1新进615只个股前十大流通股东榜，贝因美等多股获增持家数均为5家](https://www.cls.cn/detail/2021767)
-- [【36kr】累计金额超430亿！逾800家A股上市公司今年以来实施回购，个股回购金额排行榜出炉](https://www.cls.cn/detail/2021455)
-- [【36kr】美方近期多次主动传递谈判意愿，中方回应：正在评估](https://www.cls.cn/detail/2021738)
-- [【36kr】“国家队”持股动向揭晓-Q1增持个股名单一览](https://www.cls.cn/detail/2021485)
 - [【36kr】“史上最火”纪录又双叒要刷新？“五一”多地旅游消费热势如潮](https://www.cls.cn/detail/2021780)
-- [【36kr】美股三大期指走高-首次申请失业救济人数超出预期-|-今夜看点](https://www.cls.cn/detail/2021618)
-- [【36kr】人民日报：因势利导对经济布局进行调整优化](https://www.cls.cn/detail/1972345)
-- [【36kr】养老基金Q1重仓股曝光！新进51只个股前十大流通股东榜，宏发股份获持仓市值最高](https://www.cls.cn/detail/2021360)
-- [【36kr】拟收购柔性印制电路板企业的PCB概念股年内涨100%-4月披露并购重组进展的A股名单一览](https://www.cls.cn/detail/2021394)
-- [【36kr】乌美签署矿产协议，详情公布](https://www.cls.cn/detail/1972347)
-- [【36kr】“投资界春晚”即将上演：全球风云变幻之际-巴菲特如何布局未来？](https://www.cls.cn/detail/2017638)
-- [【36kr】国家卫健委：成立调查组对肖某、董某及有关机构认真调查核查](https://www.cls.cn/detail/1972343)
-- [【36kr】A股再迎分红潮-2024年报分红每股派息居前个股名单一览](https://www.cls.cn/detail/2021186)
-- [【36kr】社保基金最新持仓动向揭秘！Q1新进215只个股前十大流通股东榜，中通客车获增持家数最多](https://www.cls.cn/detail/2021210)
-- [【36kr】社保基金最新持仓曝光，8股被扎堆持有，多只煤炭股遭大幅减持](https://www.cls.cn/detail/2021549)
-- [【36kr】特朗普政府又变卦！上任百余天后计划恢复对乌军售](https://www.cls.cn/detail/2021603)
-- [【36kr】特朗普执政百日-美国内阁会议变“夸夸群”](https://www.cls.cn/detail/2021631)
+- [【36kr】“国家队”持股动向揭晓-Q1增持个股名单一览](https://www.cls.cn/detail/2021485)
+- [【36kr】美方近期多次主动传递谈判意愿，中方回应：正在评估](https://www.cls.cn/detail/2021738)
+- [【36kr】累计金额超430亿！逾800家A股上市公司今年以来实施回购，个股回购金额排行榜出炉](https://www.cls.cn/detail/2021455)
+- [【36kr】QFII持仓曝光！Q1新进615只个股前十大流通股东榜，贝因美等多股获增持家数均为5家](https://www.cls.cn/detail/2021767)
+- [【36kr】巴菲特股东会前瞻：股神这一年干了点啥事？](https://www.cls.cn/detail/2018641)
+- [【36kr】港股收盘-|-5月开门红科技指数涨超3%领跑-科网股表现居前](https://www.cls.cn/detail/2021896)
+- [【36kr】美国4月非农就业增长超预期-关税冲击尚未产生实质影响！](https://www.cls.cn/detail/2022020)
+- [【36kr】新势力4月交付迅速升温：零跑、小鹏单月同比大涨-蔚来重回2万“俱乐部”](https://www.cls.cn/detail/2021566)
 - [【36kr】【早报】国家卫健委调查肖某董某；新势力车企4月“成绩单”出炉](https://www.cls.cn/detail/2021719)
+- [【36kr】特朗普执政百日-美国内阁会议变“夸夸群”](https://www.cls.cn/detail/2021631)
+- [【36kr】特朗普政府又变卦！上任百余天后计划恢复对乌军售](https://www.cls.cn/detail/2021603)
+- [【36kr】社保基金最新持仓曝光，8股被扎堆持有，多只煤炭股遭大幅减持](https://www.cls.cn/detail/2021549)
+- [【36kr】社保基金最新持仓动向揭秘！Q1新进215只个股前十大流通股东榜，中通客车获增持家数最多](https://www.cls.cn/detail/2021210)
+- [【36kr】A股再迎分红潮-2024年报分红每股派息居前个股名单一览](https://www.cls.cn/detail/2021186)
+- [【36kr】国家卫健委：成立调查组对肖某、董某及有关机构认真调查核查](https://www.cls.cn/detail/1972343)
+- [【36kr】“投资界春晚”即将上演：全球风云变幻之际-巴菲特如何布局未来？](https://www.cls.cn/detail/2017638)
+- [【36kr】乌美签署矿产协议，详情公布](https://www.cls.cn/detail/1972347)
+- [【36kr】拟收购柔性印制电路板企业的PCB概念股年内涨100%-4月披露并购重组进展的A股名单一览](https://www.cls.cn/detail/2021394)
+- [【36kr】养老基金Q1重仓股曝光！新进51只个股前十大流通股东榜，宏发股份获持仓市值最高](https://www.cls.cn/detail/2021360)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
