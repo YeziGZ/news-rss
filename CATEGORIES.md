@@ -1,11 +1,11 @@
 ##
 
-:alarm_clock: 更新时间: 2025-06-07 04:46:39，:rocket: 更新条数: +14， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-06-07 06:49:03，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [36kr](#36kr)![](/assets/dot.png)   
-- [QuestMobile](#questmobile)![](/assets/dot.png)   
+- [QuestMobile](#questmobile)  
 - [艾瑞](#艾瑞)  
 
 ## 文章链接
@@ -16,26 +16,26 @@
 </summary>
 
 
-- [2025-06-07-罕见！美国农业部推迟发布贸易报告-并删除涉关税负面影响的文本](https://www.cls.cn/detail/2051355) ![](/assets/new.png)  
-- [2025-06-07-马斯克考虑成立“美国党”？超八成人投票赞成](https://www.cls.cn/detail/2051368) ![](/assets/new.png)  
-- [2025-06-06-特朗普：没兴趣与马斯克通话，但祝他一切顺利](https://www.cls.cn/detail/2051257)  
-- [2025-06-06-美国5月非农数据略超预期，强化了美联储的“观望”立场](https://www.cls.cn/detail/2051209)  
-- [2025-06-06-非农好于预期美股期货走高-特朗普甩脸马斯克“没兴趣聊”-|-今夜看点](https://www.cls.cn/detail/2051175)  
-- [2025-06-06-罚没过亿！金穗春操纵股票领巨额罚单](https://www.cls.cn/detail/2051118)  
-- [2025-06-06-俄大举轰炸乌军工企业回应“蛛网”行动-乌总统：袭击几覆盖全境](https://www.cls.cn/detail/2051112)  
-- [2025-06-06-南向资金追踪｜本周净流入超149亿港元-加仓比亚迪及石药集团抛售腾讯小米](https://www.cls.cn/detail/2051063)  
-- [2025-06-06-上交所：将推动上市公司进一步加大分红力度](https://www.cls.cn/detail/2051036)  
-- [2025-06-06-工信部：实施“人工智能+制造”行动-以工业智能体为抓手深化人工智能工业应用](https://www.cls.cn/detail/2050977)  
-- [2025-06-06-【数据看盘】外资、机构联手抢筹常山药业-量化资金活跃度逆势提升](https://www.cls.cn/detail/2050960)  
-- [2025-06-06-【焦点复盘】沪指日线4连阳剑指3400点，算力产业链持续走强，足球概念人气股晋级5连板](https://www.cls.cn/detail/2050949)  
-- [2025-06-06-详解中美元首通话：校正中美关系这艘大船的航向](https://www.cls.cn/detail/2050894)  
-- [2025-06-06-“特马和解”即将上演？特朗普淡化与马斯克骂战-助手们安排今日通话](https://www.cls.cn/detail/2050708)  
-- [2025-06-06-【每日收评】三大指数缩量整理涨跌不一，化工、有色等周期股方向逆势走强](https://www.cls.cn/detail/2050849)  
-- [2025-06-06-要玩就玩大的？马斯克回击特朗普：SpaceX“龙”飞船将立即退役！](https://www.cls.cn/detail/2050283)  
-- [2025-06-06-马斯克和特朗普彻底决裂-特斯拉市值一夜蒸发逾万亿](https://www.cls.cn/detail/2050273)  
-- [2025-06-06-6月6日投资避雷针：“苏超”概念人气股共创草坪、金陵体育提示风险](https://www.cls.cn/detail/2050284)  
+- [2025-06-07-马斯克考虑成立“美国党”？超八成人投票赞成](https://www.cls.cn/detail/2051368)  
+- [2025-06-07-罕见！美国农业部推迟发布贸易报告-并删除涉关税负面影响的文本](https://www.cls.cn/detail/2051355)  
+- [2025-06-07-Neuralink新一轮巨额融资背后：脑机接口步入“狂热”｜聚焦](https://www.cls.cn/detail/2051377) ![](/assets/new.png)  
+- [2025-06-07-特斯拉人形机器人Optimus项目负责人宣布离职：希望更多陪伴家人](https://www.cls.cn/detail/2051388) ![](/assets/new.png)  
+- [2025-06-07-机构密集调研数字货币概念股！龙头四连板，近两周接待量居前热门股名单来了](https://www.cls.cn/detail/2051260) ![](/assets/new.png)  
+- [2025-06-06-【早报】工信部：以工业智能体为抓手深化人工智能工业应用；上交所发声！进一步加大上市公司分红力度](https://www.cls.cn/detail/2051340)  
+- [2025-06-06-美股收盘：非农数据超预期-三大指数均涨逾1%-标普重返6000点](https://www.cls.cn/detail/2051333)  
 - [2025-06-06-两度熔断-最终收涨168.5%-稳定币第一股IPO首日被疯抢](https://www.cls.cn/detail/2050327)  
-- [2025-06-06-美股收盘：非农数据超预期-三大指数均涨逾1%-标普重返6000点](https://www.cls.cn/detail/2051333) ![](/assets/new.png)  
+- [2025-06-06-6月6日投资避雷针：“苏超”概念人气股共创草坪、金陵体育提示风险](https://www.cls.cn/detail/2050284)  
+- [2025-06-06-马斯克和特朗普彻底决裂-特斯拉市值一夜蒸发逾万亿](https://www.cls.cn/detail/2050273)  
+- [2025-06-06-要玩就玩大的？马斯克回击特朗普：SpaceX“龙”飞船将立即退役！](https://www.cls.cn/detail/2050283)  
+- [2025-06-06-【每日收评】三大指数缩量整理涨跌不一，化工、有色等周期股方向逆势走强](https://www.cls.cn/detail/2050849)  
+- [2025-06-06-“特马和解”即将上演？特朗普淡化与马斯克骂战-助手们安排今日通话](https://www.cls.cn/detail/2050708)  
+- [2025-06-06-详解中美元首通话：校正中美关系这艘大船的航向](https://www.cls.cn/detail/2050894)  
+- [2025-06-06-【焦点复盘】沪指日线4连阳剑指3400点，算力产业链持续走强，足球概念人气股晋级5连板](https://www.cls.cn/detail/2050949)  
+- [2025-06-06-【数据看盘】外资、机构联手抢筹常山药业-量化资金活跃度逆势提升](https://www.cls.cn/detail/2050960)  
+- [2025-06-06-工信部：实施“人工智能+制造”行动-以工业智能体为抓手深化人工智能工业应用](https://www.cls.cn/detail/2050977)  
+- [2025-06-06-上交所：将推动上市公司进一步加大分红力度](https://www.cls.cn/detail/2051036)  
+- [2025-06-06-南向资金追踪｜本周净流入超149亿港元-加仓比亚迪及石药集团抛售腾讯小米](https://www.cls.cn/detail/2051063)  
+- [2025-06-06-俄大举轰炸乌军工企业回应“蛛网”行动-乌总统：袭击几覆盖全境](https://www.cls.cn/detail/2051112)  
 - [......【查看更多】......](/details/36kr.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -47,16 +47,16 @@
 </summary>
 
 
-- [2025-06-07-QuestAuto-2025年旅游出行达人新能源汽车偏好快报：偏好TOP15车系中，30万元以上价位车系占比超七成](https://www.questmobile.com.cn/research/report/1925089708687331330) ![](/assets/new.png)  
-- [2025-06-07-QuestMobile2025有孩家庭人群消费洞察报告：有孩家庭月活规模3.62亿，Z世代有孩比例超28%，引发两大消费趋势变化](https://www.questmobile.com.cn/research/report/1927204984337829890) ![](/assets/new.png)  
-- [2025-06-07-QuestAuto2025年华北&东北&西北地区新能源汽车市场快报：河北、北京、陕西活跃占比位居前三！](https://www.questmobile.com.cn/research/report/1930563929496457217) ![](/assets/new.png)  
-- [2025-06-07-QuestMobile-2025汽车消费市场洞察报告：年轻化、下沉化成消费新趋势，跨代际、区域迭代成车企营销突破口](https://www.questmobile.com.cn/research/report/1924673400246210561) ![](/assets/new.png)  
-- [2025-06-07-QuestAuto-2025年汽车资讯达人新能源汽车偏好快报：TOP-15车系中SUV占据十席](https://www.questmobile.com.cn/research/report/1922499560887914498) ![](/assets/new.png)  
-- [2025-06-07-QuestAuto-2025年一季度新能源汽车市场发展报告：月度活跃总量突破3000万！](https://www.questmobile.com.cn/research/report/1920410160263696386) ![](/assets/new.png)  
-- [2025-06-07-QuestMobile-2025全域AI应用市场报告：三类应用“四个亿级赛道”，小艺、小布助手月活仅次于DeepSeek](https://www.questmobile.com.cn/research/report/1922175808492900353) ![](/assets/new.png)  
-- [2025-06-07-QuestAuto-2025年4月新能源汽车市场发展洞察报告：厂商活跃量比亚迪接近920万辆，长城首次超越长安](https://www.questmobile.com.cn/research/report/1927649002028896257) ![](/assets/new.png)  
-- [2025-06-07-QuestMobile2025-全景生态流量春季报告：智能设备持续爆发，催动生态流量边界扩张！](https://www.questmobile.com.cn/research/report/1917055006613278722) ![](/assets/new.png)  
-- [2025-06-07-QuestMobile2025中国移动互联网春季报告：多重利好释放产业，二线以上城市用户占比近5成，AI原生APP月活破2.7亿](https://www.questmobile.com.cn/research/report/1919961024158601218) ![](/assets/new.png)  
+- [2025-06-07-QuestAuto-2025年旅游出行达人新能源汽车偏好快报：偏好TOP15车系中，30万元以上价位车系占比超七成](https://www.questmobile.com.cn/research/report/1925089708687331330)  
+- [2025-06-07-QuestMobile2025有孩家庭人群消费洞察报告：有孩家庭月活规模3.62亿，Z世代有孩比例超28%，引发两大消费趋势变化](https://www.questmobile.com.cn/research/report/1927204984337829890)  
+- [2025-06-07-QuestAuto2025年华北&东北&西北地区新能源汽车市场快报：河北、北京、陕西活跃占比位居前三！](https://www.questmobile.com.cn/research/report/1930563929496457217)  
+- [2025-06-07-QuestMobile-2025汽车消费市场洞察报告：年轻化、下沉化成消费新趋势，跨代际、区域迭代成车企营销突破口](https://www.questmobile.com.cn/research/report/1924673400246210561)  
+- [2025-06-07-QuestAuto-2025年汽车资讯达人新能源汽车偏好快报：TOP-15车系中SUV占据十席](https://www.questmobile.com.cn/research/report/1922499560887914498)  
+- [2025-06-07-QuestAuto-2025年一季度新能源汽车市场发展报告：月度活跃总量突破3000万！](https://www.questmobile.com.cn/research/report/1920410160263696386)  
+- [2025-06-07-QuestMobile-2025全域AI应用市场报告：三类应用“四个亿级赛道”，小艺、小布助手月活仅次于DeepSeek](https://www.questmobile.com.cn/research/report/1922175808492900353)  
+- [2025-06-07-QuestAuto-2025年4月新能源汽车市场发展洞察报告：厂商活跃量比亚迪接近920万辆，长城首次超越长安](https://www.questmobile.com.cn/research/report/1927649002028896257)  
+- [2025-06-07-QuestMobile2025-全景生态流量春季报告：智能设备持续爆发，催动生态流量边界扩张！](https://www.questmobile.com.cn/research/report/1917055006613278722)  
+- [2025-06-07-QuestMobile2025中国移动互联网春季报告：多重利好释放产业，二线以上城市用户占比近5成，AI原生APP月活破2.7亿](https://www.questmobile.com.cn/research/report/1919961024158601218)  
 - [2025-04-23-QuestAuto-有孩家庭人群新能源汽车市场快报：31-40岁区间占比达到66.5%，“大空间+智能化”最佳](https://www.questmobile.com.cn/research/report/1914886163472158721)  
 - [2025-04-22-QuestMobile2025年泛年轻人群营销洞察报告：4.4亿用户双重特征影响商业生态，月线上消费超过2000元占比45.2%](https://www.questmobile.com.cn/research/report/1914581725750595585)  
 - [2025-04-22-QuestAuto-2025年1月增换购新能源汽车20-40万元市场快报：增换购纯电动汽车的比例增长](https://www.questmobile.com.cn/research/report/1902201131909615617)  
