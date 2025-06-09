@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-06-09 04:52:13。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-06-09 06:53:28。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -34,15 +34,15 @@
 - [【36kr】工信部：将全力推进人工智能赋能新型工业化-加强通用大模型和行业大模型的研发布局](https://www.cls.cn/detail/2007911)
 - [【36kr】独家|多家银行被要求不得过度宣传单一大模型使用情况，应聚焦“自主、自研”](https://www.cls.cn/detail/2006712)
 - [【36kr】美欧贸易谈判据悉几无进展-OpenAI被曝打造社交网络-|-环球市场](https://www.cls.cn/detail/2005033)
-- [【36kr】多模态又考验算力了！ChatGPT文生图功能太火爆-奥尔特曼：GPU“冒烟了”](https://www.cls.cn/detail/1986305)
 - [【36kr】爆款应用引发OpenAI服务器不堪重负-法拉利涨价应对美国关税-|-环球市场](https://www.cls.cn/detail/1986257)
+- [【36kr】多模态又考验算力了！ChatGPT文生图功能太火爆-奥尔特曼：GPU“冒烟了”](https://www.cls.cn/detail/1986305)
 - [【36kr】需求大爆发！OpenAI据称今年收入将增长两倍-明年再翻倍](https://www.cls.cn/detail/1984919)
 - [【36kr】阿里深夜炸场！通义千问发布新一代端到端旗舰模型Qwen2.5-Omni](https://www.cls.cn/detail/1984786)
-- [【36kr】ChatGPT文生图功能迎重大升级：准确生成文字-商用边界大幅拓展](https://www.cls.cn/detail/1983489)
 - [【36kr】谷歌、OpenAI竞相升级AI产品-霸王茶姬提交美股上市申请-|-环球市场](https://www.cls.cn/detail/1983563)
+- [【36kr】ChatGPT文生图功能迎重大升级：准确生成文字-商用边界大幅拓展](https://www.cls.cn/detail/1983489)
 - [【36kr】蚂蚁集团全力拥抱AI：大模型训练降本、一体机发布、智能眼镜招兵买马](https://www.cls.cn/detail/1981760)
 - [【36kr】DeepSeek大模型一体机的落地“鸿沟”|深度](https://www.cls.cn/detail/1979144)
-- [【36kr】【早报】事关育儿、就业、养老，六部门重磅发声；央行：安全稳妥有序推进人工智能大模型等在金融领域应用](https://www.cls.cn/detail/1974727)
+- [【36kr】央行：安全稳妥有序推进人工智能大模型等在金融领域应用](https://www.cls.cn/detail/1974024)
 - [......【查看更多】......](/details/tags/aigc.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】国家统计局：5月CPI同比下降0.1%-PPI环比下降0.4%](https://www.cls.cn/detail/2051938)
-- [【36kr】今起试行-中国单方面免签“朋友圈”再增4国](https://www.cls.cn/detail/2051817)
-- [【36kr】6月9日投资避雷针：德赛西威、若羽臣等十余家公司股东抛大额减持计划](https://www.cls.cn/detail/2051814)
-- [【36kr】特马“断崖式分手”？万斯“劝架”：希望马斯克重归特朗普阵营！](https://www.cls.cn/detail/2051820)
-- [【36kr】券商晨会精华：人形机器人轴承潜力巨大，国产替代空间广阔](https://www.cls.cn/detail/2051807)
 - [【36kr】海关总署：5月我国货物贸易出口同比增长6.3%](https://www.cls.cn/detail/2052025)
-- [【36kr】深创投出手！加速进化获亿元融资-旗下机器人9:0踢赢具身智能“世界杯”](https://www.cls.cn/detail/2051790)
-- [【36kr】基金、券商打响“耳朵争夺战”，用播客陪伴受众，谁的声音能被留住？](https://www.cls.cn/detail/2051716)
-- [【36kr】突发！百亿电商概念股遭股东计划减持|盘后公告集锦](https://www.cls.cn/detail/2051688)
-- [【36kr】【早报】中美将举行经贸磋商机制首次会议；事关稀土出口，商务部发声](https://www.cls.cn/detail/2051775)
-- [【36kr】具备参与香港地区法币稳定币相关业务的能力-数字货币概念股涨停-本周机构密集调研相关上市公司](https://www.cls.cn/detail/2051691)
-- [【36kr】6-8月推荐回归AI链？十大券商策略来了](https://www.cls.cn/detail/2051668)
-- [【36kr】周末要闻汇总：中方已批准一定数量的稀土出口合规申请；美恢复处理哈佛大学国际学生签证](https://www.cls.cn/detail/2051606)
-- [【36kr】太空AI数据中心要来了！英伟达H100芯片卫星即将发射](https://www.cls.cn/detail/2051540)
-- [【36kr】美国恢复处理哈佛国际学生签证](https://www.cls.cn/detail/2051532)
-- [【36kr】名额“限量供应”！多地家电国补按下暂停键-新一轮政策或已在路上|传真](https://www.cls.cn/detail/2051626)
-- [【36kr】量化成交占比提升到四成？实情调研：四成结论为时尚早，确有多类主体推升](https://www.cls.cn/detail/2051631)
-- [【36kr】敏感时刻，马斯克父亲抵达莫斯科](https://www.cls.cn/detail/2051714)
-- [【36kr】比亚迪回应“常压油箱”“车圈恒大”等问题](https://www.cls.cn/detail/2051612)
+- [【36kr】券商晨会精华：人形机器人轴承潜力巨大，国产替代空间广阔](https://www.cls.cn/detail/2051807)
+- [【36kr】特马“断崖式分手”？万斯“劝架”：希望马斯克重归特朗普阵营！](https://www.cls.cn/detail/2051820)
+- [【36kr】6月9日投资避雷针：德赛西威、若羽臣等十余家公司股东抛大额减持计划](https://www.cls.cn/detail/2051814)
+- [【36kr】今起试行-中国单方面免签“朋友圈”再增4国](https://www.cls.cn/detail/2051817)
+- [【36kr】国家统计局：5月CPI同比下降0.1%-PPI环比下降0.4%](https://www.cls.cn/detail/2051938)
+- [【36kr】驻日美军基地内发生爆炸](https://www.cls.cn/detail/2052084)
+- [【36kr】修船、换船还是弃船？马斯克与特朗普争端稍缓-硅谷却迟疑未来行动](https://www.cls.cn/detail/2051715)
 - [【36kr】军民两用机遇“齐飞”-中无人机预计今年扭亏为盈-成色究竟几何？|洞见科创板](https://www.cls.cn/detail/2051705)
+- [【36kr】比亚迪回应“常压油箱”“车圈恒大”等问题](https://www.cls.cn/detail/2051612)
+- [【36kr】敏感时刻，马斯克父亲抵达莫斯科](https://www.cls.cn/detail/2051714)
+- [【36kr】量化成交占比提升到四成？实情调研：四成结论为时尚早，确有多类主体推升](https://www.cls.cn/detail/2051631)
+- [【36kr】名额“限量供应”！多地家电国补按下暂停键-新一轮政策或已在路上|传真](https://www.cls.cn/detail/2051626)
+- [【36kr】美国恢复处理哈佛国际学生签证](https://www.cls.cn/detail/2051532)
+- [【36kr】太空AI数据中心要来了！英伟达H100芯片卫星即将发射](https://www.cls.cn/detail/2051540)
+- [【36kr】周末要闻汇总：中方已批准一定数量的稀土出口合规申请；美恢复处理哈佛大学国际学生签证](https://www.cls.cn/detail/2051606)
+- [【36kr】6-8月推荐回归AI链？十大券商策略来了](https://www.cls.cn/detail/2051668)
+- [【36kr】具备参与香港地区法币稳定币相关业务的能力-数字货币概念股涨停-本周机构密集调研相关上市公司](https://www.cls.cn/detail/2051691)
+- [【36kr】【早报】中美将举行经贸磋商机制首次会议；事关稀土出口，商务部发声](https://www.cls.cn/detail/2051775)
+- [【36kr】突发！百亿电商概念股遭股东计划减持|盘后公告集锦](https://www.cls.cn/detail/2051688)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
