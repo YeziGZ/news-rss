@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-06-10 04:49:13。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-06-10 06:51:59。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -34,15 +34,15 @@
 - [【36kr】工信部：将全力推进人工智能赋能新型工业化-加强通用大模型和行业大模型的研发布局](https://www.cls.cn/detail/2007911)
 - [【36kr】独家|多家银行被要求不得过度宣传单一大模型使用情况，应聚焦“自主、自研”](https://www.cls.cn/detail/2006712)
 - [【36kr】美欧贸易谈判据悉几无进展-OpenAI被曝打造社交网络-|-环球市场](https://www.cls.cn/detail/2005033)
-- [【36kr】爆款应用引发OpenAI服务器不堪重负-法拉利涨价应对美国关税-|-环球市场](https://www.cls.cn/detail/1986257)
 - [【36kr】多模态又考验算力了！ChatGPT文生图功能太火爆-奥尔特曼：GPU“冒烟了”](https://www.cls.cn/detail/1986305)
+- [【36kr】爆款应用引发OpenAI服务器不堪重负-法拉利涨价应对美国关税-|-环球市场](https://www.cls.cn/detail/1986257)
 - [【36kr】需求大爆发！OpenAI据称今年收入将增长两倍-明年再翻倍](https://www.cls.cn/detail/1984919)
 - [【36kr】阿里深夜炸场！通义千问发布新一代端到端旗舰模型Qwen2.5-Omni](https://www.cls.cn/detail/1984786)
-- [【36kr】谷歌、OpenAI竞相升级AI产品-霸王茶姬提交美股上市申请-|-环球市场](https://www.cls.cn/detail/1983563)
 - [【36kr】ChatGPT文生图功能迎重大升级：准确生成文字-商用边界大幅拓展](https://www.cls.cn/detail/1983489)
+- [【36kr】谷歌、OpenAI竞相升级AI产品-霸王茶姬提交美股上市申请-|-环球市场](https://www.cls.cn/detail/1983563)
 - [【36kr】蚂蚁集团全力拥抱AI：大模型训练降本、一体机发布、智能眼镜招兵买马](https://www.cls.cn/detail/1981760)
 - [【36kr】DeepSeek大模型一体机的落地“鸿沟”|深度](https://www.cls.cn/detail/1979144)
-- [【36kr】央行：安全稳妥有序推进人工智能大模型等在金融领域应用](https://www.cls.cn/detail/1974024)
+- [【36kr】【早报】事关育儿、就业、养老，六部门重磅发声；央行：安全稳妥有序推进人工智能大模型等在金融领域应用](https://www.cls.cn/detail/1974727)
 - [......【查看更多】......](/details/tags/aigc.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】这次谈判美方来了谁？中美经贸磋商机制首次会议将继续进行](https://www.cls.cn/detail/2053160)
-- [【36kr】每个美国新生儿给1000美金！一文读懂“特朗普账户”影响有多大](https://www.cls.cn/detail/2053072)
-- [【36kr】6月10日投资避雷针：5天4板人气股突发公告-股票交易异常波动将停牌核查](https://www.cls.cn/detail/2052933)
-- [【36kr】和解信号再现？特朗普：不会处理掉特斯拉-愿马斯克“一切顺利”！](https://www.cls.cn/detail/2052918)
 - [【36kr】财政部：抓紧建立实施育儿补贴制度-有关工作正加快推进](https://www.cls.cn/detail/2053126)
-- [【36kr】【早报】中美经贸磋商机制首次会议举行；合理提高最低工资标准！中办、国办印发重磅民生文件](https://www.cls.cn/detail/2052882)
-- [【36kr】美股收盘：三大指数涨跌不一-中概股金龙指数升超2%](https://www.cls.cn/detail/2052859)
-- [【36kr】冲突持续升级！特朗普建议逮捕加州州长纽森](https://www.cls.cn/detail/2052819)
-- [【36kr】自动驾驶汽车遭肆意纵火-谷歌Waymo暂停洛杉矶市中心运营](https://www.cls.cn/detail/2052646)
-- [【36kr】一个月涨近5倍！亚洲最大比特币持有者欲融资53亿美元-豪言要囤积21万枚比特币](https://www.cls.cn/detail/2052396)
-- [【36kr】海光信息拟1160亿元换股吸收合并中科曙光-股票双双复牌](https://www.cls.cn/detail/2052698)
-- [【36kr】新消费分歧也来了！百亿私募喊话泡沫明显，公募持续布局，该信谁？](https://www.cls.cn/detail/2052519)
-- [【36kr】逼近“924起点”！白酒指数再创年内新低，融资客近日部分回流，这些标的已获加仓](https://www.cls.cn/detail/2052483)
-- [【36kr】中办、国办印发《关于进一步保障和改善民生-着力解决群众急难愁盼的意见》](https://www.cls.cn/detail/2052420)
-- [【36kr】重磅级民生文件公布-如何改变你我生活？一文了解](https://www.cls.cn/detail/2052411)
-- [【36kr】【每日收评】沪指盘中重返3400点！全市场逾百股涨超9%，创新药板块再迎爆发](https://www.cls.cn/detail/2052385)
-- [【36kr】泡泡玛特股价创新高！一娃难求的Labubu捧出河南新首富](https://www.cls.cn/detail/2052206)
-- [【36kr】马斯克对特朗普重新示好？深夜连转两条特朗普帖文](https://www.cls.cn/detail/2052139)
-- [【36kr】5月出口数据：芯片、船舶继续大涨-手机、家电下滑](https://www.cls.cn/detail/2052075)
-- [【36kr】美国人陷入40年未遇的思考：当所有投资回报都相同，该如何投资？](https://www.cls.cn/detail/2052014)
+- [【36kr】和解信号再现？特朗普：不会处理掉特斯拉-愿马斯克“一切顺利”！](https://www.cls.cn/detail/2052918)
+- [【36kr】6月10日投资避雷针：5天4板人气股突发公告-股票交易异常波动将停牌核查](https://www.cls.cn/detail/2052933)
+- [【36kr】每个美国新生儿给1000美金！一文读懂“特朗普账户”影响有多大](https://www.cls.cn/detail/2053072)
+- [【36kr】这次谈判美方来了谁？中美经贸磋商机制首次会议将继续进行](https://www.cls.cn/detail/2053160)
+- [【36kr】一波基金经理重仓新消费成名，泡泡玛特又新高成全了谁？](https://www.cls.cn/detail/2053129)
+- [【36kr】新华社：从日内瓦到伦敦，朝着对话合作相向而行](https://www.cls.cn/detail/2053254)
+- [【36kr】任正非：国家越开放，会促使我们更加进步](https://www.cls.cn/detail/2052903)
+- [【36kr】人民日报钟声：中美经贸关系优势互补、共生共赢](https://www.cls.cn/detail/2052896)
+- [【36kr】深交所前理事长陈东征病逝，十四载掌舵，业内缅怀：于浪潮中力挽狂澜](https://www.cls.cn/detail/2052890)
+- [【36kr】特朗普公布新生儿储蓄计划-每生一孩存1000美元-|-环球市场](https://www.cls.cn/detail/2052878)
+- [【36kr】速览苹果WWDC：系统视觉风格大升级，更多功能加入AI元素](https://www.cls.cn/detail/2052846)
+- [【36kr】中美经贸磋商机制首次会议将继续进行](https://www.cls.cn/detail/2052844)
+- [【36kr】研发成功！新型材料来了，可用于体温发电](https://www.cls.cn/detail/2052634)
+- [【36kr】保障房扩容、青年公寓加码、公积金覆盖灵活就业者-中央民生新政打出组合拳](https://www.cls.cn/detail/2052697)
+- [【36kr】最低门槛只要20万！券商T0算法交易各有资产规模新要求，更名也出乎意料](https://www.cls.cn/detail/2052680)
+- [【36kr】利息不够礼品来凑？“存款5万送LABUBU盲盒”引热议后，有地方监管明确敲打：不得变通揽储](https://www.cls.cn/detail/2052641)
+- [【36kr】李强：着力破解科技成果转化瓶颈，切实提高转化效能，促进创新发展](https://www.cls.cn/detail/2052596)
+- [【36kr】马斯克和贝森特曾大打出手？白宫发言人回应了](https://www.cls.cn/detail/2052315)
+- [【36kr】【数据看盘】机构连续加仓常山药业-多只稳定币概念股遭甩卖](https://www.cls.cn/detail/2052485)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
