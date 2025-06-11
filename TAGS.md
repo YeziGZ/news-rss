@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-06-11 07:40:54。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-06-11 08:49:51。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -34,15 +34,15 @@
 - [【36kr】工信部：将全力推进人工智能赋能新型工业化-加强通用大模型和行业大模型的研发布局](https://www.cls.cn/detail/2007911)
 - [【36kr】独家|多家银行被要求不得过度宣传单一大模型使用情况，应聚焦“自主、自研”](https://www.cls.cn/detail/2006712)
 - [【36kr】美欧贸易谈判据悉几无进展-OpenAI被曝打造社交网络-|-环球市场](https://www.cls.cn/detail/2005033)
-- [【36kr】多模态又考验算力了！ChatGPT文生图功能太火爆-奥尔特曼：GPU“冒烟了”](https://www.cls.cn/detail/1986305)
 - [【36kr】爆款应用引发OpenAI服务器不堪重负-法拉利涨价应对美国关税-|-环球市场](https://www.cls.cn/detail/1986257)
+- [【36kr】多模态又考验算力了！ChatGPT文生图功能太火爆-奥尔特曼：GPU“冒烟了”](https://www.cls.cn/detail/1986305)
 - [【36kr】需求大爆发！OpenAI据称今年收入将增长两倍-明年再翻倍](https://www.cls.cn/detail/1984919)
 - [【36kr】阿里深夜炸场！通义千问发布新一代端到端旗舰模型Qwen2.5-Omni](https://www.cls.cn/detail/1984786)
-- [【36kr】ChatGPT文生图功能迎重大升级：准确生成文字-商用边界大幅拓展](https://www.cls.cn/detail/1983489)
 - [【36kr】谷歌、OpenAI竞相升级AI产品-霸王茶姬提交美股上市申请-|-环球市场](https://www.cls.cn/detail/1983563)
+- [【36kr】ChatGPT文生图功能迎重大升级：准确生成文字-商用边界大幅拓展](https://www.cls.cn/detail/1983489)
 - [【36kr】蚂蚁集团全力拥抱AI：大模型训练降本、一体机发布、智能眼镜招兵买马](https://www.cls.cn/detail/1981760)
 - [【36kr】DeepSeek大模型一体机的落地“鸿沟”|深度](https://www.cls.cn/detail/1979144)
-- [【36kr】【早报】事关育儿、就业、养老，六部门重磅发声；央行：安全稳妥有序推进人工智能大模型等在金融领域应用](https://www.cls.cn/detail/1974727)
+- [【36kr】央行：安全稳妥有序推进人工智能大模型等在金融领域应用](https://www.cls.cn/detail/1974024)
 - [......【查看更多】......](/details/tags/aigc.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】“洛杉矶骚乱”升级：市中心部分地区宵禁，特朗普说抗议者是“外国敌人”](https://www.cls.cn/detail/2054251)
-- [【36kr】比亚迪、小米、长城等多家车企齐发声-承诺支付账期不超过60天](https://www.cls.cn/detail/2054233)
-- [【36kr】马斯克官宣Robotaxi公开试运营日期：暂定6月22日！](https://www.cls.cn/detail/2054187)
-- [【36kr】6月11日投资避雷针：金银河、德新科技等固态电池概念股密集提示风险](https://www.cls.cn/detail/2054065)
-- [【36kr】特朗普要“松口”？美国与墨西哥据称即将达成“钢铁关税限免”协议](https://www.cls.cn/detail/2054112)
-- [【36kr】美国防部长：洛杉矶部署军队预计花费1.34亿美元-至少持续60天](https://www.cls.cn/detail/2054168)
-- [【36kr】中国国民党前主席马英九将率团于6月14日至27日访陆](https://www.cls.cn/detail/2054227)
-- [【36kr】108万天价玩偶背后：泡泡玛特的“IP印钞机”能转多久？](https://www.cls.cn/detail/2054278)
-- [【36kr】发掘优质3A项目！浙江17部门发文支持游戏出海-产业利好政策信号持续释放](https://www.cls.cn/detail/2054383)
 - [【36kr】5月新能源车销量TOP10：上榜厂商环比全部正增长-鸿蒙智行创新高](https://www.cls.cn/detail/2054176)
-- [【36kr】我国机器人灵巧手获重大技术突破-机器人产业迈入爆发前夜](https://www.cls.cn/detail/2054050)
-- [【36kr】特朗普声称洛杉矶骚乱事件是“外国入侵”-|-环球市场](https://www.cls.cn/detail/2054036)
-- [【36kr】比亚迪汽车：将供应商支付账期统一至60天内](https://www.cls.cn/detail/2054034)
-- [【36kr】万科“回血”进行时-1.46亿元出售首批库存股](https://www.cls.cn/detail/2054022)
-- [【36kr】贝森特被传是美联储主席热门人选之一，白宫迅速否认](https://www.cls.cn/detail/2053975)
-- [【36kr】特朗普政府要求上诉法院维持关税政策](https://www.cls.cn/detail/2053873)
-- [【36kr】市场密切关注贸易谈判-美股三大期指小幅走高-|-今夜看点](https://www.cls.cn/detail/2053796)
-- [【36kr】美国基金经理游说国会修改“第899条款”-以防外国投资者撤出美国](https://www.cls.cn/detail/2053740)
-- [【36kr】美股收盘：标普和纳指连涨三天-科技巨头、芯片股整体走强](https://www.cls.cn/detail/2054003)
-- [【36kr】四家车企集体官宣：将支付账期统一至60天内](https://www.cls.cn/detail/2053828)
+- [【36kr】发掘优质3A项目！浙江17部门发文支持游戏出海-产业利好政策信号持续释放](https://www.cls.cn/detail/2054383)
+- [【36kr】108万天价玩偶背后：泡泡玛特的“IP印钞机”能转多久？](https://www.cls.cn/detail/2054278)
+- [【36kr】中国国民党前主席马英九将率团于6月14日至27日访陆](https://www.cls.cn/detail/2054227)
+- [【36kr】美国防部长：洛杉矶部署军队预计花费1.34亿美元-至少持续60天](https://www.cls.cn/detail/2054168)
+- [【36kr】特朗普要“松口”？美国与墨西哥据称即将达成“钢铁关税限免”协议](https://www.cls.cn/detail/2054112)
+- [【36kr】6月11日投资避雷针：金银河、德新科技等固态电池概念股密集提示风险](https://www.cls.cn/detail/2054065)
+- [【36kr】马斯克官宣Robotaxi公开试运营日期：暂定6月22日！](https://www.cls.cn/detail/2054187)
+- [【36kr】比亚迪、小米、长城等多家车企齐发声-承诺支付账期不超过60天](https://www.cls.cn/detail/2054233)
+- [【36kr】“洛杉矶骚乱”升级：市中心部分地区宵禁，特朗普说抗议者是“外国敌人”](https://www.cls.cn/detail/2054251)
+- [【36kr】钟南山：对待当前新冠疫情要像流感一样-不要慌](https://www.cls.cn/detail/2054340)
+- [【36kr】外交部回应香港长和出售海外港口资产：中方一贯反对经济胁迫](https://www.cls.cn/detail/2054486)
+- [【36kr】中非维护全球南方团结合作的长沙宣言（全文）](https://www.cls.cn/detail/2054495)
+- [【36kr】深圳低空经济发展再获重磅政策支持-行业运营落地可期](https://www.cls.cn/detail/2054047)
+- [【36kr】【数读IPO】今日1申购1上市，涉及全球运动相机及全景相机龙头等](https://www.cls.cn/detail/2054035)
+- [【36kr】汉堡遇上减肥针：研究机构将麦当劳股票评级暴降至“卖出”](https://www.cls.cn/detail/2053954)
+- [【36kr】【早报】中办国办发文，深入推进深圳综合改革试点；事关直播电商监督管理，市场监管总局公开征求意见](https://www.cls.cn/detail/2054025)
+- [【36kr】研发机器人电子皮肤！80亿核电概念股与小米下属公司签署战略合作协议|盘后公告集锦](https://www.cls.cn/detail/2053816)
+- [【36kr】大摩中国首席：国际投资者对中国股票配置意愿增强-尤其看好港股和ADR](https://www.cls.cn/detail/2053570)
+- [【36kr】国家发改委召开科技型民营企业座谈会-就编制“十五五”规划听取民营企业意见建议](https://www.cls.cn/detail/2053681)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
