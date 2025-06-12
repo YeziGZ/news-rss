@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-06-12 07:39:51。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-06-12 08:49:38。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -34,15 +34,15 @@
 - [【36kr】工信部：将全力推进人工智能赋能新型工业化-加强通用大模型和行业大模型的研发布局](https://www.cls.cn/detail/2007911)
 - [【36kr】独家|多家银行被要求不得过度宣传单一大模型使用情况，应聚焦“自主、自研”](https://www.cls.cn/detail/2006712)
 - [【36kr】美欧贸易谈判据悉几无进展-OpenAI被曝打造社交网络-|-环球市场](https://www.cls.cn/detail/2005033)
-- [【36kr】多模态又考验算力了！ChatGPT文生图功能太火爆-奥尔特曼：GPU“冒烟了”](https://www.cls.cn/detail/1986305)
 - [【36kr】爆款应用引发OpenAI服务器不堪重负-法拉利涨价应对美国关税-|-环球市场](https://www.cls.cn/detail/1986257)
+- [【36kr】多模态又考验算力了！ChatGPT文生图功能太火爆-奥尔特曼：GPU“冒烟了”](https://www.cls.cn/detail/1986305)
 - [【36kr】需求大爆发！OpenAI据称今年收入将增长两倍-明年再翻倍](https://www.cls.cn/detail/1984919)
 - [【36kr】阿里深夜炸场！通义千问发布新一代端到端旗舰模型Qwen2.5-Omni](https://www.cls.cn/detail/1984786)
-- [【36kr】ChatGPT文生图功能迎重大升级：准确生成文字-商用边界大幅拓展](https://www.cls.cn/detail/1983489)
 - [【36kr】谷歌、OpenAI竞相升级AI产品-霸王茶姬提交美股上市申请-|-环球市场](https://www.cls.cn/detail/1983563)
+- [【36kr】ChatGPT文生图功能迎重大升级：准确生成文字-商用边界大幅拓展](https://www.cls.cn/detail/1983489)
 - [【36kr】蚂蚁集团全力拥抱AI：大模型训练降本、一体机发布、智能眼镜招兵买马](https://www.cls.cn/detail/1981760)
 - [【36kr】DeepSeek大模型一体机的落地“鸿沟”|深度](https://www.cls.cn/detail/1979144)
-- [【36kr】【早报】事关育儿、就业、养老，六部门重磅发声；央行：安全稳妥有序推进人工智能大模型等在金融领域应用](https://www.cls.cn/detail/1974727)
+- [【36kr】央行：安全稳妥有序推进人工智能大模型等在金融领域应用](https://www.cls.cn/detail/1974024)
 - [......【查看更多】......](/details/tags/aigc.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】深圳“四个一批”加码低空经济-2025年或成产业落地元年](https://www.cls.cn/detail/2055475)
-- [【36kr】当全球通胀纷纷回落-亚洲降息潮已势不可挡？](https://www.cls.cn/detail/2055392)
-- [【36kr】热情太高？近十地汽车置换补贴按下“暂停键”-工作人员：下半年或重新开放](https://www.cls.cn/detail/2055427)
-- [【36kr】新增印尼-中国240小时过境免签政策适用国家增至55国（附名单）](https://www.cls.cn/detail/2055309)
-- [【36kr】工信部：支持整车企业切实践行“支付账期不超过60天”承诺](https://www.cls.cn/detail/2055282)
-- [【36kr】券商晨会精华：具身智能AI下一站，预测远期潜在市场空间超万亿元](https://www.cls.cn/detail/2055152)
-- [【36kr】6月12日投资避雷针：盘中一度涨停-500亿券商股紧急澄清合并传闻](https://www.cls.cn/detail/2055172)
-- [【36kr】美财长和特朗普双双“松口”：愿意延长关税暂缓期](https://www.cls.cn/detail/2055168)
-- [【36kr】中信建投：稳定币市场规模高速增长，跨境支付应用场景活跃度不断攀升](https://www.cls.cn/detail/2055171)
-- [【36kr】外交部：望美方同中方一道落实两国元首通话达成的重要共识](https://www.cls.cn/detail/2055540)
 - [【36kr】去美元化！这一回亚洲经济体是“认真”的……](https://www.cls.cn/detail/2055521)
-- [【36kr】成交量同比增长超8倍！智能眼镜产业链迎爆发式增长](https://www.cls.cn/detail/2055153)
-- [【36kr】又一固态电池大会将于下周举行-行业迈入量产前夜](https://www.cls.cn/detail/2055147)
-- [【36kr】国际原油结算价大涨4%-美官员称美军家属可撤离中东-|-环球市场](https://www.cls.cn/detail/2055155)
-- [【36kr】摩根大通CEO警告：美国经济很快就会恶化](https://www.cls.cn/detail/2055076)
-- [【36kr】俄副外长：乌克兰无人机袭击未撼动俄罗斯核威慑能力](https://www.cls.cn/detail/2054981)
-- [【36kr】【早报】李成钢：中美就落实两国元首通话共识及日内瓦会谈共识达成框架；中方将对53个非洲建交国实施100%税目产品零关税](https://www.cls.cn/detail/2055137)
-- [【36kr】美股收盘：三大指数集体收跌-苹果总市值失守三万亿](https://www.cls.cn/detail/2055121)
-- [【36kr】美国正副总统围攻鲍威尔：再不肯降息就是失职了！](https://www.cls.cn/detail/2055070)
-- [【36kr】李成钢：中美就落实两国元首通话共识及日内瓦会谈共识达成框架](https://www.cls.cn/detail/2054898)
+- [【36kr】外交部：望美方同中方一道落实两国元首通话达成的重要共识](https://www.cls.cn/detail/2055540)
+- [【36kr】中信建投：稳定币市场规模高速增长，跨境支付应用场景活跃度不断攀升](https://www.cls.cn/detail/2055171)
+- [【36kr】美财长和特朗普双双“松口”：愿意延长关税暂缓期](https://www.cls.cn/detail/2055168)
+- [【36kr】6月12日投资避雷针：盘中一度涨停-500亿券商股紧急澄清合并传闻](https://www.cls.cn/detail/2055172)
+- [【36kr】券商晨会精华：具身智能AI下一站，预测远期潜在市场空间超万亿元](https://www.cls.cn/detail/2055152)
+- [【36kr】工信部：支持整车企业切实践行“支付账期不超过60天”承诺](https://www.cls.cn/detail/2055282)
+- [【36kr】新增印尼-中国240小时过境免签政策适用国家增至55国（附名单）](https://www.cls.cn/detail/2055309)
+- [【36kr】热情太高？近十地汽车置换补贴按下“暂停键”-工作人员：下半年或重新开放](https://www.cls.cn/detail/2055427)
+- [【36kr】当全球通胀纷纷回落-亚洲降息潮已势不可挡？](https://www.cls.cn/detail/2055392)
+- [【36kr】深圳“四个一批”加码低空经济-2025年或成产业落地元年](https://www.cls.cn/detail/2055475)
+- [【36kr】脑机接口+外骨骼=新型康复装备！助力截瘫患者靠意念行走](https://www.cls.cn/detail/2055329)
+- [【36kr】特朗普称中方将提供稀土磁铁，外交部回应](https://www.cls.cn/detail/2055536)
+- [【36kr】商务部介绍中美经贸磋商机制首次会议情况](https://www.cls.cn/detail/2055603)
+- [【36kr】风险暗含？孩子王近6倍溢价收购养发育发企业丝域实业-原PE股东十年身退](https://www.cls.cn/detail/2054842)
+- [【36kr】人民日报钟声：用好磋商机制-共护对话成果](https://www.cls.cn/detail/2054966)
+- [【36kr】深交所将迎H+A双重上市公司，政策鼓励湾区企业回流A股，220多家企业谁抢先一步？](https://www.cls.cn/detail/2054916)
+- [【36kr】黄仁勋巴黎GTC大秀欧洲“主权AI”浪潮-预期当地算力两年翻十倍](https://www.cls.cn/detail/2054892)
+- [【36kr】与华福合并传闻拉出涨停板，兴业证券火速澄清，证券业合并传闻何其多](https://www.cls.cn/detail/2054903)
+- [【36kr】外交部：中方将对53个非洲建交国实施100%税目产品零关税](https://www.cls.cn/detail/2054526)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
