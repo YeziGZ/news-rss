@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-06-14 04:46:53。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-06-14 07:37:37。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -34,15 +34,15 @@
 - [【36kr】工信部：将全力推进人工智能赋能新型工业化-加强通用大模型和行业大模型的研发布局](https://www.cls.cn/detail/2007911)
 - [【36kr】独家|多家银行被要求不得过度宣传单一大模型使用情况，应聚焦“自主、自研”](https://www.cls.cn/detail/2006712)
 - [【36kr】美欧贸易谈判据悉几无进展-OpenAI被曝打造社交网络-|-环球市场](https://www.cls.cn/detail/2005033)
-- [【36kr】多模态又考验算力了！ChatGPT文生图功能太火爆-奥尔特曼：GPU“冒烟了”](https://www.cls.cn/detail/1986305)
 - [【36kr】爆款应用引发OpenAI服务器不堪重负-法拉利涨价应对美国关税-|-环球市场](https://www.cls.cn/detail/1986257)
+- [【36kr】多模态又考验算力了！ChatGPT文生图功能太火爆-奥尔特曼：GPU“冒烟了”](https://www.cls.cn/detail/1986305)
 - [【36kr】需求大爆发！OpenAI据称今年收入将增长两倍-明年再翻倍](https://www.cls.cn/detail/1984919)
 - [【36kr】阿里深夜炸场！通义千问发布新一代端到端旗舰模型Qwen2.5-Omni](https://www.cls.cn/detail/1984786)
-- [【36kr】ChatGPT文生图功能迎重大升级：准确生成文字-商用边界大幅拓展](https://www.cls.cn/detail/1983489)
 - [【36kr】谷歌、OpenAI竞相升级AI产品-霸王茶姬提交美股上市申请-|-环球市场](https://www.cls.cn/detail/1983563)
+- [【36kr】ChatGPT文生图功能迎重大升级：准确生成文字-商用边界大幅拓展](https://www.cls.cn/detail/1983489)
 - [【36kr】蚂蚁集团全力拥抱AI：大模型训练降本、一体机发布、智能眼镜招兵买马](https://www.cls.cn/detail/1981760)
 - [【36kr】DeepSeek大模型一体机的落地“鸿沟”|深度](https://www.cls.cn/detail/1979144)
-- [【36kr】【早报】事关育儿、就业、养老，六部门重磅发声；央行：安全稳妥有序推进人工智能大模型等在金融领域应用](https://www.cls.cn/detail/1974727)
+- [【36kr】央行：安全稳妥有序推进人工智能大模型等在金融领域应用](https://www.cls.cn/detail/1974024)
 - [......【查看更多】......](/details/tags/aigc.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】伊朗媒体公布被击落的以色列F-35战机残骸照片](https://www.cls.cn/detail/2057463)
-- [【36kr】中国代表：中方谴责以色列侵犯伊朗](https://www.cls.cn/detail/2057473)
 - [【36kr】百亿量化私募也大举分红，传递什么信号？](https://www.cls.cn/detail/2057470)
-- [【36kr】【早报】国常会：研究优化药品和耗材集采有关举措；以色列袭击伊朗，中方发声](https://www.cls.cn/detail/2057440)
-- [【36kr】美股收盘：三大指数均跌超1%-能源、贵金属板块逆市走强](https://www.cls.cn/detail/2057427)
-- [【36kr】【焦点复盘】北证50指数放量跌近3%，黄金、石油等资源股获避险资金逆势抱团](https://www.cls.cn/detail/2056979)
-- [【36kr】【每日收评】深成指与创业板指均放量跌超1%！全市场逾4400股飘绿，油气、军工板块逆势走强](https://www.cls.cn/detail/2056895)
-- [【36kr】宁波牛散接7700万天价罚单！与妻子常同现上市公司十大股东名单](https://www.cls.cn/detail/2057304)
-- [【36kr】监管规范期货程序化交易，规则落地，重点关注五点要求](https://www.cls.cn/detail/2057259)
-- [【36kr】价差超10倍！国产创新药出海后身价“高涨”-拓展海外市场成“必修课”？|行业观察](https://www.cls.cn/detail/2056868)
-- [【36kr】14部委联合发文：纠正医药购销领域和医疗服务中不正之风](https://www.cls.cn/detail/2056988)
-- [【36kr】金融数据中个别月份存贷款增长快慢不一？权威专家：需将银行表内存款和表外理财合并解读](https://www.cls.cn/detail/2056956)
-- [【36kr】前5月新增社融18.63万亿元，新增贷款10.68万亿元，5月末M2同比增长7.9%](https://www.cls.cn/detail/2056809)
-- [【36kr】波音发布关于印度航空公司171航班的声明](https://www.cls.cn/detail/2056404)
-- [【36kr】再批鲍威尔！特朗普敦促降息2个百分点：每年可省6000亿美元](https://www.cls.cn/detail/2056238)
-- [【36kr】6月13日投资避雷针：菲林格尔停牌核查结束-今起复牌](https://www.cls.cn/detail/2056245)
-- [【36kr】持续更新｜以色列对伊朗发动打击-伊朗伊斯兰革命卫队总司令遇袭身亡](https://www.cls.cn/detail/2056259)
-- [【36kr】视频｜以色列对伊朗发动打击-德黑兰多地传出爆炸声](https://www.cls.cn/detail/2056324)
-- [【36kr】以色列空袭伊朗事件影响速览：多国表态-金融市场避险模式重现！](https://www.cls.cn/detail/2056449)
-- [【36kr】广州：优化房地产政策-全面取消限购、限售、限价并降低贷款首付比例和利率](https://www.cls.cn/detail/2056501)
+- [【36kr】中国代表：中方谴责以色列侵犯伊朗](https://www.cls.cn/detail/2057473)
+- [【36kr】伊朗媒体公布被击落的以色列F-35战机残骸照片](https://www.cls.cn/detail/2057463)
+- [【36kr】美军“爱国者”与“萨德”导弹防御系统参与以色列防空行动](https://www.cls.cn/detail/2057488)
+- [【36kr】豆包使用成本“卷”至1/3-火山引擎瞄准智能体“爆发”-催生智算一体机新需求](https://www.cls.cn/detail/2057493)
+- [【36kr】伊朗导弹回击以色列-以军开始新一轮打击-速览昨夜今晨最新战况](https://www.cls.cn/detail/2057448)
+- [【36kr】我国成功开展首例侵入式脑机接口临床试验](https://www.cls.cn/detail/2057444)
+- [【36kr】国际原油结算价涨超7%-哈梅内伊称要彻底摧毁以政权-|-环球市场](https://www.cls.cn/detail/2057439)
+- [【36kr】中东局势骤然升级-美股期指集体下跌-|-今夜看点](https://www.cls.cn/detail/2057246)
+- [【36kr】央行二度公告买断式逆回购操作-继续加大中期流动性投放-释放货币政策工具持续加力信号](https://www.cls.cn/detail/2057209)
+- [【36kr】操纵多只股票股价，知名牛散屠文斌被证监会罚没近7700万元](https://www.cls.cn/detail/2057205)
+- [【36kr】国常会：研究优化药品和耗材集采有关举措](https://www.cls.cn/detail/2057140)
+- [【36kr】线上可撤指定交易了！上交所调研各券商落实情况，股民不用再“亲自跑一趟”](https://www.cls.cn/detail/2057099)
+- [【36kr】高盛：美国经济衰退概率降至30%-需等待更多数据看清经济状况](https://www.cls.cn/detail/2056451)
+- [【36kr】5月金融数据出炉：“活钱”增多M1增速明显上升-企业提款意愿明显增加](https://www.cls.cn/detail/2056917)
+- [【36kr】脑机接口首次让语言障碍患者实现说话唱歌](https://www.cls.cn/detail/2056629)
+- [【36kr】私募提早卡位泡泡玛特，有产品半年收益翻倍，26家新消费股被私募集中调研](https://www.cls.cn/detail/2056456)
+- [【36kr】美联储降息短期没戏？耶伦警告：特朗普关税将令通胀回升至3%](https://www.cls.cn/detail/2056293)
+- [【36kr】创新药板块又迎利好-龙头抗癌药新剂型获批在美上市](https://www.cls.cn/detail/2056275)
+- [【36kr】以色列袭击伊朗-外交部：对有关行动可能带来的严重后果深感担忧](https://www.cls.cn/detail/2056776)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
