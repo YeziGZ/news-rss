@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-06-17 05:43:37。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-06-17 06:51:27。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -34,15 +34,15 @@
 - [【36kr】工信部：将全力推进人工智能赋能新型工业化-加强通用大模型和行业大模型的研发布局](https://www.cls.cn/detail/2007911)
 - [【36kr】独家|多家银行被要求不得过度宣传单一大模型使用情况，应聚焦“自主、自研”](https://www.cls.cn/detail/2006712)
 - [【36kr】美欧贸易谈判据悉几无进展-OpenAI被曝打造社交网络-|-环球市场](https://www.cls.cn/detail/2005033)
-- [【36kr】爆款应用引发OpenAI服务器不堪重负-法拉利涨价应对美国关税-|-环球市场](https://www.cls.cn/detail/1986257)
 - [【36kr】多模态又考验算力了！ChatGPT文生图功能太火爆-奥尔特曼：GPU“冒烟了”](https://www.cls.cn/detail/1986305)
+- [【36kr】爆款应用引发OpenAI服务器不堪重负-法拉利涨价应对美国关税-|-环球市场](https://www.cls.cn/detail/1986257)
 - [【36kr】需求大爆发！OpenAI据称今年收入将增长两倍-明年再翻倍](https://www.cls.cn/detail/1984919)
 - [【36kr】阿里深夜炸场！通义千问发布新一代端到端旗舰模型Qwen2.5-Omni](https://www.cls.cn/detail/1984786)
-- [【36kr】谷歌、OpenAI竞相升级AI产品-霸王茶姬提交美股上市申请-|-环球市场](https://www.cls.cn/detail/1983563)
 - [【36kr】ChatGPT文生图功能迎重大升级：准确生成文字-商用边界大幅拓展](https://www.cls.cn/detail/1983489)
+- [【36kr】谷歌、OpenAI竞相升级AI产品-霸王茶姬提交美股上市申请-|-环球市场](https://www.cls.cn/detail/1983563)
 - [【36kr】蚂蚁集团全力拥抱AI：大模型训练降本、一体机发布、智能眼镜招兵买马](https://www.cls.cn/detail/1981760)
 - [【36kr】DeepSeek大模型一体机的落地“鸿沟”|深度](https://www.cls.cn/detail/1979144)
-- [【36kr】央行：安全稳妥有序推进人工智能大模型等在金融领域应用](https://www.cls.cn/detail/1974024)
+- [【36kr】【早报】事关育儿、就业、养老，六部门重磅发声；央行：安全稳妥有序推进人工智能大模型等在金融领域应用](https://www.cls.cn/detail/1974727)
 - [......【查看更多】......](/details/tags/aigc.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】美股脑机接口概念被热炒：零营收公司一夜暴涨283%-关键芯片临床实验此前获批](https://www.cls.cn/detail/2059190)
-- [【36kr】中国战机巴黎吸睛-歼-35A首飞海外](https://www.cls.cn/detail/2059134)
-- [【36kr】美英达成贸易协议条款-涉及汽车、钢铝、农产品等多方面](https://www.cls.cn/detail/2059127)
-- [【36kr】Gucci母公司创2008年后最大单日涨幅-Circle股价再创新高-|-环球市场](https://www.cls.cn/detail/2059097)
-- [【36kr】6月17日投资避雷针：非晶材料行业龙头董事长被留置](https://www.cls.cn/detail/2059113)
-- [【36kr】视频｜伊朗国家电视台直播时遭空袭-主播最后一刻仍在痛斥以军](https://www.cls.cn/detail/2059107)
 - [【36kr】原总裁王青山起诉浙商证券老东家，离开庭仅剩2天，因何对簿公堂？](https://www.cls.cn/detail/2059355)
-- [【36kr】【早报】国家药监局征求意见，事关优化创新药临床试验审评审批；新一轮保险预定利率调降启幕](https://www.cls.cn/detail/2059060)
-- [【36kr】美股收盘：三大指数温和反弹-中概股展现普涨势头](https://www.cls.cn/detail/2059048)
-- [【36kr】巴黎航展首日成空客“独角戏”，波音元气大伤低调隐身](https://www.cls.cn/detail/2059005)
-- [【36kr】1500亿半导体龙头6月20日起正式变更证券简称|盘后公告集锦](https://www.cls.cn/detail/2058825)
-- [【36kr】一文看懂：霍尔木兹海峡对全球能源市场有多重要？](https://www.cls.cn/detail/2058887)
-- [【36kr】【焦点复盘】创指缩量反弹收复5日线，化工等顺周期板块延续强势，影视IP人气股时隔4个月再获涨停](https://www.cls.cn/detail/2058607)
-- [【36kr】一图读懂：新消费股狂欢背后-毛戈平和老铺黄金等卖空量飙升](https://www.cls.cn/detail/2058575)
-- [【36kr】【每日收评】三大指数低开高走全线收红，IP经济强势领涨，稳定币概念卷土重来](https://www.cls.cn/detail/2058530)
-- [【36kr】“零利率”将重现江湖？超级央行周的焦点可不只有美联储……](https://www.cls.cn/detail/2058394)
-- [【36kr】外交部：呼吁伊以双方立即采取措施为冲突升级踩刹车](https://www.cls.cn/detail/2058419)
-- [【36kr】国家药监局：拟对符合要求的创新药临床试验申请在30个工作日内完成审评审批](https://www.cls.cn/detail/2058386)
-- [【36kr】年内首只“翻倍基”出现，创新药基金强势霸屏，宝座能否坚守到年底？](https://www.cls.cn/detail/2058239)
-- [【36kr】美联储短期内不可能降息？华尔街：大环境使然，中东战局也在助推！](https://www.cls.cn/detail/2057995)
+- [【36kr】视频｜伊朗国家电视台直播时遭空袭-主播最后一刻仍在痛斥以军](https://www.cls.cn/detail/2059107)
+- [【36kr】6月17日投资避雷针：非晶材料行业龙头董事长被留置](https://www.cls.cn/detail/2059113)
+- [【36kr】Gucci母公司创2008年后最大单日涨幅-Circle股价再创新高-|-环球市场](https://www.cls.cn/detail/2059097)
+- [【36kr】美英达成贸易协议条款-涉及汽车、钢铝、农产品等多方面](https://www.cls.cn/detail/2059127)
+- [【36kr】中国战机巴黎吸睛-歼-35A首飞海外](https://www.cls.cn/detail/2059134)
+- [【36kr】美股脑机接口概念被热炒：零营收公司一夜暴涨283%-关键芯片临床实验此前获批](https://www.cls.cn/detail/2059190)
+- [【36kr】美英达成贸易协议条款-含进口汽车配额和钢铝关税](https://www.cls.cn/detail/2059070)
+- [【36kr】长钱长投收益如何？人社部晒企业年金成绩单，首次公布近三年累计收益率](https://www.cls.cn/detail/2059069)
+- [【36kr】Meta股价大涨超3%-WhatsApp将首次引入付费广告](https://www.cls.cn/detail/2058928)
+- [【36kr】Circle掌门预测稳定币快要迎来“iPhone时刻”-股价再创新高](https://www.cls.cn/detail/2059022)
+- [【36kr】债券承销反“内卷”，交易商协会出手发文！业内：不能成为“死海”市场](https://www.cls.cn/detail/2058694)
+- [【36kr】【数据看盘】期指空头加仓力度均高于多头-量化席位活跃度有所降低](https://www.cls.cn/detail/2058632)
+- [【36kr】内塔尼亚胡：以空军已掌控德黑兰领空](https://www.cls.cn/detail/2058859)
+- [【36kr】市场担忧情绪缓解-美股三大期指集体走高-|-今夜看点](https://www.cls.cn/detail/2058846)
+- [【36kr】“苏超”点燃江苏消费热：白酒、小龙虾销量激增，官方赞助一席难求](https://www.cls.cn/detail/2058734)
+- [【36kr】独家|新一轮保险预定利率调降启幕-合资公司同方全球人寿打响市场第一枪-1.5%预定利率分红险上新](https://www.cls.cn/detail/2058711)
+- [【36kr】换手率又居A股第一！“人气牛”2日暴涨55%，资金热力图扫描，高换手率扎堆这里](https://www.cls.cn/detail/2058578)
+- [【36kr】中国核弹头以每年约百枚速度递增？外交部：中国一直坚持自卫防御核战略](https://www.cls.cn/detail/2058485)
+- [【36kr】以伊战争对国际油价影响几何？专家列出四大情境：最高飙至120美元！](https://www.cls.cn/detail/2058418)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
