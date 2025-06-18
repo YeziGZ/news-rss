@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-06-18 07:41:53。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-06-18 08:49:42。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -34,15 +34,15 @@
 - [【36kr】工信部：将全力推进人工智能赋能新型工业化-加强通用大模型和行业大模型的研发布局](https://www.cls.cn/detail/2007911)
 - [【36kr】独家|多家银行被要求不得过度宣传单一大模型使用情况，应聚焦“自主、自研”](https://www.cls.cn/detail/2006712)
 - [【36kr】美欧贸易谈判据悉几无进展-OpenAI被曝打造社交网络-|-环球市场](https://www.cls.cn/detail/2005033)
-- [【36kr】多模态又考验算力了！ChatGPT文生图功能太火爆-奥尔特曼：GPU“冒烟了”](https://www.cls.cn/detail/1986305)
 - [【36kr】爆款应用引发OpenAI服务器不堪重负-法拉利涨价应对美国关税-|-环球市场](https://www.cls.cn/detail/1986257)
+- [【36kr】多模态又考验算力了！ChatGPT文生图功能太火爆-奥尔特曼：GPU“冒烟了”](https://www.cls.cn/detail/1986305)
 - [【36kr】需求大爆发！OpenAI据称今年收入将增长两倍-明年再翻倍](https://www.cls.cn/detail/1984919)
 - [【36kr】阿里深夜炸场！通义千问发布新一代端到端旗舰模型Qwen2.5-Omni](https://www.cls.cn/detail/1984786)
-- [【36kr】ChatGPT文生图功能迎重大升级：准确生成文字-商用边界大幅拓展](https://www.cls.cn/detail/1983489)
 - [【36kr】谷歌、OpenAI竞相升级AI产品-霸王茶姬提交美股上市申请-|-环球市场](https://www.cls.cn/detail/1983563)
+- [【36kr】ChatGPT文生图功能迎重大升级：准确生成文字-商用边界大幅拓展](https://www.cls.cn/detail/1983489)
 - [【36kr】蚂蚁集团全力拥抱AI：大模型训练降本、一体机发布、智能眼镜招兵买马](https://www.cls.cn/detail/1981760)
 - [【36kr】DeepSeek大模型一体机的落地“鸿沟”|深度](https://www.cls.cn/detail/1979144)
-- [【36kr】【早报】事关育儿、就业、养老，六部门重磅发声；央行：安全稳妥有序推进人工智能大模型等在金融领域应用](https://www.cls.cn/detail/1974727)
+- [【36kr】央行：安全稳妥有序推进人工智能大模型等在金融领域应用](https://www.cls.cn/detail/1974024)
 - [......【查看更多】......](/details/tags/aigc.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】今晚美联储决议最大看点：今年究竟降息一次还是两次？](https://www.cls.cn/detail/2060460)
-- [【36kr】一图速览！潘功胜、李云泽、吴清、朱鹤新最新发声](https://www.cls.cn/detail/2060629)
-- [【36kr】吴清：创业板正式启用第三套标准-重启未盈利企业适用科创板第五套标准上市](https://www.cls.cn/detail/2060278)
-- [【36kr】央行宣布八项重磅金融开放举措](https://www.cls.cn/detail/2060389)
-- [【36kr】加密货币行业重大里程碑：美国参议院通过稳定币法案！](https://www.cls.cn/detail/2060263)
-- [【36kr】特朗普：美国确切知道哈梅内伊身处何处，目前不会刺杀他](https://www.cls.cn/detail/2060254)
-- [【36kr】6月18日投资避雷针：3连板人气股提示风险-近期公司甲醇销售价格没有较大变化](https://www.cls.cn/detail/2060250)
-- [【36kr】人民币跨境支付系统（CIPS）与6家外资机构签约](https://www.cls.cn/detail/2060516)
-- [【36kr】吴清透露资本市场改革重大方向，今年“陆家嘴时间”十大看点](https://www.cls.cn/detail/2060643)
-- [【36kr】证监会主席吴清在2025陆家嘴论坛开幕式上的主旨演讲（全文）](https://www.cls.cn/detail/2060627)
 - [【36kr】伊朗：“完全控制”以色列领空](https://www.cls.cn/detail/2060669)
-- [【36kr】人民网评：禁止违规吃喝，不是吃喝都违规](https://www.cls.cn/detail/2060223)
-- [【36kr】【早报】国家外汇局：5月外资增持境内股票较上月进一步增加；外交部回应华为中芯国际进台湾实体名单](https://www.cls.cn/detail/2060219)
-- [【36kr】美股收盘：战情阴霾冲击市场情绪-三大指数齐跌](https://www.cls.cn/detail/2060209)
-- [【36kr】亚马逊CEO告知员工：未来几年里-你们中的一些人会被AI抢走饭碗](https://www.cls.cn/detail/2060169)
-- [【36kr】稳定币之后是“稳定股”？Coinbase将寻求SEC首肯代币化股票](https://www.cls.cn/detail/2060137)
-- [【36kr】总增资超30亿元！中油资本拟6.55亿元投向可控核聚变-项目或涉装置“赤霄”|速读公告](https://www.cls.cn/detail/2060121)
-- [【36kr】世卫指南“催热”中国RSV免疫赛道：赛诺菲抢滩-默沙东再次冲击上市-本土多路径并进-|行业观察](https://www.cls.cn/detail/2059754)
-- [【36kr】习近平在第二届中国－中亚峰会上的主旨发言](https://www.cls.cn/detail/2060017)
-- [【36kr】习近平：各方应该推动中东局势尽快降温](https://www.cls.cn/detail/2059902)
+- [【36kr】证监会主席吴清在2025陆家嘴论坛开幕式上的主旨演讲（全文）](https://www.cls.cn/detail/2060627)
+- [【36kr】吴清透露资本市场改革重大方向，今年“陆家嘴时间”十大看点](https://www.cls.cn/detail/2060643)
+- [【36kr】人民币跨境支付系统（CIPS）与6家外资机构签约](https://www.cls.cn/detail/2060516)
+- [【36kr】6月18日投资避雷针：3连板人气股提示风险-近期公司甲醇销售价格没有较大变化](https://www.cls.cn/detail/2060250)
+- [【36kr】特朗普：美国确切知道哈梅内伊身处何处，目前不会刺杀他](https://www.cls.cn/detail/2060254)
+- [【36kr】加密货币行业重大里程碑：美国参议院通过稳定币法案！](https://www.cls.cn/detail/2060263)
+- [【36kr】央行宣布八项重磅金融开放举措](https://www.cls.cn/detail/2060389)
+- [【36kr】吴清：创业板正式启用第三套标准-重启未盈利企业适用科创板第五套标准上市](https://www.cls.cn/detail/2060278)
+- [【36kr】一图速览！潘功胜、李云泽、吴清、朱鹤新最新发声](https://www.cls.cn/detail/2060629)
+- [【36kr】今晚美联储决议最大看点：今年究竟降息一次还是两次？](https://www.cls.cn/detail/2060460)
+- [【36kr】李云泽：正在大力推进金融资产投资公司股权投资、科技企业并购贷款等试点](https://www.cls.cn/detail/2060511)
+- [【36kr】华尔街最大胆预测：美元十年内丧失75%“购买力”，金价涨至1.2万美元！](https://www.cls.cn/detail/2060543)
+- [【36kr】PCB板块诞生千亿市值“新贵”-AI驱动行业高附加值产品放量](https://www.cls.cn/detail/2060727)
+- [【36kr】《关于支持上海国际金融中心建设行动方案》发布](https://www.cls.cn/detail/2060754)
+- [【36kr】加紧吸引优秀上市资源，创业板与科创板齐推未盈利企业上市新政](https://www.cls.cn/detail/2060818)
+- [【36kr】可控核聚变领域再迎重磅投资-行业爆发时间点有望提前](https://www.cls.cn/detail/2060229)
+- [【36kr】充电宝召回风波中的罗马仕：“访客”激增-A股多家电芯厂商称“未供货”](https://www.cls.cn/detail/2060224)
+- [【36kr】中国电科打假](https://www.cls.cn/detail/2060033)
+- [【36kr】美日贸易谈判告吹-特朗普与石破茂未达成协议](https://www.cls.cn/detail/2059934)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
