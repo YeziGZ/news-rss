@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-07-20 10:46:51。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-07-20 13:48:37。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -24,8 +24,8 @@
 
 
 - [【36kr】鲍威尔回应特朗普政府指责-OpenAI发布ChatGPT智能体-|-环球市场](https://www.cls.cn/detail/2088855)
-- [【36kr】大模型之后-智能体站上C位！科技企业争相布局|直击MWC上海](https://www.cls.cn/detail/2062638)
 - [【36kr】北京：支持游戏企业通过算力构建、大模型部署、数据治理等方式提升研发效率-给予最高不超过3000万元奖励](https://www.cls.cn/detail/2062107)
+- [【36kr】大模型之后-智能体站上C位！科技企业争相布局|直击MWC上海](https://www.cls.cn/detail/2062638)
 - [【36kr】中外六大AI出战高考作文！《科创板日报》实测通义千问与GPT4o并列冠军](https://www.cls.cn/detail/2051465)
 - [【36kr】工信部：推动大模型在制造业重点行业落地部署-加快制造业全流程智能化升级](https://www.cls.cn/detail/2048837)
 - [【36kr】觉醒第一步？OpenAI模型在研究中违抗命令，竟然篡改关机脚本](https://www.cls.cn/detail/2041381)
@@ -37,12 +37,12 @@
 - [【36kr】工信部：将全力推进人工智能赋能新型工业化-加强通用大模型和行业大模型的研发布局](https://www.cls.cn/detail/2007911)
 - [【36kr】独家|多家银行被要求不得过度宣传单一大模型使用情况，应聚焦“自主、自研”](https://www.cls.cn/detail/2006712)
 - [【36kr】美欧贸易谈判据悉几无进展-OpenAI被曝打造社交网络-|-环球市场](https://www.cls.cn/detail/2005033)
-- [【36kr】爆款应用引发OpenAI服务器不堪重负-法拉利涨价应对美国关税-|-环球市场](https://www.cls.cn/detail/1986257)
 - [【36kr】多模态又考验算力了！ChatGPT文生图功能太火爆-奥尔特曼：GPU“冒烟了”](https://www.cls.cn/detail/1986305)
+- [【36kr】爆款应用引发OpenAI服务器不堪重负-法拉利涨价应对美国关税-|-环球市场](https://www.cls.cn/detail/1986257)
 - [【36kr】需求大爆发！OpenAI据称今年收入将增长两倍-明年再翻倍](https://www.cls.cn/detail/1984919)
 - [【36kr】阿里深夜炸场！通义千问发布新一代端到端旗舰模型Qwen2.5-Omni](https://www.cls.cn/detail/1984786)
-- [【36kr】谷歌、OpenAI竞相升级AI产品-霸王茶姬提交美股上市申请-|-环球市场](https://www.cls.cn/detail/1983563)
 - [【36kr】ChatGPT文生图功能迎重大升级：准确生成文字-商用边界大幅拓展](https://www.cls.cn/detail/1983489)
+- [【36kr】谷歌、OpenAI竞相升级AI产品-霸王茶姬提交美股上市申请-|-环球市场](https://www.cls.cn/detail/1983563)
 - [......【查看更多】......](/details/tags/aigc.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】稀土，从“工业味精”到“科技维生素”](https://www.cls.cn/detail/2089435)
-- [【36kr】“清凉经济”升温！这些家电产品销量翻倍式增长](https://www.cls.cn/detail/2090353)
-- [【36kr】覆铜板有望量价齐升！龙头三连板，铜箔及环氧树脂环节相关A股上市公司名单一览](https://www.cls.cn/detail/2090346)
 - [【36kr】周末要闻汇总：总投资约1.2万亿，雅下水电工程开工；宇树科技开启上市辅导](https://www.cls.cn/detail/2090460)
-- [【36kr】全球加密货币市值突破4万亿美元！《天才法案》为投资者铺平道路](https://www.cls.cn/detail/2090317)
-- [【36kr】多股应声涨停！A股中报行情纵深推进-26家上市公司净利最高同比预增超10倍](https://www.cls.cn/detail/2090263)
-- [【36kr】港股短线热度持续升温-中盘股现配售潮近两周“抽水”超百亿](https://www.cls.cn/detail/2090164)
-- [【36kr】浙江5部门通告追溯娃哈哈20年资金流向？假消息！](https://www.cls.cn/detail/2090180)
-- [【36kr】顺德深夜发布《告全体市民书》](https://www.cls.cn/detail/2090131)
-- [【36kr】特朗普：印巴冲突期间-五架战机被击落](https://www.cls.cn/detail/2090138)
-- [【36kr】豪车税新规倒计时：保时捷掀抢购潮，销售称晚买两天贵十几万](https://www.cls.cn/detail/2090195)
-- [【36kr】盘中创历史新高A股名单一览：多只AI硬件、创新药概念股在列](https://www.cls.cn/detail/2090310)
-- [【36kr】【早报】新央企中国雅江集团成立；打击战略矿产走私出口专项行动推进会召开](https://www.cls.cn/detail/2090341)
-- [【36kr】“两船”合并获证监会同意！本周披露并购重组进展的A股名单一览](https://www.cls.cn/detail/2090021)
+- [【36kr】覆铜板有望量价齐升！龙头三连板，铜箔及环氧树脂环节相关A股上市公司名单一览](https://www.cls.cn/detail/2090346)
+- [【36kr】“清凉经济”升温！这些家电产品销量翻倍式增长](https://www.cls.cn/detail/2090353)
+- [【36kr】稀土，从“工业味精”到“科技维生素”](https://www.cls.cn/detail/2089435)
+- [【36kr】警惕基孔肯雅热！广东佛山已超千例感染](https://www.cls.cn/detail/2090483)
 - [【36kr】国产3A游戏进入收获期-又一力作发布在即-能重演《黑神话：悟空》奇迹吗？](https://www.cls.cn/detail/2090340)
-- [【36kr】中国资产本周领涨全球-特朗普起诉传媒大亨默多克-|-环球市场](https://www.cls.cn/detail/2090098)
-- [【36kr】【早报】三部门最新部署！规范新能源汽车产业竞争秩序；美对中国阳极级石墨征收93.5%反倾销税，外交部回应](https://www.cls.cn/detail/2090086)
-- [【36kr】特朗普签署稳定币法案-币圈掌门集体到场见证](https://www.cls.cn/detail/2090071)
-- [【36kr】三部门召开新能源汽车行业座谈会-部署进一步规范新能源汽车产业竞争秩序工作](https://www.cls.cn/detail/2089981)
-- [【36kr】东方财富董事长之父“清仓式”退出？拟协议转让所持1.59亿股，因何转让？](https://www.cls.cn/detail/2089988)
+- [【36kr】“两船”合并获证监会同意！本周披露并购重组进展的A股名单一览](https://www.cls.cn/detail/2090021)
+- [【36kr】【早报】新央企中国雅江集团成立；打击战略矿产走私出口专项行动推进会召开](https://www.cls.cn/detail/2090341)
+- [【36kr】盘中创历史新高A股名单一览：多只AI硬件、创新药概念股在列](https://www.cls.cn/detail/2090310)
+- [【36kr】豪车税新规倒计时：保时捷掀抢购潮，销售称晚买两天贵十几万](https://www.cls.cn/detail/2090195)
+- [【36kr】特朗普：印巴冲突期间-五架战机被击落](https://www.cls.cn/detail/2090138)
+- [【36kr】顺德深夜发布《告全体市民书》](https://www.cls.cn/detail/2090131)
+- [【36kr】浙江5部门通告追溯娃哈哈20年资金流向？假消息！](https://www.cls.cn/detail/2090180)
+- [【36kr】港股短线热度持续升温-中盘股现配售潮近两周“抽水”超百亿](https://www.cls.cn/detail/2090164)
+- [【36kr】多股应声涨停！A股中报行情纵深推进-26家上市公司净利最高同比预增超10倍](https://www.cls.cn/detail/2090263)
+- [【36kr】全球加密货币市值突破4万亿美元！《天才法案》为投资者铺平道路](https://www.cls.cn/detail/2090317)
+- [【36kr】先进EUV到货半年后-日本“芯片国家队”展示2nm工艺原型芯片](https://www.cls.cn/detail/2090060)
+- [【36kr】美股收盘：三大指数高位震荡-多只中国ETF创3月以来最大单周涨幅](https://www.cls.cn/detail/2090083)
+- [【36kr】国家发改委：下大力气防止低空产业领域出现低效重复建设或低端恶性竞争的现象](https://www.cls.cn/detail/2089654)
+- [【36kr】靠信息不对称赚钱的时代或将结束！货币经纪公司再迎央行监管新规征求意见稿，严禁13项行为](https://www.cls.cn/detail/2089765)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
