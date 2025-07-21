@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-07-20 23:43:40。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-07-21 02:42:06。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -24,8 +24,8 @@
 
 
 - [【36kr】鲍威尔回应特朗普政府指责-OpenAI发布ChatGPT智能体-|-环球市场](https://www.cls.cn/detail/2088855)
-- [【36kr】北京：支持游戏企业通过算力构建、大模型部署、数据治理等方式提升研发效率-给予最高不超过3000万元奖励](https://www.cls.cn/detail/2062107)
 - [【36kr】大模型之后-智能体站上C位！科技企业争相布局|直击MWC上海](https://www.cls.cn/detail/2062638)
+- [【36kr】北京：支持游戏企业通过算力构建、大模型部署、数据治理等方式提升研发效率-给予最高不超过3000万元奖励](https://www.cls.cn/detail/2062107)
 - [【36kr】中外六大AI出战高考作文！《科创板日报》实测通义千问与GPT4o并列冠军](https://www.cls.cn/detail/2051465)
 - [【36kr】工信部：推动大模型在制造业重点行业落地部署-加快制造业全流程智能化升级](https://www.cls.cn/detail/2048837)
 - [【36kr】觉醒第一步？OpenAI模型在研究中违抗命令，竟然篡改关机脚本](https://www.cls.cn/detail/2041381)
@@ -37,12 +37,12 @@
 - [【36kr】工信部：将全力推进人工智能赋能新型工业化-加强通用大模型和行业大模型的研发布局](https://www.cls.cn/detail/2007911)
 - [【36kr】独家|多家银行被要求不得过度宣传单一大模型使用情况，应聚焦“自主、自研”](https://www.cls.cn/detail/2006712)
 - [【36kr】美欧贸易谈判据悉几无进展-OpenAI被曝打造社交网络-|-环球市场](https://www.cls.cn/detail/2005033)
-- [【36kr】多模态又考验算力了！ChatGPT文生图功能太火爆-奥尔特曼：GPU“冒烟了”](https://www.cls.cn/detail/1986305)
 - [【36kr】爆款应用引发OpenAI服务器不堪重负-法拉利涨价应对美国关税-|-环球市场](https://www.cls.cn/detail/1986257)
+- [【36kr】多模态又考验算力了！ChatGPT文生图功能太火爆-奥尔特曼：GPU“冒烟了”](https://www.cls.cn/detail/1986305)
 - [【36kr】需求大爆发！OpenAI据称今年收入将增长两倍-明年再翻倍](https://www.cls.cn/detail/1984919)
 - [【36kr】阿里深夜炸场！通义千问发布新一代端到端旗舰模型Qwen2.5-Omni](https://www.cls.cn/detail/1984786)
-- [【36kr】ChatGPT文生图功能迎重大升级：准确生成文字-商用边界大幅拓展](https://www.cls.cn/detail/1983489)
 - [【36kr】谷歌、OpenAI竞相升级AI产品-霸王茶姬提交美股上市申请-|-环球市场](https://www.cls.cn/detail/1983563)
+- [【36kr】ChatGPT文生图功能迎重大升级：准确生成文字-商用边界大幅拓展](https://www.cls.cn/detail/1983489)
 - [......【查看更多】......](/details/tags/aigc.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】A股结构性行情延续？十大券商策略来了](https://www.cls.cn/detail/2090527)
-- [【36kr】周末要闻汇总：总投资约1.2万亿，雅下水电工程开工；宇树科技开启上市辅导](https://www.cls.cn/detail/2090460)
-- [【36kr】覆铜板有望量价齐升！龙头三连板，铜箔及环氧树脂环节相关A股上市公司名单一览](https://www.cls.cn/detail/2090346)
-- [【36kr】“清凉经济”升温！这些家电产品销量翻倍式增长](https://www.cls.cn/detail/2090353)
-- [【36kr】稀土，从“工业味精”到“科技维生素”](https://www.cls.cn/detail/2089435)
-- [【36kr】警惕基孔肯雅热！广东佛山已超千例感染](https://www.cls.cn/detail/2090483)
-- [【36kr】甘肃通报：褐石培心幼儿园餐食铅含量严重超标-6人被批捕-17人被立案审查调查](https://www.cls.cn/detail/2090515)
+- [【36kr】中央汇金4月护盘增持或超2100亿，沪深300等多只ETF二季报披露实证](https://www.cls.cn/detail/2090695)
 - [【36kr】记者调查：部分平台仍在提供“高额券”补贴](https://www.cls.cn/detail/2090543)
-- [【36kr】国产3A游戏进入收获期-又一力作发布在即-能重演《黑神话：悟空》奇迹吗？](https://www.cls.cn/detail/2090340)
-- [【36kr】“两船”合并获证监会同意！本周披露并购重组进展的A股名单一览](https://www.cls.cn/detail/2090021)
-- [【36kr】【早报】新央企中国雅江集团成立；打击战略矿产走私出口专项行动推进会召开](https://www.cls.cn/detail/2090341)
-- [【36kr】盘中创历史新高A股名单一览：多只AI硬件、创新药概念股在列](https://www.cls.cn/detail/2090310)
-- [【36kr】豪车税新规倒计时：保时捷掀抢购潮，销售称晚买两天贵十几万](https://www.cls.cn/detail/2090195)
-- [【36kr】特朗普：印巴冲突期间-五架战机被击落](https://www.cls.cn/detail/2090138)
-- [【36kr】顺德深夜发布《告全体市民书》](https://www.cls.cn/detail/2090131)
-- [【36kr】浙江5部门通告追溯娃哈哈20年资金流向？假消息！](https://www.cls.cn/detail/2090180)
-- [【36kr】港股短线热度持续升温-中盘股现配售潮近两周“抽水”超百亿](https://www.cls.cn/detail/2090164)
-- [【36kr】多股应声涨停！A股中报行情纵深推进-26家上市公司净利最高同比预增超10倍](https://www.cls.cn/detail/2090263)
+- [【36kr】甘肃通报：褐石培心幼儿园餐食铅含量严重超标-6人被批捕-17人被立案审查调查](https://www.cls.cn/detail/2090515)
+- [【36kr】警惕基孔肯雅热！广东佛山已超千例感染](https://www.cls.cn/detail/2090483)
+- [【36kr】稀土，从“工业味精”到“科技维生素”](https://www.cls.cn/detail/2089435)
+- [【36kr】“清凉经济”升温！这些家电产品销量翻倍式增长](https://www.cls.cn/detail/2090353)
+- [【36kr】覆铜板有望量价齐升！龙头三连板，铜箔及环氧树脂环节相关A股上市公司名单一览](https://www.cls.cn/detail/2090346)
+- [【36kr】周末要闻汇总：总投资约1.2万亿，雅下水电工程开工；宇树科技开启上市辅导](https://www.cls.cn/detail/2090460)
+- [【36kr】A股结构性行情延续？十大券商策略来了](https://www.cls.cn/detail/2090527)
+- [【36kr】黄仁勋再度出手：英伟达股价新高之际-单日套现超千万美元](https://www.cls.cn/detail/2090407)
+- [【36kr】央企年度考核结果出炉](https://www.cls.cn/detail/2090499)
+- [【36kr】娃哈哈宗氏百亿财产纠纷案8月1日将有新进展](https://www.cls.cn/detail/2090502)
+- [【36kr】批量告别“铁公鸡”！新规后多家上市公司用资本公积“补亏”修复分红资格](https://www.cls.cn/detail/2090548)
+- [【36kr】泰国园区一期项目预计下半年小批量投产-PCB概念股涨停-本周机构密集调研相关上市公司](https://www.cls.cn/detail/2090547)
+- [【36kr】【早报】1.2万亿世界级水电工程开工；宇树科技开启上市辅导](https://www.cls.cn/detail/2090631)
+- [【36kr】警惕“电子间谍”！境外生产芯片可能故意留“后门”-摄像头被远程开启](https://www.cls.cn/detail/2090639)
 - [【36kr】全球加密货币市值突破4万亿美元！《天才法案》为投资者铺平道路](https://www.cls.cn/detail/2090317)
-- [【36kr】先进EUV到货半年后-日本“芯片国家队”展示2nm工艺原型芯片](https://www.cls.cn/detail/2090060)
+- [【36kr】多股应声涨停！A股中报行情纵深推进-26家上市公司净利最高同比预增超10倍](https://www.cls.cn/detail/2090263)
+- [【36kr】港股短线热度持续升温-中盘股现配售潮近两周“抽水”超百亿](https://www.cls.cn/detail/2090164)
+- [【36kr】浙江5部门通告追溯娃哈哈20年资金流向？假消息！](https://www.cls.cn/detail/2090180)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
