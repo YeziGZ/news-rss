@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-08-03 23:42:32。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-08-04 02:58:15。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -28,8 +28,8 @@
 - [【36kr】“顶流机器人给我递可乐”！阿里投身“百镜大战”-大模型落地提速|直击WAIC2025](https://www.cls.cn/detail/2097318)
 - [【36kr】GPT-5据称最早或于8月初发布](https://www.cls.cn/detail/2095692)
 - [【36kr】鲍威尔回应特朗普政府指责-OpenAI发布ChatGPT智能体-|-环球市场](https://www.cls.cn/detail/2088855)
-- [【36kr】北京：支持游戏企业通过算力构建、大模型部署、数据治理等方式提升研发效率-给予最高不超过3000万元奖励](https://www.cls.cn/detail/2062107)
 - [【36kr】大模型之后-智能体站上C位！科技企业争相布局|直击MWC上海](https://www.cls.cn/detail/2062638)
+- [【36kr】北京：支持游戏企业通过算力构建、大模型部署、数据治理等方式提升研发效率-给予最高不超过3000万元奖励](https://www.cls.cn/detail/2062107)
 - [【36kr】中外六大AI出战高考作文！《科创板日报》实测通义千问与GPT4o并列冠军](https://www.cls.cn/detail/2051465)
 - [【36kr】工信部：推动大模型在制造业重点行业落地部署-加快制造业全流程智能化升级](https://www.cls.cn/detail/2048837)
 - [【36kr】觉醒第一步？OpenAI模型在研究中违抗命令，竟然篡改关机脚本](https://www.cls.cn/detail/2041381)
@@ -41,8 +41,8 @@
 - [【36kr】工信部：将全力推进人工智能赋能新型工业化-加强通用大模型和行业大模型的研发布局](https://www.cls.cn/detail/2007911)
 - [【36kr】独家|多家银行被要求不得过度宣传单一大模型使用情况，应聚焦“自主、自研”](https://www.cls.cn/detail/2006712)
 - [【36kr】美欧贸易谈判据悉几无进展-OpenAI被曝打造社交网络-|-环球市场](https://www.cls.cn/detail/2005033)
-- [【36kr】多模态又考验算力了！ChatGPT文生图功能太火爆-奥尔特曼：GPU“冒烟了”](https://www.cls.cn/detail/1986305)
 - [【36kr】爆款应用引发OpenAI服务器不堪重负-法拉利涨价应对美国关税-|-环球市场](https://www.cls.cn/detail/1986257)
+- [【36kr】多模态又考验算力了！ChatGPT文生图功能太火爆-奥尔特曼：GPU“冒烟了”](https://www.cls.cn/detail/1986305)
 - [......【查看更多】......](/details/tags/aigc.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】先抑后扬，蓄力新高？“折返”后如何抉择？本周十大券商策略来了](https://www.cls.cn/detail/2104601)
-- [【36kr】8月金股大数据出炉，算力、创新药仍占主线，头部券商称牛市不改](https://www.cls.cn/detail/2104448)
-- [【36kr】顶流“小猪妖”杀进暑期档！《浪浪山小妖怪》预测票房近5亿-授权衍生单品已超400个](https://www.cls.cn/detail/2104424)
-- [【36kr】周末要闻汇总：央行提出继续实施好适度宽松的货币政策-广东全民总动员开启大灭蚊](https://www.cls.cn/detail/2104454)
+- [【36kr】画面公开！我国航母编队远赴西太-战斗机首次起飞查证无人机](https://www.cls.cn/detail/2104747)
 - [【36kr】万2佣金将告破！沪上平均佣金率跌至0.201‰，“新佣金”时代到来](https://www.cls.cn/detail/2104458)
-- [【36kr】“坑惨”客户？纽铜历史性暴跌的前一天：高盛建议做多铜！](https://www.cls.cn/detail/2104216)
-- [【36kr】龙头20CM二连板！本周披露并购重组进展的A股名单一览](https://www.cls.cn/detail/2104268)
-- [【36kr】多图直击ChinaJoy：百度腾讯阿里字节抢人气-鸿蒙游戏上场](https://www.cls.cn/detail/2104226)
-- [【36kr】美联储人事地震！理事库格勒提前辞职-特朗普“大改造”的良机来了？](https://www.cls.cn/detail/2104197)
-- [【36kr】数据不称心特朗普就炒人！舆论炸了：未来美国统计机构公信力何在？](https://www.cls.cn/detail/2104246)
-- [【36kr】名为AI的印钞机启动了-硅谷巨头却陷入新一轮焦虑](https://www.cls.cn/detail/2103714)
-- [【36kr】CPO龙头赫然在列！近一月接待机构调研次数居前热门股名单来了](https://www.cls.cn/detail/2104261)
-- [【36kr】“坏消息就是坏消息”！美国就业数据打破华尔街对经济乐观的幻象](https://www.cls.cn/detail/2104378)
+- [【36kr】周末要闻汇总：央行提出继续实施好适度宽松的货币政策-广东全民总动员开启大灭蚊](https://www.cls.cn/detail/2104454)
+- [【36kr】顶流“小猪妖”杀进暑期档！《浪浪山小妖怪》预测票房近5亿-授权衍生单品已超400个](https://www.cls.cn/detail/2104424)
+- [【36kr】8月金股大数据出炉，算力、创新药仍占主线，头部券商称牛市不改](https://www.cls.cn/detail/2104448)
+- [【36kr】先抑后扬，蓄力新高？“折返”后如何抉择？本周十大券商策略来了](https://www.cls.cn/detail/2104601)
+- [【36kr】广州无人驾驶进程加速-正编制装备工作指引-积极培育零部件企业](https://www.cls.cn/detail/2104419)
+- [【36kr】钼产业链的“冰与火”，三大钢企联合“宣战”胜算几何？](https://www.cls.cn/detail/2104439)
+- [【36kr】湖北国资“并购凶猛”：旗下一半上市公司来自并购-长江产投提前实现“3年6控”](https://www.cls.cn/detail/2104533)
+- [【36kr】理想回应和乘龙重卡碰撞测试](https://www.cls.cn/detail/2104624)
+- [【36kr】已成立雅下工程项目组-超级水电概念股涨停-本周机构密集调研相关上市公司](https://www.cls.cn/detail/2104627)
+- [【36kr】【早报】新发国债等利息要交增值税；市场监管总局发文，规范网络交易平台收费](https://www.cls.cn/detail/2104693)
 - [【36kr】“A+H”股热潮延续！7月累计22家A股上市公司披露赴港IPO进展，1600亿PCB龙头在列](https://www.cls.cn/detail/2104337)
-- [【36kr】美股收盘：非农爆冷叠加关税冲击-三大指数均跌超1%-亚马逊重挫逾8%](https://www.cls.cn/detail/2104176)
-- [【36kr】不满就业数据大幅下修-特朗普下令解雇美劳工统计局局长](https://www.cls.cn/detail/2104167)
-- [【36kr】中国游客在日本遭遇勒颈抢劫，我大使馆紧急提醒](https://www.cls.cn/detail/2104075)
-- [【36kr】央行：继续实施好适度宽松的货币政策](https://www.cls.cn/detail/2103943)
-- [【36kr】7月造车新势力表现分化：零跑、小鹏再创交付纪录-理想、蔚来即将“捉对厮杀”](https://www.cls.cn/detail/2103906)
-- [【36kr】大厂新游、国产3A、裸眼3D显示……ChinaJoy首日谁是“绝对主角”](https://www.cls.cn/detail/2103886)
+- [【36kr】“坏消息就是坏消息”！美国就业数据打破华尔街对经济乐观的幻象](https://www.cls.cn/detail/2104378)
+- [【36kr】CPO龙头赫然在列！近一月接待机构调研次数居前热门股名单来了](https://www.cls.cn/detail/2104261)
+- [【36kr】名为AI的印钞机启动了-硅谷巨头却陷入新一轮焦虑](https://www.cls.cn/detail/2103714)
+- [【36kr】数据不称心特朗普就炒人！舆论炸了：未来美国统计机构公信力何在？](https://www.cls.cn/detail/2104246)
+- [【36kr】美联储人事地震！理事库格勒提前辞职-特朗普“大改造”的良机来了？](https://www.cls.cn/detail/2104197)
+- [【36kr】多图直击ChinaJoy：百度腾讯阿里字节抢人气-鸿蒙游戏上场](https://www.cls.cn/detail/2104226)
+- [【36kr】龙头20CM二连板！本周披露并购重组进展的A股名单一览](https://www.cls.cn/detail/2104268)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
