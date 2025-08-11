@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-08-11 22:43:12。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-08-11 23:39:37。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -24,19 +24,19 @@
 
 
 - [【36kr】OpenAI的GPT-5会否开启人工智能界的价格大战？](https://www.cls.cn/detail/2111611)
-- [【36kr】GPT-5深夜炸场！微软抢先集成-机构看好AI编程加速发展](https://www.cls.cn/detail/2109694)
 - [【36kr】ChatGPT-5“不够惊艳”？最新实测来了](https://www.cls.cn/detail/2110522)
-- [【36kr】遭Meta“钞能力偷家”后-OpenAI被曝向千名员工撒钱留人](https://www.cls.cn/detail/2109447)
-- [【36kr】GPT-5要来了？OpenAI官方预告引遐想-AI应用或迎来加速发展](https://www.cls.cn/detail/2108417)
+- [【36kr】GPT-5深夜炸场！微软抢先集成-机构看好AI编程加速发展](https://www.cls.cn/detail/2109694)
 - [【36kr】GPT-5强势登场：一键生成网页、写作像诗人、更懂健康问题](https://www.cls.cn/detail/2109460)
+- [【36kr】GPT-5要来了？OpenAI官方预告引遐想-AI应用或迎来加速发展](https://www.cls.cn/detail/2108417)
+- [【36kr】遭Meta“钞能力偷家”后-OpenAI被曝向千名员工撒钱留人](https://www.cls.cn/detail/2109447)
 - [【36kr】调查-|-爆火仅半年，DeepSeek在银行业已“泯然众模型”？三大障碍成为拦路虎](https://www.cls.cn/detail/2104957)
 - [【36kr】大模型一体机标准化研讨会召开在即-行业或迎统一评测基准](https://www.cls.cn/detail/2099406)
 - [【36kr】智谱旗舰模型GLM-4.5重磅发布-相关企业有望站上风口](https://www.cls.cn/detail/2098863)
 - [【36kr】“顶流机器人给我递可乐”！阿里投身“百镜大战”-大模型落地提速|直击WAIC2025](https://www.cls.cn/detail/2097318)
 - [【36kr】GPT-5据称最早或于8月初发布](https://www.cls.cn/detail/2095692)
 - [【36kr】鲍威尔回应特朗普政府指责-OpenAI发布ChatGPT智能体-|-环球市场](https://www.cls.cn/detail/2088855)
-- [【36kr】北京：支持游戏企业通过算力构建、大模型部署、数据治理等方式提升研发效率-给予最高不超过3000万元奖励](https://www.cls.cn/detail/2062107)
 - [【36kr】大模型之后-智能体站上C位！科技企业争相布局|直击MWC上海](https://www.cls.cn/detail/2062638)
+- [【36kr】北京：支持游戏企业通过算力构建、大模型部署、数据治理等方式提升研发效率-给予最高不超过3000万元奖励](https://www.cls.cn/detail/2062107)
 - [【36kr】中外六大AI出战高考作文！《科创板日报》实测通义千问与GPT4o并列冠军](https://www.cls.cn/detail/2051465)
 - [【36kr】工信部：推动大模型在制造业重点行业落地部署-加快制造业全流程智能化升级](https://www.cls.cn/detail/2048837)
 - [【36kr】觉醒第一步？OpenAI模型在研究中违抗命令，竟然篡改关机脚本](https://www.cls.cn/detail/2041381)
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】砍掉年销低于300万元的经销商？娃哈哈回应](https://www.cls.cn/detail/2111976)
-- [【36kr】特朗普关税压力下-印度央行据悉已抛售至少50亿美元以稳定卢比汇率](https://www.cls.cn/detail/2111949)
-- [【36kr】比特币逼近历史高点！周二美国通胀数据将成突破关键](https://www.cls.cn/detail/2111781)
-- [【36kr】英伟达与AMD同意向美政府上缴15%的收入，外交部回应](https://www.cls.cn/detail/2112075)
-- [【36kr】置顶推广“券商开户导流”，头部银行大举行动，牛市来了，开户再成双向奔赴](https://www.cls.cn/detail/2111964)
-- [【36kr】万亿巨头继续新高！融资余额创11年新低，银行股息率低于白酒，这些方向依旧较高](https://www.cls.cn/detail/2111841)
-- [【36kr】增值税法实施条例向社会公开征求意见，有哪些看点？](https://www.cls.cn/detail/2111915)
-- [【36kr】中央结算公司：即日起不再要求境外央行类机构提供协议签署承诺书](https://www.cls.cn/detail/2111838)
-- [【36kr】单笔存取超5万或无需再登记，三部门征求意见！](https://www.cls.cn/detail/2111730)
-- [【36kr】独家|拟不超过30%入股华望-广汽埃安与华为“再续前缘”](https://www.cls.cn/detail/2111613)
-- [【36kr】新疆本地股引爆基建潮，锂矿停产成新变量，持续留意本周市场的轮动机会](https://www.cls.cn/detail/2111301)
-- [【36kr】北京楼市新政落地看房量大涨-地产板块有望进入政策刺激行情](https://www.cls.cn/detail/2111217)
-- [【36kr】我国低轨卫星发射进程加速-商业航天有望进入高景气周期](https://www.cls.cn/detail/2111228)
-- [【36kr】“普特会”定在美国阿拉斯加州-背后有何考量？一文读懂](https://www.cls.cn/detail/2111332)
-- [【36kr】8月11日投资避雷针：9年财务造假近200亿元-这家上市公司可能被强制退市](https://www.cls.cn/detail/2111254)
-- [【36kr】AI“可怕”另一面开始显露：这些股票正被“啃得只剩骨头”！](https://www.cls.cn/detail/2111436)
-- [【36kr】华为将发布AI推理领域突破性成果-产业链有望迎重磅催化](https://www.cls.cn/detail/2111225)
-- [【36kr】没结婚证不能领育儿补贴？深圳回应](https://www.cls.cn/detail/2111435)
-- [【36kr】蚂蚁集团与中国人民银行、中国稀土集团共建全球首个稀土人民币稳定币？蚂蚁集团辟谣](https://www.cls.cn/detail/2111526)
+- [【36kr】美股收盘：标普四渡6400点失利-锂矿、大麻板块豪迈上涨](https://www.cls.cn/detail/2112263)
+- [【36kr】【焦点复盘】沪指六连阳，距3674.4高点仅一步之遥，题材情绪保持活跃](https://www.cls.cn/detail/2111787)
+- [【36kr】中国曾发射炮弹警告日舰？中方回应](https://www.cls.cn/detail/2112098)
+- [【36kr】外交部：中方反对将科技和经贸问题政治化、工具化、武器化](https://www.cls.cn/detail/2112061)
+- [【36kr】中国稀土集团严正声明：从未与相关机构、单位就所谓“稀土人民币稳定币”开展任何形式的合作、磋商或计划](https://www.cls.cn/detail/2112025)
+- [【36kr】《中华人民共和国增值税法实施条例（征求意见稿）》公开征求意见](https://www.cls.cn/detail/2111869)
+- [【36kr】【数据看盘】锂矿股获多路资金抢筹-机构、量化激烈博弈宁波韵升](https://www.cls.cn/detail/2111880)
+- [【36kr】【每日收评】全市场逾百股涨超9%！创业板高开高走涨近2%，PEEK材料、锂矿股联袂领涨](https://www.cls.cn/detail/2111769)
+- [【36kr】公安部公布5起养老领域非法集资犯罪典型案例](https://www.cls.cn/detail/2111636)
 - [【36kr】系好安全带！以史为鉴：美国大多数重大市场危机都发生在8至10月](https://www.cls.cn/detail/2111525)
+- [【36kr】蚂蚁集团与中国人民银行、中国稀土集团共建全球首个稀土人民币稳定币？蚂蚁集团辟谣](https://www.cls.cn/detail/2111526)
+- [【36kr】没结婚证不能领育儿补贴？深圳回应](https://www.cls.cn/detail/2111435)
+- [【36kr】华为将发布AI推理领域突破性成果-产业链有望迎重磅催化](https://www.cls.cn/detail/2111225)
+- [【36kr】AI“可怕”另一面开始显露：这些股票正被“啃得只剩骨头”！](https://www.cls.cn/detail/2111436)
+- [【36kr】8月11日投资避雷针：9年财务造假近200亿元-这家上市公司可能被强制退市](https://www.cls.cn/detail/2111254)
+- [【36kr】“普特会”定在美国阿拉斯加州-背后有何考量？一文读懂](https://www.cls.cn/detail/2111332)
+- [【36kr】我国低轨卫星发射进程加速-商业航天有望进入高景气周期](https://www.cls.cn/detail/2111228)
+- [【36kr】北京楼市新政落地看房量大涨-地产板块有望进入政策刺激行情](https://www.cls.cn/detail/2111217)
+- [【36kr】新疆本地股引爆基建潮，锂矿停产成新变量，持续留意本周市场的轮动机会](https://www.cls.cn/detail/2111301)
+- [【36kr】独家|拟不超过30%入股华望-广汽埃安与华为“再续前缘”](https://www.cls.cn/detail/2111613)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
