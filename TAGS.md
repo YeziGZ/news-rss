@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-08-14 11:39:39。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-08-14 13:10:22。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -23,26 +23,26 @@
 
 
 
-- [【36kr】国际象棋赛OpenAI-o3碾压夺冠，马斯克Grok决赛遭零封](https://www.cls.cn/detail/2114560)
-- [【36kr】“GPT之父”杀入脑机接口？奥尔特曼或合作创立公司-对标Neuralink](https://www.cls.cn/detail/2113563)
 - [【36kr】押中OpenAI后-黄仁勋等待中国具身智能的“GPT时刻”](https://www.cls.cn/detail/2114269)
+- [【36kr】“GPT之父”杀入脑机接口？奥尔特曼或合作创立公司-对标Neuralink](https://www.cls.cn/detail/2113563)
+- [【36kr】国际象棋赛OpenAI-o3碾压夺冠，马斯克Grok决赛遭零封](https://www.cls.cn/detail/2114560)
 - [【36kr】OpenAI被曝准备投资脑机公司-BitMine巨幅加码以太坊押注-|-环球市场](https://www.cls.cn/detail/2113471)
-- [【36kr】OpenAI的GPT-5会否开启人工智能界的价格大战？](https://www.cls.cn/detail/2111611)
-- [【36kr】瞄准机器人“推理大脑”！英伟达推出具身智能推理模型Cosmos-Reason](https://www.cls.cn/detail/2112214)
 - [【36kr】英伟达推出具身智能推理模型-美联储主席候选人名单再扩容-|-环球市场](https://www.cls.cn/detail/2112315)
-- [【36kr】GPT-5深夜炸场！微软抢先集成-机构看好AI编程加速发展](https://www.cls.cn/detail/2109694)
+- [【36kr】瞄准机器人“推理大脑”！英伟达推出具身智能推理模型Cosmos-Reason](https://www.cls.cn/detail/2112214)
+- [【36kr】OpenAI的GPT-5会否开启人工智能界的价格大战？](https://www.cls.cn/detail/2111611)
 - [【36kr】ChatGPT-5“不够惊艳”？最新实测来了](https://www.cls.cn/detail/2110522)
-- [【36kr】遭Meta“钞能力偷家”后-OpenAI被曝向千名员工撒钱留人](https://www.cls.cn/detail/2109447)
-- [【36kr】GPT-5要来了？OpenAI官方预告引遐想-AI应用或迎来加速发展](https://www.cls.cn/detail/2108417)
+- [【36kr】GPT-5深夜炸场！微软抢先集成-机构看好AI编程加速发展](https://www.cls.cn/detail/2109694)
 - [【36kr】GPT-5强势登场：一键生成网页、写作像诗人、更懂健康问题](https://www.cls.cn/detail/2109460)
+- [【36kr】GPT-5要来了？OpenAI官方预告引遐想-AI应用或迎来加速发展](https://www.cls.cn/detail/2108417)
+- [【36kr】遭Meta“钞能力偷家”后-OpenAI被曝向千名员工撒钱留人](https://www.cls.cn/detail/2109447)
 - [【36kr】调查-|-爆火仅半年，DeepSeek在银行业已“泯然众模型”？三大障碍成为拦路虎](https://www.cls.cn/detail/2104957)
 - [【36kr】大模型一体机标准化研讨会召开在即-行业或迎统一评测基准](https://www.cls.cn/detail/2099406)
 - [【36kr】智谱旗舰模型GLM-4.5重磅发布-相关企业有望站上风口](https://www.cls.cn/detail/2098863)
 - [【36kr】“顶流机器人给我递可乐”！阿里投身“百镜大战”-大模型落地提速|直击WAIC2025](https://www.cls.cn/detail/2097318)
 - [【36kr】GPT-5据称最早或于8月初发布](https://www.cls.cn/detail/2095692)
 - [【36kr】鲍威尔回应特朗普政府指责-OpenAI发布ChatGPT智能体-|-环球市场](https://www.cls.cn/detail/2088855)
-- [【36kr】北京：支持游戏企业通过算力构建、大模型部署、数据治理等方式提升研发效率-给予最高不超过3000万元奖励](https://www.cls.cn/detail/2062107)
 - [【36kr】大模型之后-智能体站上C位！科技企业争相布局|直击MWC上海](https://www.cls.cn/detail/2062638)
+- [【36kr】北京：支持游戏企业通过算力构建、大模型部署、数据治理等方式提升研发效率-给予最高不超过3000万元奖励](https://www.cls.cn/detail/2062107)
 - [......【查看更多】......](/details/tags/aigc.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】2万亿巨量行情再现！A股年内仅上演5次，热钱扎堆这些赛道](https://www.cls.cn/detail/2115422)
-- [【36kr】【数据看盘】机构连续4日加仓创新医疗-多路资金联手抢筹四方精创](https://www.cls.cn/detail/2115416)
-- [【36kr】华为Hi模式“朋友圈”再扩军：“新合作”或落地宝骏-首车拟今年底发布](https://www.cls.cn/detail/2115064)
-- [【36kr】【午报】三大指数冲高回落涨跌不一，沪指盘中一度站上3700点，算力硬件股陷入调整](https://www.cls.cn/detail/2114934)
-- [【36kr】“夺岛利器”亮剑海天-中国两栖攻击舰再进化](https://www.cls.cn/detail/2114850)
-- [【36kr】民生人寿出手举牌，4家险企争相竞逐浙商银行，年内险资26次举牌11次涉及银行股](https://www.cls.cn/detail/2114964)
-- [【36kr】高盛惹怒特朗普-华尔街“声援”：关税引发的通胀冲击即将来袭！](https://www.cls.cn/detail/2114903)
-- [【36kr】特朗普：若与普京会晤顺利-将很快进行美俄乌三方会谈](https://www.cls.cn/detail/2114657)
-- [【36kr】半导体“非典型内卷”：高质量产能紧缺与低水平竞争过剩｜“反内卷”进行时](https://www.cls.cn/detail/2114700)
-- [【36kr】高盛最新预测：美联储下半年降息3次-9月“保险性”降息25基点](https://www.cls.cn/detail/2114677)
-- [【36kr】8月14日投资避雷针：10天7板人气股紧急提示-如股价进一步上涨将申请停牌核查](https://www.cls.cn/detail/2114660)
-- [【36kr】全国首台国产商业电子束光刻机在杭“出炉”](https://www.cls.cn/detail/2114731)
-- [【36kr】禁止信用卡资金购买股票，8月来两省近十家农商行密集提示用卡风险](https://www.cls.cn/detail/2114892)
-- [【36kr】一图看懂|沪指盘中突破3700点-这些"大块头"股价创历史新高](https://www.cls.cn/detail/2114951)
-- [【36kr】算力硬件持续火爆！量价齐升的市场环境下，留意国产算力以及应用端延伸的可能](https://www.cls.cn/detail/2114733)
-- [【36kr】比特币再创历史新高！市值超越谷歌-荣登全球第五大资产](https://www.cls.cn/detail/2114826)
-- [【36kr】巴基斯坦：成立陆军火箭部队司令部](https://www.cls.cn/detail/2115105)
-- [【36kr】【每日收评】沪指冲高回落止步8连阳，全市场超4600股飘绿，算力硬件、军工股双双陷入调整](https://www.cls.cn/detail/2115275)
-- [【36kr】1600万本金亏完，穿仓客户倒欠期货公司464万！碳酸锂期货敲警钟](https://www.cls.cn/detail/2115335)
+- [【36kr】【焦点复盘】金融权重护盘难阻调整，沪指3700点关口得而复失，国产算力芯片双龙逆势爆发](https://www.cls.cn/detail/2115398)
 - [【36kr】“普特会”明日登场，对油价影响几何？分析师推演两大情境](https://www.cls.cn/detail/2115256)
+- [【36kr】1600万本金亏完，穿仓客户倒欠期货公司464万！碳酸锂期货敲警钟](https://www.cls.cn/detail/2115335)
+- [【36kr】【每日收评】沪指冲高回落止步8连阳，全市场超4600股飘绿，算力硬件、军工股双双陷入调整](https://www.cls.cn/detail/2115275)
+- [【36kr】巴基斯坦：成立陆军火箭部队司令部](https://www.cls.cn/detail/2115105)
+- [【36kr】比特币再创历史新高！市值超越谷歌-荣登全球第五大资产](https://www.cls.cn/detail/2114826)
+- [【36kr】算力硬件持续火爆！量价齐升的市场环境下，留意国产算力以及应用端延伸的可能](https://www.cls.cn/detail/2114733)
+- [【36kr】一图看懂|沪指盘中突破3700点-这些"大块头"股价创历史新高](https://www.cls.cn/detail/2114951)
+- [【36kr】禁止信用卡资金购买股票，8月来两省近十家农商行密集提示用卡风险](https://www.cls.cn/detail/2114892)
+- [【36kr】全国首台国产商业电子束光刻机在杭“出炉”](https://www.cls.cn/detail/2114731)
+- [【36kr】8月14日投资避雷针：10天7板人气股紧急提示-如股价进一步上涨将申请停牌核查](https://www.cls.cn/detail/2114660)
+- [【36kr】高盛最新预测：美联储下半年降息3次-9月“保险性”降息25基点](https://www.cls.cn/detail/2114677)
+- [【36kr】半导体“非典型内卷”：高质量产能紧缺与低水平竞争过剩｜“反内卷”进行时](https://www.cls.cn/detail/2114700)
+- [【36kr】特朗普：若与普京会晤顺利-将很快进行美俄乌三方会谈](https://www.cls.cn/detail/2114657)
+- [【36kr】高盛惹怒特朗普-华尔街“声援”：关税引发的通胀冲击即将来袭！](https://www.cls.cn/detail/2114903)
+- [【36kr】民生人寿出手举牌，4家险企争相竞逐浙商银行，年内险资26次举牌11次涉及银行股](https://www.cls.cn/detail/2114964)
+- [【36kr】“夺岛利器”亮剑海天-中国两栖攻击舰再进化](https://www.cls.cn/detail/2114850)
+- [【36kr】【午报】三大指数冲高回落涨跌不一，沪指盘中一度站上3700点，算力硬件股陷入调整](https://www.cls.cn/detail/2114934)
+- [【36kr】华为Hi模式“朋友圈”再扩军：“新合作”或落地宝骏-首车拟今年底发布](https://www.cls.cn/detail/2115064)
+- [【36kr】【数据看盘】机构连续4日加仓创新医疗-多路资金联手抢筹四方精创](https://www.cls.cn/detail/2115416)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
