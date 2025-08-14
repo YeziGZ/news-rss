@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-08-14 04:51:12。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-08-14 05:46:37。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -23,26 +23,26 @@
 
 
 
-- [【36kr】押中OpenAI后-黄仁勋等待中国具身智能的“GPT时刻”](https://www.cls.cn/detail/2114269)
-- [【36kr】“GPT之父”杀入脑机接口？奥尔特曼或合作创立公司-对标Neuralink](https://www.cls.cn/detail/2113563)
 - [【36kr】国际象棋赛OpenAI-o3碾压夺冠，马斯克Grok决赛遭零封](https://www.cls.cn/detail/2114560)
+- [【36kr】“GPT之父”杀入脑机接口？奥尔特曼或合作创立公司-对标Neuralink](https://www.cls.cn/detail/2113563)
+- [【36kr】押中OpenAI后-黄仁勋等待中国具身智能的“GPT时刻”](https://www.cls.cn/detail/2114269)
 - [【36kr】OpenAI被曝准备投资脑机公司-BitMine巨幅加码以太坊押注-|-环球市场](https://www.cls.cn/detail/2113471)
-- [【36kr】英伟达推出具身智能推理模型-美联储主席候选人名单再扩容-|-环球市场](https://www.cls.cn/detail/2112315)
-- [【36kr】瞄准机器人“推理大脑”！英伟达推出具身智能推理模型Cosmos-Reason](https://www.cls.cn/detail/2112214)
 - [【36kr】OpenAI的GPT-5会否开启人工智能界的价格大战？](https://www.cls.cn/detail/2111611)
-- [【36kr】ChatGPT-5“不够惊艳”？最新实测来了](https://www.cls.cn/detail/2110522)
+- [【36kr】瞄准机器人“推理大脑”！英伟达推出具身智能推理模型Cosmos-Reason](https://www.cls.cn/detail/2112214)
+- [【36kr】英伟达推出具身智能推理模型-美联储主席候选人名单再扩容-|-环球市场](https://www.cls.cn/detail/2112315)
 - [【36kr】GPT-5深夜炸场！微软抢先集成-机构看好AI编程加速发展](https://www.cls.cn/detail/2109694)
-- [【36kr】GPT-5强势登场：一键生成网页、写作像诗人、更懂健康问题](https://www.cls.cn/detail/2109460)
-- [【36kr】GPT-5要来了？OpenAI官方预告引遐想-AI应用或迎来加速发展](https://www.cls.cn/detail/2108417)
+- [【36kr】ChatGPT-5“不够惊艳”？最新实测来了](https://www.cls.cn/detail/2110522)
 - [【36kr】遭Meta“钞能力偷家”后-OpenAI被曝向千名员工撒钱留人](https://www.cls.cn/detail/2109447)
+- [【36kr】GPT-5要来了？OpenAI官方预告引遐想-AI应用或迎来加速发展](https://www.cls.cn/detail/2108417)
+- [【36kr】GPT-5强势登场：一键生成网页、写作像诗人、更懂健康问题](https://www.cls.cn/detail/2109460)
 - [【36kr】调查-|-爆火仅半年，DeepSeek在银行业已“泯然众模型”？三大障碍成为拦路虎](https://www.cls.cn/detail/2104957)
 - [【36kr】大模型一体机标准化研讨会召开在即-行业或迎统一评测基准](https://www.cls.cn/detail/2099406)
 - [【36kr】智谱旗舰模型GLM-4.5重磅发布-相关企业有望站上风口](https://www.cls.cn/detail/2098863)
 - [【36kr】“顶流机器人给我递可乐”！阿里投身“百镜大战”-大模型落地提速|直击WAIC2025](https://www.cls.cn/detail/2097318)
 - [【36kr】GPT-5据称最早或于8月初发布](https://www.cls.cn/detail/2095692)
 - [【36kr】鲍威尔回应特朗普政府指责-OpenAI发布ChatGPT智能体-|-环球市场](https://www.cls.cn/detail/2088855)
-- [【36kr】大模型之后-智能体站上C位！科技企业争相布局|直击MWC上海](https://www.cls.cn/detail/2062638)
 - [【36kr】北京：支持游戏企业通过算力构建、大模型部署、数据治理等方式提升研发效率-给予最高不超过3000万元奖励](https://www.cls.cn/detail/2062107)
+- [【36kr】大模型之后-智能体站上C位！科技企业争相布局|直击MWC上海](https://www.cls.cn/detail/2062638)
 - [......【查看更多】......](/details/tags/aigc.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】禁止信用卡资金购买股票，8月来两省近十家农商行密集提示用卡风险](https://www.cls.cn/detail/2114892)
-- [【36kr】全国首台国产商业电子束光刻机在杭“出炉”](https://www.cls.cn/detail/2114731)
-- [【36kr】8月14日投资避雷针：10天7板人气股紧急提示-如股价进一步上涨将申请停牌核查](https://www.cls.cn/detail/2114660)
-- [【36kr】高盛最新预测：美联储下半年降息3次-9月“保险性”降息25基点](https://www.cls.cn/detail/2114677)
-- [【36kr】半导体“非典型内卷”：高质量产能紧缺与低水平竞争过剩｜“反内卷”进行时](https://www.cls.cn/detail/2114700)
 - [【36kr】特朗普：若与普京会晤顺利-将很快进行美俄乌三方会谈](https://www.cls.cn/detail/2114657)
-- [【36kr】【早报】7月金融数据出炉！M2同比增长8.8%；两部门征求意见：辅助驾驶不能当自动驾驶](https://www.cls.cn/detail/2114607)
-- [【36kr】美股收盘：标普、纳指再创历史新高-腾讯大涨点燃中概股交易激情](https://www.cls.cn/detail/2114597)
-- [【36kr】美财长贝森特：美联储9月降息几成定局，甚至有很大可能降息50个基点](https://www.cls.cn/detail/2114528)
-- [【36kr】券商年内关停逾百家网点，线下营业部告别黄金时代了？](https://www.cls.cn/detail/2114467)
-- [【36kr】银行“反内卷”对金融数据有何影响？权威专家：产生“挤水分”效应，资金循环更加顺畅](https://www.cls.cn/detail/2114187)
-- [【36kr】两部门征求意见：辅助驾驶不能当自动驾驶！未经备案OTA不得升级](https://www.cls.cn/detail/2114348)
-- [【36kr】【每日收评】沪指高开高走创近4年新高！-两市成交额突破2.1万亿，算力硬件股强者恒强](https://www.cls.cn/detail/2114095)
-- [【36kr】韩国宪政史上首次！前总统尹锡悦夫妇双双被捕](https://www.cls.cn/detail/2113728)
-- [【36kr】一文剖析：AI周期是否已达顶峰？本质上取决于这三大风险](https://www.cls.cn/detail/2113717)
-- [【36kr】美驱逐舰非法闯入中国领海，解放军警告驱离](https://www.cls.cn/detail/2113709)
-- [【36kr】【午报】沪指站上3674创下近4年新高！AI硬件股延续强势，大金融震荡走强](https://www.cls.cn/detail/2113794)
-- [【36kr】牛市亏钱更不可原谅？明星基金经理被批赌性太重，跳槽名将们的业绩都咋样？](https://www.cls.cn/detail/2113605)
-- [【36kr】个人消费贷款贴息政策落地-健康医疗消费需求有望释放](https://www.cls.cn/detail/2113483)
-- [【36kr】史上首次！美国国债规模突破37万亿美元-特朗普又要坐不住了？](https://www.cls.cn/detail/2113495)
+- [【36kr】半导体“非典型内卷”：高质量产能紧缺与低水平竞争过剩｜“反内卷”进行时](https://www.cls.cn/detail/2114700)
+- [【36kr】高盛最新预测：美联储下半年降息3次-9月“保险性”降息25基点](https://www.cls.cn/detail/2114677)
+- [【36kr】8月14日投资避雷针：10天7板人气股紧急提示-如股价进一步上涨将申请停牌核查](https://www.cls.cn/detail/2114660)
+- [【36kr】全国首台国产商业电子束光刻机在杭“出炉”](https://www.cls.cn/detail/2114731)
+- [【36kr】禁止信用卡资金购买股票，8月来两省近十家农商行密集提示用卡风险](https://www.cls.cn/detail/2114892)
+- [【36kr】一图看懂|沪指盘中突破3700点-这些"大块头"股价创历史新高](https://www.cls.cn/detail/2114951)
+- [【36kr】比特币、美股再创新高-高盛经济学家反驳特朗普抨击-|-环球市场](https://www.cls.cn/detail/2114638)
+- [【36kr】【数读IPO】产品远销“一带一路”沿线国家，工程机械领域细分“小巨人”今日上市](https://www.cls.cn/detail/2114612)
+- [【36kr】苹果“桌面AI虚拟伴侣机器人”传出新消息-还准备进军安防领域](https://www.cls.cn/detail/2114570)
+- [【36kr】如股价进一步上涨公司可能申请停牌核查-10天7板军工股发布异动公告|盘后公告集锦](https://www.cls.cn/detail/2114425)
+- [【36kr】前7个月新增社融23.99万亿元，新增贷款12.87万亿元，7月末M2同比增长8.8%](https://www.cls.cn/detail/2114144)
+- [【36kr】白宫官员再催降息-美股三大期指小幅上涨-|-今夜看点](https://www.cls.cn/detail/2114421)
+- [【36kr】AI教父辛顿：人类无法控制AI，唯一的生存之道或是培养“共情”能力](https://www.cls.cn/detail/2114311)
+- [【36kr】【数据看盘】IC、IM期指空头大幅加仓-多只个股获北向资金买卖](https://www.cls.cn/detail/2114217)
+- [【36kr】【焦点复盘】AI硬件、机器人等科技股合力做多，创业板指放量涨逾3%，两市成交时隔114日再上2万亿](https://www.cls.cn/detail/2114203)
+- [【36kr】7月金融数据出炉：M1-M2剪刀差明显收窄-因季节等因素信贷数据略有波动](https://www.cls.cn/detail/2114192)
+- [【36kr】仅限6小时！财联社VIP秒杀返场直降25%-锁定A股前沿风口](https://www.cls.cn/detail/2114114)
+- [【36kr】社保基金最新持仓披露：银行股依旧“心头好”，还有哪些独门重仓股？](https://www.cls.cn/detail/2113996)
+- [【36kr】世界人形机器人运动会明日开幕！宇树、天工等确认参赛-这些项目值得一看](https://www.cls.cn/detail/2113950)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
