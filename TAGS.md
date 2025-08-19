@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-08-19 07:39:09。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-08-19 08:49:02。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -23,26 +23,26 @@
 
 
 
+- [【36kr】OpenAI-CEO警告：美国严重低估中国AI实力，出口管制也没用！](https://www.cls.cn/detail/2118860)
 - [【36kr】【明日主题前瞻】头部大模型持续迭代，业内人士称该行业正加速爆发](https://www.cls.cn/detail/2118185)
 - [【36kr】【早报】事关货币政策、物价，央行报告释放重要信号；OpenAI将豪掷数万亿美元，AI基建迎利好](https://www.cls.cn/detail/2117493)
 - [【36kr】估值升至5000亿美元！OpenAI洽谈出售约60亿美元员工股权](https://www.cls.cn/detail/2117072)
-- [【36kr】押中OpenAI后-黄仁勋等待中国具身智能的“GPT时刻”](https://www.cls.cn/detail/2114269)
-- [【36kr】“GPT之父”杀入脑机接口？奥尔特曼或合作创立公司-对标Neuralink](https://www.cls.cn/detail/2113563)
 - [【36kr】国际象棋赛OpenAI-o3碾压夺冠，马斯克Grok决赛遭零封](https://www.cls.cn/detail/2114560)
+- [【36kr】“GPT之父”杀入脑机接口？奥尔特曼或合作创立公司-对标Neuralink](https://www.cls.cn/detail/2113563)
+- [【36kr】押中OpenAI后-黄仁勋等待中国具身智能的“GPT时刻”](https://www.cls.cn/detail/2114269)
 - [【36kr】OpenAI被曝准备投资脑机公司-BitMine巨幅加码以太坊押注-|-环球市场](https://www.cls.cn/detail/2113471)
-- [【36kr】英伟达推出具身智能推理模型-美联储主席候选人名单再扩容-|-环球市场](https://www.cls.cn/detail/2112315)
-- [【36kr】瞄准机器人“推理大脑”！英伟达推出具身智能推理模型Cosmos-Reason](https://www.cls.cn/detail/2112214)
 - [【36kr】OpenAI的GPT-5会否开启人工智能界的价格大战？](https://www.cls.cn/detail/2111611)
-- [【36kr】ChatGPT-5“不够惊艳”？最新实测来了](https://www.cls.cn/detail/2110522)
+- [【36kr】瞄准机器人“推理大脑”！英伟达推出具身智能推理模型Cosmos-Reason](https://www.cls.cn/detail/2112214)
+- [【36kr】英伟达推出具身智能推理模型-美联储主席候选人名单再扩容-|-环球市场](https://www.cls.cn/detail/2112315)
 - [【36kr】GPT-5深夜炸场！微软抢先集成-机构看好AI编程加速发展](https://www.cls.cn/detail/2109694)
-- [【36kr】GPT-5强势登场：一键生成网页、写作像诗人、更懂健康问题](https://www.cls.cn/detail/2109460)
-- [【36kr】GPT-5要来了？OpenAI官方预告引遐想-AI应用或迎来加速发展](https://www.cls.cn/detail/2108417)
+- [【36kr】ChatGPT-5“不够惊艳”？最新实测来了](https://www.cls.cn/detail/2110522)
 - [【36kr】遭Meta“钞能力偷家”后-OpenAI被曝向千名员工撒钱留人](https://www.cls.cn/detail/2109447)
+- [【36kr】GPT-5要来了？OpenAI官方预告引遐想-AI应用或迎来加速发展](https://www.cls.cn/detail/2108417)
+- [【36kr】GPT-5强势登场：一键生成网页、写作像诗人、更懂健康问题](https://www.cls.cn/detail/2109460)
 - [【36kr】调查-|-爆火仅半年，DeepSeek在银行业已“泯然众模型”？三大障碍成为拦路虎](https://www.cls.cn/detail/2104957)
 - [【36kr】大模型一体机标准化研讨会召开在即-行业或迎统一评测基准](https://www.cls.cn/detail/2099406)
 - [【36kr】智谱旗舰模型GLM-4.5重磅发布-相关企业有望站上风口](https://www.cls.cn/detail/2098863)
 - [【36kr】“顶流机器人给我递可乐”！阿里投身“百镜大战”-大模型落地提速|直击WAIC2025](https://www.cls.cn/detail/2097318)
-- [【36kr】GPT-5据称最早或于8月初发布](https://www.cls.cn/detail/2095692)
 - [......【查看更多】......](/details/tags/aigc.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】于东来：胖东来的经营模式有可借鉴的地方-但要完全复制并不容易](https://www.cls.cn/detail/2118710)
-- [【36kr】又一只千元股诞生，7月以来几近翻倍](https://www.cls.cn/detail/2118950)
-- [【36kr】外资跑步进场：对冲基金正以6月底来最快速度买入中国股票！](https://www.cls.cn/detail/2118878)
-- [【36kr】小米空调线上销量超越格力？双方回应](https://www.cls.cn/detail/2118746)
-- [【36kr】8月19日投资避雷针：液冷概念人气股提示-如股价进一步异常将申请停牌核查](https://www.cls.cn/detail/2118707)
-- [【36kr】特朗普：已开始安排“普泽会”-随后将举行美俄乌三方领导人会晤](https://www.cls.cn/detail/2118699)
-- [【36kr】8月多地银行业协会继续发声“反内卷”，有地区已启动专项整治，业内称关键仍在利率](https://www.cls.cn/detail/2119028)
-- [【36kr】美联储降息前该如何布局？高盛首席策略官：我的首选是它……](https://www.cls.cn/detail/2118723)
 - [【36kr】算力硬件强者恒强，液冷概念股持续狂飙，留意科技股全线扩散机会！](https://www.cls.cn/detail/2118802)
-- [【36kr】广电总局支持优秀微短剧进入电视播出-短剧行业或迎爆发式增长](https://www.cls.cn/detail/2118679)
-- [【36kr】【数读IPO】比亚迪、理想“小伙伴”今日申购](https://www.cls.cn/detail/2118667)
-- [【36kr】第四代反应堆首次拿下公用事业订单-核聚变商业化有望加速落地](https://www.cls.cn/detail/2118687)
-- [【36kr】2025中国算力大会即将举行-机构称算力依然为“硬通货”](https://www.cls.cn/detail/2118673)
-- [【36kr】德国啤酒厂陷入困局：当地年轻人更爱无酒精产品](https://www.cls.cn/detail/2118632)
-- [【36kr】芯片法案补助改为股权投资？特朗普政府据悉将收购英特尔10%股份](https://www.cls.cn/detail/2118614)
-- [【36kr】美股收盘：三大指数基本收平-投资者静待零售业财报和杰克逊霍尔年会](https://www.cls.cn/detail/2118644)
-- [【36kr】董事长突遭拘留-万通发展转型“芯片”之路添变数](https://www.cls.cn/detail/2118599)
-- [【36kr】广电总局：改进电视剧集数和季播剧播出间隔时长等管理政策](https://www.cls.cn/detail/2118534)
-- [【36kr】奥尔特曼承认AI投资泡沫：市场兴奋过度，但仍是科技长期大势](https://www.cls.cn/detail/2118515)
-- [【36kr】欧洲领导人“组团”访问白宫-美股三大期指维持弱势震荡-|-今夜看点](https://www.cls.cn/detail/2118451)
+- [【36kr】美联储降息前该如何布局？高盛首席策略官：我的首选是它……](https://www.cls.cn/detail/2118723)
+- [【36kr】8月多地银行业协会继续发声“反内卷”，有地区已启动专项整治，业内称关键仍在利率](https://www.cls.cn/detail/2119028)
+- [【36kr】特朗普：已开始安排“普泽会”-随后将举行美俄乌三方领导人会晤](https://www.cls.cn/detail/2118699)
+- [【36kr】8月19日投资避雷针：液冷概念人气股提示-如股价进一步异常将申请停牌核查](https://www.cls.cn/detail/2118707)
+- [【36kr】小米空调线上销量超越格力？双方回应](https://www.cls.cn/detail/2118746)
+- [【36kr】外资跑步进场：对冲基金正以6月底来最快速度买入中国股票！](https://www.cls.cn/detail/2118878)
+- [【36kr】又一只千元股诞生，7月以来几近翻倍](https://www.cls.cn/detail/2118950)
+- [【36kr】于东来：胖东来的经营模式有可借鉴的地方-但要完全复制并不容易](https://www.cls.cn/detail/2118710)
+- [【36kr】特斯拉六座Model-Y-L上市-33.9万元起售](https://www.cls.cn/detail/2118720)
+- [【36kr】《上海市加快推动“AI+制造”发展的实施方案》发布-实施“模塑申城·AI+制造”行动](https://www.cls.cn/detail/2118936)
+- [【36kr】“特泽会”后泽连斯基发声：乌克兰安全保障细节将在10天内出炉](https://www.cls.cn/detail/2118948)
+- [【36kr】个人养老金新增3种领取情形-9月1日起实施](https://www.cls.cn/detail/2119151)
+- [【36kr】中国已解除对印度的稀土出口限制？外交部回应](https://www.cls.cn/detail/2119239)
+- [【36kr】7月证券交易印花税同比增长1.25倍，环比增长29%](https://www.cls.cn/detail/2119303)
+- [【36kr】致4死2伤，车主拿出“贫困证明”？官方通报](https://www.cls.cn/detail/2118677)
+- [【36kr】【早报】李强：采取有力措施巩固房地产市场止跌回稳态势；A股市值历史首次突破100万亿元大关](https://www.cls.cn/detail/2118668)
+- [【36kr】特朗普中断多边会晤致电普京-星链再次遭遇大规模网络故障-|-环球市场](https://www.cls.cn/detail/2118660)
+- [【36kr】星链再次遭遇大规模网络中断-加剧系统可靠性担忧](https://www.cls.cn/detail/2118656)
+- [【36kr】应对仿制药冲击与政治压力-诺和诺德Ozempic在美大幅降价](https://www.cls.cn/detail/2118548)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
