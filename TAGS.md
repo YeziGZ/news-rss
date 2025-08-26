@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-08-26 03:28:37。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-08-26 03:55:24。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -23,26 +23,26 @@
 
 
 
-- [【36kr】字节跳动、阿里AI“大将”出走-大模型厂商中高层流动持续](https://www.cls.cn/detail/2125290)
 - [【36kr】马斯克起诉苹果与OpenAI-英特尔发风险警告-|-环球市场](https://www.cls.cn/detail/2125465)
+- [【36kr】字节跳动、阿里AI“大将”出走-大模型厂商中高层流动持续](https://www.cls.cn/detail/2125290)
 - [【36kr】R2没等来，DeepSeek-V3.1模型发布：价格涨了，智能体能力加强](https://www.cls.cn/detail/2122276)
-- [【36kr】GPT-5刚上线，奥尔特曼就放话：GPT-6将带来“真正的个性化”](https://www.cls.cn/detail/2119875)
 - [【36kr】OpenAI-CEO警告：美国严重低估中国AI实力，出口管制也没用！](https://www.cls.cn/detail/2118860)
+- [【36kr】GPT-5刚上线，奥尔特曼就放话：GPT-6将带来“真正的个性化”](https://www.cls.cn/detail/2119875)
 - [【36kr】【明日主题前瞻】头部大模型持续迭代，业内人士称该行业正加速爆发](https://www.cls.cn/detail/2118185)
 - [【36kr】【早报】事关货币政策、物价，央行报告释放重要信号；OpenAI将豪掷数万亿美元，AI基建迎利好](https://www.cls.cn/detail/2117493)
 - [【36kr】估值升至5000亿美元！OpenAI洽谈出售约60亿美元员工股权](https://www.cls.cn/detail/2117072)
-- [【36kr】国际象棋赛OpenAI-o3碾压夺冠，马斯克Grok决赛遭零封](https://www.cls.cn/detail/2114560)
-- [【36kr】“GPT之父”杀入脑机接口？奥尔特曼或合作创立公司-对标Neuralink](https://www.cls.cn/detail/2113563)
 - [【36kr】押中OpenAI后-黄仁勋等待中国具身智能的“GPT时刻”](https://www.cls.cn/detail/2114269)
+- [【36kr】“GPT之父”杀入脑机接口？奥尔特曼或合作创立公司-对标Neuralink](https://www.cls.cn/detail/2113563)
+- [【36kr】国际象棋赛OpenAI-o3碾压夺冠，马斯克Grok决赛遭零封](https://www.cls.cn/detail/2114560)
 - [【36kr】OpenAI被曝准备投资脑机公司-BitMine巨幅加码以太坊押注-|-环球市场](https://www.cls.cn/detail/2113471)
-- [【36kr】OpenAI的GPT-5会否开启人工智能界的价格大战？](https://www.cls.cn/detail/2111611)
-- [【36kr】瞄准机器人“推理大脑”！英伟达推出具身智能推理模型Cosmos-Reason](https://www.cls.cn/detail/2112214)
 - [【36kr】英伟达推出具身智能推理模型-美联储主席候选人名单再扩容-|-环球市场](https://www.cls.cn/detail/2112315)
-- [【36kr】GPT-5深夜炸场！微软抢先集成-机构看好AI编程加速发展](https://www.cls.cn/detail/2109694)
+- [【36kr】瞄准机器人“推理大脑”！英伟达推出具身智能推理模型Cosmos-Reason](https://www.cls.cn/detail/2112214)
+- [【36kr】OpenAI的GPT-5会否开启人工智能界的价格大战？](https://www.cls.cn/detail/2111611)
 - [【36kr】ChatGPT-5“不够惊艳”？最新实测来了](https://www.cls.cn/detail/2110522)
-- [【36kr】遭Meta“钞能力偷家”后-OpenAI被曝向千名员工撒钱留人](https://www.cls.cn/detail/2109447)
-- [【36kr】GPT-5要来了？OpenAI官方预告引遐想-AI应用或迎来加速发展](https://www.cls.cn/detail/2108417)
+- [【36kr】GPT-5深夜炸场！微软抢先集成-机构看好AI编程加速发展](https://www.cls.cn/detail/2109694)
 - [【36kr】GPT-5强势登场：一键生成网页、写作像诗人、更懂健康问题](https://www.cls.cn/detail/2109460)
+- [【36kr】GPT-5要来了？OpenAI官方预告引遐想-AI应用或迎来加速发展](https://www.cls.cn/detail/2108417)
+- [【36kr】遭Meta“钞能力偷家”后-OpenAI被曝向千名员工撒钱留人](https://www.cls.cn/detail/2109447)
 - [......【查看更多】......](/details/tags/aigc.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】特朗普首开美国历史先河：公然罢免美联储理事！](https://www.cls.cn/detail/2125666)
-- [【36kr】物理AI里程碑？英伟达如期发布机器人“新大脑”-实时推理能力迎来飞跃](https://www.cls.cn/detail/2125590)
-- [【36kr】突破3万亿后，A股后市如何走？“慢牛”驱动力浮现](https://www.cls.cn/detail/2125567)
-- [【36kr】特朗普宣布撤销美联储理事库克职务](https://www.cls.cn/detail/2125536)
-- [【36kr】8月26日投资避雷针：芯原股份六名股东拟折价33.4%转让5%公司股份](https://www.cls.cn/detail/2125519)
-- [【36kr】中办、国办重磅文件对外公布-碳中和板块有望站上风口](https://www.cls.cn/detail/2125484)
 - [【36kr】华为、OPPO入局！手机厂商探索主动散热](https://www.cls.cn/detail/2125645)
-- [【36kr】想见金正恩、考虑从韩国买船-特朗普见李在明都说了啥？一文了解](https://www.cls.cn/detail/2125481)
-- [【36kr】【数读IPO】今日1只新股申购，机器人概念添“新丁”](https://www.cls.cn/detail/2125476)
-- [【36kr】华夏幸福半年报亏损68亿引董事会分歧-平安系董事投下反对票](https://www.cls.cn/detail/2125469)
-- [【36kr】美股收盘：鲍威尔讲话余温消退-三大指数集体收跌](https://www.cls.cn/detail/2125450)
-- [【36kr】特朗普打压美联储理事-萨默斯警告：或动摇市场根基](https://www.cls.cn/detail/2125428)
-- [【36kr】马来西亚发布首款人工智能芯片-进军全球前沿科技赛道](https://www.cls.cn/detail/2125384)
-- [【36kr】中国ETF将迎来5万亿时刻！这10家公募拥有5只以上百亿ETF](https://www.cls.cn/detail/2125201)
-- [【36kr】越南在南中国海岛屿建设活动，中方回应](https://www.cls.cn/detail/2124792)
-- [【36kr】【焦点复盘】AI硬件、资源股双轮驱动，三大指数跳空中阳续创阶段新高，两市成交额单日放量近6000亿](https://www.cls.cn/detail/2124969)
-- [【36kr】【每日收评】沪指涨超1.5%逼近3900点，算力硬件股午后再爆发，两市成交额突破3万亿创历史次高](https://www.cls.cn/detail/2124898)
-- [【36kr】央行上海总部：上海商贷利率不再区分首套和二套住房](https://www.cls.cn/detail/2124826)
-- [【36kr】上海出台进一步优化住房公积金提取和贷款政策](https://www.cls.cn/detail/2124576)
-- [【36kr】一张图：当美联储暂停许久后重启降息-美股会发生什么？](https://www.cls.cn/detail/2124652)
+- [【36kr】中办、国办重磅文件对外公布-碳中和板块有望站上风口](https://www.cls.cn/detail/2125484)
+- [【36kr】8月26日投资避雷针：芯原股份六名股东拟折价33.4%转让5%公司股份](https://www.cls.cn/detail/2125519)
+- [【36kr】特朗普宣布撤销美联储理事库克职务](https://www.cls.cn/detail/2125536)
+- [【36kr】突破3万亿后，A股后市如何走？“慢牛”驱动力浮现](https://www.cls.cn/detail/2125567)
+- [【36kr】物理AI里程碑？英伟达如期发布机器人“新大脑”-实时推理能力迎来飞跃](https://www.cls.cn/detail/2125590)
+- [【36kr】特朗普首开美国历史先河：公然罢免美联储理事！](https://www.cls.cn/detail/2125666)
+- [【36kr】新一代中国操作系统银河麒麟V11正式发布](https://www.cls.cn/detail/2125735)
+- [【36kr】【早报】英伟达官宣机器人“新大脑”；中办、国办发文，事关全国碳市场建设](https://www.cls.cn/detail/2125471)
+- [【36kr】英特尔警告：美政府入股恐构成风险-持股比例或升至15%](https://www.cls.cn/detail/2125441)
+- [【36kr】土耳其拟解除股票卖空禁令-以吸引外国投资者](https://www.cls.cn/detail/2125236)
+- [【36kr】英特尔只是一个开始！-特朗普：将会持有更多企业股份](https://www.cls.cn/detail/2125324)
+- [【36kr】较收盘价折价33.4%！830亿算力芯片股股东拟询价转让公司股份|盘后公告集锦](https://www.cls.cn/detail/2125152)
+- [【36kr】创新药BD新模式！百济神州8亿美元“出租”抗癌药-交易对方曾投出前“药王”](https://www.cls.cn/detail/2125137)
+- [【36kr】基金经理能力不足、券商拖延拒绝开转销户被高投诉](https://www.cls.cn/detail/2125060)
+- [【36kr】南向资金追踪｜净流出近14亿港元-加仓阿里巴巴及快手大幅流出小米集团](https://www.cls.cn/detail/2125030)
+- [【36kr】【明日主题前瞻】智能算力需求呈现迅猛增长态势，我国算力平台正加快建设](https://www.cls.cn/detail/2124958)
+- [【36kr】二小时内连发6款新车、尚界上市时间定档-余承东：鸿蒙智行交付量10月破百万](https://www.cls.cn/detail/2125078)
+- [【36kr】ASIC芯片龙头询价转让价格敲定：较收盘价约打“7折”-在手订单仍旧高企](https://www.cls.cn/detail/2124976)
+- [【36kr】蚂蚁基金净利暴增近4倍，半年赚了去年全年的钱-，背后有哪些门道？](https://www.cls.cn/detail/2124975)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
