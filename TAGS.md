@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-10-21 03:27:51。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-10-21 03:50:18。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -23,26 +23,26 @@
 
 
 
-- [【36kr】美国政府继续停摆-OpenAI收紧Sora监管｜环球市场](https://www.cls.cn/detail/2175118)
-- [【36kr】六大AI模型被扔进加密市场厮杀，DeepSeek暂为交易之王](https://www.cls.cn/detail/2174661)
 - [【36kr】OpenAI联合创始人“泼冷水”：AI智能体真正发挥作用还需十年！](https://www.cls.cn/detail/2174516)
+- [【36kr】六大AI模型被扔进加密市场厮杀，DeepSeek暂为交易之王](https://www.cls.cn/detail/2174661)
+- [【36kr】美国政府继续停摆-OpenAI收紧Sora监管｜环球市场](https://www.cls.cn/detail/2175118)
 - [【36kr】大模型单日调用150亿次！“双11”三大新变量：AI、即时零售与出海](https://www.cls.cn/detail/2172161)
-- [【36kr】OpenAI将在阿根廷投资250亿美元，打造拉美首个“星际之门”项目](https://www.cls.cn/detail/2169533)
 - [【36kr】AI重塑零售业！沃尔玛携手OpenAI在ChatGPT上推出购物功能](https://www.cls.cn/detail/2169515)
-- [【36kr】甲骨文CEO：OpenAI每年支付600亿美元“当然没问题”](https://www.cls.cn/detail/2168234)
+- [【36kr】OpenAI将在阿根廷投资250亿美元，打造拉美首个“星际之门”项目](https://www.cls.cn/detail/2169533)
 - [【36kr】OpenAI下订博通10GW定制芯片-AI巨头放言“这才是九牛一毛”](https://www.cls.cn/detail/2168170)
+- [【36kr】甲骨文CEO：OpenAI每年支付600亿美元“当然没问题”](https://www.cls.cn/detail/2168234)
 - [【36kr】前方高能？OpenAI-CEO扬言：除英伟达、AMD外，还有更多大交易！](https://www.cls.cn/detail/2163825)
 - [【36kr】对话李开复：大模型应用爆发会带来推理芯片更大增长](https://www.cls.cn/detail/2163578)
 - [【36kr】看跌英伟达的转折点？美国市场如何评价OpenAI-AMD巨额算力协议](https://www.cls.cn/detail/2163155)
-- [【36kr】美股收盘：OpenAI“点到哪家涨哪家”-标普纳指再创收盘新高](https://www.cls.cn/detail/2163026)
 - [【36kr】与OpenAI达成巨额算力基建协议-AMD股价盘前暴涨超20%](https://www.cls.cn/detail/2162934)
+- [【36kr】美股收盘：OpenAI“点到哪家涨哪家”-标普纳指再创收盘新高](https://www.cls.cn/detail/2163026)
 - [【36kr】大模型激战正酣！大厂节前、节中进展不停-争夺下一代操作系统主导权](https://www.cls.cn/detail/2162673)
-- [【36kr】“抢场地、抢演员、AIGC助力”-日均百部短剧齐拍-实探郑州短剧基地|一线](https://www.cls.cn/detail/2162019)
 - [【36kr】OpenAI再造爆款？AI视频社交应用Sora问鼎苹果热门App榜单](https://www.cls.cn/detail/2162309)
+- [【36kr】“抢场地、抢演员、AIGC助力”-日均百部短剧齐拍-实探郑州短剧基地|一线](https://www.cls.cn/detail/2162019)
 - [【36kr】存储巨头狂欢持续！与OpenAI达成合作后-三星、SK海力士股价飙升](https://www.cls.cn/detail/2161703)
-- [【36kr】华为昇腾、寒武纪、海光信息适配DeepSeek最新模型](https://www.cls.cn/detail/2160149)
-- [【36kr】无惧泡沫警告？黄仁勋大胆预测：OpenAI或成为下一个万亿美元巨头！](https://www.cls.cn/detail/2160132)
 - [【36kr】国产AI软硬协同加速：DeepSeek新模型上线-一众芯片厂商官宣Day-0适配](https://www.cls.cn/detail/2160186)
+- [【36kr】无惧泡沫警告？黄仁勋大胆预测：OpenAI或成为下一个万亿美元巨头！](https://www.cls.cn/detail/2160132)
+- [【36kr】华为昇腾、寒武纪、海光信息适配DeepSeek最新模型](https://www.cls.cn/detail/2160149)
 - [......【查看更多】......](/details/tags/aigc.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】金价再创历史新高！瑞银唱多：明年一季度前有望站上4700美元](https://www.cls.cn/detail/2175165)
-- [【36kr】深夜又一A股公司曝算力计划泡汤！群兴玩具五追“风口”并购皆告失败-|速读公告](https://www.cls.cn/detail/2175151)
-- [【36kr】10月21日投资避雷针：4连板人气股提示风险-存储芯片相关收入占比不足1%](https://www.cls.cn/detail/2175155)
-- [【36kr】人民日报头版：新质生产力点燃高质量发展新引擎](https://www.cls.cn/detail/2175148)
-- [【36kr】苹果股价站上新高-iPhone17“技术普惠”点燃换机潮-这些公司“实锤”进入供应链](https://www.cls.cn/detail/2175274)
 - [【36kr】学习时报：努力稳股市让老百姓的消费底气更足](https://www.cls.cn/detail/2175278)
-- [【36kr】沉睡巨头苏醒！苹果股价暴涨创新高-iPhone热销扫阴霾](https://www.cls.cn/detail/2175031)
-- [【36kr】澄星股份江阴工厂搬迁“前夜”遭遇意外-突发火情成市场获利了结导火索？](https://www.cls.cn/detail/2174942)
-- [【36kr】宁德时代三季报出炉：第三季度净利润同比增长41%-北向资金大幅增持](https://www.cls.cn/detail/2174864)
-- [【36kr】A500ETF成交突然霸屏，是何原因？一则交易所传言搅动](https://www.cls.cn/detail/2174800)
-- [【36kr】特朗普又“变脸”？提议俄乌按当前战线分割顿巴斯地区](https://www.cls.cn/detail/2174574)
-- [【36kr】【每日收评】三大指数缩量反弹，两市成交额不足1.8万亿，煤炭、燃气等能源板块持续爆发](https://www.cls.cn/detail/2174586)
-- [【36kr】美方称将稀土、芬太尼和大豆列为中美经贸磋商的三大问题-外交部回应](https://www.cls.cn/detail/2174459)
-- [【36kr】科学谋划“十五五”，总书记强调这些关键点](https://www.cls.cn/detail/2174434)
-- [【36kr】上下班都在玩股票！“12小时交易”上线逾半年-韩国股民彻底上瘾了](https://www.cls.cn/detail/2174360)
-- [【36kr】高市早苗首相之位稳了？日股大涨近3%再创新高-“高市交易”卷土重来](https://www.cls.cn/detail/2174189)
-- [【36kr】全球储备资产版图生变！德银：黄金正缩小与美元差距](https://www.cls.cn/detail/2174111)
-- [【36kr】国家统计局：9月份70个大中城市中各线城市商品住宅销售价格环比下降](https://www.cls.cn/detail/2173984)
-- [【36kr】一飞机抵港后坠海，地勤车2人被撞身亡](https://www.cls.cn/detail/2174011)
-- [【36kr】黄金大涨带来辐射效应！“含金量”十足的新兴市场正在躺赢？](https://www.cls.cn/detail/2174164)
+- [【36kr】苹果股价站上新高-iPhone17“技术普惠”点燃换机潮-这些公司“实锤”进入供应链](https://www.cls.cn/detail/2175274)
+- [【36kr】人民日报头版：新质生产力点燃高质量发展新引擎](https://www.cls.cn/detail/2175148)
+- [【36kr】10月21日投资避雷针：4连板人气股提示风险-存储芯片相关收入占比不足1%](https://www.cls.cn/detail/2175155)
+- [【36kr】深夜又一A股公司曝算力计划泡汤！群兴玩具五追“风口”并购皆告失败-|速读公告](https://www.cls.cn/detail/2175151)
+- [【36kr】金价再创历史新高！瑞银唱多：明年一季度前有望站上4700美元](https://www.cls.cn/detail/2175165)
+- [【36kr】活久见！全球存储行业正快跑进入超级周期-内存条涨成“理财产品”](https://www.cls.cn/detail/2175284)
+- [【36kr】【早报】密集发布！多家行业龙头公司三季报出炉；苹果股价暴涨创新高](https://www.cls.cn/detail/2175107)
+- [【36kr】美股收盘：三大指数均涨超1%-苹果大涨近4%](https://www.cls.cn/detail/2175088)
+- [【36kr】越南股指尾盘大跳水-发生了什么？](https://www.cls.cn/detail/2174760)
+- [【36kr】现货黄金重返4300美元-美股稀土板块活跃走高-|-今夜看点](https://www.cls.cn/detail/2174932)
+- [【36kr】美联储降息已是板上钉钉，但“数据真空”令决策如履薄冰](https://www.cls.cn/detail/2174848)
+- [【36kr】【数据看盘】银行ETF上周份额大增-机构、一线游资活跃度大幅下降](https://www.cls.cn/detail/2174686)
+- [【36kr】年线即将转涨！红利指数“V字”反弹，这些成分股“扛旗”修复](https://www.cls.cn/detail/2174667)
+- [【36kr】【焦点复盘】创业板指缩量反弹涨近2%，两市成交额创2个月以来地量，超硬材料概念午后卷土重来](https://www.cls.cn/detail/2174650)
+- [【36kr】新华社社评：在接续奋斗中谱写中国式现代化新篇章](https://www.cls.cn/detail/2174250)
+- [【36kr】奇瑞扔出“王炸”、国轩高科推进产线建设-固态电池早盘走强](https://www.cls.cn/detail/2174240)
+- [【36kr】人民日报任仲平文章：引领未来，中国做对了什么](https://www.cls.cn/detail/2173931)
+- [【36kr】10月20日投资避雷针：千亿中药龙头第三季度净利润同比下降28.82%](https://www.cls.cn/detail/2173932)
+- [【36kr】新华社刊文：确保基本实现社会主义现代化取得决定性进展](https://www.cls.cn/detail/2173959)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
