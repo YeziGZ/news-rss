@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-11-03 02:23:26。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-11-03 03:37:59。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -23,26 +23,26 @@
 
 
 
-- [【36kr】史上最大IPO要来了？OpenAI据称筹备上市-冲击万亿美元估值](https://www.cls.cn/detail/2185897)
-- [【36kr】OpenAI据悉计划最早明年下半年提交上市申请-|-环球市场](https://www.cls.cn/detail/2185569)
 - [【36kr】一图看懂-|-史上最大IPO？OpenAI与美股科技七巨头还有多大差距？](https://www.cls.cn/detail/2186587)
-- [【36kr】OpenAI重组落地！微软持股27%-并续签AI合作至2032年](https://www.cls.cn/detail/2183967)
+- [【36kr】OpenAI据悉计划最早明年下半年提交上市申请-|-环球市场](https://www.cls.cn/detail/2185569)
+- [【36kr】史上最大IPO要来了？OpenAI据称筹备上市-冲击万亿美元估值](https://www.cls.cn/detail/2185897)
 - [【36kr】PayPal成为ChatGPT首个支付钱包-盘前一度涨超15%](https://www.cls.cn/detail/2183840)
+- [【36kr】OpenAI重组落地！微软持股27%-并续签AI合作至2032年](https://www.cls.cn/detail/2183967)
 - [【36kr】电子宠物“卖爆了”、机器狗定价不超300元接入三款热门模型！AI玩具加速成熟-哪些玩家布局？](https://www.cls.cn/detail/2180802)
-- [【36kr】泽连斯基称已准备好结束俄乌冲突-OpenAI推出AI浏览器-|-环球市场](https://www.cls.cn/detail/2176367)
 - [【36kr】OpenAI推出AI浏览器Atlas-与谷歌Chrome正面竞争](https://www.cls.cn/detail/2176315)
-- [【36kr】美国政府继续停摆-OpenAI收紧Sora监管｜环球市场](https://www.cls.cn/detail/2175118)
-- [【36kr】六大AI模型被扔进加密市场厮杀，DeepSeek暂为交易之王](https://www.cls.cn/detail/2174661)
+- [【36kr】泽连斯基称已准备好结束俄乌冲突-OpenAI推出AI浏览器-|-环球市场](https://www.cls.cn/detail/2176367)
 - [【36kr】OpenAI联合创始人“泼冷水”：AI智能体真正发挥作用还需十年！](https://www.cls.cn/detail/2174516)
+- [【36kr】六大AI模型被扔进加密市场厮杀，DeepSeek暂为交易之王](https://www.cls.cn/detail/2174661)
+- [【36kr】美国政府继续停摆-OpenAI收紧Sora监管｜环球市场](https://www.cls.cn/detail/2175118)
 - [【36kr】大模型单日调用150亿次！“双11”三大新变量：AI、即时零售与出海](https://www.cls.cn/detail/2172161)
-- [【36kr】OpenAI将在阿根廷投资250亿美元，打造拉美首个“星际之门”项目](https://www.cls.cn/detail/2169533)
 - [【36kr】AI重塑零售业！沃尔玛携手OpenAI在ChatGPT上推出购物功能](https://www.cls.cn/detail/2169515)
-- [【36kr】甲骨文CEO：OpenAI每年支付600亿美元“当然没问题”](https://www.cls.cn/detail/2168234)
+- [【36kr】OpenAI将在阿根廷投资250亿美元，打造拉美首个“星际之门”项目](https://www.cls.cn/detail/2169533)
 - [【36kr】OpenAI下订博通10GW定制芯片-AI巨头放言“这才是九牛一毛”](https://www.cls.cn/detail/2168170)
+- [【36kr】甲骨文CEO：OpenAI每年支付600亿美元“当然没问题”](https://www.cls.cn/detail/2168234)
 - [【36kr】前方高能？OpenAI-CEO扬言：除英伟达、AMD外，还有更多大交易！](https://www.cls.cn/detail/2163825)
 - [【36kr】对话李开复：大模型应用爆发会带来推理芯片更大增长](https://www.cls.cn/detail/2163578)
 - [【36kr】看跌英伟达的转折点？美国市场如何评价OpenAI-AMD巨额算力协议](https://www.cls.cn/detail/2163155)
-- [【36kr】美股收盘：OpenAI“点到哪家涨哪家”-标普纳指再创收盘新高](https://www.cls.cn/detail/2163026)
+- [【36kr】与OpenAI达成巨额算力基建协议-AMD股价盘前暴涨超20%](https://www.cls.cn/detail/2162934)
 - [......【查看更多】......](/details/tags/aigc.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】锂电池概念股赫然在列！10月接待机构调研次数居前热门股名单一览](https://www.cls.cn/detail/2188876)
-- [【36kr】沪指突破4000点后年末如何应对？投资主线有哪些？十大券商策略来了](https://www.cls.cn/detail/2188880)
-- [【36kr】高值创新药迎来支付新通道：2025年医保国谈首设商保目录](https://www.cls.cn/detail/2188711)
-- [【36kr】面对荷方晶圆断供，安世中国回应：库存充足-能够满足客户至年底乃至更长时间的订单需求](https://www.cls.cn/detail/2188703)
-- [【36kr】“国家队”持仓动向揭秘！Q3持仓超100亿A股上市公司名单一览](https://www.cls.cn/detail/2188629)
-- [【36kr】“国家大基金”持仓路径曝光-三季度重仓股名单来了](https://www.cls.cn/detail/2188656)
-- [【36kr】切入存储领域的照明龙头年内涨超450%-近一月披露并购重组进展的A股名单一览](https://www.cls.cn/detail/2188615)
-- [【36kr】周末要闻汇总：公募基金业绩比较基准指引征求意见稿发布，寒武纪遭原CTO起诉索赔近43亿元](https://www.cls.cn/detail/2188845)
-- [【36kr】国谈“上新”！商保创新药目录协商于第四日开启-CAR-T品种或实现突破](https://www.cls.cn/detail/2188839)
-- [【36kr】“A+H”股热潮延续！10月累计16家A股上市公司筹划赴港上市，700亿PCB龙头在列](https://www.cls.cn/detail/2188804)
-- [【36kr】陈光明封盘，投资大佬相继行动，究竟何考量？](https://www.cls.cn/detail/2188872)
-- [【36kr】Q3最受机构青睐科创板公司名单出炉！930家机构持股寒武纪-大基金成沪硅产业、拓荆科技第一大流通股东](https://www.cls.cn/detail/2188905)
-- [【36kr】抗肿瘤新药Ⅰ期临床试验已正式启动-创新药概念股单日涨超11%-本周机构密集调研相关上市公司](https://www.cls.cn/detail/2188910)
-- [【36kr】【早报】公募基金业绩比较基准指引征求意见稿发布，两部门发布黄金有关税收政策的公告](https://www.cls.cn/detail/2188963)
+- [【36kr】我国又一重大科技基础设施通过工艺验收-该产业未来市场潜力巨大](https://www.cls.cn/detail/2188979)
+- [【36kr】科技巨头财报揭露关键趋势？基金经理：AI投资巨浪将推动美股下一轮涨势！](https://www.cls.cn/detail/2189006)
+- [【36kr】11月3日投资避雷针：掩模版龙头涉嫌财务造假遭证监会立案](https://www.cls.cn/detail/2189009)
+- [【36kr】抢占科技制高点-量子科技迈入“从1到10”迭代期](https://www.cls.cn/detail/2189069)
 - [【36kr】斩断田间窃密黑手！间谍在我国搜集农作物基因数据](https://www.cls.cn/detail/2188964)
-- [【36kr】段永平，捐了1万股茅台](https://www.cls.cn/detail/2188670)
-- [【36kr】【早报】两部门明确黄金有关税收政策；我国航空制造装备领域取得重大突破](https://www.cls.cn/detail/2188697)
-- [【36kr】新势力“银十”再迎交付潮：零跑、小鹏、蔚来创新高-理想一大问题待解](https://www.cls.cn/detail/2188647)
-- [【36kr】龙头八连板-本周披露并购重组进展的A股名单一览](https://www.cls.cn/detail/2188589)
-- [【36kr】一日三罚波及两券商，投行被立案追责，关联方5780万造假罚单余震未消](https://www.cls.cn/detail/2188582)
+- [【36kr】【早报】公募基金业绩比较基准指引征求意见稿发布，两部门发布黄金有关税收政策的公告](https://www.cls.cn/detail/2188963)
+- [【36kr】抗肿瘤新药Ⅰ期临床试验已正式启动-创新药概念股单日涨超11%-本周机构密集调研相关上市公司](https://www.cls.cn/detail/2188910)
+- [【36kr】Q3最受机构青睐科创板公司名单出炉！930家机构持股寒武纪-大基金成沪硅产业、拓荆科技第一大流通股东](https://www.cls.cn/detail/2188905)
+- [【36kr】陈光明封盘，投资大佬相继行动，究竟何考量？](https://www.cls.cn/detail/2188872)
+- [【36kr】“A+H”股热潮延续！10月累计16家A股上市公司筹划赴港上市，700亿PCB龙头在列](https://www.cls.cn/detail/2188804)
+- [【36kr】国谈“上新”！商保创新药目录协商于第四日开启-CAR-T品种或实现突破](https://www.cls.cn/detail/2188839)
+- [【36kr】周末要闻汇总：公募基金业绩比较基准指引征求意见稿发布，寒武纪遭原CTO起诉索赔近43亿元](https://www.cls.cn/detail/2188845)
+- [【36kr】切入存储领域的照明龙头年内涨超450%-近一月披露并购重组进展的A股名单一览](https://www.cls.cn/detail/2188615)
+- [【36kr】“国家大基金”持仓路径曝光-三季度重仓股名单来了](https://www.cls.cn/detail/2188656)
+- [【36kr】“国家队”持仓动向揭秘！Q3持仓超100亿A股上市公司名单一览](https://www.cls.cn/detail/2188629)
+- [【36kr】面对荷方晶圆断供，安世中国回应：库存充足-能够满足客户至年底乃至更长时间的订单需求](https://www.cls.cn/detail/2188703)
+- [【36kr】高值创新药迎来支付新通道：2025年医保国谈首设商保目录](https://www.cls.cn/detail/2188711)
+- [【36kr】沪指突破4000点后年末如何应对？投资主线有哪些？十大券商策略来了](https://www.cls.cn/detail/2188880)
+- [【36kr】锂电池概念股赫然在列！10月接待机构调研次数居前热门股名单一览](https://www.cls.cn/detail/2188876)
+- [【36kr】蔡奇人民日报撰文：持之以恒推进全面从严治党](https://www.cls.cn/detail/2188974)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
