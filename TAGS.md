@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-11-10 09:44:49。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-11-10 10:47:13。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -24,25 +24,25 @@
 
 
 - [【36kr】AI投资须政府兜底?-OpenAI奥尔特曼紧急“灭火”：2030年营收达数千亿美元](https://www.cls.cn/detail/2193718)
-- [【36kr】机器人工业场景加速推进，测量机“卖爆了”-王兴兴现身谈具身智能的“ChatGPT”时刻](https://www.cls.cn/detail/2193555)
 - [【36kr】美股收盘：OpenAI高管言论引发风暴-纳指跌近2%](https://www.cls.cn/detail/2193628)
+- [【36kr】机器人工业场景加速推进，测量机“卖爆了”-王兴兴现身谈具身智能的“ChatGPT”时刻](https://www.cls.cn/detail/2193555)
 - [【36kr】亚马逊领千亿大单入伙-一文盘点OpenAI签了多少“愿景支票”](https://www.cls.cn/detail/2190043)
-- [【36kr】史上最大IPO要来了？OpenAI据称筹备上市-冲击万亿美元估值](https://www.cls.cn/detail/2185897)
-- [【36kr】OpenAI据悉计划最早明年下半年提交上市申请-|-环球市场](https://www.cls.cn/detail/2185569)
 - [【36kr】一图看懂-|-史上最大IPO？OpenAI与美股科技七巨头还有多大差距？](https://www.cls.cn/detail/2186587)
-- [【36kr】OpenAI重组落地！微软持股27%-并续签AI合作至2032年](https://www.cls.cn/detail/2183967)
+- [【36kr】OpenAI据悉计划最早明年下半年提交上市申请-|-环球市场](https://www.cls.cn/detail/2185569)
+- [【36kr】史上最大IPO要来了？OpenAI据称筹备上市-冲击万亿美元估值](https://www.cls.cn/detail/2185897)
 - [【36kr】PayPal成为ChatGPT首个支付钱包-盘前一度涨超15%](https://www.cls.cn/detail/2183840)
+- [【36kr】OpenAI重组落地！微软持股27%-并续签AI合作至2032年](https://www.cls.cn/detail/2183967)
 - [【36kr】电子宠物“卖爆了”、机器狗定价不超300元接入三款热门模型！AI玩具加速成熟-哪些玩家布局？](https://www.cls.cn/detail/2180802)
-- [【36kr】泽连斯基称已准备好结束俄乌冲突-OpenAI推出AI浏览器-|-环球市场](https://www.cls.cn/detail/2176367)
 - [【36kr】OpenAI推出AI浏览器Atlas-与谷歌Chrome正面竞争](https://www.cls.cn/detail/2176315)
-- [【36kr】美国政府继续停摆-OpenAI收紧Sora监管｜环球市场](https://www.cls.cn/detail/2175118)
-- [【36kr】六大AI模型被扔进加密市场厮杀，DeepSeek暂为交易之王](https://www.cls.cn/detail/2174661)
+- [【36kr】泽连斯基称已准备好结束俄乌冲突-OpenAI推出AI浏览器-|-环球市场](https://www.cls.cn/detail/2176367)
 - [【36kr】OpenAI联合创始人“泼冷水”：AI智能体真正发挥作用还需十年！](https://www.cls.cn/detail/2174516)
+- [【36kr】六大AI模型被扔进加密市场厮杀，DeepSeek暂为交易之王](https://www.cls.cn/detail/2174661)
+- [【36kr】美国政府继续停摆-OpenAI收紧Sora监管｜环球市场](https://www.cls.cn/detail/2175118)
 - [【36kr】大模型单日调用150亿次！“双11”三大新变量：AI、即时零售与出海](https://www.cls.cn/detail/2172161)
-- [【36kr】OpenAI将在阿根廷投资250亿美元，打造拉美首个“星际之门”项目](https://www.cls.cn/detail/2169533)
 - [【36kr】AI重塑零售业！沃尔玛携手OpenAI在ChatGPT上推出购物功能](https://www.cls.cn/detail/2169515)
-- [【36kr】甲骨文CEO：OpenAI每年支付600亿美元“当然没问题”](https://www.cls.cn/detail/2168234)
+- [【36kr】OpenAI将在阿根廷投资250亿美元，打造拉美首个“星际之门”项目](https://www.cls.cn/detail/2169533)
 - [【36kr】OpenAI下订博通10GW定制芯片-AI巨头放言“这才是九牛一毛”](https://www.cls.cn/detail/2168170)
+- [【36kr】甲骨文CEO：OpenAI每年支付600亿美元“当然没问题”](https://www.cls.cn/detail/2168234)
 - [......【查看更多】......](/details/tags/aigc.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】高市早苗暗示武力介入台海可能性，外交部：性质和影响极其恶劣](https://www.cls.cn/detail/2195900)
-- [【36kr】5部门：调整《向特定国家（地区）出口易制毒化学品管理目录》《特定国家（地区）目录》](https://www.cls.cn/detail/2195849)
-- [【36kr】交通运输部：暂停对美船舶收取船舶特别港务费等-为期1年](https://www.cls.cn/detail/2195682)
-- [【36kr】比AI更刺激！“量子神股”19倍涨幅背后：一场基于梦想的豪赌？](https://www.cls.cn/detail/2195504)
-- [【36kr】11月10日投资避雷针：固态电池概念人气股突发公告-董事及高管涉嫌短线交易被立案](https://www.cls.cn/detail/2195426)
-- [【36kr】券商晨会精华：市场再平衡继续，围绕三条线索](https://www.cls.cn/detail/2195413)
-- [【36kr】每人2000美元？特朗普扬言要撒“关税红利”，贝森特暗示通过减税实现！](https://www.cls.cn/detail/2195415)
-- [【36kr】中国液体可回收火箭“朱雀三号”将于11月中下旬首飞](https://www.cls.cn/detail/2195477)
-- [【36kr】美联储下一次QE得买AI公司债？“华尔街最准分析师”又抛神论](https://www.cls.cn/detail/2195609)
-- [【36kr】智元机器人完成股改，即将开启上市之路？](https://www.cls.cn/detail/2195804)
-- [【36kr】中国黄金协会：前三季度国内黄金ETF增仓量为79.015吨-同比增长164.03%](https://www.cls.cn/detail/2195550)
-- [【36kr】【午报】创业板指跌超2%，大消费方向集体爆发，算力硬件股再遭调整](https://www.cls.cn/detail/2195675)
-- [【36kr】八名民主党议员意外倒戈-美参议院就结束政府停摆达成一致](https://www.cls.cn/detail/2195864)
-- [【36kr】两部门：到2035年，适配高比例新能源的新型电力系统基本建成](https://www.cls.cn/detail/2195982)
-- [【36kr】【每日收评】沪指探底回升涨0.53%，全市场逾百股涨超9%，大消费方向集体爆发](https://www.cls.cn/detail/2196024)
 - [【36kr】国办印发《关于进一步促进民间投资发展的若干措施》](https://www.cls.cn/detail/2196073)
-- [【36kr】打破AI“用电荒”？太空算力争夺赛开打-科技巨头加速布局](https://www.cls.cn/detail/2195310)
-- [【36kr】十大券商策略：化工、有色等顺周期板块获多家券商推荐](https://www.cls.cn/detail/2195289)
-- [【36kr】涨幅高达50%！闪存龙头最新合约价暴涨-带动模组厂暂停出货报价](https://www.cls.cn/detail/2195262)
-- [【36kr】商务部：《关于加强相关两用物项对美国出口管制的公告》第二款暂停实施](https://www.cls.cn/detail/2195113)
+- [【36kr】【每日收评】沪指探底回升涨0.53%，全市场逾百股涨超9%，大消费方向集体爆发](https://www.cls.cn/detail/2196024)
+- [【36kr】两部门：到2035年，适配高比例新能源的新型电力系统基本建成](https://www.cls.cn/detail/2195982)
+- [【36kr】八名民主党议员意外倒戈-美参议院就结束政府停摆达成一致](https://www.cls.cn/detail/2195864)
+- [【36kr】【午报】创业板指跌超2%，大消费方向集体爆发，算力硬件股再遭调整](https://www.cls.cn/detail/2195675)
+- [【36kr】中国黄金协会：前三季度国内黄金ETF增仓量为79.015吨-同比增长164.03%](https://www.cls.cn/detail/2195550)
+- [【36kr】智元机器人完成股改，即将开启上市之路？](https://www.cls.cn/detail/2195804)
+- [【36kr】美联储下一次QE得买AI公司债？“华尔街最准分析师”又抛神论](https://www.cls.cn/detail/2195609)
+- [【36kr】中国液体可回收火箭“朱雀三号”将于11月中下旬首飞](https://www.cls.cn/detail/2195477)
+- [【36kr】每人2000美元？特朗普扬言要撒“关税红利”，贝森特暗示通过减税实现！](https://www.cls.cn/detail/2195415)
+- [【36kr】券商晨会精华：市场再平衡继续，围绕三条线索](https://www.cls.cn/detail/2195413)
+- [【36kr】11月10日投资避雷针：固态电池概念人气股突发公告-董事及高管涉嫌短线交易被立案](https://www.cls.cn/detail/2195426)
+- [【36kr】比AI更刺激！“量子神股”19倍涨幅背后：一场基于梦想的豪赌？](https://www.cls.cn/detail/2195504)
+- [【36kr】交通运输部：暂停对美船舶收取船舶特别港务费等-为期1年](https://www.cls.cn/detail/2195682)
+- [【36kr】5部门：调整《向特定国家（地区）出口易制毒化学品管理目录》《特定国家（地区）目录》](https://www.cls.cn/detail/2195849)
+- [【36kr】高市早苗暗示武力介入台海可能性，外交部：性质和影响极其恶劣](https://www.cls.cn/detail/2195900)
+- [【36kr】【焦点复盘】沪指四连阳创年内收盘新高，涨价概念强者恒强，存储芯片概念再度爆发](https://www.cls.cn/detail/2196110)
+- [【36kr】两部门发文促进新能源消纳-算力设施获点名-储能、电网升级迈入加速期](https://www.cls.cn/detail/2196117)
+- [【36kr】【数据看盘】多只医药ETF上周份额大增-机构、实力游资激烈博弈锂电股](https://www.cls.cn/detail/2196153)
+- [【36kr】重大风电项目不断公布-风电行业景气度持续向好](https://www.cls.cn/detail/2195401)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
