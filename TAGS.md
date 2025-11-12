@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-11-12 07:40:45。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-11-12 08:51:27。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -23,26 +23,26 @@
 
 
 
-- [【36kr】2025乌镇峰会观察：AI大模型“上身”机器人-浙江本土科技力量成新焦点](https://www.cls.cn/detail/2196822)
+- [【36kr】OpenAI是“AI定海神针”？专家：它若倒了，科技巨头股价“腰斩”无人能逃！](https://www.cls.cn/detail/2197915)
 - [【36kr】俄罗斯推出首款国产人形机器人-OpenAI被判侵权-|-环球市场](https://www.cls.cn/detail/2197744)
+- [【36kr】2025乌镇峰会观察：AI大模型“上身”机器人-浙江本土科技力量成新焦点](https://www.cls.cn/detail/2196822)
 - [【36kr】OpenAI寻求变现又一招？这次瞄准AI医疗-或开发个人健康助理](https://www.cls.cn/detail/2196380)
 - [【36kr】AI投资须政府兜底?-OpenAI奥尔特曼紧急“灭火”：2030年营收达数千亿美元](https://www.cls.cn/detail/2193718)
-- [【36kr】美股收盘：OpenAI高管言论引发风暴-纳指跌近2%](https://www.cls.cn/detail/2193628)
 - [【36kr】机器人工业场景加速推进，测量机“卖爆了”-王兴兴现身谈具身智能的“ChatGPT”时刻](https://www.cls.cn/detail/2193555)
+- [【36kr】美股收盘：OpenAI高管言论引发风暴-纳指跌近2%](https://www.cls.cn/detail/2193628)
 - [【36kr】亚马逊领千亿大单入伙-一文盘点OpenAI签了多少“愿景支票”](https://www.cls.cn/detail/2190043)
-- [【36kr】一图看懂-|-史上最大IPO？OpenAI与美股科技七巨头还有多大差距？](https://www.cls.cn/detail/2186587)
-- [【36kr】OpenAI据悉计划最早明年下半年提交上市申请-|-环球市场](https://www.cls.cn/detail/2185569)
 - [【36kr】史上最大IPO要来了？OpenAI据称筹备上市-冲击万亿美元估值](https://www.cls.cn/detail/2185897)
-- [【36kr】PayPal成为ChatGPT首个支付钱包-盘前一度涨超15%](https://www.cls.cn/detail/2183840)
+- [【36kr】OpenAI据悉计划最早明年下半年提交上市申请-|-环球市场](https://www.cls.cn/detail/2185569)
+- [【36kr】一图看懂-|-史上最大IPO？OpenAI与美股科技七巨头还有多大差距？](https://www.cls.cn/detail/2186587)
 - [【36kr】OpenAI重组落地！微软持股27%-并续签AI合作至2032年](https://www.cls.cn/detail/2183967)
+- [【36kr】PayPal成为ChatGPT首个支付钱包-盘前一度涨超15%](https://www.cls.cn/detail/2183840)
 - [【36kr】电子宠物“卖爆了”、机器狗定价不超300元接入三款热门模型！AI玩具加速成熟-哪些玩家布局？](https://www.cls.cn/detail/2180802)
-- [【36kr】OpenAI推出AI浏览器Atlas-与谷歌Chrome正面竞争](https://www.cls.cn/detail/2176315)
 - [【36kr】泽连斯基称已准备好结束俄乌冲突-OpenAI推出AI浏览器-|-环球市场](https://www.cls.cn/detail/2176367)
-- [【36kr】OpenAI联合创始人“泼冷水”：AI智能体真正发挥作用还需十年！](https://www.cls.cn/detail/2174516)
-- [【36kr】六大AI模型被扔进加密市场厮杀，DeepSeek暂为交易之王](https://www.cls.cn/detail/2174661)
+- [【36kr】OpenAI推出AI浏览器Atlas-与谷歌Chrome正面竞争](https://www.cls.cn/detail/2176315)
 - [【36kr】美国政府继续停摆-OpenAI收紧Sora监管｜环球市场](https://www.cls.cn/detail/2175118)
+- [【36kr】六大AI模型被扔进加密市场厮杀，DeepSeek暂为交易之王](https://www.cls.cn/detail/2174661)
+- [【36kr】OpenAI联合创始人“泼冷水”：AI智能体真正发挥作用还需十年！](https://www.cls.cn/detail/2174516)
 - [【36kr】大模型单日调用150亿次！“双11”三大新变量：AI、即时零售与出海](https://www.cls.cn/detail/2172161)
-- [【36kr】AI重塑零售业！沃尔玛携手OpenAI在ChatGPT上推出购物功能](https://www.cls.cn/detail/2169515)
 - [......【查看更多】......](/details/tags/aigc.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】中国光伏行业协会执行秘书长刘译阳：不要低估政策决心，光伏行业不走出内卷式恶性竞争誓不罢休](https://www.cls.cn/detail/2198192)
-- [【36kr】华为发布“十大发明”评选结果](https://www.cls.cn/detail/2198080)
-- [【36kr】国内首次！侵入式脑机产品进审批“绿色通道”-超柔性电极是关键](https://www.cls.cn/detail/2197849)
-- [【36kr】硅谷AI“地震”：从债券市场开始？](https://www.cls.cn/detail/2197841)
-- [【36kr】“AI牛市”靠不靠谱？华尔街现在找到了新的看涨动力！](https://www.cls.cn/detail/2197833)
-- [【36kr】水贝市场销售降至“冰点”-料商直言“有货难出”-黄金税收新政之下商家迎“大考”|传真](https://www.cls.cn/detail/2198040)
-- [【36kr】“定时炸弹”滴答作响！专家提醒：铜价爆发行情还没结束](https://www.cls.cn/detail/2197983)
-- [【36kr】全球电车新趋势：美国10月销量暴跌41%-中国或将迎来年底销售热潮](https://www.cls.cn/detail/2198086)
 - [【36kr】中国光伏行业协会：妄图通过造谣抹黑、恶意做空光伏行业牟取利益的恶劣行为-将与之斗争到底](https://www.cls.cn/detail/2198214)
-- [【36kr】【早报】事关货币政策等，央行释放新信号；欧盟正研究强制成员国移除华为中兴设备，外交部回应](https://www.cls.cn/detail/2197758)
-- [【36kr】诺和诺德股价暴涨-公司连发重磅消息-退出竞购获华尔街支持](https://www.cls.cn/detail/2197726)
-- [【36kr】深铁再向万科借款16.7亿用于偿债-此前已累计借款291.3亿](https://www.cls.cn/detail/2197689)
-- [【36kr】商务部新闻发言人就美方暂停实施出口管制穿透性规则答记者问](https://www.cls.cn/detail/2197634)
-- [【36kr】软银CFO回应为何清仓英伟达-iPhone销量火爆得到验证-|-今夜看点](https://www.cls.cn/detail/2197583)
-- [【36kr】什么信号？软银意外清仓英伟达-套现逾400亿](https://www.cls.cn/detail/2197262)
-- [【36kr】【焦点复盘】沪指冲高回落险守4000点，锂电材料股持续火热，机器人概念午后异军突起](https://www.cls.cn/detail/2197306)
-- [【36kr】【每日收评】深成指与创业板指双双跌超1%，两市成交额不足2万亿，大消费方向午后再度活跃](https://www.cls.cn/detail/2197237)
-- [【36kr】【午报】三大指数均小幅下跌，新能源赛道持续活跃，光伏、储能联袂领涨](https://www.cls.cn/detail/2196873)
-- [【36kr】特朗普拟推50年房贷！业内“差评如潮”：房贷终身制、到死还不完？](https://www.cls.cn/detail/2196763)
-- [【36kr】郑栅洁主任主持召开民营企业座谈会-就“十五五”时期服务业发展听取意见建议](https://www.cls.cn/detail/2196905)
+- [【36kr】全球电车新趋势：美国10月销量暴跌41%-中国或将迎来年底销售热潮](https://www.cls.cn/detail/2198086)
+- [【36kr】“定时炸弹”滴答作响！专家提醒：铜价爆发行情还没结束](https://www.cls.cn/detail/2197983)
+- [【36kr】水贝市场销售降至“冰点”-料商直言“有货难出”-黄金税收新政之下商家迎“大考”|传真](https://www.cls.cn/detail/2198040)
+- [【36kr】“AI牛市”靠不靠谱？华尔街现在找到了新的看涨动力！](https://www.cls.cn/detail/2197833)
+- [【36kr】硅谷AI“地震”：从债券市场开始？](https://www.cls.cn/detail/2197841)
+- [【36kr】国内首次！侵入式脑机产品进审批“绿色通道”-超柔性电极是关键](https://www.cls.cn/detail/2197849)
+- [【36kr】华为发布“十大发明”评选结果](https://www.cls.cn/detail/2198080)
+- [【36kr】中国光伏行业协会执行秘书长刘译阳：不要低估政策决心，光伏行业不走出内卷式恶性竞争誓不罢休](https://www.cls.cn/detail/2198192)
+- [【36kr】一战再战：万林物流两任实控人四年缠斗](https://www.cls.cn/detail/2197904)
+- [【36kr】国家能源局：积极推动新能源与新兴产业融合互促发展](https://www.cls.cn/detail/2198261)
+- [【36kr】传言多晶硅收储平台“黄了”-中国光伏行业协会和涉及公司紧急辟谣](https://www.cls.cn/detail/2198340)
+- [【36kr】11月12日投资避雷针：4连板人气股提示-锂电行业恢复存不确定性-公司仍面临亏损风险](https://www.cls.cn/detail/2197787)
+- [【36kr】张又侠发表署名文章：高质量推进国防和军队现代化](https://www.cls.cn/detail/2197752)
+- [【36kr】自然资源部：加力实施找矿突破战略行动-完善找矿资金投入机制](https://www.cls.cn/detail/2197772)
+- [【36kr】大空头伯里再度开炮：AI巨头涉嫌靠会计手法“虚增”利润](https://www.cls.cn/detail/2197694)
+- [【36kr】美股收盘：三大股指涨跌不一-市场押注美国政府停摆即将结束](https://www.cls.cn/detail/2197739)
+- [【36kr】苹果推出新配件iPhone-Pocket，售价1299元起](https://www.cls.cn/detail/2197483)
+- [【36kr】墨西哥推迟对中国商品增加关税，外交部回应](https://www.cls.cn/detail/2197141)
+- [【36kr】新能源销量占比首超50%-中汽协：建议明年继续优化实施“以旧换新”政策](https://www.cls.cn/detail/2197163)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
