@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-11-27 06:54:15。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-11-27 07:41:40。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -24,25 +24,25 @@
 
 
 - [【36kr】“AI投资潮”应刹车？OpenAI联合创始人：规模化到头了，应回归研究！](https://www.cls.cn/detail/2211503)
-- [【36kr】知名苹果爆料人：库克退休传言纯属虚假-OpenAI正在狂挖硬件人才](https://www.cls.cn/detail/2209345)
-- [【36kr】增速超越ChatGPT！千问、灵光持续破圈-国产AI大战2.0打响](https://www.cls.cn/detail/2208933)
 - [【36kr】Anthropic发布模型Opus-4.5，称其编程能力已超越人类工程师](https://www.cls.cn/detail/2209575)
+- [【36kr】增速超越ChatGPT！千问、灵光持续破圈-国产AI大战2.0打响](https://www.cls.cn/detail/2208933)
+- [【36kr】知名苹果爆料人：库克退休传言纯属虚假-OpenAI正在狂挖硬件人才](https://www.cls.cn/detail/2209345)
 - [【36kr】“王者归来”之后-谷歌再下重注：世界模型将迎来“ChatGPT时刻”](https://www.cls.cn/detail/2207169)
 - [【36kr】AI大模型“新王”加冕-奥尔特曼发来贺电-谷歌做对了什么？](https://www.cls.cn/detail/2204501)
-- [【36kr】谷歌宣布推出大模型Gemini-3：图像生成、编程与AI搜索全面增强](https://www.cls.cn/detail/2204346)
 - [【36kr】特朗普称沙特将获得F-35战机-谷歌推出新一代AI模型Gemini-3-|-环球市场](https://www.cls.cn/detail/2204388)
+- [【36kr】谷歌宣布推出大模型Gemini-3：图像生成、编程与AI搜索全面增强](https://www.cls.cn/detail/2204346)
 - [【36kr】阿里秘密启动“千问”项目-将推出国际版与ChatGPT竞争](https://www.cls.cn/detail/2199601)
 - [【36kr】OpenAI是“AI定海神针”？专家：它若倒了，科技巨头股价“腰斩”无人能逃！](https://www.cls.cn/detail/2197915)
-- [【36kr】俄罗斯推出首款国产人形机器人-OpenAI被判侵权-|-环球市场](https://www.cls.cn/detail/2197744)
 - [【36kr】2025乌镇峰会观察：AI大模型“上身”机器人-浙江本土科技力量成新焦点](https://www.cls.cn/detail/2196822)
+- [【36kr】俄罗斯推出首款国产人形机器人-OpenAI被判侵权-|-环球市场](https://www.cls.cn/detail/2197744)
 - [【36kr】OpenAI寻求变现又一招？这次瞄准AI医疗-或开发个人健康助理](https://www.cls.cn/detail/2196380)
 - [【36kr】AI投资须政府兜底?-OpenAI奥尔特曼紧急“灭火”：2030年营收达数千亿美元](https://www.cls.cn/detail/2193718)
-- [【36kr】机器人工业场景加速推进，测量机“卖爆了”-王兴兴现身谈具身智能的“ChatGPT”时刻](https://www.cls.cn/detail/2193555)
 - [【36kr】美股收盘：OpenAI高管言论引发风暴-纳指跌近2%](https://www.cls.cn/detail/2193628)
+- [【36kr】机器人工业场景加速推进，测量机“卖爆了”-王兴兴现身谈具身智能的“ChatGPT”时刻](https://www.cls.cn/detail/2193555)
 - [【36kr】亚马逊领千亿大单入伙-一文盘点OpenAI签了多少“愿景支票”](https://www.cls.cn/detail/2190043)
-- [【36kr】史上最大IPO要来了？OpenAI据称筹备上市-冲击万亿美元估值](https://www.cls.cn/detail/2185897)
-- [【36kr】OpenAI据悉计划最早明年下半年提交上市申请-|-环球市场](https://www.cls.cn/detail/2185569)
 - [【36kr】一图看懂-|-史上最大IPO？OpenAI与美股科技七巨头还有多大差距？](https://www.cls.cn/detail/2186587)
+- [【36kr】OpenAI据悉计划最早明年下半年提交上市申请-|-环球市场](https://www.cls.cn/detail/2185569)
+- [【36kr】史上最大IPO要来了？OpenAI据称筹备上市-冲击万亿美元估值](https://www.cls.cn/detail/2185897)
 - [......【查看更多】......](/details/tags/aigc.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】全球“内存荒”加剧！从戴尔到惠普-下游厂商警告声不绝于耳](https://www.cls.cn/detail/2212370)
-- [【36kr】商务部：将推进汽车流通消费改革试点-全链条扩大汽车消费](https://www.cls.cn/detail/2212351)
-- [【36kr】美国将部分对华关税豁免期延长至2026年11月10日](https://www.cls.cn/detail/2212191)
-- [【36kr】11月27日投资避雷针：国产中间件龙头连续四年财务造假-被终止上市](https://www.cls.cn/detail/2212184)
-- [【36kr】一周内两度“撕报告”！小摩：美联储12月将降息-明年1月再降一次](https://www.cls.cn/detail/2212176)
-- [【36kr】华为推出首款陪聊机器人“智能憨憨”-AI玩具市场有望酝酿下一个超级单品](https://www.cls.cn/detail/2212151)
-- [【36kr】“AI新王”强势崛起！大摩：2027年谷歌TPU外销量或达100万颗](https://www.cls.cn/detail/2212466)
-- [【36kr】地产债上演“过山车”行情，“22万科04”由跌超40%转涨超30%](https://www.cls.cn/detail/2212532)
 - [【36kr】万科债券迎“至暗时刻”-即将进入偿债高峰期](https://www.cls.cn/detail/2212576)
-- [【36kr】44人遇难-3人被捕-香港大埔火灾最新情况一文速览](https://www.cls.cn/detail/2212155)
-- [【36kr】万科再次成为风暴中心-一笔20亿元债券将展期](https://www.cls.cn/detail/2212071)
-- [【36kr】玉渊谭天丨中美通话传递信号：坚决阻击任何复活军国主义的图谋](https://www.cls.cn/detail/2212047)
-- [【36kr】中保协：目前金融监管部门未批准或备案任何名称为“安我股保”的保险产品](https://www.cls.cn/detail/2211560)
-- [【36kr】别想再“偷”基民的收益！基金销售结算新规落地，堵住货基套利漏洞](https://www.cls.cn/detail/2211579)
-- [【36kr】外交部：日方应当诚实、准确、完整地讲清其所谓“一贯立场”](https://www.cls.cn/detail/2211473)
-- [【36kr】万科债券再度大跌，多只跌超20%触发临停，下月有57亿元中票将到期](https://www.cls.cn/detail/2211343)
-- [【36kr】单日跌超30%！“22万科02”二次临停，万科股债齐探底](https://www.cls.cn/detail/2211314)
-- [【36kr】99元能买量化系统？直播间又上戏码，是财富密码还是收割陷阱？](https://www.cls.cn/detail/2211220)
-- [【36kr】日本宣布在敏感区域部署导弹，国台办回应：这一动向极其危险](https://www.cls.cn/detail/2211142)
-- [【36kr】Gemini+TPU双线破局！顶级科技投资人“火上浇油”：七巨头中Alphabet最值得持有](https://www.cls.cn/detail/2211111)
+- [【36kr】地产债上演“过山车”行情，“22万科04”由跌超40%转涨超30%](https://www.cls.cn/detail/2212532)
+- [【36kr】“AI新王”强势崛起！大摩：2027年谷歌TPU外销量或达100万颗](https://www.cls.cn/detail/2212466)
+- [【36kr】华为推出首款陪聊机器人“智能憨憨”-AI玩具市场有望酝酿下一个超级单品](https://www.cls.cn/detail/2212151)
+- [【36kr】一周内两度“撕报告”！小摩：美联储12月将降息-明年1月再降一次](https://www.cls.cn/detail/2212176)
+- [【36kr】11月27日投资避雷针：国产中间件龙头连续四年财务造假-被终止上市](https://www.cls.cn/detail/2212184)
+- [【36kr】美国将部分对华关税豁免期延长至2026年11月10日](https://www.cls.cn/detail/2212191)
+- [【36kr】商务部：将推进汽车流通消费改革试点-全链条扩大汽车消费](https://www.cls.cn/detail/2212351)
+- [【36kr】全球“内存荒”加剧！从戴尔到惠普-下游厂商警告声不绝于耳](https://www.cls.cn/detail/2212370)
+- [【36kr】银行“蓝V”扎堆小红书：流量易得，“人心”难留](https://www.cls.cn/detail/2212279)
+- [【36kr】再狙英伟达！“大空头”炮轰：你们的反击充斥着“稻草人谬误”](https://www.cls.cn/detail/2212358)
+- [【36kr】陕西：重点推动主业不突出、经营效益差的国有控股上市公司实施重大资产重组](https://www.cls.cn/detail/2212519)
+- [【36kr】人民日报钟声：中美应共同维护好二战胜利成果](https://www.cls.cn/detail/2212153)
+- [【36kr】白宫附近发生枪击-特朗普要求向华盛顿增派数百名士兵-|-环球市场](https://www.cls.cn/detail/2212154)
+- [【36kr】马斯克将AI推上《英雄联盟》对局：Grok-5能否抗衡人类最强战队？](https://www.cls.cn/detail/2212089)
+- [【36kr】【早报】美股斩获四连阳；事关促消费，利好来了](https://www.cls.cn/detail/2212138)
+- [【36kr】美股收盘：三大指数连涨四日-芯片股全线走强](https://www.cls.cn/detail/2212125)
+- [【36kr】近日多名旅日中国公民遭到无端辱骂殴打并受伤，我使馆再提醒](https://www.cls.cn/detail/2212048)
+- [【36kr】香港大埔火灾已致13人死亡28人受伤](https://www.cls.cn/detail/2211947)
+- [【36kr】市场情绪持续回暖-美股三大期指集体走高-|-今夜看点](https://www.cls.cn/detail/2212003)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
