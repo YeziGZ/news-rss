@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-12-03 02:22:57。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-12-03 03:39:39。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -23,26 +23,26 @@
 
 
 
-- [【36kr】OpenAI拉响最高警报：谷歌模型威胁巨大-全力改进ChatGPT](https://www.cls.cn/detail/2217188)
-- [【36kr】从DeepSeek“上新”看AI演进-大模型将成“全能管家”？](https://www.cls.cn/detail/2217435)
 - [【36kr】亚马逊云计算盛会开幕！CEO今晚登台，新AI模型和AI芯片即将亮相？](https://www.cls.cn/detail/2216943)
+- [【36kr】从DeepSeek“上新”看AI演进-大模型将成“全能管家”？](https://www.cls.cn/detail/2217435)
+- [【36kr】OpenAI拉响最高警报：谷歌模型威胁巨大-全力改进ChatGPT](https://www.cls.cn/detail/2217188)
 - [【36kr】【早报】热门中概股逆势飘红，银价续创历史新高；DeepSeek发布两款新模型](https://www.cls.cn/detail/2216499)
 - [【36kr】OpenAI真要成“烧钱无底洞”？汇丰：到2030年仍难以盈利](https://www.cls.cn/detail/2213059)
 - [【36kr】“AI投资潮”应刹车？OpenAI联合创始人：规模化到头了，应回归研究！](https://www.cls.cn/detail/2211503)
-- [【36kr】Anthropic发布模型Opus-4.5，称其编程能力已超越人类工程师](https://www.cls.cn/detail/2209575)
-- [【36kr】增速超越ChatGPT！千问、灵光持续破圈-国产AI大战2.0打响](https://www.cls.cn/detail/2208933)
 - [【36kr】知名苹果爆料人：库克退休传言纯属虚假-OpenAI正在狂挖硬件人才](https://www.cls.cn/detail/2209345)
+- [【36kr】增速超越ChatGPT！千问、灵光持续破圈-国产AI大战2.0打响](https://www.cls.cn/detail/2208933)
+- [【36kr】Anthropic发布模型Opus-4.5，称其编程能力已超越人类工程师](https://www.cls.cn/detail/2209575)
 - [【36kr】“王者归来”之后-谷歌再下重注：世界模型将迎来“ChatGPT时刻”](https://www.cls.cn/detail/2207169)
 - [【36kr】AI大模型“新王”加冕-奥尔特曼发来贺电-谷歌做对了什么？](https://www.cls.cn/detail/2204501)
-- [【36kr】特朗普称沙特将获得F-35战机-谷歌推出新一代AI模型Gemini-3-|-环球市场](https://www.cls.cn/detail/2204388)
 - [【36kr】谷歌宣布推出大模型Gemini-3：图像生成、编程与AI搜索全面增强](https://www.cls.cn/detail/2204346)
+- [【36kr】特朗普称沙特将获得F-35战机-谷歌推出新一代AI模型Gemini-3-|-环球市场](https://www.cls.cn/detail/2204388)
 - [【36kr】阿里秘密启动“千问”项目-将推出国际版与ChatGPT竞争](https://www.cls.cn/detail/2199601)
 - [【36kr】OpenAI是“AI定海神针”？专家：它若倒了，科技巨头股价“腰斩”无人能逃！](https://www.cls.cn/detail/2197915)
-- [【36kr】2025乌镇峰会观察：AI大模型“上身”机器人-浙江本土科技力量成新焦点](https://www.cls.cn/detail/2196822)
 - [【36kr】俄罗斯推出首款国产人形机器人-OpenAI被判侵权-|-环球市场](https://www.cls.cn/detail/2197744)
+- [【36kr】2025乌镇峰会观察：AI大模型“上身”机器人-浙江本土科技力量成新焦点](https://www.cls.cn/detail/2196822)
 - [【36kr】OpenAI寻求变现又一招？这次瞄准AI医疗-或开发个人健康助理](https://www.cls.cn/detail/2196380)
 - [【36kr】AI投资须政府兜底?-OpenAI奥尔特曼紧急“灭火”：2030年营收达数千亿美元](https://www.cls.cn/detail/2193718)
-- [【36kr】美股收盘：OpenAI高管言论引发风暴-纳指跌近2%](https://www.cls.cn/detail/2193628)
+- [【36kr】机器人工业场景加速推进，测量机“卖爆了”-王兴兴现身谈具身智能的“ChatGPT”时刻](https://www.cls.cn/detail/2193555)
 - [......【查看更多】......](/details/tags/aigc.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】12月3日投资避雷针：4连板人气股紧急澄清-目前不存在AI手机相关业务](https://www.cls.cn/detail/2217771)
-- [【36kr】浙江“十五五”规划建议：聚焦人形机器人、脑机接口等领域-布局建设一批未来产业先导区](https://www.cls.cn/detail/2217788)
-- [【36kr】普京与美国特使长谈近5小时-俄方：富有成效，但未达成妥协方案](https://www.cls.cn/detail/2217762)
 - [【36kr】端侧AI“上新潮”来了！哪些上市公司有望分羹产业链盛宴？](https://www.cls.cn/detail/2217832)
-- [【36kr】【早报】中俄举行战略安全磋商；郑栅洁重磅发声！提高居民收入在国民收入分配中的比重](https://www.cls.cn/detail/2217722)
-- [【36kr】美股收盘：三大指数震荡收高-光通信牛股再创新高](https://www.cls.cn/detail/2217711)
-- [【36kr】特朗普定档！计划明年初再揭晓美联储新主席人选](https://www.cls.cn/detail/2217685)
-- [【36kr】美股三大期指集体走高-波音盘前涨超3%-|-今夜看点](https://www.cls.cn/detail/2217558)
-- [【36kr】“豆包AI助手”手机售罄！生态挑战仍待破局-手机厂商或倾向于自研](https://www.cls.cn/detail/2217493)
-- [【36kr】六大行全面停售5年期大额存单](https://www.cls.cn/detail/2217041)
-- [【36kr】【数据看盘】多家机构抢筹商业航天概念股-实力游资激烈博弈雷科防务](https://www.cls.cn/detail/2217248)
-- [【36kr】【每日收评】三大指数缩量震荡全线收跌，全市场超3700股飘绿，福建本地股逆势爆发](https://www.cls.cn/detail/2217151)
-- [【36kr】郑栅洁：提高居民收入在国民收入分配中的比重-提高劳动报酬在初次分配中的比重](https://www.cls.cn/detail/2217126)
-- [【36kr】日团体表达访华意愿，外交部：望在日本国内多发挥积极作用](https://www.cls.cn/detail/2217058)
-- [【36kr】哈西特胜出在望！未来五个月市场得听美联储“影子主席”的？](https://www.cls.cn/detail/2216988)
-- [【36kr】新的万亿市场需求即将浮现！大摩：人形机器人芯片市场规模将加速扩张](https://www.cls.cn/detail/2216817)
-- [【36kr】福建：升级扩容“福淡”“厦金”海底光缆-推进“福州—深圳短路径光缆”项目建设](https://www.cls.cn/detail/2216779)
-- [【36kr】英首相发表涉港言论，中方：英方没有资格、没有权利说三道四、横加干涉](https://www.cls.cn/detail/2216862)
-- [【36kr】支持台胞开设沙县小吃门店等-福建发布12条惠台政策措施](https://www.cls.cn/detail/2216852)
-- [【36kr】AI-Agent高权限进驻成手机新卖点-“侵入式AI”却已遭黑灰产利用](https://www.cls.cn/detail/2216806)
+- [【36kr】普京与美国特使长谈近5小时-俄方：富有成效，但未达成妥协方案](https://www.cls.cn/detail/2217762)
+- [【36kr】浙江“十五五”规划建议：聚焦人形机器人、脑机接口等领域-布局建设一批未来产业先导区](https://www.cls.cn/detail/2217788)
+- [【36kr】12月3日投资避雷针：4连板人气股紧急澄清-目前不存在AI手机相关业务](https://www.cls.cn/detail/2217771)
+- [【36kr】国台办回应高市早苗至今拒不收回涉台错误言论](https://www.cls.cn/detail/2217919)
+- [【36kr】六大行停售五年期大额存单？这家大行三年期门槛拉至100万，利率仅看齐50元定存](https://www.cls.cn/detail/2217742)
+- [【36kr】王江人民日报撰文：加快建设金融强国](https://www.cls.cn/detail/2217734)
+- [【36kr】【数读IPO】国内天然铀产业龙头今日上市](https://www.cls.cn/detail/2217725)
+- [【36kr】戴尔创始人豪捐62.5亿美元-为美国儿童账户添上250美元启动金](https://www.cls.cn/detail/2217632)
+- [【36kr】AI手机概念股遇冷-热门公司先后“澄清”-哪些公司“豆包味”更浓？](https://www.cls.cn/detail/2217548)
+- [【36kr】年底A股如何走？机构看好跨年行情，两大核心会议成关键](https://www.cls.cn/detail/2217416)
+- [【36kr】涨停股中占比两成！“地图行情”持续火热，年内涨停股扫描，这些区域扎堆爆发](https://www.cls.cn/detail/2217272)
+- [【36kr】男子取款170万在银行门口遭抢致重伤？银行回应](https://www.cls.cn/detail/2217236)
+- [【36kr】价值36亿！半导体大佬虞仁荣再度大手笔捐赠股份](https://www.cls.cn/detail/2217404)
+- [【36kr】香港豪门郑裕彤家族仍陷流动性危机-拟售估值159亿港元瑰丽资产解债](https://www.cls.cn/detail/2217369)
+- [【36kr】【焦点复盘】沪指失守3900点终结三连阳，商业航天概念强者恒强，“炒地图”、“炒玄学”热度重燃](https://www.cls.cn/detail/2217189)
+- [【36kr】中国药品价格登记系统今日上线-解决创新药出海“无锚”痛点](https://www.cls.cn/detail/2216979)
+- [【36kr】解放军报刊文：日本若执意重蹈历史覆辙必遭彻底清算](https://www.cls.cn/detail/2216592)
+- [【36kr】AI竞赛步入“资源争夺战”！美国欲拉八国签协议-深化矿产供应链](https://www.cls.cn/detail/2216759)
+- [【36kr】日媒：日本经团联、议员团接连请求访华](https://www.cls.cn/detail/2216625)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
