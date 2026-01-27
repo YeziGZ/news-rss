@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-01-27 14:01:59。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-01-27 14:57:16。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -32,17 +32,17 @@
 - [【36kr】正探索延伸至AI漫剧新赛道-AIGC概念股录得6天3板-本周机构密集调研相关上市公司](https://www.cls.cn/detail/2254168)
 - [【36kr】国产龙头大模型捷报“三箭齐发”-技术与资本共振-AI应用加速落地](https://www.cls.cn/detail/2253876)
 - [【36kr】市值近900亿港元！MiniMax今日上市-AI大模型进入“上海时刻”](https://www.cls.cn/detail/2252812)
-- [【36kr】OpenAI发布ChatGPT健康-AI医疗市场有望加速爆发](https://www.cls.cn/detail/2252487)
 - [【36kr】“中国OpenAI”登陆港交所-2026将成大模型资本化关键年?](https://www.cls.cn/detail/2252286)
+- [【36kr】OpenAI发布ChatGPT健康-AI医疗市场有望加速爆发](https://www.cls.cn/detail/2252487)
 - [【36kr】AI模型立功了！“癌症之王”早期筛查效果喜人-花费仅百元](https://www.cls.cn/detail/2250013)
 - [【36kr】AI“世界模型”来袭：全球游戏产业或迎来颠覆时刻](https://www.cls.cn/detail/2240453)
 - [【36kr】“全球大模型第一股”来了？智谱“家底”曝光-营收3.12亿估值243-亿](https://www.cls.cn/detail/2235451)
 - [【36kr】OpenAI最新估值或达8300亿美元-德国拟动用俄资产支持乌克兰-|-环球市场](https://www.cls.cn/detail/2234101)
 - [【36kr】李飞飞自曝世界模型公司招聘要求：AI技能比大学文凭更重要](https://www.cls.cn/detail/2229051)
 - [【36kr】AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年](https://www.cls.cn/detail/2228537)
-- [【36kr】GPT-5.2来了！OpenAI称其为“最强专业知识工作大模型”](https://www.cls.cn/detail/2227243)
-- [【36kr】江苏“十五五”规划建议：积极部署类脑计算、光量子芯片等创新应用技术-加快通用大模型和垂直领域大模型研发](https://www.cls.cn/detail/2226042)
 - [【36kr】美联储重新任命11位地区联储主席-OpenAI发布更先进模型GPT-5.2-|-环球市场](https://www.cls.cn/detail/2227268)
+- [【36kr】江苏“十五五”规划建议：积极部署类脑计算、光量子芯片等创新应用技术-加快通用大模型和垂直领域大模型研发](https://www.cls.cn/detail/2226042)
+- [【36kr】GPT-5.2来了！OpenAI称其为“最强专业知识工作大模型”](https://www.cls.cn/detail/2227243)
 - [......【查看更多】......](/details/tags/aigc.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】大盘点：百亿基金经理已超百位，新秀谁上位？老将谁出局？](https://www.cls.cn/detail/2271538)
-- [【36kr】“如果生成内容有误，我将赔偿您10万元”，全国首例因“AI幻觉”引发侵权案宣判](https://www.cls.cn/detail/2271472)
-- [【36kr】中微半导、国科微部分芯片涨价](https://www.cls.cn/detail/2271491)
-- [【36kr】【数据看盘】顶级游资豪掷近10亿买入平潭发展，华天科技龙虎榜资金猛抢](https://www.cls.cn/detail/2271357)
-- [【36kr】【焦点复盘】科创50缩量涨超1.5%，AI硬件端卷土重来，有色板块全天现巨震分歧](https://www.cls.cn/detail/2271331)
-- [【36kr】时隔6年首次易主！白酒股均价遭半导体反超，3成标的近期回撤超一成](https://www.cls.cn/detail/2271319)
-- [【36kr】锂、铜、铝、DRAM全在涨！中国电动车行业利润率正被大口“吞噬”](https://www.cls.cn/detail/2271008)
-- [【36kr】券商晨会精华：趋势不变，聚焦三条配置主线](https://www.cls.cn/detail/2270559)
-- [【36kr】英伟达20亿美元投资AI云服务厂商-算力紧缺推动云计算定价逻辑转变](https://www.cls.cn/detail/2270515)
-- [【36kr】半导体景气蔓延？业内预测：春节后设计环节涨价态势或明朗](https://www.cls.cn/detail/2270783)
-- [【36kr】黄金冲破“5000大关”后还能狂飙吗？金矿巨头：上涨动力不会消失！](https://www.cls.cn/detail/2270788)
-- [【36kr】中国科学院武汉病毒研究所：发现口服核苷药物VV116对尼帕病毒的高效抑制活性](https://www.cls.cn/detail/2270722)
-- [【36kr】白银走势颇似模因股？前小摩策略师警告：银价恐较当前水平腰斩](https://www.cls.cn/detail/2270578)
-- [【36kr】1月27日投资避雷针：太空光伏人气股提示风险-预计25年亏损23-29亿且光伏产品未直接供货卫星公司](https://www.cls.cn/detail/2270555)
-- [【36kr】“关税阴霾”卷土重来？特朗普：韩国对贸易协议“不作为”，上调税率至25%！](https://www.cls.cn/detail/2270546)
-- [【36kr】腾讯正式推出社交AI功能“元宝派”，实测来了！](https://www.cls.cn/detail/2270597)
-- [【36kr】“海湖庄园协议”魅影再现！一文读懂：“美日联手保日元”意味着什么？](https://www.cls.cn/detail/2270618)
-- [【36kr】巨大商机？美国引爆地缘危机之际：各国竞相布局“卫星主权”](https://www.cls.cn/detail/2270763)
-- [【36kr】“天量”存款到期-保险机构接“泼天富贵”：销售“出乎意料好”，八成新单指向分红险](https://www.cls.cn/detail/2270884)
+- [【36kr】欧盟政府卫星通信项目已上线-IRIS²星座冲击2029年初步部署](https://www.cls.cn/detail/2271551)
+- [【36kr】黄金将继续狂飙？法兴银行上调目标价：保守估计，年内站上6000美元！](https://www.cls.cn/detail/2271306)
+- [【36kr】欧盟正式启动各成员国政府卫星通信计划](https://www.cls.cn/detail/2271419)
+- [【36kr】我国新修订《药品管理法实施条例》发布-将产生哪些影响？权威解读](https://www.cls.cn/detail/2271304)
+- [【36kr】【每日收评】三大指数探底回升集体收红，半导体芯片板块全线爆发，太空光伏概念午后反弹](https://www.cls.cn/detail/2271239)
+- [【36kr】上期所再度出手，18名客户被限制开仓、限制出金](https://www.cls.cn/detail/2271134)
 - [【36kr】英国首相斯塔默将访华-外交部介绍有关情况](https://www.cls.cn/detail/2271082)
+- [【36kr】“天量”存款到期-保险机构接“泼天富贵”：销售“出乎意料好”，八成新单指向分红险](https://www.cls.cn/detail/2270884)
+- [【36kr】巨大商机？美国引爆地缘危机之际：各国竞相布局“卫星主权”](https://www.cls.cn/detail/2270763)
+- [【36kr】“海湖庄园协议”魅影再现！一文读懂：“美日联手保日元”意味着什么？](https://www.cls.cn/detail/2270618)
+- [【36kr】腾讯正式推出社交AI功能“元宝派”，实测来了！](https://www.cls.cn/detail/2270597)
+- [【36kr】“关税阴霾”卷土重来？特朗普：韩国对贸易协议“不作为”，上调税率至25%！](https://www.cls.cn/detail/2270546)
+- [【36kr】1月27日投资避雷针：太空光伏人气股提示风险-预计25年亏损23-29亿且光伏产品未直接供货卫星公司](https://www.cls.cn/detail/2270555)
+- [【36kr】白银走势颇似模因股？前小摩策略师警告：银价恐较当前水平腰斩](https://www.cls.cn/detail/2270578)
+- [【36kr】中国科学院武汉病毒研究所：发现口服核苷药物VV116对尼帕病毒的高效抑制活性](https://www.cls.cn/detail/2270722)
+- [【36kr】黄金冲破“5000大关”后还能狂飙吗？金矿巨头：上涨动力不会消失！](https://www.cls.cn/detail/2270788)
+- [【36kr】半导体景气蔓延？业内预测：春节后设计环节涨价态势或明朗](https://www.cls.cn/detail/2270783)
+- [【36kr】英伟达20亿美元投资AI云服务厂商-算力紧缺推动云计算定价逻辑转变](https://www.cls.cn/detail/2270515)
+- [【36kr】券商晨会精华：趋势不变，聚焦三条配置主线](https://www.cls.cn/detail/2270559)
+- [【36kr】锂、铜、铝、DRAM全在涨！中国电动车行业利润率正被大口“吞噬”](https://www.cls.cn/detail/2271008)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
