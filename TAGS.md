@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-01-28 10:54:13。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-01-28 11:44:30。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -32,17 +32,17 @@
 - [【36kr】正探索延伸至AI漫剧新赛道-AIGC概念股录得6天3板-本周机构密集调研相关上市公司](https://www.cls.cn/detail/2254168)
 - [【36kr】国产龙头大模型捷报“三箭齐发”-技术与资本共振-AI应用加速落地](https://www.cls.cn/detail/2253876)
 - [【36kr】市值近900亿港元！MiniMax今日上市-AI大模型进入“上海时刻”](https://www.cls.cn/detail/2252812)
-- [【36kr】“中国OpenAI”登陆港交所-2026将成大模型资本化关键年?](https://www.cls.cn/detail/2252286)
 - [【36kr】OpenAI发布ChatGPT健康-AI医疗市场有望加速爆发](https://www.cls.cn/detail/2252487)
+- [【36kr】“中国OpenAI”登陆港交所-2026将成大模型资本化关键年?](https://www.cls.cn/detail/2252286)
 - [【36kr】AI模型立功了！“癌症之王”早期筛查效果喜人-花费仅百元](https://www.cls.cn/detail/2250013)
 - [【36kr】AI“世界模型”来袭：全球游戏产业或迎来颠覆时刻](https://www.cls.cn/detail/2240453)
 - [【36kr】“全球大模型第一股”来了？智谱“家底”曝光-营收3.12亿估值243-亿](https://www.cls.cn/detail/2235451)
 - [【36kr】OpenAI最新估值或达8300亿美元-德国拟动用俄资产支持乌克兰-|-环球市场](https://www.cls.cn/detail/2234101)
 - [【36kr】李飞飞自曝世界模型公司招聘要求：AI技能比大学文凭更重要](https://www.cls.cn/detail/2229051)
 - [【36kr】AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年](https://www.cls.cn/detail/2228537)
-- [【36kr】美联储重新任命11位地区联储主席-OpenAI发布更先进模型GPT-5.2-|-环球市场](https://www.cls.cn/detail/2227268)
-- [【36kr】江苏“十五五”规划建议：积极部署类脑计算、光量子芯片等创新应用技术-加快通用大模型和垂直领域大模型研发](https://www.cls.cn/detail/2226042)
 - [【36kr】GPT-5.2来了！OpenAI称其为“最强专业知识工作大模型”](https://www.cls.cn/detail/2227243)
+- [【36kr】江苏“十五五”规划建议：积极部署类脑计算、光量子芯片等创新应用技术-加快通用大模型和垂直领域大模型研发](https://www.cls.cn/detail/2226042)
+- [【36kr】美联储重新任命11位地区联储主席-OpenAI发布更先进模型GPT-5.2-|-环球市场](https://www.cls.cn/detail/2227268)
 - [......【查看更多】......](/details/tags/aigc.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】【每日收评】三大指数震荡分化涨跌不一，全市场超3600股飘绿，黄金、油气等周期股持续爆发](https://www.cls.cn/detail/2272713)
-- [【36kr】水贝一黄金预定价平台兑付困难？官方通报](https://www.cls.cn/detail/2272371)
-- [【36kr】贵金属、半导体领衔多板块涨价，市场暗线逐步浮现](https://www.cls.cn/detail/2272056)
-- [【36kr】赛道路演连轴转，听众不够用了？AI、太空、光伏谁在C位？](https://www.cls.cn/detail/2272316)
-- [【36kr】站上1600元，多家品牌金饰克价大幅上调](https://www.cls.cn/detail/2272112)
-- [【36kr】谷歌、亚马逊宣布云服务涨价！打破20年来行业惯例-第一块多米诺骨牌已推倒？](https://www.cls.cn/detail/2272037)
-- [【36kr】现货黄金升破5200美元！芝商所上调白银、铂金、钯金保证金比例](https://www.cls.cn/detail/2272212)
-- [【36kr】今年产能已售罄！数据中心需求大涨-希捷科技季度营收同比增22%](https://www.cls.cn/detail/2271989)
-- [【36kr】1月28日投资避雷针：东材科技等三公司同日公告-实际控制人熊海涛被立案调查并留置](https://www.cls.cn/detail/2271992)
-- [【36kr】为抛售美元打开“绿灯”？特朗普声称：不担心美元贬值！](https://www.cls.cn/detail/2271977)
-- [【36kr】国共两党智库论坛将于2月3日在北京举办](https://www.cls.cn/detail/2272132)
-- [【36kr】机构年前正紧急调研哪些股？史上最长春节假期来临，消费热潮受关注](https://www.cls.cn/detail/2272257)
-- [【36kr】火力全开！2026开年泰康平安新华等超10亿险资南下，狂扫港股AI、生物医药IPO](https://www.cls.cn/detail/2272264)
-- [【36kr】马云最新发声：AI时代不要再犹豫用不用AI-而是怎么教孩子用好AI](https://www.cls.cn/detail/2272163)
-- [【36kr】就在今晚！美联储2026年首份利率决议即将出炉](https://www.cls.cn/detail/2272439)
-- [【36kr】黄金站上5200美元！盛宝银行：盘整概率上升，短期不会大幅回调](https://www.cls.cn/detail/2272259)
-- [【36kr】誓保主力箭首飞和回收成功！中国商火年度会议亮目标-可复用成2026航天关键词](https://www.cls.cn/detail/2272800)
-- [【36kr】【数据看盘】量化、游资激烈博弈网宿科技，“北向+机构+游资”集体出逃三维通信](https://www.cls.cn/detail/2272832)
 - [【36kr】独家|多家房企称已不被要求上报三道红线-仍需提交资产负债率指标](https://www.cls.cn/detail/2272851)
-- [【36kr】美国被曝向以色列通报对伊朗行动准备进展-|-环球市场](https://www.cls.cn/detail/2271951)
+- [【36kr】【数据看盘】量化、游资激烈博弈网宿科技，“北向+机构+游资”集体出逃三维通信](https://www.cls.cn/detail/2272832)
+- [【36kr】誓保主力箭首飞和回收成功！中国商火年度会议亮目标-可复用成2026航天关键词](https://www.cls.cn/detail/2272800)
+- [【36kr】黄金站上5200美元！盛宝银行：盘整概率上升，短期不会大幅回调](https://www.cls.cn/detail/2272259)
+- [【36kr】就在今晚！美联储2026年首份利率决议即将出炉](https://www.cls.cn/detail/2272439)
+- [【36kr】马云最新发声：AI时代不要再犹豫用不用AI-而是怎么教孩子用好AI](https://www.cls.cn/detail/2272163)
+- [【36kr】火力全开！2026开年泰康平安新华等超10亿险资南下，狂扫港股AI、生物医药IPO](https://www.cls.cn/detail/2272264)
+- [【36kr】机构年前正紧急调研哪些股？史上最长春节假期来临，消费热潮受关注](https://www.cls.cn/detail/2272257)
+- [【36kr】国共两党智库论坛将于2月3日在北京举办](https://www.cls.cn/detail/2272132)
+- [【36kr】为抛售美元打开“绿灯”？特朗普声称：不担心美元贬值！](https://www.cls.cn/detail/2271977)
+- [【36kr】1月28日投资避雷针：东材科技等三公司同日公告-实际控制人熊海涛被立案调查并留置](https://www.cls.cn/detail/2271992)
+- [【36kr】今年产能已售罄！数据中心需求大涨-希捷科技季度营收同比增22%](https://www.cls.cn/detail/2271989)
+- [【36kr】现货黄金升破5200美元！芝商所上调白银、铂金、钯金保证金比例](https://www.cls.cn/detail/2272212)
+- [【36kr】谷歌、亚马逊宣布云服务涨价！打破20年来行业惯例-第一块多米诺骨牌已推倒？](https://www.cls.cn/detail/2272037)
+- [【36kr】站上1600元，多家品牌金饰克价大幅上调](https://www.cls.cn/detail/2272112)
+- [【36kr】赛道路演连轴转，听众不够用了？AI、太空、光伏谁在C位？](https://www.cls.cn/detail/2272316)
+- [【36kr】贵金属、半导体领衔多板块涨价，市场暗线逐步浮现](https://www.cls.cn/detail/2272056)
+- [【36kr】水贝一黄金预定价平台兑付困难？官方通报](https://www.cls.cn/detail/2272371)
+- [【36kr】【每日收评】三大指数震荡分化涨跌不一，全市场超3600股飘绿，黄金、油气等周期股持续爆发](https://www.cls.cn/detail/2272713)
+- [【36kr】华尔街传奇大空头“剑指”数据中心：AI交易中最不该碰的领域！](https://www.cls.cn/detail/2272560)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
