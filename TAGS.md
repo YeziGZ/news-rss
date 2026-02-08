@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-02-08 03:42:27。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-02-08 09:52:39。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -24,8 +24,8 @@
 
 
 - [【36kr】OpenAI推出全新平台Frontier-强调对软件行业是“利好消息”](https://www.cls.cn/detail/2282143)
-- [【36kr】DeepSeek问世一周年，大模型改变了商业银行吗？营销降本效果显著，更多作用仍需观察](https://www.cls.cn/detail/2278690)
 - [【36kr】美国政府本轮“停摆”结束-英伟达据称将投OpenAI-200亿-|-环球市场](https://www.cls.cn/detail/2279758)
+- [【36kr】DeepSeek问世一周年，大模型改变了商业银行吗？营销降本效果显著，更多作用仍需观察](https://www.cls.cn/detail/2278690)
 - [【36kr】印奇出任董事长！阶跃星辰超50亿融资刷新大模型赛道纪录-将加码“AI+终端”](https://www.cls.cn/detail/2269386)
 - [【36kr】银河通用成为2026春晚指定具身大模型机器人](https://www.cls.cn/detail/2268904)
 - [【36kr】三年10倍！OpenAI年化营收突破200亿美元-今年重点推实际应用](https://www.cls.cn/detail/2262946)
@@ -35,8 +35,8 @@
 - [【36kr】正探索延伸至AI漫剧新赛道-AIGC概念股录得6天3板-本周机构密集调研相关上市公司](https://www.cls.cn/detail/2254168)
 - [【36kr】国产龙头大模型捷报“三箭齐发”-技术与资本共振-AI应用加速落地](https://www.cls.cn/detail/2253876)
 - [【36kr】市值近900亿港元！MiniMax今日上市-AI大模型进入“上海时刻”](https://www.cls.cn/detail/2252812)
-- [【36kr】OpenAI发布ChatGPT健康-AI医疗市场有望加速爆发](https://www.cls.cn/detail/2252487)
 - [【36kr】“中国OpenAI”登陆港交所-2026将成大模型资本化关键年?](https://www.cls.cn/detail/2252286)
+- [【36kr】OpenAI发布ChatGPT健康-AI医疗市场有望加速爆发](https://www.cls.cn/detail/2252487)
 - [【36kr】AI模型立功了！“癌症之王”早期筛查效果喜人-花费仅百元](https://www.cls.cn/detail/2250013)
 - [【36kr】AI“世界模型”来袭：全球游戏产业或迎来颠覆时刻](https://www.cls.cn/detail/2240453)
 - [【36kr】“全球大模型第一股”来了？智谱“家底”曝光-营收3.12亿估值243-亿](https://www.cls.cn/detail/2235451)
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】AI推动先进封装扩产-台积电CoWoS供应紧张-FOPLP登上舞台](https://www.cls.cn/detail/2283686)
-- [【36kr】太空光伏概念龙头三连板-P型HJT/钙钛矿叠层技术路线A股名单及相关业务一览](https://www.cls.cn/detail/2283724)
-- [【36kr】保持亚洲第一，沪深两市ETF全数据出炉，八大亮点](https://www.cls.cn/detail/2283697)
-- [【36kr】央行连续第15个月增持黄金](https://www.cls.cn/detail/2283640)
-- [【36kr】一款AI工具“血洗”全球软件股-中国SaaS何去何从？](https://www.cls.cn/detail/2283350)
-- [【36kr】9小时1000万单！阿里千问免单潮把茶饮店“逼到歇业”](https://www.cls.cn/detail/2283621)
-- [【36kr】赋能还是毁灭？全球游戏厂商陷入一场关于AI的激辩](https://www.cls.cn/detail/2283603)
-- [【36kr】特朗普签署行政命令，对与伊朗有贸易往来的国家征收关税](https://www.cls.cn/detail/2283610)
-- [【36kr】我国成功发射可重复使用试验航天器](https://www.cls.cn/detail/2283668)
-- [【36kr】财联社C50风向指数调查：1月新增社融或同比略增，春节错位低基数效应下M1或迎提升](https://www.cls.cn/detail/2283692)
-- [【36kr】浸没式液冷爆发前夜：国内氟硅巨头竞相布局-押注自主可控全产业链](https://www.cls.cn/detail/2283752)
-- [【36kr】币圈超级乌龙指：奖金单位错输成比特币-交易所狂撒逾400亿美元](https://www.cls.cn/detail/2283800)
-- [【36kr】【早报】央行连续第15个月增持黄金；我国成功发射可重复使用试验航天器](https://www.cls.cn/detail/2283820)
+- [【36kr】周末要闻汇总：我国成功发射可重复使用试验航天器；半导体行业有望首次迈入万亿美元时代](https://www.cls.cn/detail/2283882)
 - [【36kr】年内迄今19家A股上市公司公告终止并购重组-热门商业航天概念股赫然在列](https://www.cls.cn/detail/2283734)
-- [【36kr】【早报】深夜，中国资产大涨；虚拟货币监管再升级](https://www.cls.cn/detail/2283589)
-- [【36kr】美股收盘：道指历史首次站上5万点-中概股指数涨超3%](https://www.cls.cn/detail/2283586)
-- [【36kr】黄仁勋：只要AI公司能赚钱-就会“加倍、加倍、再加倍”地投入](https://www.cls.cn/detail/2283577)
-- [【36kr】预制菜国标征求意见稿发布-行业“大市场、小公司”格局或迎洗牌](https://www.cls.cn/detail/2283490)
-- [【36kr】五部门联合治理不法“代理维权”，短视频、直播等自媒体被盯防](https://www.cls.cn/detail/2283454)
-- [【36kr】美股三大期指集体反弹-亚马逊盘前大跌近9%-|-今夜看点](https://www.cls.cn/detail/2283417)
+- [【36kr】【早报】央行连续第15个月增持黄金；我国成功发射可重复使用试验航天器](https://www.cls.cn/detail/2283820)
+- [【36kr】币圈超级乌龙指：奖金单位错输成比特币-交易所狂撒逾400亿美元](https://www.cls.cn/detail/2283800)
+- [【36kr】浸没式液冷爆发前夜：国内氟硅巨头竞相布局-押注自主可控全产业链](https://www.cls.cn/detail/2283752)
+- [【36kr】财联社C50风向指数调查：1月新增社融或同比略增，春节错位低基数效应下M1或迎提升](https://www.cls.cn/detail/2283692)
+- [【36kr】我国成功发射可重复使用试验航天器](https://www.cls.cn/detail/2283668)
+- [【36kr】特朗普签署行政命令，对与伊朗有贸易往来的国家征收关税](https://www.cls.cn/detail/2283610)
+- [【36kr】赋能还是毁灭？全球游戏厂商陷入一场关于AI的激辩](https://www.cls.cn/detail/2283603)
+- [【36kr】9小时1000万单！阿里千问免单潮把茶饮店“逼到歇业”](https://www.cls.cn/detail/2283621)
+- [【36kr】一款AI工具“血洗”全球软件股-中国SaaS何去何从？](https://www.cls.cn/detail/2283350)
+- [【36kr】央行连续第15个月增持黄金](https://www.cls.cn/detail/2283640)
+- [【36kr】保持亚洲第一，沪深两市ETF全数据出炉，八大亮点](https://www.cls.cn/detail/2283697)
+- [【36kr】太空光伏概念龙头三连板-P型HJT/钙钛矿叠层技术路线A股名单及相关业务一览](https://www.cls.cn/detail/2283724)
+- [【36kr】AI推动先进封装扩产-台积电CoWoS供应紧张-FOPLP登上舞台](https://www.cls.cn/detail/2283686)
+- [【36kr】特斯拉据称寻求提高光伏产能-Stellantis“电动化”梦碎-|-环球市场](https://www.cls.cn/detail/2283596)
+- [【36kr】特斯拉据称正在美布局多州建厂-以扩张太阳能电池制造版图](https://www.cls.cn/detail/2283494)
+- [【36kr】千问、元宝双双崩溃后-工信部发文推进算力调度-AI-Infra或迎戴维斯双击](https://www.cls.cn/detail/2283020)
+- [【36kr】虚拟货币监管再升级！央行等八部门重申境内禁止性政策-未经同意境内主体不得在境外发行虚拟货币](https://www.cls.cn/detail/2283399)
+- [【36kr】五部门：警惕不法“代理维权”短视频及直播陷阱](https://www.cls.cn/detail/2283275)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
