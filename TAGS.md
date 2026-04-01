@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-04-01 11:28:46。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-04-01 12:08:27。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -29,20 +29,20 @@
 - [【36kr】特朗普签名将出现在美国纸币上-苹果据传拟开放Siri接入更多模型-|-环球市场](https://www.cls.cn/detail/2326334)
 - [【36kr】什么情况？OpenAI-重大逆转：旗下Sora-AI视频应用将终止服务](https://www.cls.cn/detail/2323711)
 - [【36kr】一图看懂AI产业链哪些环节在涨价：算力、存储、大模型…...](https://www.cls.cn/detail/2318157)
-- [【36kr】“小龙虾”爆火！黄仁勋最新断言：OpenClaw“绝对是下一个ChatGPT”](https://www.cls.cn/detail/2316213)
 - [【36kr】宇树科技王兴兴：人形机器人今年年中跑赢人类，具身智能“ChatGPT时刻”还需2-3年](https://www.cls.cn/detail/2316519)
-- [【36kr】3月16日投资避雷针：315晚会曝光AI大模型被投毒-给AI投毒已成产业链](https://www.cls.cn/detail/2313556)
+- [【36kr】“小龙虾”爆火！黄仁勋最新断言：OpenClaw“绝对是下一个ChatGPT”](https://www.cls.cn/detail/2316213)
 - [【36kr】英伟达DLSS-5采用生成式AI提升游戏真实感-黄仁勋：图形技术领域的GPT时刻](https://www.cls.cn/detail/2314845)
+- [【36kr】3月16日投资避雷针：315晚会曝光AI大模型被投毒-给AI投毒已成产业链](https://www.cls.cn/detail/2313556)
 - [【36kr】“3·15”晚会：给AI大模型投毒已成产业链](https://www.cls.cn/detail/2313341)
-- [【36kr】2026AWE探营：家电AI化，大模型“养龙虾”，机器人、智能眼镜齐亮相](https://www.cls.cn/detail/2310365)
 - [【36kr】AWE2026探展来了！大厂押注“物理AI”-大模型融入传统家电](https://www.cls.cn/detail/2311468)
+- [【36kr】2026AWE探营：家电AI化，大模型“养龙虾”，机器人、智能眼镜齐亮相](https://www.cls.cn/detail/2310365)
 - [【36kr】涨幅高达400%！腾讯云官宣AI模型调价-“龙虾”爆火或强化Token通胀](https://www.cls.cn/detail/2309524)
 - [【36kr】黄仁勋：对OpenAI的300亿美元投资“可能是最后一次”](https://www.cls.cn/detail/2303137)
 - [【36kr】OpenAI的“五角大楼时刻”？ChatGPT卸载量暴增近300%-一星评分飙升775%](https://www.cls.cn/detail/2300871)
 - [【36kr】AI界的“冰火两重天”：Anthropic刚被封杀-OpenAI就拿下了五角大楼](https://www.cls.cn/detail/2298126)
 - [【36kr】亚马逊、英伟达和软银豪掷1100亿美元-OpenAI估值冲至7300亿美元](https://www.cls.cn/detail/2297763)
 - [【36kr】什么信号？OpenAI大幅下调算力支出目标：6000亿美元！](https://www.cls.cn/detail/2292326)
-- [【36kr】马年春晚黑科技！四家机器人同台献技-AI大模型渗透内容制作](https://www.cls.cn/detail/2290959)
+- [【36kr】OpenAI成功“抢人”！从OpenClaw挖来创始人掌舵AI代理](https://www.cls.cn/detail/2290903)
 - [......【查看更多】......](/details/tags/aigc.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】一图看懂-|-清明“1天赚4天息”机会来了，这份国债逆回购指南别错过](https://www.cls.cn/detail/2332137)
-- [【36kr】【每日收评】三大指数均涨超1%，医药板块持续爆发，科技股集体回暖](https://www.cls.cn/detail/2332093)
-- [【36kr】中巴就恢复海湾和中东和平稳定五点倡议，外交部：欢迎各国和国际组织响应参与](https://www.cls.cn/detail/2331986)
-- [【36kr】十天内连续五次袭击俄能源设施-霍尔木兹危机改写俄乌冲突重点战线](https://www.cls.cn/detail/2331650)
-- [【36kr】币圈“量子末日”恐加速到来？谷歌预警逃生时间表：2029年！](https://www.cls.cn/detail/2331479)
-- [【36kr】明早9点！白宫重磅预告：特朗普将就伊朗问题发表全国讲话](https://www.cls.cn/detail/2331621)
-- [【36kr】“股神”巴菲特：近期市场波动“不算什么”-短期内不会出手](https://www.cls.cn/detail/2331588)
-- [【36kr】亚洲股市全线大涨！美伊齐释和平意愿-全球开启“反弹模式”](https://www.cls.cn/detail/2331553)
-- [【36kr】4月1日投资避雷针：20CM两连板人气股提示风险-仅间接持有张雪机车1.64%股权](https://www.cls.cn/detail/2331407)
-- [【36kr】重磅会议举行！人民币债券成为全球“避风港”-境外投资者持仓占比逐步提升](https://www.cls.cn/detail/2331488)
-- [【36kr】“Token经济”崛起再获验证！智谱发布“炸裂”数据-机构：Agent场景渗透打开利润空间](https://www.cls.cn/detail/2331554)
-- [【36kr】上海“人造太阳”刷新世界纪录-我国核聚变商业化进程加速](https://www.cls.cn/detail/2331371)
-- [【36kr】券商分仓佣金榜出炉！一波“身小黑马”狂飙惊人](https://www.cls.cn/detail/2331704)
-- [【36kr】历史首次！国有四大行去年私人银行客户数据集体“隐身”，头部股份行获客依旧凶猛](https://www.cls.cn/detail/2331796)
-- [【36kr】伊朗：收到美国总统特使“私信”](https://www.cls.cn/detail/2331889)
-- [【36kr】能源危机有多惨烈？亚洲国家开始尝试“以物易物”](https://www.cls.cn/detail/2331856)
-- [【36kr】6月1日起，网约车司机24小时内累计驾驶超8小时，将被认定为疲劳驾驶](https://www.cls.cn/detail/2331941)
-- [【36kr】【焦点复盘】A股放量普涨迎4月“开门红”，AI硬件、创新药概念强势领涨](https://www.cls.cn/detail/2332176)
-- [【36kr】【数据看盘】顶级游资扎堆雪人集团-量化与游资激烈博弈圣阳股份](https://www.cls.cn/detail/2332225)
 - [【36kr】千亿光伏龙头5连跌！股价同期回调两成，近期高回撤权重盘点，这些方向占比较高](https://www.cls.cn/detail/2332240)
+- [【36kr】【数据看盘】顶级游资扎堆雪人集团-量化与游资激烈博弈圣阳股份](https://www.cls.cn/detail/2332225)
+- [【36kr】【焦点复盘】A股放量普涨迎4月“开门红”，AI硬件、创新药概念强势领涨](https://www.cls.cn/detail/2332176)
+- [【36kr】6月1日起，网约车司机24小时内累计驾驶超8小时，将被认定为疲劳驾驶](https://www.cls.cn/detail/2331941)
+- [【36kr】能源危机有多惨烈？亚洲国家开始尝试“以物易物”](https://www.cls.cn/detail/2331856)
+- [【36kr】伊朗：收到美国总统特使“私信”](https://www.cls.cn/detail/2331889)
+- [【36kr】历史首次！国有四大行去年私人银行客户数据集体“隐身”，头部股份行获客依旧凶猛](https://www.cls.cn/detail/2331796)
+- [【36kr】券商分仓佣金榜出炉！一波“身小黑马”狂飙惊人](https://www.cls.cn/detail/2331704)
+- [【36kr】上海“人造太阳”刷新世界纪录-我国核聚变商业化进程加速](https://www.cls.cn/detail/2331371)
+- [【36kr】“Token经济”崛起再获验证！智谱发布“炸裂”数据-机构：Agent场景渗透打开利润空间](https://www.cls.cn/detail/2331554)
+- [【36kr】重磅会议举行！人民币债券成为全球“避风港”-境外投资者持仓占比逐步提升](https://www.cls.cn/detail/2331488)
+- [【36kr】4月1日投资避雷针：20CM两连板人气股提示风险-仅间接持有张雪机车1.64%股权](https://www.cls.cn/detail/2331407)
+- [【36kr】亚洲股市全线大涨！美伊齐释和平意愿-全球开启“反弹模式”](https://www.cls.cn/detail/2331553)
+- [【36kr】“股神”巴菲特：近期市场波动“不算什么”-短期内不会出手](https://www.cls.cn/detail/2331588)
+- [【36kr】明早9点！白宫重磅预告：特朗普将就伊朗问题发表全国讲话](https://www.cls.cn/detail/2331621)
+- [【36kr】币圈“量子末日”恐加速到来？谷歌预警逃生时间表：2029年！](https://www.cls.cn/detail/2331479)
+- [【36kr】十天内连续五次袭击俄能源设施-霍尔木兹危机改写俄乌冲突重点战线](https://www.cls.cn/detail/2331650)
+- [【36kr】中巴就恢复海湾和中东和平稳定五点倡议，外交部：欢迎各国和国际组织响应参与](https://www.cls.cn/detail/2331986)
+- [【36kr】【每日收评】三大指数均涨超1%，医药板块持续爆发，科技股集体回暖](https://www.cls.cn/detail/2332093)
+- [【36kr】一图看懂-|-清明“1天赚4天息”机会来了，这份国债逆回购指南别错过](https://www.cls.cn/detail/2332137)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
