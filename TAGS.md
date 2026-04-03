@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-04-02 23:57:14。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-04-03 03:32:48。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -23,26 +23,26 @@
 
 
 
+- [【36kr】错过张雪机车的重庆国资们-站上大模型与新能源的牌桌](https://www.cls.cn/detail/2333899)
 - [【36kr】创纪录！OpenAI完成1220亿美元融资-投后估值达8520亿美元](https://www.cls.cn/detail/2331423)
 - [【36kr】OpenAI完成1220亿美元融资-美法官叫停白宫宴会厅改造项目-|-环球市场](https://www.cls.cn/detail/2331334)
 - [【36kr】谁在给选基大模型喂答案？小心营销污染，基金信息不能被流量逻辑带偏](https://www.cls.cn/detail/2328122)
 - [【36kr】特朗普签名将出现在美国纸币上-苹果据传拟开放Siri接入更多模型-|-环球市场](https://www.cls.cn/detail/2326334)
 - [【36kr】什么情况？OpenAI-重大逆转：旗下Sora-AI视频应用将终止服务](https://www.cls.cn/detail/2323711)
 - [【36kr】一图看懂AI产业链哪些环节在涨价：算力、存储、大模型…...](https://www.cls.cn/detail/2318157)
-- [【36kr】“小龙虾”爆火！黄仁勋最新断言：OpenClaw“绝对是下一个ChatGPT”](https://www.cls.cn/detail/2316213)
 - [【36kr】宇树科技王兴兴：人形机器人今年年中跑赢人类，具身智能“ChatGPT时刻”还需2-3年](https://www.cls.cn/detail/2316519)
-- [【36kr】3月16日投资避雷针：315晚会曝光AI大模型被投毒-给AI投毒已成产业链](https://www.cls.cn/detail/2313556)
+- [【36kr】“小龙虾”爆火！黄仁勋最新断言：OpenClaw“绝对是下一个ChatGPT”](https://www.cls.cn/detail/2316213)
 - [【36kr】英伟达DLSS-5采用生成式AI提升游戏真实感-黄仁勋：图形技术领域的GPT时刻](https://www.cls.cn/detail/2314845)
+- [【36kr】3月16日投资避雷针：315晚会曝光AI大模型被投毒-给AI投毒已成产业链](https://www.cls.cn/detail/2313556)
 - [【36kr】“3·15”晚会：给AI大模型投毒已成产业链](https://www.cls.cn/detail/2313341)
-- [【36kr】2026AWE探营：家电AI化，大模型“养龙虾”，机器人、智能眼镜齐亮相](https://www.cls.cn/detail/2310365)
 - [【36kr】AWE2026探展来了！大厂押注“物理AI”-大模型融入传统家电](https://www.cls.cn/detail/2311468)
+- [【36kr】2026AWE探营：家电AI化，大模型“养龙虾”，机器人、智能眼镜齐亮相](https://www.cls.cn/detail/2310365)
 - [【36kr】涨幅高达400%！腾讯云官宣AI模型调价-“龙虾”爆火或强化Token通胀](https://www.cls.cn/detail/2309524)
 - [【36kr】黄仁勋：对OpenAI的300亿美元投资“可能是最后一次”](https://www.cls.cn/detail/2303137)
 - [【36kr】OpenAI的“五角大楼时刻”？ChatGPT卸载量暴增近300%-一星评分飙升775%](https://www.cls.cn/detail/2300871)
 - [【36kr】AI界的“冰火两重天”：Anthropic刚被封杀-OpenAI就拿下了五角大楼](https://www.cls.cn/detail/2298126)
 - [【36kr】亚马逊、英伟达和软银豪掷1100亿美元-OpenAI估值冲至7300亿美元](https://www.cls.cn/detail/2297763)
 - [【36kr】什么信号？OpenAI大幅下调算力支出目标：6000亿美元！](https://www.cls.cn/detail/2292326)
-- [【36kr】马年春晚黑科技！四家机器人同台献技-AI大模型渗透内容制作](https://www.cls.cn/detail/2290959)
 - [......【查看更多】......](/details/tags/aigc.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】美股收盘：三大指数涨跌不一-假期前投资者忧虑犹存](https://www.cls.cn/detail/2334066)
-- [【36kr】战火烧向科技公司！亚马逊中东云计算中心遭袭-更多基础设施成为目标](https://www.cls.cn/detail/2334022)
-- [【36kr】工信部：到2028年底显著降低中小企业获取、使用算力门槛](https://www.cls.cn/detail/2333537)
-- [【36kr】特朗普放狠话加剧冲突-美股期指大幅下跌-国际油价暴涨-|-今夜看点](https://www.cls.cn/detail/2333830)
-- [【36kr】年薪最高1.24亿！“人形机器人第一股”招首席](https://www.cls.cn/detail/2333820)
-- [【36kr】工信部首提“算力银行”“算力超市”-降低中小企业用算门槛](https://www.cls.cn/detail/2333703)
-- [【36kr】3月A股新开460万户，同环比各创高增，谁正进场逆势布局？](https://www.cls.cn/detail/2333694)
-- [【36kr】英国将召集35国讨论重启霍尔木兹海峡的方案-美国竟不在名单中！](https://www.cls.cn/detail/2333513)
-- [【36kr】股价入围A股前20！光纤龙头连日创新高，年内高涨热股扫描，这些特点或可关注](https://www.cls.cn/detail/2333561)
-- [【36kr】【数据看盘】三家顶级游资联手抢筹新能泰山-近5亿元资金买入中超控股](https://www.cls.cn/detail/2333571)
-- [【36kr】【每日收评】创业板指低开低走跌超2%，全市场超4300股收绿，油气、医药板块逆势活跃](https://www.cls.cn/detail/2333437)
-- [【36kr】绕过霍尔木兹！海湾国家“不惜下血本”：考虑修建新输油管道](https://www.cls.cn/detail/2333199)
-- [【36kr】从“四轮”到“双足”-车企跨界“造人”热潮起](https://www.cls.cn/detail/2333094)
-- [【36kr】力箭二号打响头炮，2026中国商业航天进入“密集发射期”⎜观察](https://www.cls.cn/detail/2333058)
-- [【36kr】以媒：以色列担忧美国可能宣布结束对伊朗军事行动](https://www.cls.cn/detail/2332807)
-- [【36kr】特朗普：接下来几周将对伊朗进行更强火力打击](https://www.cls.cn/detail/2332835)
-- [【36kr】“滞胀”来袭！美银：美联储今年料降息50基点-油价全年维持100美元](https://www.cls.cn/detail/2332777)
-- [【36kr】4月2日投资避雷针：两公司因信息披露违法违规被证监会立案](https://www.cls.cn/detail/2332778)
-- [【36kr】特朗普9点将发表对伊重要讲话，还不忘放“烟雾弹”](https://www.cls.cn/detail/2332758)
+- [【36kr】伊朗与阿曼正起草协议-拟“监管”霍尔木兹海峡通行](https://www.cls.cn/detail/2334040)
+- [【36kr】敲定100%关税！特朗普“剑指”进口专利药及制药成分](https://www.cls.cn/detail/2334117)
+- [【36kr】4月3日投资避雷针：这家上市公司董事长失联-股价已连续两日跌停](https://www.cls.cn/detail/2334123)
+- [【36kr】超越Meta和特斯拉！SpaceX据悉将IPO目标估值提升至逾2万亿美元](https://www.cls.cn/detail/2334126)
+- [【36kr】【早报】美国：将对进口专利药加征100%关税；飙涨近12%，美油站上110美元](https://www.cls.cn/detail/2334089)
+- [【36kr】伊朗回应特朗普所谓已胜利-SpaceX有望冲刺2万亿美元估值-|-环球市场](https://www.cls.cn/detail/2334086)
+- [【36kr】算力太紧俏！英伟达四年前发布的H100租赁费用近半年飙升近40%](https://www.cls.cn/detail/2334039)
+- [【36kr】“一天一个价”！溴素及阻燃剂货源紧张产品供不应求，上市公司获益几何？|传真](https://www.cls.cn/detail/2333553)
+- [【36kr】腾讯版“龙虾”一日两崩-腾讯云致歉补偿1000Credits](https://www.cls.cn/detail/2333702)
+- [【36kr】什么信号？华尔街频频传来“避开美股”警告声……](https://www.cls.cn/detail/2333333)
+- [【36kr】【焦点复盘】沪指缩量调整考验3900点，硬科技方向整体承压，猪肉概念异军突起](https://www.cls.cn/detail/2333532)
+- [【36kr】伊朗已向中国寻求安全保障？外交部回应](https://www.cls.cn/detail/2333337)
+- [【36kr】外交部谈特朗普涉伊朗言论：再次敦促当事方立即停止军事行动](https://www.cls.cn/detail/2333305)
+- [【36kr】事关中美经贸关系、Meta收购Manus，商务部发声](https://www.cls.cn/detail/2333286)
+- [【36kr】特朗普卖油表态遭分析师反驳：美国并没有那么多航空燃油！](https://www.cls.cn/detail/2333042)
+- [【36kr】美国AI又被电力设备“卡脖子”：今年近半数据中心受阻-开发商盯上二手变压器](https://www.cls.cn/detail/2333025)
+- [【36kr】快速停火期望破灭？特朗普演讲震动市场：原油、美元齐涨-亚太股市转跌](https://www.cls.cn/detail/2332994)
+- [【36kr】商业航天竞争加剧：亚马逊计划收购卫星公司-以与SpaceX星链竞争](https://www.cls.cn/detail/2332935)
 - [【36kr】国家烟草专卖局：拟对电子烟相关生产企业进行总量管理](https://www.cls.cn/detail/2332810)
+- [【36kr】特朗普9点将发表对伊重要讲话，还不忘放“烟雾弹”](https://www.cls.cn/detail/2332758)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
