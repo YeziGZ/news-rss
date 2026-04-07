@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-04-07 03:36:42。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-04-07 06:04:17。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -30,13 +30,13 @@
 - [【36kr】特朗普签名将出现在美国纸币上-苹果据传拟开放Siri接入更多模型-|-环球市场](https://www.cls.cn/detail/2326334)
 - [【36kr】什么情况？OpenAI-重大逆转：旗下Sora-AI视频应用将终止服务](https://www.cls.cn/detail/2323711)
 - [【36kr】一图看懂AI产业链哪些环节在涨价：算力、存储、大模型…...](https://www.cls.cn/detail/2318157)
-- [【36kr】宇树科技王兴兴：人形机器人今年年中跑赢人类，具身智能“ChatGPT时刻”还需2-3年](https://www.cls.cn/detail/2316519)
 - [【36kr】“小龙虾”爆火！黄仁勋最新断言：OpenClaw“绝对是下一个ChatGPT”](https://www.cls.cn/detail/2316213)
-- [【36kr】英伟达DLSS-5采用生成式AI提升游戏真实感-黄仁勋：图形技术领域的GPT时刻](https://www.cls.cn/detail/2314845)
+- [【36kr】宇树科技王兴兴：人形机器人今年年中跑赢人类，具身智能“ChatGPT时刻”还需2-3年](https://www.cls.cn/detail/2316519)
 - [【36kr】3月16日投资避雷针：315晚会曝光AI大模型被投毒-给AI投毒已成产业链](https://www.cls.cn/detail/2313556)
+- [【36kr】英伟达DLSS-5采用生成式AI提升游戏真实感-黄仁勋：图形技术领域的GPT时刻](https://www.cls.cn/detail/2314845)
 - [【36kr】“3·15”晚会：给AI大模型投毒已成产业链](https://www.cls.cn/detail/2313341)
-- [【36kr】AWE2026探展来了！大厂押注“物理AI”-大模型融入传统家电](https://www.cls.cn/detail/2311468)
 - [【36kr】2026AWE探营：家电AI化，大模型“养龙虾”，机器人、智能眼镜齐亮相](https://www.cls.cn/detail/2310365)
+- [【36kr】AWE2026探展来了！大厂押注“物理AI”-大模型融入传统家电](https://www.cls.cn/detail/2311468)
 - [【36kr】涨幅高达400%！腾讯云官宣AI模型调价-“龙虾”爆火或强化Token通胀](https://www.cls.cn/detail/2309524)
 - [【36kr】黄仁勋：对OpenAI的300亿美元投资“可能是最后一次”](https://www.cls.cn/detail/2303137)
 - [【36kr】OpenAI的“五角大楼时刻”？ChatGPT卸载量暴增近300%-一星评分飙升775%](https://www.cls.cn/detail/2300871)
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】中国储能企业出海进行时：订单高增叠加海外建厂潮](https://www.cls.cn/detail/2336012)
 - [【36kr】中国证监会短线交易新规今起施行](https://www.cls.cn/detail/2336160)
-- [【36kr】【早报】美伊收到停火协议方案；短线交易监管新规今起施行](https://www.cls.cn/detail/2335989)
-- [【36kr】特朗普：伊朗可在一夜内被击溃-或许就是7日晚上](https://www.cls.cn/detail/2335931)
-- [【36kr】专家：美伊达成临时停火面临多重现实障碍](https://www.cls.cn/detail/2335866)
-- [【36kr】伊朗最高领袖顾问警告：若美国再犯错-或将封锁曼德海峡](https://www.cls.cn/detail/2335661)
-- [【36kr】假期要闻汇总：特朗普称与伊朗协议有望在7日最后期限前达成；苹果首款折叠屏手机已在试产](https://www.cls.cn/detail/2335705)
-- [【36kr】特朗普：与伊朗协议有望达成-本周二将是“最终期限”](https://www.cls.cn/detail/2335633)
-- [【36kr】中东局势牵动市场-特朗普今夜新闻会！日韩股震荡上涨](https://www.cls.cn/detail/2335649)
-- [【36kr】A股短期见底了吗？十大券商策略来了](https://www.cls.cn/detail/2335817)
-- [【36kr】10个月飙涨120%！锂价来到十字路口-产业链公司如何应对？](https://www.cls.cn/detail/2335687)
-- [【36kr】全球首次实现！我国钠离子电池取得重大突破](https://www.cls.cn/detail/2335881)
-- [【36kr】霍尔木兹未完全封锁？分析师亲历前线调查：伊朗已建立“航行管理体系”](https://www.cls.cn/detail/2335900)
-- [【36kr】特朗普“最后期限”强压伊朗-国际油价基准双双跳涨](https://www.cls.cn/detail/2335954)
-- [【36kr】美股收盘：标普纳指连涨四天-存储概念走强希捷收新高](https://www.cls.cn/detail/2335967)
+- [【36kr】中国储能企业出海进行时：订单高增叠加海外建厂潮](https://www.cls.cn/detail/2336012)
+- [【36kr】内存价格要上天！三星Q1营利暴增八倍-Q2将再提价30%](https://www.cls.cn/detail/2336052)
 - [【36kr】特朗普：该由美国收霍尔木兹海峡“通行费”](https://www.cls.cn/detail/2335995)
-- [【36kr】应声20CM涨停！A股一季报行情打响，12家上市公司净利最高同比预增超200%](https://www.cls.cn/detail/2335507)
-- [【36kr】伊朗拒绝特朗普“48小时”通牒！华尔街紧绷：4月6日后会发生什么？](https://www.cls.cn/detail/2335478)
+- [【36kr】美股收盘：标普纳指连涨四天-存储概念走强希捷收新高](https://www.cls.cn/detail/2335967)
+- [【36kr】特朗普“最后期限”强压伊朗-国际油价基准双双跳涨](https://www.cls.cn/detail/2335954)
+- [【36kr】霍尔木兹未完全封锁？分析师亲历前线调查：伊朗已建立“航行管理体系”](https://www.cls.cn/detail/2335900)
+- [【36kr】全球首次实现！我国钠离子电池取得重大突破](https://www.cls.cn/detail/2335881)
+- [【36kr】10个月飙涨120%！锂价来到十字路口-产业链公司如何应对？](https://www.cls.cn/detail/2335687)
+- [【36kr】A股短期见底了吗？十大券商策略来了](https://www.cls.cn/detail/2335817)
+- [【36kr】中东局势牵动市场-特朗普今夜新闻会！日韩股震荡上涨](https://www.cls.cn/detail/2335649)
+- [【36kr】特朗普：与伊朗协议有望达成-本周二将是“最终期限”](https://www.cls.cn/detail/2335633)
+- [【36kr】假期要闻汇总：特朗普称与伊朗协议有望在7日最后期限前达成；苹果首款折叠屏手机已在试产](https://www.cls.cn/detail/2335705)
+- [【36kr】伊朗最高领袖顾问警告：若美国再犯错-或将封锁曼德海峡](https://www.cls.cn/detail/2335661)
+- [【36kr】专家：美伊达成临时停火面临多重现实障碍](https://www.cls.cn/detail/2335866)
+- [【36kr】特朗普：伊朗可在一夜内被击溃-或许就是7日晚上](https://www.cls.cn/detail/2335931)
+- [【36kr】【早报】美伊收到停火协议方案；短线交易监管新规今起施行](https://www.cls.cn/detail/2335989)
+- [【36kr】特朗普再发威胁：若伊朗不立即“投降”将打击民用设施-|-环球市场](https://www.cls.cn/detail/2335992)
 - [【36kr】【早报】特朗普暗示“最后期限”推迟1天，称有望于4月7日前达成协议](https://www.cls.cn/detail/2335621)
-- [【36kr】霍尔木兹航运追踪：海峡七天通航量创战后之最-首艘法国船只穿行](https://www.cls.cn/detail/2335447)
+- [【36kr】伊朗拒绝特朗普“48小时”通牒！华尔街紧绷：4月6日后会发生什么？](https://www.cls.cn/detail/2335478)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
