@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-04-23 23:11:56。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-04-24 00:07:31。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -24,10 +24,10 @@
 
 
 - [【36kr】OpenAI推出AI代理升级-可以“与你并肩操作你的电脑”](https://www.cls.cn/detail/2346818)
-- [【36kr】通用大模型直接接入股票行情数据，新的竞争信号来了？](https://www.cls.cn/detail/2345128)
 - [【36kr】特朗普禁令被绕过？Anthropic新模型魅力太大-美政府机构争相合作](https://www.cls.cn/detail/2344964)
-- [【36kr】英伟达推出面向量子计算的AI模型-全球量子科技产业加速发展](https://www.cls.cn/detail/2344233)
+- [【36kr】通用大模型直接接入股票行情数据，新的竞争信号来了？](https://www.cls.cn/detail/2345128)
 - [【36kr】英伟达发布全球首个开源量子人工智能模型-量子计算板块激昂大涨](https://www.cls.cn/detail/2344176)
+- [【36kr】英伟达推出面向量子计算的AI模型-全球量子科技产业加速发展](https://www.cls.cn/detail/2344233)
 - [【36kr】突发！OpenAI掌门奥尔特曼家差点被烧-本人愤怒发长文回应](https://www.cls.cn/detail/2341199)
 - [【36kr】神秘AI视频模型-“欢乐马”屠榜！背后团队来自阿里-预计一周后发布](https://www.cls.cn/detail/2340102)
 - [【36kr】错过张雪机车的重庆国资们-站上大模型与新能源的牌桌](https://www.cls.cn/detail/2333899)
@@ -37,12 +37,12 @@
 - [【36kr】特朗普签名将出现在美国纸币上-苹果据传拟开放Siri接入更多模型-|-环球市场](https://www.cls.cn/detail/2326334)
 - [【36kr】什么情况？OpenAI-重大逆转：旗下Sora-AI视频应用将终止服务](https://www.cls.cn/detail/2323711)
 - [【36kr】一图看懂AI产业链哪些环节在涨价：算力、存储、大模型…...](https://www.cls.cn/detail/2318157)
-- [【36kr】宇树科技王兴兴：人形机器人今年年中跑赢人类，具身智能“ChatGPT时刻”还需2-3年](https://www.cls.cn/detail/2316519)
 - [【36kr】“小龙虾”爆火！黄仁勋最新断言：OpenClaw“绝对是下一个ChatGPT”](https://www.cls.cn/detail/2316213)
-- [【36kr】英伟达DLSS-5采用生成式AI提升游戏真实感-黄仁勋：图形技术领域的GPT时刻](https://www.cls.cn/detail/2314845)
+- [【36kr】宇树科技王兴兴：人形机器人今年年中跑赢人类，具身智能“ChatGPT时刻”还需2-3年](https://www.cls.cn/detail/2316519)
 - [【36kr】3月16日投资避雷针：315晚会曝光AI大模型被投毒-给AI投毒已成产业链](https://www.cls.cn/detail/2313556)
+- [【36kr】英伟达DLSS-5采用生成式AI提升游戏真实感-黄仁勋：图形技术领域的GPT时刻](https://www.cls.cn/detail/2314845)
 - [【36kr】“3·15”晚会：给AI大模型投毒已成产业链](https://www.cls.cn/detail/2313341)
-- [【36kr】AWE2026探展来了！大厂押注“物理AI”-大模型融入传统家电](https://www.cls.cn/detail/2311468)
+- [【36kr】2026AWE探营：家电AI化，大模型“养龙虾”，机器人、智能眼镜齐亮相](https://www.cls.cn/detail/2310365)
 - [......【查看更多】......](/details/tags/aigc.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】美股收盘：中东局势不确定性升温叠加财报分化-三大指数震荡收跌](https://www.cls.cn/detail/2354164)
-- [【36kr】欧洲首富阿尔诺警告：若中东冲突得不到解决将引发“世界灾难”](https://www.cls.cn/detail/2353942)
-- [【36kr】莫高股份、财信发展、冀凯股份公告：将被实施退市风险警示](https://www.cls.cn/detail/2353930)
-- [【36kr】中东局势再搅市场-油价站上103美元-美股三大期指走低-|-今夜看点](https://www.cls.cn/detail/2353918)
-- [【36kr】张坤一季度调整重仓格局，茅台取代腾讯成头号重仓股，强调“已看到国内经济内生企稳的曙光”](https://www.cls.cn/detail/2353506)
-- [【36kr】【数据看盘】大族激光龙虎榜现机构与北向资金博弈-多路资金抢筹汇绿生态](https://www.cls.cn/detail/2353638)
-- [【36kr】【焦点复盘】沪指高开低走失守4100点，CPO概念现深幅调整，资金逆势抱团红利板块](https://www.cls.cn/detail/2353607)
-- [【36kr】【每日收评】三大指数放量收跌，绿电、煤炭等防御性板块走强，算力硬件股遭遇调整](https://www.cls.cn/detail/2353536)
-- [【36kr】美国务院要求美在伊朗公民立即离境](https://www.cls.cn/detail/2353107)
-- [【36kr】直击“新股王”源杰科技股东会：AI需求“指数级增长”-设备到场后产能将逐季释放](https://www.cls.cn/detail/2353083)
-- [【36kr】中国光学超材料取得新突破-为多尺度超材料研究及微纳光子学应用开辟了新路径](https://www.cls.cn/detail/2353200)
-- [【36kr】美伊局势追踪：特朗普放出“和谈时间表”又被拒-伊朗方面态度强硬](https://www.cls.cn/detail/2352936)
-- [【36kr】4月23日投资避雷针：10天6板玻璃基板人气股公告-一季度净亏损5110.30万元](https://www.cls.cn/detail/2352959)
-- [【36kr】SK海力士发布史上最强财报：营利同比增4倍-营业利润率飙升至72%](https://www.cls.cn/detail/2352970)
-- [【36kr】特斯拉财报会实录：今年资本开支将超250亿美元-Optimus会是史上最重要产品](https://www.cls.cn/detail/2353097)
-- [【36kr】霍尔木兹复航希望受挫！美伊海上对峙升级-美军称完成扫雷需6个月](https://www.cls.cn/detail/2353124)
-- [【36kr】大V转基金经理后首份季报，200万规模冲到14亿，规模起来了，业绩没跟上？](https://www.cls.cn/detail/2353227)
-- [【36kr】别因美伊停火太乐观？巴克莱：市场严重低估油气供应中断影响](https://www.cls.cn/detail/2353223)
-- [【36kr】年中亮相、今夏投产！特斯拉官宣第三代机器人时间表-硬件端有望全面升级](https://www.cls.cn/detail/2353290)
+- [【36kr】净利同比增长480%！350亿锂电池概念股发布一季报|盘后公告集锦](https://www.cls.cn/detail/2353924)
+- [【36kr】伊朗称已制定针对美方及其盟友的反击目标清单](https://www.cls.cn/detail/2354004)
+- [【36kr】特朗普：已下令美海军击沉任何在霍尔木兹海峡布雷的船只](https://www.cls.cn/detail/2354007)
+- [【36kr】内幕交易疑云再起？特朗普宣布延长停火前-神秘资金精准做空原油](https://www.cls.cn/detail/2353470)
+- [【36kr】倒计时一周！年报行情进入最后冲刺，七成个股实现盈利，这些标的获10倍增速](https://www.cls.cn/detail/2353659)
+- [【36kr】中共中央办公厅-国务院办公厅印发《碳达峰碳中和综合评价考核办法》](https://www.cls.cn/detail/2353653)
+- [【36kr】消费分析师“光，才是答案”刷屏，真小作文，假分析师](https://www.cls.cn/detail/2353429)
 - [【36kr】十倍“买路钱”！美伊战事冲击跨越半个地球：连巴拿马运河都堵上了](https://www.cls.cn/detail/2353362)
+- [【36kr】年中亮相、今夏投产！特斯拉官宣第三代机器人时间表-硬件端有望全面升级](https://www.cls.cn/detail/2353290)
+- [【36kr】别因美伊停火太乐观？巴克莱：市场严重低估油气供应中断影响](https://www.cls.cn/detail/2353223)
+- [【36kr】大V转基金经理后首份季报，200万规模冲到14亿，规模起来了，业绩没跟上？](https://www.cls.cn/detail/2353227)
+- [【36kr】霍尔木兹复航希望受挫！美伊海上对峙升级-美军称完成扫雷需6个月](https://www.cls.cn/detail/2353124)
+- [【36kr】特斯拉财报会实录：今年资本开支将超250亿美元-Optimus会是史上最重要产品](https://www.cls.cn/detail/2353097)
+- [【36kr】SK海力士发布史上最强财报：营利同比增4倍-营业利润率飙升至72%](https://www.cls.cn/detail/2352970)
+- [【36kr】4月23日投资避雷针：10天6板玻璃基板人气股公告-一季度净亏损5110.30万元](https://www.cls.cn/detail/2352959)
+- [【36kr】美伊局势追踪：特朗普放出“和谈时间表”又被拒-伊朗方面态度强硬](https://www.cls.cn/detail/2352936)
+- [【36kr】中国光学超材料取得新突破-为多尺度超材料研究及微纳光子学应用开辟了新路径](https://www.cls.cn/detail/2353200)
+- [【36kr】直击“新股王”源杰科技股东会：AI需求“指数级增长”-设备到场后产能将逐季释放](https://www.cls.cn/detail/2353083)
+- [【36kr】美国务院要求美在伊朗公民立即离境](https://www.cls.cn/detail/2353107)
+- [【36kr】【每日收评】三大指数放量收跌，绿电、煤炭等防御性板块走强，算力硬件股遭遇调整](https://www.cls.cn/detail/2353536)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
