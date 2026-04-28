@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-04-28 21:35:51。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-04-28 23:27:42。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -24,14 +24,15 @@
 
 
 - [【36kr】OpenAI增长疑云引发科技股回调-海合会召开特别峰会-|-今夜看点](https://www.cls.cn/detail/2358592)
+- [【36kr】美股收盘：OpenAI相关股票承压-三大指数集体下跌](https://www.cls.cn/detail/2358855)
 - [【36kr】费城半导体指数挑战19连涨-OpenAI“自研手机”消息震动市场-|-今夜看点](https://www.cls.cn/detail/2357129)
-- [【36kr】罚没已超33亿，证监会新一轮打击财务造假，强化财务舞弊监管AI大模型应用](https://www.cls.cn/detail/2355166)
 - [【36kr】OpenAI深夜王炸！GPT-5.5正式发布：更会编程和使用计算机的最强模型](https://www.cls.cn/detail/2354272)
+- [【36kr】罚没已超33亿，证监会新一轮打击财务造假，强化财务舞弊监管AI大模型应用](https://www.cls.cn/detail/2355166)
 - [【36kr】OpenAI推出AI代理升级-可以“与你并肩操作你的电脑”](https://www.cls.cn/detail/2346818)
-- [【36kr】通用大模型直接接入股票行情数据，新的竞争信号来了？](https://www.cls.cn/detail/2345128)
 - [【36kr】特朗普禁令被绕过？Anthropic新模型魅力太大-美政府机构争相合作](https://www.cls.cn/detail/2344964)
-- [【36kr】英伟达推出面向量子计算的AI模型-全球量子科技产业加速发展](https://www.cls.cn/detail/2344233)
+- [【36kr】通用大模型直接接入股票行情数据，新的竞争信号来了？](https://www.cls.cn/detail/2345128)
 - [【36kr】英伟达发布全球首个开源量子人工智能模型-量子计算板块激昂大涨](https://www.cls.cn/detail/2344176)
+- [【36kr】英伟达推出面向量子计算的AI模型-全球量子科技产业加速发展](https://www.cls.cn/detail/2344233)
 - [【36kr】突发！OpenAI掌门奥尔特曼家差点被烧-本人愤怒发长文回应](https://www.cls.cn/detail/2341199)
 - [【36kr】神秘AI视频模型-“欢乐马”屠榜！背后团队来自阿里-预计一周后发布](https://www.cls.cn/detail/2340102)
 - [【36kr】错过张雪机车的重庆国资们-站上大模型与新能源的牌桌](https://www.cls.cn/detail/2333899)
@@ -41,7 +42,6 @@
 - [【36kr】特朗普签名将出现在美国纸币上-苹果据传拟开放Siri接入更多模型-|-环球市场](https://www.cls.cn/detail/2326334)
 - [【36kr】什么情况？OpenAI-重大逆转：旗下Sora-AI视频应用将终止服务](https://www.cls.cn/detail/2323711)
 - [【36kr】一图看懂AI产业链哪些环节在涨价：算力、存储、大模型…...](https://www.cls.cn/detail/2318157)
-- [【36kr】宇树科技王兴兴：人形机器人今年年中跑赢人类，具身智能“ChatGPT时刻”还需2-3年](https://www.cls.cn/detail/2316519)
 - [【36kr】“小龙虾”爆火！黄仁勋最新断言：OpenClaw“绝对是下一个ChatGPT”](https://www.cls.cn/detail/2316213)
 - [......【查看更多】......](/details/tags/aigc.md)
 
@@ -59,26 +59,26 @@
 
 
 
-- [【36kr】伊朗革命卫队称永久管理霍尔木兹](https://www.cls.cn/detail/2358681)
-- [【36kr】独家|广东唯一非国资控股城商行或将迎国资新股东](https://www.cls.cn/detail/2358264)
-- [【36kr】昔日“彩电一哥”巨亏125亿，将被实施退市风险警示](https://www.cls.cn/detail/2358499)
-- [【36kr】牛散章建平最新持仓曝光：一季度现身4股十大股东，新进3股](https://www.cls.cn/detail/2358442)
-- [【36kr】我国自2026年5月1日起对所有非洲建交国实施零关税](https://www.cls.cn/detail/2358389)
-- [【36kr】中科宇航火箭超级工厂投产-商业液体火箭产能竞速升温](https://www.cls.cn/detail/2358055)
-- [【36kr】中央政治局会议重磅定调！事关扩大内需、人工智能、房地产市场](https://www.cls.cn/detail/2357874)
-- [【36kr】达里奥：美伊战争“改写”货币定义，黄金或成“终极避险选项”！](https://www.cls.cn/detail/2357820)
-- [【36kr】中共中央政治局召开会议-分析研究当前经济形势和经济工作-中共中央总书记习近平主持会议](https://www.cls.cn/detail/2357832)
-- [【36kr】日本央行决议罕见上演十年来最大分歧：多达三位反对票官员支持加息！](https://www.cls.cn/detail/2357809)
-- [【36kr】第一艘冲出霍尔木兹海峡的LNG船？阿联酋一船只已抵达印度附近](https://www.cls.cn/detail/2357643)
-- [【36kr】“二倍速”推进扩产！台积电将有五座2nm厂进入爬坡-创历年之最](https://www.cls.cn/detail/2357579)
-- [【36kr】战损曝光！中东战火下美军事资产“损失惨重”-五角大楼试图掩盖成本引质疑](https://www.cls.cn/detail/2357606)
-- [【36kr】市值突破800亿港元！全球AI硅光芯片第一股，何以落在上海？|聚焦](https://www.cls.cn/detail/2357610)
-- [【36kr】美股三大存储股齐刷新高！分析师：存储强劲需求料持续至2030年](https://www.cls.cn/detail/2357471)
-- [【36kr】事关霍尔木兹！伊朗提出“重开新方案”-白宫证实特朗普与团队讨论](https://www.cls.cn/detail/2357460)
-- [【36kr】国安部披露：某境外组织大力资助“躺平网红”](https://www.cls.cn/detail/2357463)
-- [【36kr】4月28日投资避雷针：联翔股份、湘邮科技等11股明起将被实施ST](https://www.cls.cn/detail/2357477)
-- [【36kr】“AI光算力第一股”来了！上海曦智科技今登陆港交所-全球知名机构争做基石投资者](https://www.cls.cn/detail/2357540)
+- [【36kr】推迟披露-五粮液财报为何临时-“踩刹车”？](https://www.cls.cn/detail/2358765)
+- [【36kr】突发！阿联酋宣布退出欧佩克和欧佩克+](https://www.cls.cn/detail/2358641)
+- [【36kr】净利同比增长近40%！3000亿PCB龙头发布一季报|盘后公告集锦](https://www.cls.cn/detail/2358586)
+- [【36kr】未盈利第三单，湾区“H回A”首单，越疆科技闯关创业板](https://www.cls.cn/detail/2358554)
+- [【36kr】美国务卿鲁比奥：伊朗将霍尔木兹海峡当作"经济核武器"](https://www.cls.cn/detail/2358468)
+- [【36kr】13家上市银行一季报率先亮相，营收最高增长42%，资产负债双优化助推息差企稳](https://www.cls.cn/detail/2358393)
+- [【36kr】网信部门依法查处“剪映”App等生成合成内容标识违法问题网站平台](https://www.cls.cn/detail/2358231)
+- [【36kr】【数据看盘】多家机构激烈博弈铜箔人气股-游资联手量化资金抢筹综艺股份](https://www.cls.cn/detail/2358304)
+- [【36kr】重登“股王”宝座！源杰科技频获融资客加仓，这两大千元股也正紧随](https://www.cls.cn/detail/2358284)
+- [【36kr】【焦点复盘】创业板指4连阴失守10日线，资金连续热捧氦气概念，“股王”宝座盘中反复易主](https://www.cls.cn/detail/2358265)
+- [【36kr】从巨亏319亿到净利293亿-*ST金科如何一年内实现财务“大逆转”？](https://www.cls.cn/detail/2358200)
+- [【36kr】【每日收评】深成指与创业板指双双跌超1%，煤炭、医药等防御性板块逆势活跃，工业气体概念持续爆发](https://www.cls.cn/detail/2358189)
+- [【36kr】工信部：将开展“人工智能+软件”专项行动，加快智能编程研发应用](https://www.cls.cn/detail/2358127)
+- [【36kr】外资收购Manus项目被禁止，外交部：中国政府依法依规审查并作出决定](https://www.cls.cn/detail/2358019)
+- [【36kr】伊朗储油能力即将达到极限-减产或永久性损害油田产能](https://www.cls.cn/detail/2357977)
+- [【36kr】美伊分歧难弥合！美官员：特朗普“不喜欢”伊朗新提案-核问题须优先解决](https://www.cls.cn/detail/2357692)
 - [【36kr】广东发布十五五规划纲要，事关AI、商业航天、光伏等](https://www.cls.cn/detail/2357658)
+- [【36kr】“AI光算力第一股”来了！上海曦智科技今登陆港交所-全球知名机构争做基石投资者](https://www.cls.cn/detail/2357540)
+- [【36kr】4月28日投资避雷针：联翔股份、湘邮科技等11股明起将被实施ST](https://www.cls.cn/detail/2357477)
+- [【36kr】国安部披露：某境外组织大力资助“躺平网红”](https://www.cls.cn/detail/2357463)
 - [......【查看更多】......](/details/tags/media.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
